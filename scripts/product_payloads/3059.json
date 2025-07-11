@@ -1,0 +1,1158 @@
+{
+  "id": 8616611643580,
+  "title": "3059 - Armor Ink Cut-Off",
+  "handle": "3059",
+  "description": "<p><strong>MATERIAL: </strong>100% Cotton.</p>\n<p><strong>FABRIC WEIGHT: </strong>290 GSM.</p>\n<p><strong>FIT:<span> </span></strong>True to Size.</p>\n<p><strong>DESIGN: </strong>Push limits in the Armor Ink Cut-Offs. Made from soft yet sturdy cotton, this sleeveless tee offers unrestricted movement and a bold shoulder graphic for that extra edge\u2014whether you're hitting the gym or the street.</p>\n<p><strong>MODEL: </strong>The model in the first photo is wearing a size Medium. Weight 185lb Height 5'11.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/3059-Size-Chart_dcd4a34e-ee56-4050-b46a-84795e45e6f9_600x600.png?v=1739824465\" style=\"margin-bottom: 16px; float: none;\"></div>",
+  "published_at": "2025-05-23T10:59:52-07:00",
+  "created_at": "2024-11-06T11:53:59-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 3500,
+  "price_min": 3500,
+  "price_max": 3500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44249405817020,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3059-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862113980,
+        "product_id": 8616611643580,
+        "position": 7,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405817020,
+          44249405849788,
+          44249405882556,
+          44249405915324,
+          44249405948092
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459956924,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249405849788,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3059-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862113980,
+        "product_id": 8616611643580,
+        "position": 7,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405817020,
+          44249405849788,
+          44249405882556,
+          44249405915324,
+          44249405948092
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459956924,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249405882556,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3059-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862113980,
+        "product_id": 8616611643580,
+        "position": 7,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405817020,
+          44249405849788,
+          44249405882556,
+          44249405915324,
+          44249405948092
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459956924,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249405915324,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3059-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862113980,
+        "product_id": 8616611643580,
+        "position": 7,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405817020,
+          44249405849788,
+          44249405882556,
+          44249405915324,
+          44249405948092
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459956924,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249405948092,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3059-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862113980,
+        "product_id": 8616611643580,
+        "position": 7,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405817020,
+          44249405849788,
+          44249405882556,
+          44249405915324,
+          44249405948092
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459956924,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249405980860,
+      "title": "Grey Wash / Small",
+      "option1": "Grey Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3059-GRYW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862277820,
+        "product_id": 8616611643580,
+        "position": 9,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405980860,
+          44249406013628,
+          44249406046396,
+          44249406079164,
+          44249406111932
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Grey Wash / Small",
+      "public_title": "Grey Wash / Small",
+      "options": [
+        "Grey Wash",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-GRYW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459989692,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406013628,
+      "title": "Grey Wash / Medium",
+      "option1": "Grey Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3059-GRYW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862277820,
+        "product_id": 8616611643580,
+        "position": 9,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405980860,
+          44249406013628,
+          44249406046396,
+          44249406079164,
+          44249406111932
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Grey Wash / Medium",
+      "public_title": "Grey Wash / Medium",
+      "options": [
+        "Grey Wash",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-GRYW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459989692,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406046396,
+      "title": "Grey Wash / Large",
+      "option1": "Grey Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3059-GRYW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862277820,
+        "product_id": 8616611643580,
+        "position": 9,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405980860,
+          44249406013628,
+          44249406046396,
+          44249406079164,
+          44249406111932
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Grey Wash / Large",
+      "public_title": "Grey Wash / Large",
+      "options": [
+        "Grey Wash",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-GRYW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459989692,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406079164,
+      "title": "Grey Wash / XLarge",
+      "option1": "Grey Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3059-GRYW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862277820,
+        "product_id": 8616611643580,
+        "position": 9,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405980860,
+          44249406013628,
+          44249406046396,
+          44249406079164,
+          44249406111932
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Grey Wash / XLarge",
+      "public_title": "Grey Wash / XLarge",
+      "options": [
+        "Grey Wash",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-GRYW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459989692,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406111932,
+      "title": "Grey Wash / XXLarge",
+      "option1": "Grey Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3059-GRYW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862277820,
+        "product_id": 8616611643580,
+        "position": 9,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249405980860,
+          44249406013628,
+          44249406046396,
+          44249406079164,
+          44249406111932
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Grey Wash / XXLarge",
+      "public_title": "Grey Wash / XXLarge",
+      "options": [
+        "Grey Wash",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-GRYW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459989692,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406144700,
+      "title": "Red Wash / Small",
+      "option1": "Red Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3059-REDW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862212284,
+        "product_id": 8616611643580,
+        "position": 8,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249406144700,
+          44249406177468,
+          44249406210236,
+          44249406243004,
+          44249406275772
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Red Wash / Small",
+      "public_title": "Red Wash / Small",
+      "options": [
+        "Red Wash",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-REDW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459924156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406177468,
+      "title": "Red Wash / Medium",
+      "option1": "Red Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3059-REDW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862212284,
+        "product_id": 8616611643580,
+        "position": 8,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249406144700,
+          44249406177468,
+          44249406210236,
+          44249406243004,
+          44249406275772
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Red Wash / Medium",
+      "public_title": "Red Wash / Medium",
+      "options": [
+        "Red Wash",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-REDW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459924156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406210236,
+      "title": "Red Wash / Large",
+      "option1": "Red Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3059-REDW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862212284,
+        "product_id": 8616611643580,
+        "position": 8,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249406144700,
+          44249406177468,
+          44249406210236,
+          44249406243004,
+          44249406275772
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Red Wash / Large",
+      "public_title": "Red Wash / Large",
+      "options": [
+        "Red Wash",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-REDW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459924156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406243004,
+      "title": "Red Wash / XLarge",
+      "option1": "Red Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3059-REDW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862212284,
+        "product_id": 8616611643580,
+        "position": 8,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249406144700,
+          44249406177468,
+          44249406210236,
+          44249406243004,
+          44249406275772
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Red Wash / XLarge",
+      "public_title": "Red Wash / XLarge",
+      "options": [
+        "Red Wash",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-REDW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459924156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249406275772,
+      "title": "Red Wash / XXLarge",
+      "option1": "Red Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3059-REDW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42616862212284,
+        "product_id": 8616611643580,
+        "position": 8,
+        "created_at": "2025-05-21T11:08:50-07:00",
+        "updated_at": "2025-06-04T11:40:29-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429",
+        "variant_ids": [
+          44249406144700,
+          44249406177468,
+          44249406210236,
+          44249406243004,
+          44249406275772
+        ]
+      },
+      "available": true,
+      "name": "3059 - Armor Ink Cut-Off - Red Wash / XXLarge",
+      "public_title": "Red Wash / XXLarge",
+      "options": [
+        "Red Wash",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3059-REDW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147459924156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_009_06_04_deek_ecomm.jpg?v=1748028538",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4024.jpg?v=1748388535",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A3978.jpg?v=1748887755",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.93.jpg?v=1749062432",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA533.8_aced955e-2141-42d9-bc14-0bc3aff3ad34.jpg?v=1749065354",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_003_06_04_johnny_ecomm.jpg?v=1749062429",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3059-Size-Chart.png?v=1749062429"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_009_06_04_deek_ecomm.jpg?v=1748028538",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Grey Wash",
+        "Red Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/3059",
+  "media": [
+    {
+      "alt": null,
+      "id": 34178913468604,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_009_06_04_deek_ecomm.jpg?v=1748028538"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_009_06_04_deek_ecomm.jpg?v=1748028538",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217488744636,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 1469,
+        "width": 979,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4024.jpg?v=1748388535"
+      },
+      "aspect_ratio": 0.666,
+      "height": 1469,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4024.jpg?v=1748388535",
+      "width": 979
+    },
+    {
+      "alt": null,
+      "id": 34275258892476,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/24edabcb58ce4470a45b9bf4cc5956bc.thumbnail.0000000000.jpg?v=1748887753"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 30000,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/24edabcb58ce4470a45b9bf4cc5956bc/24edabcb58ce4470a45b9bf4cc5956bc.SD-480p-1.5Mbps-48680030.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/24edabcb58ce4470a45b9bf4cc5956bc/24edabcb58ce4470a45b9bf4cc5956bc.HD-1080p-7.2Mbps-48680030.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/24edabcb58ce4470a45b9bf4cc5956bc/24edabcb58ce4470a45b9bf4cc5956bc.HD-720p-4.5Mbps-48680030.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/24edabcb58ce4470a45b9bf4cc5956bc/24edabcb58ce4470a45b9bf4cc5956bc.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 34217488842940,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 1235,
+        "width": 823,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A3978.jpg?v=1748887755"
+      },
+      "aspect_ratio": 0.666,
+      "height": 1235,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A3978.jpg?v=1748887755",
+      "width": 823
+    },
+    {
+      "alt": null,
+      "id": 34217488810172,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2334,
+        "width": 1556,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.93.jpg?v=1749062432"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2334,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.93.jpg?v=1749062432",
+      "width": 1556
+    },
+    {
+      "alt": null,
+      "id": 34327627792572,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2254,
+        "width": 1503,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA533.8_aced955e-2141-42d9-bc14-0bc3aff3ad34.jpg?v=1749065354"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA533.8_aced955e-2141-42d9-bc14-0bc3aff3ad34.jpg?v=1749065354",
+      "width": 1503
+    },
+    {
+      "alt": null,
+      "id": 34178913501372,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_003_06_04_johnny_ecomm.jpg?v=1749062429"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_003_06_04_johnny_ecomm.jpg?v=1749062429",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147459956924,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_black-wash_001_06_04_floor.jpg?v=1749062429",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147459924156,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_red-wash_001_06_04_floor.jpg?v=1749062429",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147459989692,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059_grey-wash_001_06_04_floor.jpg?v=1749062429",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33179349254332,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059-Size-Chart.png?v=1749062429"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3059-Size-Chart.png?v=1749062429",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,1471 @@
+{
+  "id": 8662618177724,
+  "title": "4073 - Cyclone Jersey",
+  "handle": "4073",
+  "description": "<p><strong>MATERIAL: </strong>100% Polyester.</p>\n<p><strong>FABRIC WEIGHT: </strong>200 GSM.</p>\n<p><strong>FIT: </strong>Relaxed.\u00a0</p>\n<p><strong>DESIGN: </strong>Own the chaos in the Cyclone Jersey \u2014 a bold, all-polyester mesh piece built for comfort and statement-making style. Breathable, lightweight, and unapologetically raw.</p>\n<p><strong>MODEL:</strong> The model in the first photo is wearing a size Large. Weight: 185lb Height: 5'11.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4073-Size-Chart_85f5dfb2-36f4-40c4-a2bb-0355a0f08a35_600x600.png?v=1744820841\"></div>",
+  "published_at": "2025-05-23T10:59:53-07:00",
+  "created_at": "2024-12-06T15:47:49-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "Danny",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3600,
+  "price_min": 3600,
+  "price_max": 3600,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44379918106812,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4073-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582605500,
+        "product_id": 8662618177724,
+        "position": 9,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342",
+        "variant_ids": [
+          44379918106812,
+          44379918139580,
+          44379918172348,
+          44379918205116,
+          44379918237884
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480060604,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918139580,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4073-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582605500,
+        "product_id": 8662618177724,
+        "position": 9,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342",
+        "variant_ids": [
+          44379918106812,
+          44379918139580,
+          44379918172348,
+          44379918205116,
+          44379918237884
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480060604,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918172348,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4073-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582605500,
+        "product_id": 8662618177724,
+        "position": 9,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342",
+        "variant_ids": [
+          44379918106812,
+          44379918139580,
+          44379918172348,
+          44379918205116,
+          44379918237884
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480060604,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918205116,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4073-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582605500,
+        "product_id": 8662618177724,
+        "position": 9,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342",
+        "variant_ids": [
+          44379918106812,
+          44379918139580,
+          44379918172348,
+          44379918205116,
+          44379918237884
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480060604,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918237884,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4073-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582605500,
+        "product_id": 8662618177724,
+        "position": 9,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342",
+        "variant_ids": [
+          44379918106812,
+          44379918139580,
+          44379918172348,
+          44379918205116,
+          44379918237884
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480060604,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918270652,
+      "title": "Burgundy / Small",
+      "option1": "Burgundy",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4073-BURG-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582539964,
+        "product_id": 8662618177724,
+        "position": 10,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344",
+        "variant_ids": [
+          44379918270652,
+          44379918303420,
+          44379918336188,
+          44379918368956,
+          44379918401724
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Burgundy / Small",
+      "public_title": "Burgundy / Small",
+      "options": [
+        "Burgundy",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BURG-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480322748,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918303420,
+      "title": "Burgundy / Medium",
+      "option1": "Burgundy",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4073-BURG-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582539964,
+        "product_id": 8662618177724,
+        "position": 10,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344",
+        "variant_ids": [
+          44379918270652,
+          44379918303420,
+          44379918336188,
+          44379918368956,
+          44379918401724
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Burgundy / Medium",
+      "public_title": "Burgundy / Medium",
+      "options": [
+        "Burgundy",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BURG-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480322748,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918336188,
+      "title": "Burgundy / Large",
+      "option1": "Burgundy",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4073-BURG-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582539964,
+        "product_id": 8662618177724,
+        "position": 10,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344",
+        "variant_ids": [
+          44379918270652,
+          44379918303420,
+          44379918336188,
+          44379918368956,
+          44379918401724
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Burgundy / Large",
+      "public_title": "Burgundy / Large",
+      "options": [
+        "Burgundy",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BURG-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480322748,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918368956,
+      "title": "Burgundy / XLarge",
+      "option1": "Burgundy",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4073-BURG-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582539964,
+        "product_id": 8662618177724,
+        "position": 10,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344",
+        "variant_ids": [
+          44379918270652,
+          44379918303420,
+          44379918336188,
+          44379918368956,
+          44379918401724
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Burgundy / XLarge",
+      "public_title": "Burgundy / XLarge",
+      "options": [
+        "Burgundy",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BURG-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480322748,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918401724,
+      "title": "Burgundy / XXLarge",
+      "option1": "Burgundy",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4073-BURG-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582539964,
+        "product_id": 8662618177724,
+        "position": 10,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344",
+        "variant_ids": [
+          44379918270652,
+          44379918303420,
+          44379918336188,
+          44379918368956,
+          44379918401724
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Burgundy / XXLarge",
+      "public_title": "Burgundy / XXLarge",
+      "options": [
+        "Burgundy",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-BURG-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480322748,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44553070149820,
+      "title": "Dark Tree Camo / Small",
+      "option1": "Dark Tree Camo",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4073-DTREEC-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582474428,
+        "product_id": 8662618177724,
+        "position": 7,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347",
+        "variant_ids": [
+          44553070149820,
+          44553070182588,
+          44553070215356,
+          44553070248124,
+          44553070280892
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Dark Tree Camo / Small",
+      "public_title": "Dark Tree Camo / Small",
+      "options": [
+        "Dark Tree Camo",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-DTREEC-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480388284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44553070182588,
+      "title": "Dark Tree Camo / Medium",
+      "option1": "Dark Tree Camo",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4073-DTREEC-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582474428,
+        "product_id": 8662618177724,
+        "position": 7,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347",
+        "variant_ids": [
+          44553070149820,
+          44553070182588,
+          44553070215356,
+          44553070248124,
+          44553070280892
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Dark Tree Camo / Medium",
+      "public_title": "Dark Tree Camo / Medium",
+      "options": [
+        "Dark Tree Camo",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-DTREEC-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480388284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44553070215356,
+      "title": "Dark Tree Camo / Large",
+      "option1": "Dark Tree Camo",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4073-DTREEC-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582474428,
+        "product_id": 8662618177724,
+        "position": 7,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347",
+        "variant_ids": [
+          44553070149820,
+          44553070182588,
+          44553070215356,
+          44553070248124,
+          44553070280892
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Dark Tree Camo / Large",
+      "public_title": "Dark Tree Camo / Large",
+      "options": [
+        "Dark Tree Camo",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-DTREEC-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480388284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44553070248124,
+      "title": "Dark Tree Camo / XLarge",
+      "option1": "Dark Tree Camo",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4073-DTREEC-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582474428,
+        "product_id": 8662618177724,
+        "position": 7,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347",
+        "variant_ids": [
+          44553070149820,
+          44553070182588,
+          44553070215356,
+          44553070248124,
+          44553070280892
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Dark Tree Camo / XLarge",
+      "public_title": "Dark Tree Camo / XLarge",
+      "options": [
+        "Dark Tree Camo",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-DTREEC-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480388284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44553070280892,
+      "title": "Dark Tree Camo / XXLarge",
+      "option1": "Dark Tree Camo",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4073-DTREEC-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582474428,
+        "product_id": 8662618177724,
+        "position": 7,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347",
+        "variant_ids": [
+          44553070149820,
+          44553070182588,
+          44553070215356,
+          44553070248124,
+          44553070280892
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Dark Tree Camo / XXLarge",
+      "public_title": "Dark Tree Camo / XXLarge",
+      "options": [
+        "Dark Tree Camo",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-DTREEC-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480388284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918434492,
+      "title": "Off-White / Small",
+      "option1": "Off-White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4073-OWHT-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582507196,
+        "product_id": 8662618177724,
+        "position": 8,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340",
+        "variant_ids": [
+          44379918434492,
+          44379918467260,
+          44379918500028,
+          44379918532796,
+          44379918565564
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Off-White / Small",
+      "public_title": "Off-White / Small",
+      "options": [
+        "Off-White",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-OWHT-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480027836,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918467260,
+      "title": "Off-White / Medium",
+      "option1": "Off-White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4073-OWHT-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582507196,
+        "product_id": 8662618177724,
+        "position": 8,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340",
+        "variant_ids": [
+          44379918434492,
+          44379918467260,
+          44379918500028,
+          44379918532796,
+          44379918565564
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Off-White / Medium",
+      "public_title": "Off-White / Medium",
+      "options": [
+        "Off-White",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-OWHT-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480027836,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918500028,
+      "title": "Off-White / Large",
+      "option1": "Off-White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4073-OWHT-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582507196,
+        "product_id": 8662618177724,
+        "position": 8,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340",
+        "variant_ids": [
+          44379918434492,
+          44379918467260,
+          44379918500028,
+          44379918532796,
+          44379918565564
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Off-White / Large",
+      "public_title": "Off-White / Large",
+      "options": [
+        "Off-White",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-OWHT-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480027836,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918532796,
+      "title": "Off-White / XLarge",
+      "option1": "Off-White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4073-OWHT-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582507196,
+        "product_id": 8662618177724,
+        "position": 8,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340",
+        "variant_ids": [
+          44379918434492,
+          44379918467260,
+          44379918500028,
+          44379918532796,
+          44379918565564
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Off-White / XLarge",
+      "public_title": "Off-White / XLarge",
+      "options": [
+        "Off-White",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-OWHT-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480027836,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44379918565564,
+      "title": "Off-White / XXLarge",
+      "option1": "Off-White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4073-OWHT-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42903582507196,
+        "product_id": 8662618177724,
+        "position": 8,
+        "created_at": "2025-06-04T11:06:02-07:00",
+        "updated_at": "2025-06-04T12:29:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340",
+        "variant_ids": [
+          44379918434492,
+          44379918467260,
+          44379918500028,
+          44379918532796,
+          44379918565564
+        ]
+      },
+      "available": true,
+      "name": "4073 - Cyclone Jersey - Off-White / XXLarge",
+      "public_title": "Off-White / XXLarge",
+      "options": [
+        "Off-White",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4073-OWHT-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34326480027836,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A3938.jpg?v=1748388531",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A3937.jpg?v=1748388530",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8.jpg?v=1749059378",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8_ce55d743-c3a0-44bb-9dd0-64c0d0387c8b.jpg?v=1749065334",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4073_black_0010_06_04_deek_ecomm_dc77f624-95ec-4550-af24-9cc71e67bad3.jpg?v=1749065342",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4073_black_0012_06_04_deek_ecomm_5d531f2a-76fb-47e3-9a6d-fc472246c6fc.jpg?v=1749065343",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4073-Size-Chart.png?v=1749060370"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/323A3938.jpg?v=1748388531",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Burgundy",
+        "Dark Tree Camo",
+        "Off-White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4073",
+  "media": [
+    {
+      "alt": null,
+      "id": 34217462268092,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1240,
+        "width": 827,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A3938.jpg?v=1748388531"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1240,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A3938.jpg?v=1748388531",
+      "width": 827
+    },
+    {
+      "alt": null,
+      "id": 34217462235324,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1234,
+        "width": 823,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A3937.jpg?v=1748388530"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1234,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A3937.jpg?v=1748388530",
+      "width": 823
+    },
+    {
+      "alt": null,
+      "id": 34326019440828,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/9344d5aab19743babe90ea6f262ebe81.thumbnail.0000000000.jpg?v=1749059381"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 27630,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/9344d5aab19743babe90ea6f262ebe81/9344d5aab19743babe90ea6f262ebe81.SD-480p-1.5Mbps-48824388.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/9344d5aab19743babe90ea6f262ebe81/9344d5aab19743babe90ea6f262ebe81.HD-1080p-7.2Mbps-48824388.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/9344d5aab19743babe90ea6f262ebe81/9344d5aab19743babe90ea6f262ebe81.HD-720p-4.5Mbps-48824388.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/9344d5aab19743babe90ea6f262ebe81/9344d5aab19743babe90ea6f262ebe81.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 34217462202556,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2208,
+        "width": 1472,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8.jpg?v=1749059378"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2208,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8.jpg?v=1749059378",
+      "width": 1472
+    },
+    {
+      "alt": null,
+      "id": 34326369730748,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2234,
+        "width": 1489,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8_ce55d743-c3a0-44bb-9dd0-64c0d0387c8b.jpg?v=1749065334"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2234,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8_ce55d743-c3a0-44bb-9dd0-64c0d0387c8b.jpg?v=1749065334",
+      "width": 1489
+    },
+    {
+      "alt": null,
+      "id": 34326316286140,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_0010_06_04_deek_ecomm_dc77f624-95ec-4550-af24-9cc71e67bad3.jpg?v=1749065342"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_0010_06_04_deek_ecomm_dc77f624-95ec-4550-af24-9cc71e67bad3.jpg?v=1749065342",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34326316253372,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_0012_06_04_deek_ecomm_5d531f2a-76fb-47e3-9a6d-fc472246c6fc.jpg?v=1749065343"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_0012_06_04_deek_ecomm_5d531f2a-76fb-47e3-9a6d-fc472246c6fc.jpg?v=1749065343",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34326480388284,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_dark-tree-camo_003_06_04_floor.jpg?v=1749065347",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34326480027836,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_off-white_003_06_04_floor.jpg?v=1749065340",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34326480060604,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_black_003_06_04_floor.jpg?v=1749065342",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34326480322748,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073_burgundy_003_06_04_floor.jpg?v=1749065344",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33835009409212,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073-Size-Chart.png?v=1749060370"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4073-Size-Chart.png?v=1749060370",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

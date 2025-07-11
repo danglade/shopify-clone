@@ -3,6 +3,9 @@
 import { useState, useEffect } from "react";
 import Image from "next/image";
 import { Product, Variant } from "@/db/schema";
+import Lightbox from "yet-another-react-lightbox";
+import Zoom from "yet-another-react-lightbox/plugins/zoom";
+import "yet-another-react-lightbox/styles.css";
 
 type ProductImageGalleryProps = {
   product: Product & { variants: Variant[] };
@@ -16,6 +19,7 @@ export default function ProductImageGallery({
   const [selectedImage, setSelectedImage] = useState(
     selectedVariant?.image || product.images?.[0]?.url || null
   );
+  const [open, setOpen] = useState(false);
 
   useEffect(() => {
     if (selectedVariant?.image) {
@@ -34,6 +38,10 @@ export default function ProductImageGallery({
   
   const uniqueImages = Array.from(new Set(allImages));
 
+  const slides = uniqueImages.map((url) => ({
+    src: url?.startsWith("//") ? `https:${url}` : url ?? "",
+  }));
+
   const currentImage = selectedImage && uniqueImages.includes(selectedImage) 
     ? selectedImage 
     : uniqueImages[0] ?? null;
@@ -42,17 +50,23 @@ export default function ProductImageGallery({
     <div>
       <div className="aspect-square rounded-lg bg-gray-200 overflow-hidden mb-4">
         {currentImage ? (
-          <Image
-            src={
-              currentImage.startsWith("//")
+          <button
+            type="button"
+            className="w-full h-full cursor-zoom-in"
+            onClick={() => setOpen(true)}
+          >
+            <Image
+              src={
+                currentImage.startsWith("//")
                 ? `https:${currentImage}`
                 : currentImage
-            }
-            alt={product.name ?? "Product image"}
-            width={800}
-            height={800}
-            className="w-full h-full object-cover"
-          />
+              }
+              alt={product.name ?? "Product image"}
+              width={800}
+              height={800}
+              className="w-full h-full object-cover"
+            />
+          </button>
         ) : (
           <div className="h-full w-full bg-gray-300 flex items-center justify-center">
             <span className="text-gray-500">No Image</span>
@@ -86,6 +100,12 @@ export default function ProductImageGallery({
           );
         })}
       </div>
+      <Lightbox
+        open={open}
+        close={() => setOpen(false)}
+        slides={slides}
+        plugins={[Zoom]}
+      />
     </div>
   );
 } 

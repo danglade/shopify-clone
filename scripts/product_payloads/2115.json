@@ -1,0 +1,1767 @@
+{
+  "id": 8448987726012,
+  "title": "2115 - Timeless Sweats",
+  "handle": "2115",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL: </strong>75% Cotton, 25% Polyester. Fleece.</p>\n<p class=\"MsoNormal\"><strong>FABRIC WEIGHT:</strong> 370 GSM.</p>\n<p class=\"MsoNormal\"><strong>FIT: </strong>Baggy.</p>\n<p class=\"MsoNormal\"><strong>DESIGN: </strong>The Timeless Sweats are designed for ultimate versatility, made to fit your style anytime, anywhere. Crafted from a comfortable 75% cotton and 25% polyester blend with a 370 GSM fabric weight, these sweats feature a sleek mesh panel on the sides for added breathability and style. The no-cuff bottom and printed logo give them a laid-back, athletic vibe that pairs well with any look.</p>\n<p class=\"MsoNormal\"><strong>MODEL:</strong> The model in the first photo is wearing a size Medium. Weight: 175lb Height: 5'9.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/2115-Size-Chart_e7edc52b-a741-433b-a708-c2c15bf2687c_600x600.png?v=1729877062\"></div>\n<!---->",
+  "published_at": "2025-04-18T13:08:11-07:00",
+  "created_at": "2024-06-18T09:34:22-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 5500,
+  "price_min": 5500,
+  "price_max": 5500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": 0,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 43925621735612,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2115-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170716348,
+        "product_id": 8448987726012,
+        "position": 6,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2024-11-12T14:43:34-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414",
+        "variant_ids": [
+          43925621735612,
+          43925621768380,
+          43925621801148,
+          43925621833916,
+          43925621866684
+        ]
+      },
+      "available": false,
+      "name": "2115 - Timeless Sweats - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115285692,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925621768380,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2115-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170716348,
+        "product_id": 8448987726012,
+        "position": 6,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2024-11-12T14:43:34-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414",
+        "variant_ids": [
+          43925621735612,
+          43925621768380,
+          43925621801148,
+          43925621833916,
+          43925621866684
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115285692,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925621801148,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2115-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170716348,
+        "product_id": 8448987726012,
+        "position": 6,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2024-11-12T14:43:34-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414",
+        "variant_ids": [
+          43925621735612,
+          43925621768380,
+          43925621801148,
+          43925621833916,
+          43925621866684
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115285692,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925621833916,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2115-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170716348,
+        "product_id": 8448987726012,
+        "position": 6,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2024-11-12T14:43:34-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414",
+        "variant_ids": [
+          43925621735612,
+          43925621768380,
+          43925621801148,
+          43925621833916,
+          43925621866684
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115285692,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925621866684,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2115-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170716348,
+        "product_id": 8448987726012,
+        "position": 6,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2024-11-12T14:43:34-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414",
+        "variant_ids": [
+          43925621735612,
+          43925621768380,
+          43925621801148,
+          43925621833916,
+          43925621866684
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115285692,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925621932220,
+      "title": "Dark Tree Camo / Small",
+      "option1": "Dark Tree Camo",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2115-DTREEC-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551700156,
+        "product_id": 8448987726012,
+        "position": 1,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:06-08:00",
+        "alt": null,
+        "width": 1304,
+        "height": 1956,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186",
+        "variant_ids": [
+          43925621932220,
+          43925621964988,
+          43925621997756,
+          43925622030524,
+          43925622063292
+        ]
+      },
+      "available": false,
+      "name": "2115 - Timeless Sweats - Dark Tree Camo / Small",
+      "public_title": "Dark Tree Camo / Small",
+      "options": [
+        "Dark Tree Camo",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 635,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-DTREEC-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941307068,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1956,
+          "width": 1304,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925621964988,
+      "title": "Dark Tree Camo / Medium",
+      "option1": "Dark Tree Camo",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2115-DTREEC-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551700156,
+        "product_id": 8448987726012,
+        "position": 1,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:06-08:00",
+        "alt": null,
+        "width": 1304,
+        "height": 1956,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186",
+        "variant_ids": [
+          43925621932220,
+          43925621964988,
+          43925621997756,
+          43925622030524,
+          43925622063292
+        ]
+      },
+      "available": false,
+      "name": "2115 - Timeless Sweats - Dark Tree Camo / Medium",
+      "public_title": "Dark Tree Camo / Medium",
+      "options": [
+        "Dark Tree Camo",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-DTREEC-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941307068,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1956,
+          "width": 1304,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925621997756,
+      "title": "Dark Tree Camo / Large",
+      "option1": "Dark Tree Camo",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2115-DTREEC-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551700156,
+        "product_id": 8448987726012,
+        "position": 1,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:06-08:00",
+        "alt": null,
+        "width": 1304,
+        "height": 1956,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186",
+        "variant_ids": [
+          43925621932220,
+          43925621964988,
+          43925621997756,
+          43925622030524,
+          43925622063292
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Dark Tree Camo / Large",
+      "public_title": "Dark Tree Camo / Large",
+      "options": [
+        "Dark Tree Camo",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 703,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-DTREEC-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941307068,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1956,
+          "width": 1304,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622030524,
+      "title": "Dark Tree Camo / XLarge",
+      "option1": "Dark Tree Camo",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2115-DTREEC-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551700156,
+        "product_id": 8448987726012,
+        "position": 1,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:06-08:00",
+        "alt": null,
+        "width": 1304,
+        "height": 1956,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186",
+        "variant_ids": [
+          43925621932220,
+          43925621964988,
+          43925621997756,
+          43925622030524,
+          43925622063292
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Dark Tree Camo / XLarge",
+      "public_title": "Dark Tree Camo / XLarge",
+      "options": [
+        "Dark Tree Camo",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-DTREEC-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941307068,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1956,
+          "width": 1304,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622063292,
+      "title": "Dark Tree Camo / XXLarge",
+      "option1": "Dark Tree Camo",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2115-DTREEC-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551700156,
+        "product_id": 8448987726012,
+        "position": 1,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:06-08:00",
+        "alt": null,
+        "width": 1304,
+        "height": 1956,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186",
+        "variant_ids": [
+          43925621932220,
+          43925621964988,
+          43925621997756,
+          43925622030524,
+          43925622063292
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Dark Tree Camo / XXLarge",
+      "public_title": "Dark Tree Camo / XXLarge",
+      "options": [
+        "Dark Tree Camo",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-DTREEC-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941307068,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1956,
+          "width": 1304,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44378902003900,
+      "title": "Green Tree Camo / Small",
+      "option1": "Green Tree Camo",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2115-GTREEC-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42281222832316,
+        "product_id": 8448987726012,
+        "position": 7,
+        "created_at": "2025-04-22T11:06:35-07:00",
+        "updated_at": "2025-04-22T12:28:54-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134",
+        "variant_ids": [
+          44378902003900,
+          44378902036668,
+          44378902069436,
+          44378902102204,
+          44378902134972
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Green Tree Camo / Small",
+      "public_title": "Green Tree Camo / Small",
+      "options": [
+        "Green Tree Camo",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-GTREEC-S",
+      "featured_media": {
+        "alt": null,
+        "id": 33928104116412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44378902036668,
+      "title": "Green Tree Camo / Medium",
+      "option1": "Green Tree Camo",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2115-GTREEC-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42281222832316,
+        "product_id": 8448987726012,
+        "position": 7,
+        "created_at": "2025-04-22T11:06:35-07:00",
+        "updated_at": "2025-04-22T12:28:54-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134",
+        "variant_ids": [
+          44378902003900,
+          44378902036668,
+          44378902069436,
+          44378902102204,
+          44378902134972
+        ]
+      },
+      "available": false,
+      "name": "2115 - Timeless Sweats - Green Tree Camo / Medium",
+      "public_title": "Green Tree Camo / Medium",
+      "options": [
+        "Green Tree Camo",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-GTREEC-M",
+      "featured_media": {
+        "alt": null,
+        "id": 33928104116412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44378902069436,
+      "title": "Green Tree Camo / Large",
+      "option1": "Green Tree Camo",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2115-GTREEC-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42281222832316,
+        "product_id": 8448987726012,
+        "position": 7,
+        "created_at": "2025-04-22T11:06:35-07:00",
+        "updated_at": "2025-04-22T12:28:54-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134",
+        "variant_ids": [
+          44378902003900,
+          44378902036668,
+          44378902069436,
+          44378902102204,
+          44378902134972
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Green Tree Camo / Large",
+      "public_title": "Green Tree Camo / Large",
+      "options": [
+        "Green Tree Camo",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-GTREEC-L",
+      "featured_media": {
+        "alt": null,
+        "id": 33928104116412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44378902102204,
+      "title": "Green Tree Camo / XLarge",
+      "option1": "Green Tree Camo",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2115-GTREEC-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42281222832316,
+        "product_id": 8448987726012,
+        "position": 7,
+        "created_at": "2025-04-22T11:06:35-07:00",
+        "updated_at": "2025-04-22T12:28:54-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134",
+        "variant_ids": [
+          44378902003900,
+          44378902036668,
+          44378902069436,
+          44378902102204,
+          44378902134972
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Green Tree Camo / XLarge",
+      "public_title": "Green Tree Camo / XLarge",
+      "options": [
+        "Green Tree Camo",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-GTREEC-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 33928104116412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44378902134972,
+      "title": "Green Tree Camo / XXLarge",
+      "option1": "Green Tree Camo",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2115-GTREEC-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42281222832316,
+        "product_id": 8448987726012,
+        "position": 7,
+        "created_at": "2025-04-22T11:06:35-07:00",
+        "updated_at": "2025-04-22T12:28:54-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134",
+        "variant_ids": [
+          44378902003900,
+          44378902036668,
+          44378902069436,
+          44378902102204,
+          44378902134972
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Green Tree Camo / XXLarge",
+      "public_title": "Green Tree Camo / XXLarge",
+      "options": [
+        "Green Tree Camo",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-GTREEC-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 33928104116412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622128828,
+      "title": "Heather Grey / Small",
+      "option1": "Heather Grey",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2115-HGRY-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551667388,
+        "product_id": 8448987726012,
+        "position": 2,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:05-08:00",
+        "alt": null,
+        "width": 1250,
+        "height": 1875,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185",
+        "variant_ids": [
+          43925622128828,
+          43925622161596,
+          43925622194364,
+          43925622227132,
+          43925622259900
+        ]
+      },
+      "available": false,
+      "name": "2115 - Timeless Sweats - Heather Grey / Small",
+      "public_title": "Heather Grey / Small",
+      "options": [
+        "Heather Grey",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 658,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-HGRY-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941274300,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1875,
+          "width": 1250,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622161596,
+      "title": "Heather Grey / Medium",
+      "option1": "Heather Grey",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2115-HGRY-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551667388,
+        "product_id": 8448987726012,
+        "position": 2,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:05-08:00",
+        "alt": null,
+        "width": 1250,
+        "height": 1875,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185",
+        "variant_ids": [
+          43925622128828,
+          43925622161596,
+          43925622194364,
+          43925622227132,
+          43925622259900
+        ]
+      },
+      "available": false,
+      "name": "2115 - Timeless Sweats - Heather Grey / Medium",
+      "public_title": "Heather Grey / Medium",
+      "options": [
+        "Heather Grey",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 703,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-HGRY-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941274300,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1875,
+          "width": 1250,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622194364,
+      "title": "Heather Grey / Large",
+      "option1": "Heather Grey",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2115-HGRY-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551667388,
+        "product_id": 8448987726012,
+        "position": 2,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:05-08:00",
+        "alt": null,
+        "width": 1250,
+        "height": 1875,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185",
+        "variant_ids": [
+          43925622128828,
+          43925622161596,
+          43925622194364,
+          43925622227132,
+          43925622259900
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Heather Grey / Large",
+      "public_title": "Heather Grey / Large",
+      "options": [
+        "Heather Grey",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 748,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-HGRY-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941274300,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1875,
+          "width": 1250,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622227132,
+      "title": "Heather Grey / XLarge",
+      "option1": "Heather Grey",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2115-HGRY-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551667388,
+        "product_id": 8448987726012,
+        "position": 2,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:05-08:00",
+        "alt": null,
+        "width": 1250,
+        "height": 1875,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185",
+        "variant_ids": [
+          43925622128828,
+          43925622161596,
+          43925622194364,
+          43925622227132,
+          43925622259900
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Heather Grey / XLarge",
+      "public_title": "Heather Grey / XLarge",
+      "options": [
+        "Heather Grey",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-HGRY-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941274300,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1875,
+          "width": 1250,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622259900,
+      "title": "Heather Grey / XXLarge",
+      "option1": "Heather Grey",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2115-HGRY-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025551667388,
+        "product_id": 8448987726012,
+        "position": 2,
+        "created_at": "2024-11-13T18:25:19-08:00",
+        "updated_at": "2024-11-14T14:43:05-08:00",
+        "alt": null,
+        "width": 1250,
+        "height": 1875,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185",
+        "variant_ids": [
+          43925622128828,
+          43925622161596,
+          43925622194364,
+          43925622227132,
+          43925622259900
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Heather Grey / XXLarge",
+      "public_title": "Heather Grey / XXLarge",
+      "options": [
+        "Heather Grey",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-HGRY-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32366941274300,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1875,
+          "width": 1250,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622325436,
+      "title": "Tan / Small",
+      "option1": "Tan",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2115-TAN-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170519740,
+        "product_id": 8448987726012,
+        "position": 8,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2025-04-22T11:07:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232",
+        "variant_ids": [
+          43925622325436,
+          43925622358204,
+          43925622390972,
+          43925622423740,
+          43925622456508
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Tan / Small",
+      "public_title": "Tan / Small",
+      "options": [
+        "Tan",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-TAN-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115220156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622358204,
+      "title": "Tan / Medium",
+      "option1": "Tan",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2115-TAN-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170519740,
+        "product_id": 8448987726012,
+        "position": 8,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2025-04-22T11:07:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232",
+        "variant_ids": [
+          43925622325436,
+          43925622358204,
+          43925622390972,
+          43925622423740,
+          43925622456508
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Tan / Medium",
+      "public_title": "Tan / Medium",
+      "options": [
+        "Tan",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-TAN-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115220156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622390972,
+      "title": "Tan / Large",
+      "option1": "Tan",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2115-TAN-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170519740,
+        "product_id": 8448987726012,
+        "position": 8,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2025-04-22T11:07:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232",
+        "variant_ids": [
+          43925622325436,
+          43925622358204,
+          43925622390972,
+          43925622423740,
+          43925622456508
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Tan / Large",
+      "public_title": "Tan / Large",
+      "options": [
+        "Tan",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-TAN-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115220156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622423740,
+      "title": "Tan / XLarge",
+      "option1": "Tan",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2115-TAN-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170519740,
+        "product_id": 8448987726012,
+        "position": 8,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2025-04-22T11:07:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232",
+        "variant_ids": [
+          43925622325436,
+          43925622358204,
+          43925622390972,
+          43925622423740,
+          43925622456508
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Tan / XLarge",
+      "public_title": "Tan / XLarge",
+      "options": [
+        "Tan",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-TAN-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115220156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43925622456508,
+      "title": "Tan / XXLarge",
+      "option1": "Tan",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2115-TAN-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002170519740,
+        "product_id": 8448987726012,
+        "position": 8,
+        "created_at": "2024-11-11T17:25:40-08:00",
+        "updated_at": "2025-04-22T11:07:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232",
+        "variant_ids": [
+          43925622325436,
+          43925622358204,
+          43925622390972,
+          43925622423740,
+          43925622456508
+        ]
+      },
+      "available": true,
+      "name": "2115 - Timeless Sweats - Tan / XXLarge",
+      "public_title": "Tan / XXLarge",
+      "options": [
+        "Tan",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2115-TAN-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349115220156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Jerdany_eComm1133.jpg?v=1731451407",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Rudy_eComm0585_0324a470-c810-47be-997c-62665b774fc7.jpg?v=1731624187",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_003_11_26_rudy_ecomm_a4e70a55-eaf9-40a0-9651-0b013a068870.jpg?v=1731451411",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2115_heather-grey_002_11_26_floor.jpg?v=1745345232",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2115_heather-grey_003_11_26_floor.jpg?v=1745345232",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2115-Size-Chart.png?v=1745345232"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Dark Tree Camo",
+        "Green Tree Camo",
+        "Heather Grey",
+        "Tan"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/2115",
+  "media": [
+    {
+      "alt": null,
+      "id": 32366941307068,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1956,
+        "width": 1304,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1956,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/6_2ee69dea-c769-4656-b057-f42127dfa027.jpg?v=1731624186",
+      "width": 1304
+    },
+    {
+      "alt": null,
+      "id": 32366941274300,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1875,
+        "width": 1250,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1875,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/5_0f24edc8-3d11-443f-bc5b-0acbcb416fd6.jpg?v=1731624185",
+      "width": 1250
+    },
+    {
+      "alt": null,
+      "id": 32426670129340,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/2115_dark-tree-camo_001_11_26_rudy_ecomm.jpg?v=1732070963"
+      },
+      "aspect_ratio": 0.563,
+      "duration": 26090,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4c6025a44bd24a37a7205d55b1b8ada4/4c6025a44bd24a37a7205d55b1b8ada4.SD-480p-1.5Mbps-38366362.mp4",
+          "width": 270
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4c6025a44bd24a37a7205d55b1b8ada4/4c6025a44bd24a37a7205d55b1b8ada4.HD-1080p-7.2Mbps-38366362.mp4",
+          "width": 606
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4c6025a44bd24a37a7205d55b1b8ada4/4c6025a44bd24a37a7205d55b1b8ada4.HD-720p-4.5Mbps-38366362.mp4",
+          "width": 404
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/4c6025a44bd24a37a7205d55b1b8ada4/4c6025a44bd24a37a7205d55b1b8ada4.m3u8",
+          "width": 606
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32354745188540,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1836,
+        "width": 1224,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Jerdany_eComm1133.jpg?v=1731451407"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1836,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Jerdany_eComm1133.jpg?v=1731451407",
+      "width": 1224
+    },
+    {
+      "alt": null,
+      "id": 32370356093116,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Rudy_eComm0585_0324a470-c810-47be-997c-62665b774fc7.jpg?v=1731624187"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Rudy_eComm0585_0324a470-c810-47be-997c-62665b774fc7.jpg?v=1731624187",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32349115252924,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_003_11_26_rudy_ecomm_a4e70a55-eaf9-40a0-9651-0b013a068870.jpg?v=1731451411"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_003_11_26_rudy_ecomm_a4e70a55-eaf9-40a0-9651-0b013a068870.jpg?v=1731451411",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349115285692,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_black_002_11_26_rudy_ecomm_0236371c-4a88-472a-b2c2-974b866c1e36.jpg?v=1731451414",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33928104116412,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_green-tree-camo_002_04_23_rudy_ecomm.jpg?v=1745350134",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349115220156,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_tan_002_11_26_rudy_ecomm_2f92114f-c11a-4b2a-809b-e88109843e8b.jpg?v=1745345232",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32217815220412,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_heather-grey_002_11_26_floor.jpg?v=1745345232"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_heather-grey_002_11_26_floor.jpg?v=1745345232",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32217815187644,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_heather-grey_003_11_26_floor.jpg?v=1745345232"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115_heather-grey_003_11_26_floor.jpg?v=1745345232",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32223394037948,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115-Size-Chart.png?v=1745345232"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2115-Size-Chart.png?v=1745345232",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

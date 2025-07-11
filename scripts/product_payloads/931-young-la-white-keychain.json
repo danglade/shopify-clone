@@ -1,0 +1,127 @@
+{
+  "id": 7671167877308,
+  "title": "932 YLA Keychains",
+  "handle": "931-young-la-white-keychain",
+  "description": "<span data-mce-fragment=\"1\">Introducing our sleek YoungLA keychain, designed to keep your keys organized and secure while adding a touch of style to your everyday carry.</span>",
+  "published_at": "2025-01-21T11:12:25-08:00",
+  "created_at": "2022-10-11T14:54:44-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "app-early",
+    "ATTV_GLOBAL_EXCLUSION_TAG",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 500,
+  "price_min": 500,
+  "price_max": 500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 42249277800636,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "932-WHITE22",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "932 YLA Keychains",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 500,
+      "weight": 45,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "932-WHITE22",
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/products/DSC2347_1.jpg?v=1673895420",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/DSC1301.jpg?v=1674173577",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/DSC2360_1.jpg?v=1674173490"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/products/DSC2347_1.jpg?v=1673895420",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/931-young-la-white-keychain",
+  "media": [
+    {
+      "alt": null,
+      "id": 27040496877756,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 3601,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/DSC2347_1.jpg?v=1673895420"
+      },
+      "aspect_ratio": 0.666,
+      "height": 3601,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/DSC2347_1.jpg?v=1673895420",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 27063801675964,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/DSC1301.jpg?v=1674173577"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/DSC1301.jpg?v=1674173577",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 27040496844988,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/DSC2360_1.jpg?v=1674173490"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/DSC2360_1.jpg?v=1674173490",
+      "width": 2400
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

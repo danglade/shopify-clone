@@ -1,0 +1,1470 @@
+{
+  "id": 8608960381116,
+  "title": "4022 - Cotton Mesh Tees",
+  "handle": "4022",
+  "description": "<p><strong>MATERIAL: </strong>100% Cotton.</p>\n<p><strong>FABRIC WEIGHT: </strong>230 GSM.</p>\n<p><strong>FIT:<span> </span></strong>Oversized.</p>\n<p><strong>DESIGN: </strong>Stay cool and styled in the Cotton Mesh Tee \u2014 crafted from breathable 100% cotton with a oversized fit. The open-knit mesh design delivers airflow and texture, making it the perfect lightweight layer for summer days, beach hangs, or festival fits. Clean, simple, and built to flex.</p>\n<p><strong>MODEL:</strong> The model in the first photo is wearing a size Medium. Weight 185lb Height 5'11.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4022-Size-Chart_03420a1d-5cdc-42a7-b78f-0facd11bcee8_600x600.png?v=1736985734\"></div>",
+  "published_at": "2025-05-23T10:59:51-07:00",
+  "created_at": "2024-10-28T09:15:26-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3800,
+  "price_min": 3800,
+  "price_max": 3800,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44226724430012,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4022-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338265788,
+        "product_id": 8608960381116,
+        "position": 9,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724430012,
+          44226724462780,
+          44226724495548,
+          44226724528316,
+          44226724561084
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891282108,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724462780,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4022-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338265788,
+        "product_id": 8608960381116,
+        "position": 9,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724430012,
+          44226724462780,
+          44226724495548,
+          44226724528316,
+          44226724561084
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891282108,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724495548,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4022-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338265788,
+        "product_id": 8608960381116,
+        "position": 9,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724430012,
+          44226724462780,
+          44226724495548,
+          44226724528316,
+          44226724561084
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891282108,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724528316,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4022-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338265788,
+        "product_id": 8608960381116,
+        "position": 9,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724430012,
+          44226724462780,
+          44226724495548,
+          44226724528316,
+          44226724561084
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891282108,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724561084,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4022-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338265788,
+        "product_id": 8608960381116,
+        "position": 9,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724430012,
+          44226724462780,
+          44226724495548,
+          44226724528316,
+          44226724561084
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891282108,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724593852,
+      "title": "Burgundy / Small",
+      "option1": "Burgundy",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4022-BURG-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338233020,
+        "product_id": 8608960381116,
+        "position": 10,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724593852,
+          44226724626620,
+          44226724659388,
+          44226724692156,
+          44226724724924
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Burgundy / Small",
+      "public_title": "Burgundy / Small",
+      "options": [
+        "Burgundy",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BURG-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891347644,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724626620,
+      "title": "Burgundy / Medium",
+      "option1": "Burgundy",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4022-BURG-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338233020,
+        "product_id": 8608960381116,
+        "position": 10,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724593852,
+          44226724626620,
+          44226724659388,
+          44226724692156,
+          44226724724924
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Burgundy / Medium",
+      "public_title": "Burgundy / Medium",
+      "options": [
+        "Burgundy",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BURG-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891347644,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724659388,
+      "title": "Burgundy / Large",
+      "option1": "Burgundy",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4022-BURG-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338233020,
+        "product_id": 8608960381116,
+        "position": 10,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724593852,
+          44226724626620,
+          44226724659388,
+          44226724692156,
+          44226724724924
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Burgundy / Large",
+      "public_title": "Burgundy / Large",
+      "options": [
+        "Burgundy",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BURG-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891347644,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724692156,
+      "title": "Burgundy / XLarge",
+      "option1": "Burgundy",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4022-BURG-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338233020,
+        "product_id": 8608960381116,
+        "position": 10,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724593852,
+          44226724626620,
+          44226724659388,
+          44226724692156,
+          44226724724924
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Burgundy / XLarge",
+      "public_title": "Burgundy / XLarge",
+      "options": [
+        "Burgundy",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BURG-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891347644,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724724924,
+      "title": "Burgundy / XXLarge",
+      "option1": "Burgundy",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4022-BURG-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338233020,
+        "product_id": 8608960381116,
+        "position": 10,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724593852,
+          44226724626620,
+          44226724659388,
+          44226724692156,
+          44226724724924
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Burgundy / XXLarge",
+      "public_title": "Burgundy / XXLarge",
+      "options": [
+        "Burgundy",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-BURG-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891347644,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724757692,
+      "title": "Tan / Small",
+      "option1": "Tan",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4022-TAN-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338331324,
+        "product_id": 8608960381116,
+        "position": 7,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724757692,
+          44226724790460,
+          44226724823228,
+          44226724855996,
+          44226724888764
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Tan / Small",
+      "public_title": "Tan / Small",
+      "options": [
+        "Tan",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-TAN-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891380412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724790460,
+      "title": "Tan / Medium",
+      "option1": "Tan",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4022-TAN-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338331324,
+        "product_id": 8608960381116,
+        "position": 7,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724757692,
+          44226724790460,
+          44226724823228,
+          44226724855996,
+          44226724888764
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Tan / Medium",
+      "public_title": "Tan / Medium",
+      "options": [
+        "Tan",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-TAN-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891380412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724823228,
+      "title": "Tan / Large",
+      "option1": "Tan",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4022-TAN-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338331324,
+        "product_id": 8608960381116,
+        "position": 7,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724757692,
+          44226724790460,
+          44226724823228,
+          44226724855996,
+          44226724888764
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Tan / Large",
+      "public_title": "Tan / Large",
+      "options": [
+        "Tan",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-TAN-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891380412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724855996,
+      "title": "Tan / XLarge",
+      "option1": "Tan",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4022-TAN-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338331324,
+        "product_id": 8608960381116,
+        "position": 7,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724757692,
+          44226724790460,
+          44226724823228,
+          44226724855996,
+          44226724888764
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Tan / XLarge",
+      "public_title": "Tan / XLarge",
+      "options": [
+        "Tan",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-TAN-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891380412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724888764,
+      "title": "Tan / XXLarge",
+      "option1": "Tan",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4022-TAN-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617338331324,
+        "product_id": 8608960381116,
+        "position": 7,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724757692,
+          44226724790460,
+          44226724823228,
+          44226724855996,
+          44226724888764
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - Tan / XXLarge",
+      "public_title": "Tan / XXLarge",
+      "options": [
+        "Tan",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-TAN-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891380412,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724921532,
+      "title": "White / Small",
+      "option1": "White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4022-WHTE-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617337938108,
+        "product_id": 8608960381116,
+        "position": 8,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724921532,
+          44226724954300,
+          44226724987068,
+          44226725019836,
+          44226725052604
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - White / Small",
+      "public_title": "White / Small",
+      "options": [
+        "White",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-WHTE-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891216572,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724954300,
+      "title": "White / Medium",
+      "option1": "White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4022-WHTE-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617337938108,
+        "product_id": 8608960381116,
+        "position": 8,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724921532,
+          44226724954300,
+          44226724987068,
+          44226725019836,
+          44226725052604
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - White / Medium",
+      "public_title": "White / Medium",
+      "options": [
+        "White",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-WHTE-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891216572,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226724987068,
+      "title": "White / Large",
+      "option1": "White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4022-WHTE-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617337938108,
+        "product_id": 8608960381116,
+        "position": 8,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724921532,
+          44226724954300,
+          44226724987068,
+          44226725019836,
+          44226725052604
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - White / Large",
+      "public_title": "White / Large",
+      "options": [
+        "White",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-WHTE-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891216572,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226725019836,
+      "title": "White / XLarge",
+      "option1": "White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4022-WHTE-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617337938108,
+        "product_id": 8608960381116,
+        "position": 8,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724921532,
+          44226724954300,
+          44226724987068,
+          44226725019836,
+          44226725052604
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - White / XLarge",
+      "public_title": "White / XLarge",
+      "options": [
+        "White",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-WHTE-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891216572,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44226725052604,
+      "title": "White / XXLarge",
+      "option1": "White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4022-WHTE-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617337938108,
+        "product_id": 8608960381116,
+        "position": 8,
+        "created_at": "2025-05-21T11:36:55-07:00",
+        "updated_at": "2025-06-04T11:11:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683",
+        "variant_ids": [
+          44226724921532,
+          44226724954300,
+          44226724987068,
+          44226725019836,
+          44226725052604
+        ]
+      },
+      "available": true,
+      "name": "4022 - Cotton Mesh Tees - White / XXLarge",
+      "public_title": "White / XXLarge",
+      "options": [
+        "White",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4022-WHTE-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147891216572,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4022_white_006_06_04_alex_ecomm.jpg?v=1748028548",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4098.jpg?v=1748388543",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4043_39deddd8-9db4-4577-915f-0667481a4f69.jpg?v=1749065336",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA335.8.jpg?v=1749060743",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4041.jpg?v=1749060710",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_0014_06_04_johnny_ecomm.jpg?v=1749060683",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4022-Size-Chart.png?v=1749060683"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/4022_white_006_06_04_alex_ecomm.jpg?v=1748028548",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Burgundy",
+        "Tan",
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4022",
+  "media": [
+    {
+      "alt": null,
+      "id": 34178949284028,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_006_06_04_alex_ecomm.jpg?v=1748028548"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_006_06_04_alex_ecomm.jpg?v=1748028548",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217569059004,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1233,
+        "width": 822,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4098.jpg?v=1748388543"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1233,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4098.jpg?v=1748388543",
+      "width": 822
+    },
+    {
+      "alt": null,
+      "id": 34275271475388,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/989fbde13eed40a38ac5f578052bb915.thumbnail.0000000000.jpg?v=1748887818"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 24830,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/989fbde13eed40a38ac5f578052bb915/989fbde13eed40a38ac5f578052bb915.SD-480p-1.5Mbps-48680075.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/989fbde13eed40a38ac5f578052bb915/989fbde13eed40a38ac5f578052bb915.HD-1080p-7.2Mbps-48680075.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/989fbde13eed40a38ac5f578052bb915/989fbde13eed40a38ac5f578052bb915.HD-720p-4.5Mbps-48680075.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/989fbde13eed40a38ac5f578052bb915/989fbde13eed40a38ac5f578052bb915.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 34326636462268,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1381,
+        "width": 921,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4043_39deddd8-9db4-4577-915f-0667481a4f69.jpg?v=1749065336"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1381,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4043_39deddd8-9db4-4577-915f-0667481a4f69.jpg?v=1749065336",
+      "width": 921
+    },
+    {
+      "alt": null,
+      "id": 34217569124540,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2291,
+        "width": 1527,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA335.8.jpg?v=1749060743"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2291,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA335.8.jpg?v=1749060743",
+      "width": 1527
+    },
+    {
+      "alt": null,
+      "id": 34217569190076,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1252,
+        "width": 835,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4041.jpg?v=1749060710"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1252,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4041.jpg?v=1749060710",
+      "width": 835
+    },
+    {
+      "alt": null,
+      "id": 34178949316796,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_0014_06_04_johnny_ecomm.jpg?v=1749060683"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_0014_06_04_johnny_ecomm.jpg?v=1749060683",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147891380412,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_tan_002_06_04_floor.jpg?v=1749060683",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147891216572,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_white_002_06_04_floor.jpg?v=1749060683",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147891282108,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_black_002_06_04_floor.jpg?v=1749060683",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147891347644,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022_burgundy_002_06_04_floor.jpg?v=1749060683",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32946129371324,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022-Size-Chart.png?v=1749060683"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4022-Size-Chart.png?v=1749060683",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

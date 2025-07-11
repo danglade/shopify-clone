@@ -1,0 +1,1158 @@
+{
+  "id": 8277635596476,
+  "title": "3046 - Dark Night Tanks",
+  "handle": "3046",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL: </strong>100% Cotton. 225 GSM.</p>\n<p class=\"MsoNormal\"><strong>FIT: </strong>Loose Fit. Cropped length.</p>\n<p class=\"MsoNormal\"><strong>DESIGN:</strong> Step up your style with the Dark Night Tanks, combining a streetwear vibe with a luxurious touch. The garment is washed for a vintage color, complemented by a dark skyline art print on the front. Perfect for making a statement with a high-end edge in your everyday look.</p>\n<p class=\"MsoNormal\"><strong>MODEL:\u00a0</strong><span style=\"mso-spacerun: yes;\"> </span>The model in the first photo is wearing a size Large. Weight: 185lb Height: 5'11.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/3046-Size-Chart_ad2960ef-96e3-4d26-b349-744c3a70573b_600x600.png?v=1721836527\" style=\"margin-bottom: 16px; float: none;\"></div>",
+  "published_at": "2025-04-18T13:08:06-07:00",
+  "created_at": "2024-04-08T15:31:29-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 3500,
+  "price_min": 3500,
+  "price_max": 3500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 43562321051836,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3046-BLKW24-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122132156,
+        "product_id": 8277635596476,
+        "position": 9,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:32-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192",
+        "variant_ids": [
+          43562321051836,
+          43562321084604,
+          43562321117372,
+          43562321150140,
+          43562321182908
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-BLKW24-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617574588,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321084604,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3046-BLKW24-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122132156,
+        "product_id": 8277635596476,
+        "position": 9,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:32-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192",
+        "variant_ids": [
+          43562321051836,
+          43562321084604,
+          43562321117372,
+          43562321150140,
+          43562321182908
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-BLKW24-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617574588,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321117372,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3046-BLKW24-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122132156,
+        "product_id": 8277635596476,
+        "position": 9,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:32-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192",
+        "variant_ids": [
+          43562321051836,
+          43562321084604,
+          43562321117372,
+          43562321150140,
+          43562321182908
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-BLKW24-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617574588,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321150140,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3046-BLKW24-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122132156,
+        "product_id": 8277635596476,
+        "position": 9,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:32-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192",
+        "variant_ids": [
+          43562321051836,
+          43562321084604,
+          43562321117372,
+          43562321150140,
+          43562321182908
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-BLKW24-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617574588,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321182908,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3046-BLKW24-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122132156,
+        "product_id": 8277635596476,
+        "position": 9,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:32-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192",
+        "variant_ids": [
+          43562321051836,
+          43562321084604,
+          43562321117372,
+          43562321150140,
+          43562321182908
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-BLKW24-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617574588,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321215676,
+      "title": "Grey Wash / Small",
+      "option1": "Grey Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3046-GRYW24-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122197692,
+        "product_id": 8277635596476,
+        "position": 7,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:57:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233",
+        "variant_ids": [
+          43562321215676,
+          43562321248444,
+          43562321281212,
+          43562321313980,
+          43562321346748
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Grey Wash / Small",
+      "public_title": "Grey Wash / Small",
+      "options": [
+        "Grey Wash",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-GRYW24-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617509052,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321248444,
+      "title": "Grey Wash / Medium",
+      "option1": "Grey Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3046-GRYW24-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122197692,
+        "product_id": 8277635596476,
+        "position": 7,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:57:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233",
+        "variant_ids": [
+          43562321215676,
+          43562321248444,
+          43562321281212,
+          43562321313980,
+          43562321346748
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Grey Wash / Medium",
+      "public_title": "Grey Wash / Medium",
+      "options": [
+        "Grey Wash",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-GRYW24-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617509052,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321281212,
+      "title": "Grey Wash / Large",
+      "option1": "Grey Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3046-GRYW24-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122197692,
+        "product_id": 8277635596476,
+        "position": 7,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:57:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233",
+        "variant_ids": [
+          43562321215676,
+          43562321248444,
+          43562321281212,
+          43562321313980,
+          43562321346748
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Grey Wash / Large",
+      "public_title": "Grey Wash / Large",
+      "options": [
+        "Grey Wash",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-GRYW24-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617509052,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321313980,
+      "title": "Grey Wash / XLarge",
+      "option1": "Grey Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3046-GRYW24-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122197692,
+        "product_id": 8277635596476,
+        "position": 7,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:57:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233",
+        "variant_ids": [
+          43562321215676,
+          43562321248444,
+          43562321281212,
+          43562321313980,
+          43562321346748
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Grey Wash / XLarge",
+      "public_title": "Grey Wash / XLarge",
+      "options": [
+        "Grey Wash",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-GRYW24-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617509052,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321346748,
+      "title": "Grey Wash / XXLarge",
+      "option1": "Grey Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3046-GRYW24-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122197692,
+        "product_id": 8277635596476,
+        "position": 7,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:57:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233",
+        "variant_ids": [
+          43562321215676,
+          43562321248444,
+          43562321281212,
+          43562321313980,
+          43562321346748
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Grey Wash / XXLarge",
+      "public_title": "Grey Wash / XXLarge",
+      "options": [
+        "Grey Wash",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-GRYW24-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617509052,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321379516,
+      "title": "Teal Wash / Small",
+      "option1": "Teal Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3046-TEAL24-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122164924,
+        "product_id": 8277635596476,
+        "position": 8,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:36-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196",
+        "variant_ids": [
+          43562321379516,
+          43562321412284,
+          43562321445052,
+          43562321477820,
+          43562321510588
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Teal Wash / Small",
+      "public_title": "Teal Wash / Small",
+      "options": [
+        "Teal Wash",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-TEAL24-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617541820,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321412284,
+      "title": "Teal Wash / Medium",
+      "option1": "Teal Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3046-TEAL24-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122164924,
+        "product_id": 8277635596476,
+        "position": 8,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:36-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196",
+        "variant_ids": [
+          43562321379516,
+          43562321412284,
+          43562321445052,
+          43562321477820,
+          43562321510588
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Teal Wash / Medium",
+      "public_title": "Teal Wash / Medium",
+      "options": [
+        "Teal Wash",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-TEAL24-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617541820,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321445052,
+      "title": "Teal Wash / Large",
+      "option1": "Teal Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3046-TEAL24-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122164924,
+        "product_id": 8277635596476,
+        "position": 8,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:36-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196",
+        "variant_ids": [
+          43562321379516,
+          43562321412284,
+          43562321445052,
+          43562321477820,
+          43562321510588
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Teal Wash / Large",
+      "public_title": "Teal Wash / Large",
+      "options": [
+        "Teal Wash",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-TEAL24-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617541820,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321477820,
+      "title": "Teal Wash / XLarge",
+      "option1": "Teal Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3046-TEAL24-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122164924,
+        "product_id": 8277635596476,
+        "position": 8,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:36-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196",
+        "variant_ids": [
+          43562321379516,
+          43562321412284,
+          43562321445052,
+          43562321477820,
+          43562321510588
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Teal Wash / XLarge",
+      "public_title": "Teal Wash / XLarge",
+      "options": [
+        "Teal Wash",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-TEAL24-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617541820,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43562321510588,
+      "title": "Teal Wash / XXLarge",
+      "option1": "Teal Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3046-TEAL24-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38929122164924,
+        "product_id": 8277635596476,
+        "position": 8,
+        "created_at": "2024-07-31T12:35:16-07:00",
+        "updated_at": "2024-09-13T10:56:36-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196",
+        "variant_ids": [
+          43562321379516,
+          43562321412284,
+          43562321445052,
+          43562321477820,
+          43562321510588
+        ]
+      },
+      "available": true,
+      "name": "3046 - Dark Night Tanks - Teal Wash / XXLarge",
+      "public_title": "Teal Wash / XXLarge",
+      "options": [
+        "Teal Wash",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3046-TEAL24-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464617541820,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_002_08_06_johnny_ecomm_b5023fff-7cf3-4726-85b4-b2eb62b2e1ca.jpg?v=1726250256",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.15_500111b3-b5c5-4f2c-8575-0ba386b9d679.jpg?v=1726250255",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4593.jpg?v=1726250221",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.1e8.jpg?v=1726250235",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/DSC08513_079c1075-ef17-4c2d-a9af-cef7711af678.jpg?v=1726250210",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_003_08_06_johnny_ecomm.jpg?v=1726251659",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3046-Size-Chart.png?v=1726251518"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_002_08_06_johnny_ecomm_b5023fff-7cf3-4726-85b4-b2eb62b2e1ca.jpg?v=1726250256",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Grey Wash",
+        "Teal Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/3046",
+  "media": [
+    {
+      "alt": null,
+      "id": 31468531351740,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3365,
+        "width": 2243,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_002_08_06_johnny_ecomm_b5023fff-7cf3-4726-85b4-b2eb62b2e1ca.jpg?v=1726250256"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3365,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_002_08_06_johnny_ecomm_b5023fff-7cf3-4726-85b4-b2eb62b2e1ca.jpg?v=1726250256",
+      "width": 2243
+    },
+    {
+      "alt": null,
+      "id": 31588750688444,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 5938,
+        "width": 3959,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.15_500111b3-b5c5-4f2c-8575-0ba386b9d679.jpg?v=1726250255"
+      },
+      "aspect_ratio": 0.667,
+      "height": 5938,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.15_500111b3-b5c5-4f2c-8575-0ba386b9d679.jpg?v=1726250255",
+      "width": 3959
+    },
+    {
+      "alt": null,
+      "id": 32448420905148,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/3b9adc721d0b427d9c36a54fd7c657dd.thumbnail.0000000000.jpg?v=1732310654"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 23020,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/3b9adc721d0b427d9c36a54fd7c657dd/3b9adc721d0b427d9c36a54fd7c657dd.SD-480p-1.0Mbps-38591279.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/3b9adc721d0b427d9c36a54fd7c657dd/3b9adc721d0b427d9c36a54fd7c657dd.HD-1080p-3.3Mbps-38591279.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/3b9adc721d0b427d9c36a54fd7c657dd/3b9adc721d0b427d9c36a54fd7c657dd.HD-720p-2.1Mbps-38591279.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/3b9adc721d0b427d9c36a54fd7c657dd/3b9adc721d0b427d9c36a54fd7c657dd.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 31464524972220,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1501,
+        "width": 1001,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4593.jpg?v=1726250221"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1501,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4593.jpg?v=1726250221",
+      "width": 1001
+    },
+    {
+      "alt": null,
+      "id": 31464527102140,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 4683,
+        "width": 3122,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.1e8.jpg?v=1726250235"
+      },
+      "aspect_ratio": 0.667,
+      "height": 4683,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.1e8.jpg?v=1726250235",
+      "width": 3122
+    },
+    {
+      "alt": null,
+      "id": 31464525004988,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1536,
+        "width": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/DSC08513_079c1075-ef17-4c2d-a9af-cef7711af678.jpg?v=1726250210"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1536,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/DSC08513_079c1075-ef17-4c2d-a9af-cef7711af678.jpg?v=1726250210",
+      "width": 1024
+    },
+    {
+      "alt": null,
+      "id": 31326933778620,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_003_08_06_johnny_ecomm.jpg?v=1726251659"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_003_08_06_johnny_ecomm.jpg?v=1726251659",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31464617509052,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_grey-wash_001_08_06_floor.jpg?v=1726250233",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31464617541820,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_teal-wash_001_08_06_floor.jpg?v=1726250196",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31464617574588,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046_black-wash_001_08_06_floor.jpg?v=1726250192",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31321083478204,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046-Size-Chart.png?v=1726251518"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3046-Size-Chart.png?v=1726251518",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

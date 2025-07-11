@@ -1,0 +1,1784 @@
+{
+  "id": 8369955045564,
+  "title": "2116 - Dynasty Sweats",
+  "handle": "2116",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL:</strong> 100% Cotton. French Terry.</p>\n<p class=\"MsoNormal\"><strong>FABRIC WEIGHT: </strong>460 GSM.</p>\n<p class=\"MsoNormal\"><strong>FIT: </strong>Baggy.</p>\n<p class=\"MsoNormal\"><strong>DESIGN:</strong> Inspired by the classic Immortal Joggers, the Dynasty Sweats bring a fresh twist with a modern, no-cuff baggy fit. Made from 100% premium cotton with an acid-washed finish, these joggers feature a bold distressed and splatter print down one leg for a unique look.</p>\n<p class=\"MsoNormal\"><strong>MODEL:</strong> The model in the first photo is wearing a size Medium. Weight: 175lb Height: 5'9.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/2116-Size-Chart_3a37e800-16c0-43d5-bc6e-bf4b0a762120_600x600.png?v=1729877269\" style=\"margin-bottom: 16px; float: none;\"></div>",
+  "published_at": "2025-03-18T11:20:27-07:00",
+  "created_at": "2024-05-08T16:45:46-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 5500,
+  "price_min": 5500,
+  "price_max": 5500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": 0,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 43739766653116,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2116-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153545916,
+        "product_id": 8369955045564,
+        "position": 9,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:30-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410",
+        "variant_ids": [
+          43739766653116,
+          43739766685884,
+          43739766718652,
+          43739766751420,
+          43739766784188
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102112956,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766685884,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2116-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153545916,
+        "product_id": 8369955045564,
+        "position": 9,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:30-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410",
+        "variant_ids": [
+          43739766653116,
+          43739766685884,
+          43739766718652,
+          43739766751420,
+          43739766784188
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 794,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102112956,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766718652,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2116-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153545916,
+        "product_id": 8369955045564,
+        "position": 9,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:30-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410",
+        "variant_ids": [
+          43739766653116,
+          43739766685884,
+          43739766718652,
+          43739766751420,
+          43739766784188
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 839,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102112956,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766751420,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2116-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153545916,
+        "product_id": 8369955045564,
+        "position": 9,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:30-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410",
+        "variant_ids": [
+          43739766653116,
+          43739766685884,
+          43739766718652,
+          43739766751420,
+          43739766784188
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 885,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102112956,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766784188,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2116-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153545916,
+        "product_id": 8369955045564,
+        "position": 9,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:30-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410",
+        "variant_ids": [
+          43739766653116,
+          43739766685884,
+          43739766718652,
+          43739766751420,
+          43739766784188
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 907,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102112956,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43922719015100,
+      "title": "Burgundy Wash / Small",
+      "option1": "Burgundy Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2116-BURGW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153611452,
+        "product_id": 8369955045564,
+        "position": 2,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:33-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413",
+        "variant_ids": [
+          43922719015100,
+          43922719047868,
+          43922719080636,
+          43922719113404,
+          43922719146172
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Burgundy Wash / Small",
+      "public_title": "Burgundy Wash / Small",
+      "options": [
+        "Burgundy Wash",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 748,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BURGW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102178492,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43922719047868,
+      "title": "Burgundy Wash / Medium",
+      "option1": "Burgundy Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2116-BURGW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153611452,
+        "product_id": 8369955045564,
+        "position": 2,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:33-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413",
+        "variant_ids": [
+          43922719015100,
+          43922719047868,
+          43922719080636,
+          43922719113404,
+          43922719146172
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Burgundy Wash / Medium",
+      "public_title": "Burgundy Wash / Medium",
+      "options": [
+        "Burgundy Wash",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BURGW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102178492,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43922719080636,
+      "title": "Burgundy Wash / Large",
+      "option1": "Burgundy Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2116-BURGW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153611452,
+        "product_id": 8369955045564,
+        "position": 2,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:33-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413",
+        "variant_ids": [
+          43922719015100,
+          43922719047868,
+          43922719080636,
+          43922719113404,
+          43922719146172
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Burgundy Wash / Large",
+      "public_title": "Burgundy Wash / Large",
+      "options": [
+        "Burgundy Wash",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BURGW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102178492,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43922719113404,
+      "title": "Burgundy Wash / XLarge",
+      "option1": "Burgundy Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2116-BURGW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153611452,
+        "product_id": 8369955045564,
+        "position": 2,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:33-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413",
+        "variant_ids": [
+          43922719015100,
+          43922719047868,
+          43922719080636,
+          43922719113404,
+          43922719146172
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Burgundy Wash / XLarge",
+      "public_title": "Burgundy Wash / XLarge",
+      "options": [
+        "Burgundy Wash",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 862,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BURGW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102178492,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43922719146172,
+      "title": "Burgundy Wash / XXLarge",
+      "option1": "Burgundy Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2116-BURGW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153611452,
+        "product_id": 8369955045564,
+        "position": 2,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:33-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413",
+        "variant_ids": [
+          43922719015100,
+          43922719047868,
+          43922719080636,
+          43922719113404,
+          43922719146172
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Burgundy Wash / XXLarge",
+      "public_title": "Burgundy Wash / XXLarge",
+      "options": [
+        "Burgundy Wash",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 907,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-BURGW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102178492,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766816956,
+      "title": "Charcoal Wash / Small",
+      "option1": "Charcoal Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2116-CHARW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153578684,
+        "product_id": 8369955045564,
+        "position": 10,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415",
+        "variant_ids": [
+          43739766816956,
+          43739766849724,
+          43739766882492,
+          43739766915260,
+          43739766948028
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Charcoal Wash / Small",
+      "public_title": "Charcoal Wash / Small",
+      "options": [
+        "Charcoal Wash",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 748,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-CHARW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102211260,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766849724,
+      "title": "Charcoal Wash / Medium",
+      "option1": "Charcoal Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2116-CHARW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153578684,
+        "product_id": 8369955045564,
+        "position": 10,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415",
+        "variant_ids": [
+          43739766816956,
+          43739766849724,
+          43739766882492,
+          43739766915260,
+          43739766948028
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Charcoal Wash / Medium",
+      "public_title": "Charcoal Wash / Medium",
+      "options": [
+        "Charcoal Wash",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 794,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-CHARW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102211260,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766882492,
+      "title": "Charcoal Wash / Large",
+      "option1": "Charcoal Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2116-CHARW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153578684,
+        "product_id": 8369955045564,
+        "position": 10,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415",
+        "variant_ids": [
+          43739766816956,
+          43739766849724,
+          43739766882492,
+          43739766915260,
+          43739766948028
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Charcoal Wash / Large",
+      "public_title": "Charcoal Wash / Large",
+      "options": [
+        "Charcoal Wash",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-CHARW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102211260,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766915260,
+      "title": "Charcoal Wash / XLarge",
+      "option1": "Charcoal Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2116-CHARW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153578684,
+        "product_id": 8369955045564,
+        "position": 10,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415",
+        "variant_ids": [
+          43739766816956,
+          43739766849724,
+          43739766882492,
+          43739766915260,
+          43739766948028
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Charcoal Wash / XLarge",
+      "public_title": "Charcoal Wash / XLarge",
+      "options": [
+        "Charcoal Wash",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 885,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-CHARW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102211260,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766948028,
+      "title": "Charcoal Wash / XXLarge",
+      "option1": "Charcoal Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2116-CHARW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153578684,
+        "product_id": 8369955045564,
+        "position": 10,
+        "created_at": "2024-11-11T17:17:24-08:00",
+        "updated_at": "2024-11-12T14:43:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415",
+        "variant_ids": [
+          43739766816956,
+          43739766849724,
+          43739766882492,
+          43739766915260,
+          43739766948028
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Charcoal Wash / XXLarge",
+      "public_title": "Charcoal Wash / XXLarge",
+      "options": [
+        "Charcoal Wash",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 907,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-CHARW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102211260,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739766980796,
+      "title": "Deep Navy Wash / Small",
+      "option1": "Deep Navy Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2116-DNVYW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153480380,
+        "product_id": 8369955045564,
+        "position": 8,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:32-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412",
+        "variant_ids": [
+          43739766980796,
+          43739767013564,
+          43739767046332,
+          43739767079100,
+          43739767111868
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Deep Navy Wash / Small",
+      "public_title": "Deep Navy Wash / Small",
+      "options": [
+        "Deep Navy Wash",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-DNVYW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102047420,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767013564,
+      "title": "Deep Navy Wash / Medium",
+      "option1": "Deep Navy Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2116-DNVYW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153480380,
+        "product_id": 8369955045564,
+        "position": 8,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:32-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412",
+        "variant_ids": [
+          43739766980796,
+          43739767013564,
+          43739767046332,
+          43739767079100,
+          43739767111868
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Deep Navy Wash / Medium",
+      "public_title": "Deep Navy Wash / Medium",
+      "options": [
+        "Deep Navy Wash",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-DNVYW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102047420,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767046332,
+      "title": "Deep Navy Wash / Large",
+      "option1": "Deep Navy Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2116-DNVYW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153480380,
+        "product_id": 8369955045564,
+        "position": 8,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:32-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412",
+        "variant_ids": [
+          43739766980796,
+          43739767013564,
+          43739767046332,
+          43739767079100,
+          43739767111868
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Deep Navy Wash / Large",
+      "public_title": "Deep Navy Wash / Large",
+      "options": [
+        "Deep Navy Wash",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 839,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-DNVYW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102047420,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767079100,
+      "title": "Deep Navy Wash / XLarge",
+      "option1": "Deep Navy Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2116-DNVYW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153480380,
+        "product_id": 8369955045564,
+        "position": 8,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:32-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412",
+        "variant_ids": [
+          43739766980796,
+          43739767013564,
+          43739767046332,
+          43739767079100,
+          43739767111868
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Deep Navy Wash / XLarge",
+      "public_title": "Deep Navy Wash / XLarge",
+      "options": [
+        "Deep Navy Wash",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 862,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-DNVYW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102047420,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767111868,
+      "title": "Deep Navy Wash / XXLarge",
+      "option1": "Deep Navy Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2116-DNVYW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153480380,
+        "product_id": 8369955045564,
+        "position": 8,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:32-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412",
+        "variant_ids": [
+          43739766980796,
+          43739767013564,
+          43739767046332,
+          43739767079100,
+          43739767111868
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Deep Navy Wash / XXLarge",
+      "public_title": "Deep Navy Wash / XXLarge",
+      "options": [
+        "Deep Navy Wash",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 907,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-DNVYW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102047420,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767144636,
+      "title": "Hunter Green Wash / Small",
+      "option1": "Hunter Green Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2116-HGRNW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153513148,
+        "product_id": 8369955045564,
+        "position": 11,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:37-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417",
+        "variant_ids": [
+          43739767144636,
+          43739767177404,
+          43739767210172,
+          43739767242940,
+          43739767275708
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Hunter Green Wash / Small",
+      "public_title": "Hunter Green Wash / Small",
+      "options": [
+        "Hunter Green Wash",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 748,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-HGRNW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102080188,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767177404,
+      "title": "Hunter Green Wash / Medium",
+      "option1": "Hunter Green Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2116-HGRNW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153513148,
+        "product_id": 8369955045564,
+        "position": 11,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:37-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417",
+        "variant_ids": [
+          43739767144636,
+          43739767177404,
+          43739767210172,
+          43739767242940,
+          43739767275708
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Hunter Green Wash / Medium",
+      "public_title": "Hunter Green Wash / Medium",
+      "options": [
+        "Hunter Green Wash",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 748,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-HGRNW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102080188,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767210172,
+      "title": "Hunter Green Wash / Large",
+      "option1": "Hunter Green Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2116-HGRNW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153513148,
+        "product_id": 8369955045564,
+        "position": 11,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:37-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417",
+        "variant_ids": [
+          43739767144636,
+          43739767177404,
+          43739767210172,
+          43739767242940,
+          43739767275708
+        ]
+      },
+      "available": false,
+      "name": "2116 - Dynasty Sweats - Hunter Green Wash / Large",
+      "public_title": "Hunter Green Wash / Large",
+      "options": [
+        "Hunter Green Wash",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-HGRNW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102080188,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767242940,
+      "title": "Hunter Green Wash / XLarge",
+      "option1": "Hunter Green Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2116-HGRNW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153513148,
+        "product_id": 8369955045564,
+        "position": 11,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:37-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417",
+        "variant_ids": [
+          43739767144636,
+          43739767177404,
+          43739767210172,
+          43739767242940,
+          43739767275708
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Hunter Green Wash / XLarge",
+      "public_title": "Hunter Green Wash / XLarge",
+      "options": [
+        "Hunter Green Wash",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 839,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-HGRNW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102080188,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739767275708,
+      "title": "Hunter Green Wash / XXLarge",
+      "option1": "Hunter Green Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2116-HGRNW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002153513148,
+        "product_id": 8369955045564,
+        "position": 11,
+        "created_at": "2024-11-11T17:17:23-08:00",
+        "updated_at": "2024-11-12T14:43:37-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417",
+        "variant_ids": [
+          43739767144636,
+          43739767177404,
+          43739767210172,
+          43739767242940,
+          43739767275708
+        ]
+      },
+      "available": true,
+      "name": "2116 - Dynasty Sweats - Hunter Green Wash / XXLarge",
+      "public_title": "Hunter Green Wash / XXLarge",
+      "options": [
+        "Hunter Green Wash",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 907,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2116-HGRNW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349102080188,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8_e0927bb0-aaf0-408a-8ec7-406731197880.jpg?v=1731624184",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_25_jerdani_lookbook.jpg?v=1731451408",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/DTLA0895edited.jpg?v=1731624183",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_240497.jpg?v=1731624185",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Brandon_eComm6265.jpg?v=1731364858",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_003_11_26_rudy_ecomm_14e5e2d6-d717-4313-b73b-0f2468c07e7b.jpg?v=1731451414",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2116-Size-Chart.png?v=1729896530"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/8_e0927bb0-aaf0-408a-8ec7-406731197880.jpg?v=1731624184",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Burgundy Wash",
+        "Charcoal Wash",
+        "Deep Navy Wash",
+        "Hunter Green Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/2116",
+  "media": [
+    {
+      "alt": null,
+      "id": 32366932951228,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1861,
+        "width": 1241,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8_e0927bb0-aaf0-408a-8ec7-406731197880.jpg?v=1731624184"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1861,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8_e0927bb0-aaf0-408a-8ec7-406731197880.jpg?v=1731624184",
+      "width": 1241
+    },
+    {
+      "alt": null,
+      "id": 32349102178492,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_burgundy-wash_002_11_26_rudy_ecomm_356c3996-bda7-4db8-bc78-32c7e2f01d50.jpg?v=1731451413",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32447557271740,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/4bd8e92052024826921348df9a4a4ee8.thumbnail.0000000000.jpg?v=1732307190"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 21330,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4bd8e92052024826921348df9a4a4ee8/4bd8e92052024826921348df9a4a4ee8.SD-480p-0.9Mbps-38583924.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4bd8e92052024826921348df9a4a4ee8/4bd8e92052024826921348df9a4a4ee8.HD-1080p-2.5Mbps-38583924.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4bd8e92052024826921348df9a4a4ee8/4bd8e92052024826921348df9a4a4ee8.HD-720p-1.6Mbps-38583924.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/4bd8e92052024826921348df9a4a4ee8/4bd8e92052024826921348df9a4a4ee8.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32349103980732,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3328,
+        "width": 2219,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_25_jerdani_lookbook.jpg?v=1731451408"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3328,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_25_jerdani_lookbook.jpg?v=1731451408",
+      "width": 2219
+    },
+    {
+      "alt": null,
+      "id": 32367388426428,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1929,
+        "width": 1286,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/DTLA0895edited.jpg?v=1731624183"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1929,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/DTLA0895edited.jpg?v=1731624183",
+      "width": 1286
+    },
+    {
+      "alt": null,
+      "id": 32370236391612,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_240497.jpg?v=1731624185"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_240497.jpg?v=1731624185",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32347910930620,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1830,
+        "width": 1220,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Brandon_eComm6265.jpg?v=1731364858"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1830,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Brandon_eComm6265.jpg?v=1731364858",
+      "width": 1220
+    },
+    {
+      "alt": null,
+      "id": 32349102145724,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_003_11_26_rudy_ecomm_14e5e2d6-d717-4313-b73b-0f2468c07e7b.jpg?v=1731451414"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_003_11_26_rudy_ecomm_14e5e2d6-d717-4313-b73b-0f2468c07e7b.jpg?v=1731451414",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349102047420,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_deep-navy-wash_002_11_26_rudy_ecomm_0f456f19-41cd-49f7-87ba-3accfe88fba5.jpg?v=1731451412",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349102112956,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_black-wash_002_11_26_rudy_ecomm_07440072-3ae9-47ed-9cce-301ab56e78ef.jpg?v=1731451410",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349102211260,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_charcoal-wash_002_11_26_rudy_ecomm_0313701c-4448-4173-8d27-aabd3f72a2e1.jpg?v=1731451415",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349102080188,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116_hunter-green-wash_002_11_26_rudy_ecomm_ee48794d-f823-44ea-bda1-4b6469662bf2.jpg?v=1731451417",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32223411339452,
+      "position": 13,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116-Size-Chart.png?v=1729896530"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2116-Size-Chart.png?v=1729896530",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

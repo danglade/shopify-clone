@@ -4,6 +4,7 @@ import { useState, useMemo, useEffect } from "react";
 import { type Product, type Variant } from "@/db/schema";
 import { Button } from "./ui/button";
 import { cn } from "@/lib/utils";
+import Image from "next/image";
 
 type ProductWithVariants = Product & {
   variants: Variant[];
@@ -28,6 +29,17 @@ export default function VariantSelector({
   const colors = useMemo(() => {
     return [...new Set(product.variants.map((v) => v.color))];
   }, [product.variants]);
+
+  const colorImages = useMemo(() => {
+    const imageMap = new Map<string, string | null>();
+    for (const color of colors) {
+      const variantForColor = product.variants.find(
+        (v) => v.color === color && v.image
+      );
+      imageMap.set(color, variantForColor?.image ?? null);
+    }
+    return imageMap;
+  }, [colors, product.variants]);
 
   const sizes = useMemo(() => {
     if (!selectedColor) {
@@ -56,23 +68,42 @@ export default function VariantSelector({
       <div>
         <h3 className="text-sm font-medium text-gray-900">Color</h3>
         <div className="flex items-center space-x-3 mt-2">
-          {colors.map((color) => (
-            <button
-              key={color}
-              type="button"
-              onClick={() => setSelectedColor(color)}
-              className={cn(
-                "relative -m-0.5 flex cursor-pointer items-center justify-center rounded-full p-0.5 focus:outline-none",
-                selectedColor === color &&
-                  "ring-2 ring-indigo-500 ring-offset-2"
-              )}
-              style={{ backgroundColor: color.toLowerCase() }}
-              aria-label={color}
-            >
-              <span className="sr-only">{color}</span>
-              <span className="h-8 w-8 rounded-full border border-black border-opacity-10"></span>
-            </button>
-          ))}
+          {colors.map((color) => {
+            const imageUrl = colorImages.get(color);
+            return (
+              <button
+                key={color}
+                type="button"
+                onClick={() => setSelectedColor(color)}
+                className={cn(
+                  "relative h-16 w-16 rounded-md overflow-hidden cursor-pointer border-2",
+                  selectedColor === color
+                    ? "border-indigo-500"
+                    : "border-transparent"
+                )}
+                aria-label={color}
+              >
+                {imageUrl ? (
+                  <Image
+                    src={
+                      imageUrl.startsWith("//")
+                        ? `https:${imageUrl}`
+                        : imageUrl
+                    }
+                    alt={color}
+                    width={64}
+                    height={64}
+                    className="w-full h-full object-cover object-center"
+                  />
+                ) : (
+                  <div
+                    className="w-full h-full"
+                    style={{ backgroundColor: color.toLowerCase() }}
+                  />
+                )}
+              </button>
+            );
+          })}
         </div>
       </div>
 
@@ -86,7 +117,7 @@ export default function VariantSelector({
             Size guide
           </a>
         </div>
-        <div className="grid grid-cols-4 gap-4 sm:grid-cols-8 lg:grid-cols-4 mt-2">
+        <div className="flex flex-wrap gap-4 mt-2">
           {sizes.map((size) => (
             <Button
               key={size}

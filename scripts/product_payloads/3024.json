@@ -1,0 +1,1471 @@
+{
+  "id": 8615113031868,
+  "title": "3024 - Cotton Mesh Tanks",
+  "handle": "3024",
+  "description": "<p><strong>MATERIAL: </strong>100% Cotton.</p>\n<p><strong>FABRIC WEIGHT: </strong>230 GSM.</p>\n<p><strong>FIT:<span> </span></strong>True to Size.\u00a0</p>\n<p><strong>DESIGN: </strong>Stay cool and styled in the Cotton Mesh Tank \u2014 crafted from breathable 100% cotton with a true-to-size fit. The open-knit mesh design delivers airflow and texture, making it the perfect lightweight layer for summer days, beach hangs, or festival fits. Clean, simple, and built to flex.</p>\n<p><strong>MODEL: </strong>The model in the first photo is wearing a size Medium. Weight 185lb Height 5'11.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/3024-Size-Chart_04daffef-8797-4dcc-829d-ad18d4e278f5_600x600.png?v=1740416835\" style=\"margin-bottom: 16px; float: none;\"></div>",
+  "published_at": "2025-05-23T10:59:51-07:00",
+  "created_at": "2024-11-04T09:09:07-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "Jane",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3400,
+  "price_min": 3400,
+  "price_max": 3400,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44243741507772,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3024-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296126140,
+        "product_id": 8615113031868,
+        "position": 8,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741507772,
+          44243741540540,
+          44243741573308,
+          44243741606076,
+          44243741638844
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856122044,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741540540,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3024-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296126140,
+        "product_id": 8615113031868,
+        "position": 8,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741507772,
+          44243741540540,
+          44243741573308,
+          44243741606076,
+          44243741638844
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856122044,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741573308,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3024-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296126140,
+        "product_id": 8615113031868,
+        "position": 8,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741507772,
+          44243741540540,
+          44243741573308,
+          44243741606076,
+          44243741638844
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856122044,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741606076,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3024-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296126140,
+        "product_id": 8615113031868,
+        "position": 8,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741507772,
+          44243741540540,
+          44243741573308,
+          44243741606076,
+          44243741638844
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856122044,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741638844,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3024-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296126140,
+        "product_id": 8615113031868,
+        "position": 8,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741507772,
+          44243741540540,
+          44243741573308,
+          44243741606076,
+          44243741638844
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856122044,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741671612,
+      "title": "Brown / Small",
+      "option1": "Brown",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3024-BRWN-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296224444,
+        "product_id": 8615113031868,
+        "position": 9,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741671612,
+          44243741704380,
+          44243741737148,
+          44243741769916,
+          44243741802684
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Brown / Small",
+      "public_title": "Brown / Small",
+      "options": [
+        "Brown",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BRWN-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147855925436,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741704380,
+      "title": "Brown / Medium",
+      "option1": "Brown",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3024-BRWN-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296224444,
+        "product_id": 8615113031868,
+        "position": 9,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741671612,
+          44243741704380,
+          44243741737148,
+          44243741769916,
+          44243741802684
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Brown / Medium",
+      "public_title": "Brown / Medium",
+      "options": [
+        "Brown",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BRWN-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147855925436,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741737148,
+      "title": "Brown / Large",
+      "option1": "Brown",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3024-BRWN-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296224444,
+        "product_id": 8615113031868,
+        "position": 9,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741671612,
+          44243741704380,
+          44243741737148,
+          44243741769916,
+          44243741802684
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Brown / Large",
+      "public_title": "Brown / Large",
+      "options": [
+        "Brown",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BRWN-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147855925436,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741769916,
+      "title": "Brown / XLarge",
+      "option1": "Brown",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3024-BRWN-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296224444,
+        "product_id": 8615113031868,
+        "position": 9,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741671612,
+          44243741704380,
+          44243741737148,
+          44243741769916,
+          44243741802684
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Brown / XLarge",
+      "public_title": "Brown / XLarge",
+      "options": [
+        "Brown",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BRWN-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147855925436,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741802684,
+      "title": "Brown / XXLarge",
+      "option1": "Brown",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3024-BRWN-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296224444,
+        "product_id": 8615113031868,
+        "position": 9,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741671612,
+          44243741704380,
+          44243741737148,
+          44243741769916,
+          44243741802684
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Brown / XXLarge",
+      "public_title": "Brown / XXLarge",
+      "options": [
+        "Brown",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-BRWN-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147855925436,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741835452,
+      "title": "Tan / Small",
+      "option1": "Tan",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3024-TAN-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296257212,
+        "product_id": 8615113031868,
+        "position": 7,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741835452,
+          44243741868220,
+          44243741900988,
+          44243741933756,
+          44243741966524
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Tan / Small",
+      "public_title": "Tan / Small",
+      "options": [
+        "Tan",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-TAN-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856056508,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741868220,
+      "title": "Tan / Medium",
+      "option1": "Tan",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3024-TAN-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296257212,
+        "product_id": 8615113031868,
+        "position": 7,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741835452,
+          44243741868220,
+          44243741900988,
+          44243741933756,
+          44243741966524
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Tan / Medium",
+      "public_title": "Tan / Medium",
+      "options": [
+        "Tan",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-TAN-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856056508,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741900988,
+      "title": "Tan / Large",
+      "option1": "Tan",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3024-TAN-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296257212,
+        "product_id": 8615113031868,
+        "position": 7,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741835452,
+          44243741868220,
+          44243741900988,
+          44243741933756,
+          44243741966524
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Tan / Large",
+      "public_title": "Tan / Large",
+      "options": [
+        "Tan",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-TAN-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856056508,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741933756,
+      "title": "Tan / XLarge",
+      "option1": "Tan",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3024-TAN-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296257212,
+        "product_id": 8615113031868,
+        "position": 7,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741835452,
+          44243741868220,
+          44243741900988,
+          44243741933756,
+          44243741966524
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Tan / XLarge",
+      "public_title": "Tan / XLarge",
+      "options": [
+        "Tan",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-TAN-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856056508,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741966524,
+      "title": "Tan / XXLarge",
+      "option1": "Tan",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3024-TAN-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296257212,
+        "product_id": 8615113031868,
+        "position": 7,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741835452,
+          44243741868220,
+          44243741900988,
+          44243741933756,
+          44243741966524
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - Tan / XXLarge",
+      "public_title": "Tan / XXLarge",
+      "options": [
+        "Tan",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-TAN-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856056508,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243741999292,
+      "title": "White / Small",
+      "option1": "White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3024-WHTE-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296191676,
+        "product_id": 8615113031868,
+        "position": 10,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741999292,
+          44243742032060,
+          44243742064828,
+          44243742097596,
+          44243742130364
+        ]
+      },
+      "available": false,
+      "name": "3024 - Cotton Mesh Tanks - White / Small",
+      "public_title": "White / Small",
+      "options": [
+        "White",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-WHTE-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856089276,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243742032060,
+      "title": "White / Medium",
+      "option1": "White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3024-WHTE-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296191676,
+        "product_id": 8615113031868,
+        "position": 10,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741999292,
+          44243742032060,
+          44243742064828,
+          44243742097596,
+          44243742130364
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - White / Medium",
+      "public_title": "White / Medium",
+      "options": [
+        "White",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-WHTE-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856089276,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243742064828,
+      "title": "White / Large",
+      "option1": "White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3024-WHTE-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296191676,
+        "product_id": 8615113031868,
+        "position": 10,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741999292,
+          44243742032060,
+          44243742064828,
+          44243742097596,
+          44243742130364
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - White / Large",
+      "public_title": "White / Large",
+      "options": [
+        "White",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-WHTE-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856089276,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243742097596,
+      "title": "White / XLarge",
+      "option1": "White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3024-WHTE-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296191676,
+        "product_id": 8615113031868,
+        "position": 10,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741999292,
+          44243742032060,
+          44243742064828,
+          44243742097596,
+          44243742130364
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - White / XLarge",
+      "public_title": "White / XLarge",
+      "options": [
+        "White",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-WHTE-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856089276,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44243742130364,
+      "title": "White / XXLarge",
+      "option1": "White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3024-WHTE-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42617296191676,
+        "product_id": 8615113031868,
+        "position": 10,
+        "created_at": "2025-05-21T11:35:18-07:00",
+        "updated_at": "2025-06-04T11:18:31-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111",
+        "variant_ids": [
+          44243741999292,
+          44243742032060,
+          44243742064828,
+          44243742097596,
+          44243742130364
+        ]
+      },
+      "available": true,
+      "name": "3024 - Cotton Mesh Tanks - White / XXLarge",
+      "public_title": "White / XXLarge",
+      "options": [
+        "White",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3024-WHTE-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34147856089276,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Tanks-34.jpg?v=1749065338",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA33jpg.jpg?v=1749061111",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Tanks-11.jpg?v=1749065338",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA2.8.jpg?v=1749061111",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_003_06_04_johnny_ecomm.jpg?v=1749065340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_003_06_04_floor.jpg?v=1749061111",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3024-Size-Chart.png?v=1749061111"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Tanks-34.jpg?v=1749065338",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Brown",
+        "Tan",
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/3024",
+  "media": [
+    {
+      "alt": null,
+      "id": 34326709829820,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1587,
+        "width": 1058,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Tanks-34.jpg?v=1749065338"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1587,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Tanks-34.jpg?v=1749065338",
+      "width": 1058
+    },
+    {
+      "alt": null,
+      "id": 34217539993788,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2304,
+        "width": 1536,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA33jpg.jpg?v=1749061111"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2304,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA33jpg.jpg?v=1749061111",
+      "width": 1536
+    },
+    {
+      "alt": null,
+      "id": 34275252863164,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/f80c5c810d904bf8a13d786295435c1a.thumbnail.0000000000.jpg?v=1748887697"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 27050,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/f80c5c810d904bf8a13d786295435c1a/f80c5c810d904bf8a13d786295435c1a.SD-480p-1.5Mbps-48680004.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/f80c5c810d904bf8a13d786295435c1a/f80c5c810d904bf8a13d786295435c1a.HD-1080p-7.2Mbps-48680004.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/f80c5c810d904bf8a13d786295435c1a/f80c5c810d904bf8a13d786295435c1a.HD-720p-4.5Mbps-48680004.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/f80c5c810d904bf8a13d786295435c1a/f80c5c810d904bf8a13d786295435c1a.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 34326750199996,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1668,
+        "width": 1112,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Tanks-11.jpg?v=1749065338"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1668,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_Tanks-11.jpg?v=1749065338",
+      "width": 1112
+    },
+    {
+      "alt": null,
+      "id": 34217540059324,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2286,
+        "width": 1524,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA2.8.jpg?v=1749061111"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2286,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA2.8.jpg?v=1749061111",
+      "width": 1524
+    },
+    {
+      "alt": null,
+      "id": 34326856368316,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3456,
+        "width": 2304,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_003_06_04_johnny_ecomm.jpg?v=1749065340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3456,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_003_06_04_johnny_ecomm.jpg?v=1749065340",
+      "width": 2304
+    },
+    {
+      "alt": null,
+      "id": 34147856023740,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_003_06_04_floor.jpg?v=1749061111"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_003_06_04_floor.jpg?v=1749061111",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147856056508,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_tan_001_06_04_floor.jpg?v=1749061111",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147856122044,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_black_001_06_04_floor.jpg?v=1749061111",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147855925436,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_brown_001_06_04_floor.jpg?v=1749061111",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147856089276,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024_white_001_06_04_floor.jpg?v=1749061111",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33272671928508,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024-Size-Chart.png?v=1749061111"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3024-Size-Chart.png?v=1749061111",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

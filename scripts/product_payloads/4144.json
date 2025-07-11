@@ -1,0 +1,1471 @@
+{
+  "id": 8616615084220,
+  "title": "4144 - Distressed Tees",
+  "handle": "4144",
+  "description": "<p><strong>MATERIAL: </strong>100% Cotton.</p>\n<p><strong>FABRIC WEIGHT: </strong>290 GSM.</p>\n<p><strong>FIT: </strong>Oversized.</p>\n<p><strong>DESIGN: </strong>Meet the Distressed Tee \u2014 an essential with edge. Made from 100% cotton at 290 GSM, this oversized tee features raw hole cuts throughout the body for a grunged-out, lived-in feel.</p>\n<p><strong>MODEL: </strong>The model in the first photo is wearing a size Medium. Weight 185lb Height 5'11.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4144-Size-Chart_33157368-ed15-4db4-b53c-408f11dcdd0e_600x600.png?v=1747181916\" style=\"margin-bottom: 16px; float: none;\"></div>",
+  "published_at": "2025-05-23T10:59:52-07:00",
+  "created_at": "2024-11-06T12:00:17-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 3600,
+  "price_min": 3600,
+  "price_max": 3600,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44249436553404,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4144-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42905004703932,
+        "product_id": 8616615084220,
+        "position": 8,
+        "created_at": "2025-06-04T11:35:08-07:00",
+        "updated_at": "2025-06-04T12:29:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352",
+        "variant_ids": [
+          44249436553404,
+          44249436586172,
+          44249436618940,
+          44249436651708,
+          44249436684476
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 340,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34327425351868,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436586172,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4144-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42905004703932,
+        "product_id": 8616615084220,
+        "position": 8,
+        "created_at": "2025-06-04T11:35:08-07:00",
+        "updated_at": "2025-06-04T12:29:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352",
+        "variant_ids": [
+          44249436553404,
+          44249436586172,
+          44249436618940,
+          44249436651708,
+          44249436684476
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34327425351868,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436618940,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4144-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42905004703932,
+        "product_id": 8616615084220,
+        "position": 8,
+        "created_at": "2025-06-04T11:35:08-07:00",
+        "updated_at": "2025-06-04T12:29:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352",
+        "variant_ids": [
+          44249436553404,
+          44249436586172,
+          44249436618940,
+          44249436651708,
+          44249436684476
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34327425351868,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436651708,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4144-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42905004703932,
+        "product_id": 8616615084220,
+        "position": 8,
+        "created_at": "2025-06-04T11:35:08-07:00",
+        "updated_at": "2025-06-04T12:29:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352",
+        "variant_ids": [
+          44249436553404,
+          44249436586172,
+          44249436618940,
+          44249436651708,
+          44249436684476
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34327425351868,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436684476,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4144-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42905004703932,
+        "product_id": 8616615084220,
+        "position": 8,
+        "created_at": "2025-06-04T11:35:08-07:00",
+        "updated_at": "2025-06-04T12:29:12-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352",
+        "variant_ids": [
+          44249436553404,
+          44249436586172,
+          44249436618940,
+          44249436651708,
+          44249436684476
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 408,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34327425351868,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436717244,
+      "title": "Charcoal / Small",
+      "option1": "Charcoal",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4144-CHAR-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872302780,
+        "product_id": 8616615084220,
+        "position": 10,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436717244,
+          44249436750012,
+          44249436782780,
+          44249436815548,
+          44249436848316
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Charcoal / Small",
+      "public_title": "Charcoal / Small",
+      "options": [
+        "Charcoal",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-CHAR-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895708348,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436750012,
+      "title": "Charcoal / Medium",
+      "option1": "Charcoal",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4144-CHAR-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872302780,
+        "product_id": 8616615084220,
+        "position": 10,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436717244,
+          44249436750012,
+          44249436782780,
+          44249436815548,
+          44249436848316
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Charcoal / Medium",
+      "public_title": "Charcoal / Medium",
+      "options": [
+        "Charcoal",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 340,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-CHAR-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895708348,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436782780,
+      "title": "Charcoal / Large",
+      "option1": "Charcoal",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4144-CHAR-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872302780,
+        "product_id": 8616615084220,
+        "position": 10,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436717244,
+          44249436750012,
+          44249436782780,
+          44249436815548,
+          44249436848316
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Charcoal / Large",
+      "public_title": "Charcoal / Large",
+      "options": [
+        "Charcoal",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-CHAR-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895708348,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436815548,
+      "title": "Charcoal / XLarge",
+      "option1": "Charcoal",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4144-CHAR-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872302780,
+        "product_id": 8616615084220,
+        "position": 10,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436717244,
+          44249436750012,
+          44249436782780,
+          44249436815548,
+          44249436848316
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Charcoal / XLarge",
+      "public_title": "Charcoal / XLarge",
+      "options": [
+        "Charcoal",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-CHAR-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895708348,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436848316,
+      "title": "Charcoal / XXLarge",
+      "option1": "Charcoal",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4144-CHAR-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872302780,
+        "product_id": 8616615084220,
+        "position": 10,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436717244,
+          44249436750012,
+          44249436782780,
+          44249436815548,
+          44249436848316
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Charcoal / XXLarge",
+      "public_title": "Charcoal / XXLarge",
+      "options": [
+        "Charcoal",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 408,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-CHAR-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895708348,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436881084,
+      "title": "Off-White / Small",
+      "option1": "Off-White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4144-OWHT-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872237244,
+        "product_id": 8616615084220,
+        "position": 9,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436881084,
+          44249436913852,
+          44249436946620,
+          44249436979388,
+          44249437012156
+        ]
+      },
+      "available": false,
+      "name": "4144 - Distressed Tees - Off-White / Small",
+      "public_title": "Off-White / Small",
+      "options": [
+        "Off-White",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 340,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-OWHT-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895773884,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436913852,
+      "title": "Off-White / Medium",
+      "option1": "Off-White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4144-OWHT-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872237244,
+        "product_id": 8616615084220,
+        "position": 9,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436881084,
+          44249436913852,
+          44249436946620,
+          44249436979388,
+          44249437012156
+        ]
+      },
+      "available": false,
+      "name": "4144 - Distressed Tees - Off-White / Medium",
+      "public_title": "Off-White / Medium",
+      "options": [
+        "Off-White",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-OWHT-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895773884,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436946620,
+      "title": "Off-White / Large",
+      "option1": "Off-White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4144-OWHT-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872237244,
+        "product_id": 8616615084220,
+        "position": 9,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436881084,
+          44249436913852,
+          44249436946620,
+          44249436979388,
+          44249437012156
+        ]
+      },
+      "available": false,
+      "name": "4144 - Distressed Tees - Off-White / Large",
+      "public_title": "Off-White / Large",
+      "options": [
+        "Off-White",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-OWHT-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895773884,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249436979388,
+      "title": "Off-White / XLarge",
+      "option1": "Off-White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4144-OWHT-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872237244,
+        "product_id": 8616615084220,
+        "position": 9,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436881084,
+          44249436913852,
+          44249436946620,
+          44249436979388,
+          44249437012156
+        ]
+      },
+      "available": false,
+      "name": "4144 - Distressed Tees - Off-White / XLarge",
+      "public_title": "Off-White / XLarge",
+      "options": [
+        "Off-White",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 408,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-OWHT-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895773884,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249437012156,
+      "title": "Off-White / XXLarge",
+      "option1": "Off-White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4144-OWHT-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872237244,
+        "product_id": 8616615084220,
+        "position": 9,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-06-04T11:35:21-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121",
+        "variant_ids": [
+          44249436881084,
+          44249436913852,
+          44249436946620,
+          44249436979388,
+          44249437012156
+        ]
+      },
+      "available": false,
+      "name": "4144 - Distressed Tees - Off-White / XXLarge",
+      "public_title": "Off-White / XXLarge",
+      "options": [
+        "Off-White",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 431,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-OWHT-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895773884,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249437044924,
+      "title": "Teal / Small",
+      "option1": "Teal",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4144-TEAL-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872270012,
+        "product_id": 8616615084220,
+        "position": 1,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-05-23T12:28:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539",
+        "variant_ids": [
+          44249437044924,
+          44249437077692,
+          44249437110460,
+          44249437143228,
+          44249437175996
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Teal / Small",
+      "public_title": "Teal / Small",
+      "options": [
+        "Teal",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-TEAL-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895806652,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249437077692,
+      "title": "Teal / Medium",
+      "option1": "Teal",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4144-TEAL-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872270012,
+        "product_id": 8616615084220,
+        "position": 1,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-05-23T12:28:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539",
+        "variant_ids": [
+          44249437044924,
+          44249437077692,
+          44249437110460,
+          44249437143228,
+          44249437175996
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Teal / Medium",
+      "public_title": "Teal / Medium",
+      "options": [
+        "Teal",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 340,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-TEAL-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895806652,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249437110460,
+      "title": "Teal / Large",
+      "option1": "Teal",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4144-TEAL-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872270012,
+        "product_id": 8616615084220,
+        "position": 1,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-05-23T12:28:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539",
+        "variant_ids": [
+          44249437044924,
+          44249437077692,
+          44249437110460,
+          44249437143228,
+          44249437175996
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Teal / Large",
+      "public_title": "Teal / Large",
+      "options": [
+        "Teal",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-TEAL-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895806652,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249437143228,
+      "title": "Teal / XLarge",
+      "option1": "Teal",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4144-TEAL-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872270012,
+        "product_id": 8616615084220,
+        "position": 1,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-05-23T12:28:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539",
+        "variant_ids": [
+          44249437044924,
+          44249437077692,
+          44249437110460,
+          44249437143228,
+          44249437175996
+        ]
+      },
+      "available": true,
+      "name": "4144 - Distressed Tees - Teal / XLarge",
+      "public_title": "Teal / XLarge",
+      "options": [
+        "Teal",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-TEAL-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895806652,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44249437175996,
+      "title": "Teal / XXLarge",
+      "option1": "Teal",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4144-TEAL-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42668872270012,
+        "product_id": 8616615084220,
+        "position": 1,
+        "created_at": "2025-05-23T10:38:09-07:00",
+        "updated_at": "2025-05-23T12:28:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539",
+        "variant_ids": [
+          44249437044924,
+          44249437077692,
+          44249437110460,
+          44249437143228,
+          44249437175996
+        ]
+      },
+      "available": false,
+      "name": "4144 - Distressed Tees - Teal / XXLarge",
+      "public_title": "Teal / XXLarge",
+      "options": [
+        "Teal",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4144-TEAL-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34178895806652,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.844.jpg?v=1748388535",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4014.jpg?v=1749059507",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5433_1eebd924-08f5-4356-a857-afc60afc40c8.jpg?v=1749059507",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4144_black_003_06_04_johnny_ecomm.jpg?v=1749059507",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_002_06_04_floor.jpg?v=1749059507",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_003_06_04_floor.jpg?v=1749059507",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4144-Size-Chart.png?v=1749062121"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Charcoal",
+        "Off-White",
+        "Teal"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4144",
+  "media": [
+    {
+      "alt": null,
+      "id": 34178895806652,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_009_06_04_johnny_ecomm.jpg?v=1748028539",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217486090428,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2300,
+        "width": 1533,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.844.jpg?v=1748388535"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2300,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.844.jpg?v=1748388535",
+      "width": 1533
+    },
+    {
+      "alt": null,
+      "id": 34326072230076,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/bcfcee28e338432ba289ed2f0ccad89c.thumbnail.0000000000.jpg?v=1749059535"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 29800,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/bcfcee28e338432ba289ed2f0ccad89c/bcfcee28e338432ba289ed2f0ccad89c.SD-480p-1.5Mbps-48824477.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/bcfcee28e338432ba289ed2f0ccad89c/bcfcee28e338432ba289ed2f0ccad89c.HD-1080p-7.2Mbps-48824477.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/bcfcee28e338432ba289ed2f0ccad89c/bcfcee28e338432ba289ed2f0ccad89c.HD-720p-4.5Mbps-48824477.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/bcfcee28e338432ba289ed2f0ccad89c/bcfcee28e338432ba289ed2f0ccad89c.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 34217486123196,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1473,
+        "width": 982,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4014.jpg?v=1749059507"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1473,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4014.jpg?v=1749059507",
+      "width": 982
+    },
+    {
+      "alt": null,
+      "id": 34217486155964,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2132,
+        "width": 1421,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5433_1eebd924-08f5-4356-a857-afc60afc40c8.jpg?v=1749059507"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2132,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5433_1eebd924-08f5-4356-a857-afc60afc40c8.jpg?v=1749059507",
+      "width": 1421
+    },
+    {
+      "alt": null,
+      "id": 34178895642812,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_003_06_04_johnny_ecomm.jpg?v=1749059507"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_003_06_04_johnny_ecomm.jpg?v=1749059507",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147406446780,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_002_06_04_floor.jpg?v=1749059507"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_002_06_04_floor.jpg?v=1749059507",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34147406479548,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_003_06_04_floor.jpg?v=1749059507"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_teal_003_06_04_floor.jpg?v=1749059507",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34327425351868,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_black_008_06_04_johnny_ecomm.jpg?v=1749065352",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34178895773884,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_off-white_004_06_04_alex_ecomm.jpg?v=1749062121",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34178895708348,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144_charcoal_005_06_04_alex_ecomm.jpg?v=1749062121",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34082437038268,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144-Size-Chart.png?v=1749062121"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4144-Size-Chart.png?v=1749062121",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

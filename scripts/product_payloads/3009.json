@@ -1,0 +1,1409 @@
+{
+  "id": 8381201678524,
+  "title": "3009 - Flex Stringers",
+  "handle": "3009",
+  "description": "<p><strong>MATERIAL: </strong>65% Polyester, 35% Viscose.</p>\n<p><strong>FABRIC WEIGHT: </strong>155 GSM</p>\n<p><strong>FIT: </strong>True to Size.</p>\n<p><strong>DESIGN: </strong>Engineered for intensity, the stringer\u00a0features a classic Y-back cut and breathable 155 GSM poly-viscose fabric. Stay dry, stay focused, and stay moving.</p>\n<p><strong>MODEL:</strong> The model in the first photo is wearing a size Medium. Weight: 175lb Height: 5'9.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/3009-Size-Chart_1f4d5cd9-824c-4ae9-a35a-064be610134c_600x600.png?v=1743708586\" style=\"margin-bottom: 16px; float: none;\"></div>",
+  "published_at": "2025-05-27T16:06:42-07:00",
+  "created_at": "2024-05-15T09:52:30-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "Danny",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3500,
+  "price_min": 3500,
+  "price_max": 3500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 43771452883132,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3009-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294668476,
+        "product_id": 8381201678524,
+        "position": 8,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771452883132,
+          43771452915900,
+          43771452948668,
+          43771452981436,
+          43771453014204
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621913788,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771452915900,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3009-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294668476,
+        "product_id": 8381201678524,
+        "position": 8,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771452883132,
+          43771452915900,
+          43771452948668,
+          43771452981436,
+          43771453014204
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621913788,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771452948668,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3009-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294668476,
+        "product_id": 8381201678524,
+        "position": 8,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771452883132,
+          43771452915900,
+          43771452948668,
+          43771452981436,
+          43771453014204
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621913788,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771452981436,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3009-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294668476,
+        "product_id": 8381201678524,
+        "position": 8,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771452883132,
+          43771452915900,
+          43771452948668,
+          43771452981436,
+          43771453014204
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621913788,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453014204,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3009-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294668476,
+        "product_id": 8381201678524,
+        "position": 8,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771452883132,
+          43771452915900,
+          43771452948668,
+          43771452981436,
+          43771453014204
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621913788,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453046972,
+      "title": "Light Grey / Small",
+      "option1": "Light Grey",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3009-LGREY-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294701244,
+        "product_id": 8381201678524,
+        "position": 9,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:17-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557",
+        "variant_ids": [
+          43771453046972,
+          43771453079740,
+          43771453112508,
+          43771453145276,
+          43771453178044
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Light Grey / Small",
+      "public_title": "Light Grey / Small",
+      "options": [
+        "Light Grey",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-LGREY-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621946556,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453079740,
+      "title": "Light Grey / Medium",
+      "option1": "Light Grey",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3009-LGREY-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294701244,
+        "product_id": 8381201678524,
+        "position": 9,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:17-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557",
+        "variant_ids": [
+          43771453046972,
+          43771453079740,
+          43771453112508,
+          43771453145276,
+          43771453178044
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Light Grey / Medium",
+      "public_title": "Light Grey / Medium",
+      "options": [
+        "Light Grey",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-LGREY-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621946556,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453112508,
+      "title": "Light Grey / Large",
+      "option1": "Light Grey",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3009-LGREY-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294701244,
+        "product_id": 8381201678524,
+        "position": 9,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:17-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557",
+        "variant_ids": [
+          43771453046972,
+          43771453079740,
+          43771453112508,
+          43771453145276,
+          43771453178044
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Light Grey / Large",
+      "public_title": "Light Grey / Large",
+      "options": [
+        "Light Grey",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-LGREY-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621946556,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453145276,
+      "title": "Light Grey / XLarge",
+      "option1": "Light Grey",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3009-LGREY-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294701244,
+        "product_id": 8381201678524,
+        "position": 9,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:17-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557",
+        "variant_ids": [
+          43771453046972,
+          43771453079740,
+          43771453112508,
+          43771453145276,
+          43771453178044
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Light Grey / XLarge",
+      "public_title": "Light Grey / XLarge",
+      "options": [
+        "Light Grey",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-LGREY-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621946556,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453178044,
+      "title": "Light Grey / XXLarge",
+      "option1": "Light Grey",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3009-LGREY-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294701244,
+        "product_id": 8381201678524,
+        "position": 9,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:17-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557",
+        "variant_ids": [
+          43771453046972,
+          43771453079740,
+          43771453112508,
+          43771453145276,
+          43771453178044
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Light Grey / XXLarge",
+      "public_title": "Light Grey / XXLarge",
+      "options": [
+        "Light Grey",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-LGREY-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621946556,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453210812,
+      "title": "Navy / Small",
+      "option1": "Navy",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3009-NAVY-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294734012,
+        "product_id": 8381201678524,
+        "position": 6,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555",
+        "variant_ids": [
+          43771453210812,
+          43771453243580,
+          43771453276348,
+          43771453309116,
+          43771453341884
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Navy / Small",
+      "public_title": "Navy / Small",
+      "options": [
+        "Navy",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-NAVY-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621848252,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453243580,
+      "title": "Navy / Medium",
+      "option1": "Navy",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3009-NAVY-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294734012,
+        "product_id": 8381201678524,
+        "position": 6,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555",
+        "variant_ids": [
+          43771453210812,
+          43771453243580,
+          43771453276348,
+          43771453309116,
+          43771453341884
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Navy / Medium",
+      "public_title": "Navy / Medium",
+      "options": [
+        "Navy",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-NAVY-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621848252,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453276348,
+      "title": "Navy / Large",
+      "option1": "Navy",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3009-NAVY-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294734012,
+        "product_id": 8381201678524,
+        "position": 6,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555",
+        "variant_ids": [
+          43771453210812,
+          43771453243580,
+          43771453276348,
+          43771453309116,
+          43771453341884
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Navy / Large",
+      "public_title": "Navy / Large",
+      "options": [
+        "Navy",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-NAVY-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621848252,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453309116,
+      "title": "Navy / XLarge",
+      "option1": "Navy",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3009-NAVY-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294734012,
+        "product_id": 8381201678524,
+        "position": 6,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555",
+        "variant_ids": [
+          43771453210812,
+          43771453243580,
+          43771453276348,
+          43771453309116,
+          43771453341884
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Navy / XLarge",
+      "public_title": "Navy / XLarge",
+      "options": [
+        "Navy",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-NAVY-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621848252,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453341884,
+      "title": "Navy / XXLarge",
+      "option1": "Navy",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3009-NAVY-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294734012,
+        "product_id": 8381201678524,
+        "position": 6,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555",
+        "variant_ids": [
+          43771453210812,
+          43771453243580,
+          43771453276348,
+          43771453309116,
+          43771453341884
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Navy / XXLarge",
+      "public_title": "Navy / XXLarge",
+      "options": [
+        "Navy",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-NAVY-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621848252,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453374652,
+      "title": "Red / Small",
+      "option1": "Red",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3009-RED-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294766780,
+        "product_id": 8381201678524,
+        "position": 7,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771453374652,
+          43771453407420,
+          43771453440188,
+          43771453472956,
+          43771453505724
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Red / Small",
+      "public_title": "Red / Small",
+      "options": [
+        "Red",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-RED-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621881020,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453407420,
+      "title": "Red / Medium",
+      "option1": "Red",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3009-RED-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294766780,
+        "product_id": 8381201678524,
+        "position": 7,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771453374652,
+          43771453407420,
+          43771453440188,
+          43771453472956,
+          43771453505724
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Red / Medium",
+      "public_title": "Red / Medium",
+      "options": [
+        "Red",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-RED-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621881020,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453440188,
+      "title": "Red / Large",
+      "option1": "Red",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3009-RED-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294766780,
+        "product_id": 8381201678524,
+        "position": 7,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771453374652,
+          43771453407420,
+          43771453440188,
+          43771453472956,
+          43771453505724
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Red / Large",
+      "public_title": "Red / Large",
+      "options": [
+        "Red",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-RED-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621881020,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453472956,
+      "title": "Red / XLarge",
+      "option1": "Red",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3009-RED-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294766780,
+        "product_id": 8381201678524,
+        "position": 7,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771453374652,
+          43771453407420,
+          43771453440188,
+          43771453472956,
+          43771453505724
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Red / XLarge",
+      "public_title": "Red / XLarge",
+      "options": [
+        "Red",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-RED-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621881020,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43771453505724,
+      "title": "Red / XXLarge",
+      "option1": "Red",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3009-RED-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732294766780,
+        "product_id": 8381201678524,
+        "position": 7,
+        "created_at": "2025-05-27T15:59:53-07:00",
+        "updated_at": "2025-05-27T16:29:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554",
+        "variant_ids": [
+          43771453374652,
+          43771453407420,
+          43771453440188,
+          43771453472956,
+          43771453505724
+        ]
+      },
+      "available": true,
+      "name": "3009 - Flex Stringers - Red / XXLarge",
+      "public_title": "Red / XXLarge",
+      "options": [
+        "Red",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 170,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3009-RED-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217621881020,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_rudy_ecomm.jpg?v=1748388555",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_rudy_ecomm.jpg?v=1748388556",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_black_002_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_black_003_ghost-drop_rudy_ecomm.jpg?v=1748388556",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388556",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3009-Size-Chart.png?v=1748386798"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_rudy_ecomm.jpg?v=1748388555",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Light Grey",
+        "Navy",
+        "Red"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/3009",
+  "media": [
+    {
+      "alt": null,
+      "id": 34217614278844,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_rudy_ecomm.jpg?v=1748388555"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_rudy_ecomm.jpg?v=1748388555",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217614311612,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_rudy_ecomm.jpg?v=1748388556"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_rudy_ecomm.jpg?v=1748388556",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217614344380,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_002_ghost-drop_rudy_ecomm.jpg?v=1748388558"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_002_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217614377148,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_003_ghost-drop_rudy_ecomm.jpg?v=1748388556"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_003_ghost-drop_rudy_ecomm.jpg?v=1748388556",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217614409916,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388556"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388556",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217621848252,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_navy_001_ghost-drop_floor.jpg?v=1748388555",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217621881020,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_red_001_ghost-drop_floor.jpg?v=1748388554",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217621913788,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_black_001_ghost-drop_floor.jpg?v=1748388554",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217621946556,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009_light-grey_001_ghost-drop_floor.jpg?v=1748388557",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33713043439804,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009-Size-Chart.png?v=1748386798"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3009-Size-Chart.png?v=1748386798",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

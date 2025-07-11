@@ -1,0 +1,1437 @@
+{
+  "id": 8616051572924,
+  "title": "1042 - Heritage Baggy Shorts",
+  "handle": "1042",
+  "description": "<p><strong>MATERIAL: </strong>100% Cotton</p>\n<p><strong>FABRIC WEIGHT: </strong>460 GSM</p>\n<p><strong>FIT: </strong>Baggy and Long.</p>\n<p><strong>DESIGN: </strong>These shorts are all about relaxed comfort and standout style. Designed with a long, oversized fit, the Heritage Baggy Shorts bring an effortless edge to your everyday rotation. Easy to throw on, built to move with you.</p>\n<p><strong>MODEL: </strong>The model in the first photo is wearing a size Large. Weight: 185lb Height: 5'11.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/1042-Size-Chart_updated_9a4e7e47-81ba-4105-8885-5cf7da15b357_600x600.png?v=1740417145\" style=\"margin-bottom: 16px; float: none;\"></div>\n<div style=\"text-align: center;\"><br></div>",
+  "published_at": "2025-05-08T18:08:05-07:00",
+  "created_at": "2024-11-05T14:31:06-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 4000,
+  "price_min": 4000,
+  "price_max": 4000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44247361847484,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "1042-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134375612,
+        "product_id": 8616051572924,
+        "position": 7,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615",
+        "variant_ids": [
+          44247361847484,
+          44247361880252,
+          44247361913020,
+          44247361945788,
+          44247361978556
+        ]
+      },
+      "available": true,
+      "name": "1042 - Heritage Baggy Shorts - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 4000,
+      "weight": 476,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634628284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247361880252,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "1042-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134375612,
+        "product_id": 8616051572924,
+        "position": 7,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615",
+        "variant_ids": [
+          44247361847484,
+          44247361880252,
+          44247361913020,
+          44247361945788,
+          44247361978556
+        ]
+      },
+      "available": true,
+      "name": "1042 - Heritage Baggy Shorts - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 4000,
+      "weight": 522,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634628284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247361913020,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "1042-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134375612,
+        "product_id": 8616051572924,
+        "position": 7,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615",
+        "variant_ids": [
+          44247361847484,
+          44247361880252,
+          44247361913020,
+          44247361945788,
+          44247361978556
+        ]
+      },
+      "available": true,
+      "name": "1042 - Heritage Baggy Shorts - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 4000,
+      "weight": 544,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634628284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247361945788,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "1042-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134375612,
+        "product_id": 8616051572924,
+        "position": 7,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615",
+        "variant_ids": [
+          44247361847484,
+          44247361880252,
+          44247361913020,
+          44247361945788,
+          44247361978556
+        ]
+      },
+      "available": true,
+      "name": "1042 - Heritage Baggy Shorts - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 4000,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634628284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247361978556,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "1042-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134375612,
+        "product_id": 8616051572924,
+        "position": 7,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615",
+        "variant_ids": [
+          44247361847484,
+          44247361880252,
+          44247361913020,
+          44247361945788,
+          44247361978556
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 4000,
+      "weight": 590,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634628284,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362011324,
+      "title": "Dark Tree Camo / Small",
+      "option1": "Dark Tree Camo",
+      "option2": "Small",
+      "option3": null,
+      "sku": "1042-DTREEC-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134342844,
+        "product_id": 8616051572924,
+        "position": 1,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-08T18:29:08-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148",
+        "variant_ids": [
+          44247362011324,
+          44247362044092,
+          44247362076860,
+          44247362109628,
+          44247362142396
+        ]
+      },
+      "available": true,
+      "name": "1042 - Heritage Baggy Shorts - Dark Tree Camo / Small",
+      "public_title": "Dark Tree Camo / Small",
+      "options": [
+        "Dark Tree Camo",
+        "Small"
+      ],
+      "price": 4000,
+      "weight": 499,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-DTREEC-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634661052,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362044092,
+      "title": "Dark Tree Camo / Medium",
+      "option1": "Dark Tree Camo",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "1042-DTREEC-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134342844,
+        "product_id": 8616051572924,
+        "position": 1,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-08T18:29:08-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148",
+        "variant_ids": [
+          44247362011324,
+          44247362044092,
+          44247362076860,
+          44247362109628,
+          44247362142396
+        ]
+      },
+      "available": true,
+      "name": "1042 - Heritage Baggy Shorts - Dark Tree Camo / Medium",
+      "public_title": "Dark Tree Camo / Medium",
+      "options": [
+        "Dark Tree Camo",
+        "Medium"
+      ],
+      "price": 4000,
+      "weight": 522,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-DTREEC-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634661052,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362076860,
+      "title": "Dark Tree Camo / Large",
+      "option1": "Dark Tree Camo",
+      "option2": "Large",
+      "option3": null,
+      "sku": "1042-DTREEC-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134342844,
+        "product_id": 8616051572924,
+        "position": 1,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-08T18:29:08-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148",
+        "variant_ids": [
+          44247362011324,
+          44247362044092,
+          44247362076860,
+          44247362109628,
+          44247362142396
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Dark Tree Camo / Large",
+      "public_title": "Dark Tree Camo / Large",
+      "options": [
+        "Dark Tree Camo",
+        "Large"
+      ],
+      "price": 4000,
+      "weight": 544,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-DTREEC-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634661052,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362109628,
+      "title": "Dark Tree Camo / XLarge",
+      "option1": "Dark Tree Camo",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "1042-DTREEC-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134342844,
+        "product_id": 8616051572924,
+        "position": 1,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-08T18:29:08-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148",
+        "variant_ids": [
+          44247362011324,
+          44247362044092,
+          44247362076860,
+          44247362109628,
+          44247362142396
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Dark Tree Camo / XLarge",
+      "public_title": "Dark Tree Camo / XLarge",
+      "options": [
+        "Dark Tree Camo",
+        "XLarge"
+      ],
+      "price": 4000,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-DTREEC-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634661052,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362142396,
+      "title": "Dark Tree Camo / XXLarge",
+      "option1": "Dark Tree Camo",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "1042-DTREEC-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134342844,
+        "product_id": 8616051572924,
+        "position": 1,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-08T18:29:08-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148",
+        "variant_ids": [
+          44247362011324,
+          44247362044092,
+          44247362076860,
+          44247362109628,
+          44247362142396
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Dark Tree Camo / XXLarge",
+      "public_title": "Dark Tree Camo / XXLarge",
+      "options": [
+        "Dark Tree Camo",
+        "XXLarge"
+      ],
+      "price": 4000,
+      "weight": 590,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-DTREEC-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634661052,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362175164,
+      "title": "Green Tree Camo / Small",
+      "option1": "Green Tree Camo",
+      "option2": "Small",
+      "option3": null,
+      "sku": "1042-GTREEC-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42535565394108,
+        "product_id": 8616051572924,
+        "position": 4,
+        "created_at": "2025-05-15T14:22:21-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 1476,
+        "height": 2214,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615",
+        "variant_ids": [
+          44247362175164,
+          44247362207932,
+          44247362240700,
+          44247362273468,
+          44247362306236
+        ]
+      },
+      "available": true,
+      "name": "1042 - Heritage Baggy Shorts - Green Tree Camo / Small",
+      "public_title": "Green Tree Camo / Small",
+      "options": [
+        "Green Tree Camo",
+        "Small"
+      ],
+      "price": 4000,
+      "weight": 476,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-GTREEC-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34094718189756,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2214,
+          "width": 1476,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362207932,
+      "title": "Green Tree Camo / Medium",
+      "option1": "Green Tree Camo",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "1042-GTREEC-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42535565394108,
+        "product_id": 8616051572924,
+        "position": 4,
+        "created_at": "2025-05-15T14:22:21-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 1476,
+        "height": 2214,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615",
+        "variant_ids": [
+          44247362175164,
+          44247362207932,
+          44247362240700,
+          44247362273468,
+          44247362306236
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Green Tree Camo / Medium",
+      "public_title": "Green Tree Camo / Medium",
+      "options": [
+        "Green Tree Camo",
+        "Medium"
+      ],
+      "price": 4000,
+      "weight": 522,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-GTREEC-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34094718189756,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2214,
+          "width": 1476,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362240700,
+      "title": "Green Tree Camo / Large",
+      "option1": "Green Tree Camo",
+      "option2": "Large",
+      "option3": null,
+      "sku": "1042-GTREEC-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42535565394108,
+        "product_id": 8616051572924,
+        "position": 4,
+        "created_at": "2025-05-15T14:22:21-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 1476,
+        "height": 2214,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615",
+        "variant_ids": [
+          44247362175164,
+          44247362207932,
+          44247362240700,
+          44247362273468,
+          44247362306236
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Green Tree Camo / Large",
+      "public_title": "Green Tree Camo / Large",
+      "options": [
+        "Green Tree Camo",
+        "Large"
+      ],
+      "price": 4000,
+      "weight": 544,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-GTREEC-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34094718189756,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2214,
+          "width": 1476,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362273468,
+      "title": "Green Tree Camo / XLarge",
+      "option1": "Green Tree Camo",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "1042-GTREEC-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42535565394108,
+        "product_id": 8616051572924,
+        "position": 4,
+        "created_at": "2025-05-15T14:22:21-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 1476,
+        "height": 2214,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615",
+        "variant_ids": [
+          44247362175164,
+          44247362207932,
+          44247362240700,
+          44247362273468,
+          44247362306236
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Green Tree Camo / XLarge",
+      "public_title": "Green Tree Camo / XLarge",
+      "options": [
+        "Green Tree Camo",
+        "XLarge"
+      ],
+      "price": 4000,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-GTREEC-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34094718189756,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2214,
+          "width": 1476,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362306236,
+      "title": "Green Tree Camo / XXLarge",
+      "option1": "Green Tree Camo",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "1042-GTREEC-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42535565394108,
+        "product_id": 8616051572924,
+        "position": 4,
+        "created_at": "2025-05-15T14:22:21-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 1476,
+        "height": 2214,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615",
+        "variant_ids": [
+          44247362175164,
+          44247362207932,
+          44247362240700,
+          44247362273468,
+          44247362306236
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Green Tree Camo / XXLarge",
+      "public_title": "Green Tree Camo / XXLarge",
+      "options": [
+        "Green Tree Camo",
+        "XXLarge"
+      ],
+      "price": 4000,
+      "weight": 590,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-GTREEC-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34094718189756,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2214,
+          "width": 1476,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362339004,
+      "title": "Heather Grey / Small",
+      "option1": "Heather Grey",
+      "option2": "Small",
+      "option3": null,
+      "sku": "1042-HGRY-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134441148,
+        "product_id": 8616051572924,
+        "position": 8,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615",
+        "variant_ids": [
+          44247362339004,
+          44247362371772,
+          44247362404540,
+          44247362437308,
+          44247362470076
+        ]
+      },
+      "available": true,
+      "name": "1042 - Heritage Baggy Shorts - Heather Grey / Small",
+      "public_title": "Heather Grey / Small",
+      "options": [
+        "Heather Grey",
+        "Small"
+      ],
+      "price": 4000,
+      "weight": 499,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-HGRY-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634726588,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362371772,
+      "title": "Heather Grey / Medium",
+      "option1": "Heather Grey",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "1042-HGRY-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134441148,
+        "product_id": 8616051572924,
+        "position": 8,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615",
+        "variant_ids": [
+          44247362339004,
+          44247362371772,
+          44247362404540,
+          44247362437308,
+          44247362470076
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Heather Grey / Medium",
+      "public_title": "Heather Grey / Medium",
+      "options": [
+        "Heather Grey",
+        "Medium"
+      ],
+      "price": 4000,
+      "weight": 522,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-HGRY-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634726588,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362404540,
+      "title": "Heather Grey / Large",
+      "option1": "Heather Grey",
+      "option2": "Large",
+      "option3": null,
+      "sku": "1042-HGRY-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134441148,
+        "product_id": 8616051572924,
+        "position": 8,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615",
+        "variant_ids": [
+          44247362339004,
+          44247362371772,
+          44247362404540,
+          44247362437308,
+          44247362470076
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Heather Grey / Large",
+      "public_title": "Heather Grey / Large",
+      "options": [
+        "Heather Grey",
+        "Large"
+      ],
+      "price": 4000,
+      "weight": 544,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-HGRY-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634726588,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362437308,
+      "title": "Heather Grey / XLarge",
+      "option1": "Heather Grey",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "1042-HGRY-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134441148,
+        "product_id": 8616051572924,
+        "position": 8,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615",
+        "variant_ids": [
+          44247362339004,
+          44247362371772,
+          44247362404540,
+          44247362437308,
+          44247362470076
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Heather Grey / XLarge",
+      "public_title": "Heather Grey / XLarge",
+      "options": [
+        "Heather Grey",
+        "XLarge"
+      ],
+      "price": 4000,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-HGRY-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634726588,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44247362470076,
+      "title": "Heather Grey / XXLarge",
+      "option1": "Heather Grey",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "1042-HGRY-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42460134441148,
+        "product_id": 8616051572924,
+        "position": 8,
+        "created_at": "2025-05-08T18:04:06-07:00",
+        "updated_at": "2025-05-22T11:13:35-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615",
+        "variant_ids": [
+          44247362339004,
+          44247362371772,
+          44247362404540,
+          44247362437308,
+          44247362470076
+        ]
+      },
+      "available": false,
+      "name": "1042 - Heritage Baggy Shorts - Heather Grey / XXLarge",
+      "public_title": "Heather Grey / XXLarge",
+      "options": [
+        "Heather Grey",
+        "XXLarge"
+      ],
+      "price": 4000,
+      "weight": 612,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "1042-HGRY-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34044634726588,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.332.jpg?v=1747942131",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.2.25D5-30Military_SOCIAL_041.jpg?v=1747942131",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.22.jpg?v=1747937615",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_003_05_21_rudy_ecomm_5bf3536b-5dfb-4b3d-848f-fe55b29cb6c2.jpg?v=1747937615",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/1042-Size-Chart_updated.png?v=1747937615"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Dark Tree Camo",
+        "Green Tree Camo",
+        "Heather Grey"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/1042",
+  "media": [
+    {
+      "alt": null,
+      "id": 34044634661052,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_dark-tree-camo_002_05_21_rudy_ecomm_ee35a782-5730-4a55-8b39-81251ae557df.jpg?v=1746754148",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34163558088892,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2162,
+        "width": 1441,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.332.jpg?v=1747942131"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2162,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.332.jpg?v=1747942131",
+      "width": 1441
+    },
+    {
+      "alt": null,
+      "id": 34129070489788,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/4a5aecca7bab41b3bfaa3881762d439a.thumbnail.0000000000.jpg?v=1747683081"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 29230,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4a5aecca7bab41b3bfaa3881762d439a/4a5aecca7bab41b3bfaa3881762d439a.SD-480p-1.5Mbps-47854113.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4a5aecca7bab41b3bfaa3881762d439a/4a5aecca7bab41b3bfaa3881762d439a.HD-1080p-7.2Mbps-47854113.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4a5aecca7bab41b3bfaa3881762d439a/4a5aecca7bab41b3bfaa3881762d439a.HD-720p-4.5Mbps-47854113.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/4a5aecca7bab41b3bfaa3881762d439a/4a5aecca7bab41b3bfaa3881762d439a.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 34163600818364,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2039,
+        "width": 1359,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.2.25D5-30Military_SOCIAL_041.jpg?v=1747942131"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2039,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.2.25D5-30Military_SOCIAL_041.jpg?v=1747942131",
+      "width": 1359
+    },
+    {
+      "alt": null,
+      "id": 34094718189756,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2214,
+        "width": 1476,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2214,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.29_f7907072-b316-4dd9-bc99-1fc428cfe5c7.jpg?v=1747937615",
+      "width": 1476
+    },
+    {
+      "alt": null,
+      "id": 34094718156988,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2400,
+        "width": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.22.jpg?v=1747937615"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2400,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.22.jpg?v=1747937615",
+      "width": 1600
+    },
+    {
+      "alt": null,
+      "id": 34044634759356,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_003_05_21_rudy_ecomm_5bf3536b-5dfb-4b3d-848f-fe55b29cb6c2.jpg?v=1747937615"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_003_05_21_rudy_ecomm_5bf3536b-5dfb-4b3d-848f-fe55b29cb6c2.jpg?v=1747937615",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34044634628284,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_black-wash_002_05_21_rudy_ecomm_3f0ccf34-a43e-4705-8bee-12d6f996360c.jpg?v=1747937615",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34044634726588,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042_heather-grey_002_05_21_rudy_ecomm_39c9598b-819b-427c-8307-e69cd2012b37.jpg?v=1747937615",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33272752111804,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042-Size-Chart_updated.png?v=1747937615"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/1042-Size-Chart_updated.png?v=1747937615",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

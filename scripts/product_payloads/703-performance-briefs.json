@@ -1,0 +1,864 @@
+{
+  "id": 7523869163708,
+  "title": "703 Goat Briefs 3 Pack",
+  "handle": "703-performance-briefs",
+  "description": "<p class=\"MsoNormal\"><strong>*All Sales Are Final On This Product For Hygienic Reasons</strong></p>\n<p class=\"MsoNormal\"><strong>Multicolor - Black, Nardo Grey, Teal</strong></p>\n<p class=\"MsoNormal\"><strong>All Black - 3 Black Briefs</strong></p>\n<p class=\"MsoNormal\"><strong>MATERIAL:</strong> 80% Viscose, 15% Polyester, 5% Spandex. Ultra-soft and stretchy mesh fabric.</p>\n<p class=\"MsoNormal\"><strong>FIT:</strong> Fitted.</p>\n<p class=\"MsoNormal\"><strong>DESIGN:</strong> These briefs will be the greatest thing you have ever worn. Made with ultra-soft breathable mesh fabrication, no noll secure waistband for comfortable waist grip, moisture-wicking fabric construction, supportive contoured pouch, exceptional stretch for a flexible fit.</p>\n<p class=\"MsoNormal\"><strong>MODEL:</strong> Wearing a size Medium. Weight 175lb Height 5'9.</p>\n<div style=\"text-align: center;\"><img style=\"float: none;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/703_size_600x600.png?v=1655925852\"></div>",
+  "published_at": "2025-06-11T10:43:46-07:00",
+  "created_at": "2022-06-02T12:35:32-07:00",
+  "vendor": "YoungLA",
+  "type": "Personal",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "Final Sale",
+    "For Him",
+    "Jane",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3400,
+  "price_min": 3400,
+  "price_max": 3400,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 41777485906108,
+      "title": "Multicolor / Small",
+      "option1": "Multicolor",
+      "option2": "Small",
+      "option3": null,
+      "sku": "703-3PACK22-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754630332,
+        "product_id": 7523869163708,
+        "position": 1,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-22T13:33:25-07:00",
+        "alt": null,
+        "width": 3468,
+        "height": 5202,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005",
+        "variant_ids": [
+          41777485906108,
+          41777485938876,
+          41777485971644,
+          41777486004412,
+          41777486037180
+        ]
+      },
+      "available": true,
+      "name": "703 Goat Briefs 3 Pack - Multicolor / Small",
+      "public_title": "Multicolor / Small",
+      "options": [
+        "Multicolor",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-3PACK22-S",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087344316,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 5202,
+          "width": 3468,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41777485938876,
+      "title": "Multicolor / Medium",
+      "option1": "Multicolor",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "703-3PACK22-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754630332,
+        "product_id": 7523869163708,
+        "position": 1,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-22T13:33:25-07:00",
+        "alt": null,
+        "width": 3468,
+        "height": 5202,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005",
+        "variant_ids": [
+          41777485906108,
+          41777485938876,
+          41777485971644,
+          41777486004412,
+          41777486037180
+        ]
+      },
+      "available": true,
+      "name": "703 Goat Briefs 3 Pack - Multicolor / Medium",
+      "public_title": "Multicolor / Medium",
+      "options": [
+        "Multicolor",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-3PACK22-M",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087344316,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 5202,
+          "width": 3468,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41777485971644,
+      "title": "Multicolor / Large",
+      "option1": "Multicolor",
+      "option2": "Large",
+      "option3": null,
+      "sku": "703-3PACK22-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754630332,
+        "product_id": 7523869163708,
+        "position": 1,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-22T13:33:25-07:00",
+        "alt": null,
+        "width": 3468,
+        "height": 5202,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005",
+        "variant_ids": [
+          41777485906108,
+          41777485938876,
+          41777485971644,
+          41777486004412,
+          41777486037180
+        ]
+      },
+      "available": true,
+      "name": "703 Goat Briefs 3 Pack - Multicolor / Large",
+      "public_title": "Multicolor / Large",
+      "options": [
+        "Multicolor",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-3PACK22-L",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087344316,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 5202,
+          "width": 3468,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41777486004412,
+      "title": "Multicolor / XLarge",
+      "option1": "Multicolor",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "703-3PACK22-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754630332,
+        "product_id": 7523869163708,
+        "position": 1,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-22T13:33:25-07:00",
+        "alt": null,
+        "width": 3468,
+        "height": 5202,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005",
+        "variant_ids": [
+          41777485906108,
+          41777485938876,
+          41777485971644,
+          41777486004412,
+          41777486037180
+        ]
+      },
+      "available": true,
+      "name": "703 Goat Briefs 3 Pack - Multicolor / XLarge",
+      "public_title": "Multicolor / XLarge",
+      "options": [
+        "Multicolor",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-3PACK22-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087344316,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 5202,
+          "width": 3468,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 41777486037180,
+      "title": "Multicolor / XXLarge",
+      "option1": "Multicolor",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "703-3PACK22-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754630332,
+        "product_id": 7523869163708,
+        "position": 1,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-22T13:33:25-07:00",
+        "alt": null,
+        "width": 3468,
+        "height": 5202,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005",
+        "variant_ids": [
+          41777485906108,
+          41777485938876,
+          41777485971644,
+          41777486004412,
+          41777486037180
+        ]
+      },
+      "available": true,
+      "name": "703 Goat Briefs 3 Pack - Multicolor / XXLarge",
+      "public_title": "Multicolor / XXLarge",
+      "options": [
+        "Multicolor",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-3PACK22-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087344316,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 5202,
+          "width": 3468,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43393069908156,
+      "title": "All Black / Small",
+      "option1": "All Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "703-ABLK24-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754564796,
+        "product_id": 7523869163708,
+        "position": 6,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-23T10:52:03-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723",
+        "variant_ids": [
+          43393069908156,
+          43393069940924,
+          43393069973692,
+          43393070006460,
+          43393070039228
+        ]
+      },
+      "available": false,
+      "name": "703 Goat Briefs 3 Pack - All Black / Small",
+      "public_title": "All Black / Small",
+      "options": [
+        "All Black",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-ABLK24-S",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087409852,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43393069940924,
+      "title": "All Black / Medium",
+      "option1": "All Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "703-ABLK24-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754564796,
+        "product_id": 7523869163708,
+        "position": 6,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-23T10:52:03-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723",
+        "variant_ids": [
+          43393069908156,
+          43393069940924,
+          43393069973692,
+          43393070006460,
+          43393070039228
+        ]
+      },
+      "available": false,
+      "name": "703 Goat Briefs 3 Pack - All Black / Medium",
+      "public_title": "All Black / Medium",
+      "options": [
+        "All Black",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-ABLK24-M",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087409852,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43393069973692,
+      "title": "All Black / Large",
+      "option1": "All Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "703-ABLK24-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754564796,
+        "product_id": 7523869163708,
+        "position": 6,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-23T10:52:03-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723",
+        "variant_ids": [
+          43393069908156,
+          43393069940924,
+          43393069973692,
+          43393070006460,
+          43393070039228
+        ]
+      },
+      "available": false,
+      "name": "703 Goat Briefs 3 Pack - All Black / Large",
+      "public_title": "All Black / Large",
+      "options": [
+        "All Black",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-ABLK24-L",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087409852,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43393070006460,
+      "title": "All Black / XLarge",
+      "option1": "All Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "703-ABLK24-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754564796,
+        "product_id": 7523869163708,
+        "position": 6,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-23T10:52:03-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723",
+        "variant_ids": [
+          43393069908156,
+          43393069940924,
+          43393069973692,
+          43393070006460,
+          43393070039228
+        ]
+      },
+      "available": false,
+      "name": "703 Goat Briefs 3 Pack - All Black / XLarge",
+      "public_title": "All Black / XLarge",
+      "options": [
+        "All Black",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-ABLK24-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087409852,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43393070039228,
+      "title": "All Black / XXLarge",
+      "option1": "All Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "703-ABLK24-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 32973754564796,
+        "product_id": 7523869163708,
+        "position": 6,
+        "created_at": "2022-06-22T13:30:41-07:00",
+        "updated_at": "2022-06-23T10:52:03-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723",
+        "variant_ids": [
+          43393069908156,
+          43393069940924,
+          43393069973692,
+          43393070006460,
+          43393070039228
+        ]
+      },
+      "available": false,
+      "name": "703 Goat Briefs 3 Pack - All Black / XXLarge",
+      "public_title": "All Black / XXLarge",
+      "options": [
+        "All Black",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "703-ABLK24-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 25478087409852,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-24.jpg?v=1655929863",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-28.jpg?v=1656006723",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-17.jpg?v=1656006723",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-31.jpg?v=1656006723",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-060.jpg?v=1656006723",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-045.jpg?v=1656006723",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-048.jpg?v=1656006723",
+    "//cdn.shopify.com/s/files/1/1775/6429/products/703sizechart.png?v=1656006723"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Multicolor",
+        "All Black"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/703-performance-briefs",
+  "media": [
+    {
+      "alt": null,
+      "id": 25478087344316,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 5202,
+        "width": 3468,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005"
+      },
+      "aspect_ratio": 0.667,
+      "height": 5202,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-057.jpg?v=1655930005",
+      "width": 3468
+    },
+    {
+      "alt": null,
+      "id": 25445437735100,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3114,
+        "width": 2076,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-24.jpg?v=1655929863"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3114,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-24.jpg?v=1655929863",
+      "width": 2076
+    },
+    {
+      "alt": null,
+      "id": 25485726515388,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-054.jpg?v=1656006706"
+      },
+      "aspect_ratio": 0.563,
+      "duration": 46446,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/32e24c3f26fb42c4b4fbbe5072a361cb/32e24c3f26fb42c4b4fbbe5072a361cb.SD-480p-1.5Mbps.mp4",
+          "width": 270
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/32e24c3f26fb42c4b4fbbe5072a361cb/32e24c3f26fb42c4b4fbbe5072a361cb.HD-720p-4.5Mbps.mp4",
+          "width": 406
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/32e24c3f26fb42c4b4fbbe5072a361cb/32e24c3f26fb42c4b4fbbe5072a361cb.HD-1080p-7.2Mbps.mp4",
+          "width": 608
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/32e24c3f26fb42c4b4fbbe5072a361cb/32e24c3f26fb42c4b4fbbe5072a361cb.m3u8",
+          "width": 608
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 25445437767868,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3155,
+        "width": 2103,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-28.jpg?v=1656006723"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3155,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-28.jpg?v=1656006723",
+      "width": 2103
+    },
+    {
+      "alt": null,
+      "id": 25445437702332,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3035,
+        "width": 2023,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-17.jpg?v=1656006723"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3035,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-17.jpg?v=1656006723",
+      "width": 2023
+    },
+    {
+      "alt": null,
+      "id": 25445437669564,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2579,
+        "width": 1719,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-31.jpg?v=1656006723"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2579,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/June23Briefs-31.jpg?v=1656006723",
+      "width": 1719
+    },
+    {
+      "alt": null,
+      "id": 25478087409852,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-031.jpg?v=1656006723",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 25478087377084,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-060.jpg?v=1656006723"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-060.jpg?v=1656006723",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 25478087442620,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-045.jpg?v=1656006723"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-045.jpg?v=1656006723",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 25478087311548,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-048.jpg?v=1656006723"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/Rudy_703_June-048.jpg?v=1656006723",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 25477734465724,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/703sizechart.png?v=1656006723"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/products/703sizechart.png?v=1656006723",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

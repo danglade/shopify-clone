@@ -1,0 +1,3053 @@
+{
+  "id": 7726285750460,
+  "title": "466 Tailored Tees",
+  "handle": "466",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL: </strong>97% Cotton, 3% Spandex.\u00a0</p>\n<p class=\"MsoNormal\"><strong>FIT: </strong>Fitted.</p>\n<p class=\"MsoNormal\"><strong>DESIGN:</strong> The basic tee, is designed with a tailored fit to accentuate your physique. This stylish and versatile tee is all about showcasing your aesthetics. By wrapping around the biceps and fitting snugly in the right areas, it effortlessly enhances your silhouette and adds a touch of sophistication to any outfit.</p>\n<p class=\"MsoNormal\"><strong>MODEL: </strong>The model in the first photo is wearing a size Large. Weight: 185lb Height: 5'11.</p>\n<div style=\"text-align: center;\"><img style=\"float: none;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/466-Size-Chart_2fe69828-4a0b-4175-806e-d070b5e650f0_600x600.png?v=1683047878\"></div>",
+  "published_at": "2025-06-11T10:42:41-07:00",
+  "created_at": "2022-12-20T11:15:10-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "app-early",
+    "Jane",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3500,
+  "price_min": 3500,
+  "price_max": 3500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44332742607036,
+      "title": "Beige / Small",
+      "option1": "Beige",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-BEIG-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35495628505276,
+        "product_id": 7726285750460,
+        "position": 2,
+        "created_at": "2023-08-02T15:37:00-07:00",
+        "updated_at": "2023-08-02T15:54:45-07:00",
+        "alt": null,
+        "width": 2313,
+        "height": 3470,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885",
+        "variant_ids": [
+          44332742607036,
+          44332742639804,
+          44332742672572,
+          44332742705340,
+          44332742738108
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Beige / Small",
+      "public_title": "Beige / Small",
+      "options": [
+        "Beige",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BEIG-S",
+      "featured_media": {
+        "alt": null,
+        "id": 28036141416636,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3470,
+          "width": 2313,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44332742639804,
+      "title": "Beige / Medium",
+      "option1": "Beige",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-BEIG-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35495628505276,
+        "product_id": 7726285750460,
+        "position": 2,
+        "created_at": "2023-08-02T15:37:00-07:00",
+        "updated_at": "2023-08-02T15:54:45-07:00",
+        "alt": null,
+        "width": 2313,
+        "height": 3470,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885",
+        "variant_ids": [
+          44332742607036,
+          44332742639804,
+          44332742672572,
+          44332742705340,
+          44332742738108
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Beige / Medium",
+      "public_title": "Beige / Medium",
+      "options": [
+        "Beige",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BEIG-M",
+      "featured_media": {
+        "alt": null,
+        "id": 28036141416636,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3470,
+          "width": 2313,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44332742672572,
+      "title": "Beige / Large",
+      "option1": "Beige",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-BEIG-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35495628505276,
+        "product_id": 7726285750460,
+        "position": 2,
+        "created_at": "2023-08-02T15:37:00-07:00",
+        "updated_at": "2023-08-02T15:54:45-07:00",
+        "alt": null,
+        "width": 2313,
+        "height": 3470,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885",
+        "variant_ids": [
+          44332742607036,
+          44332742639804,
+          44332742672572,
+          44332742705340,
+          44332742738108
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Beige / Large",
+      "public_title": "Beige / Large",
+      "options": [
+        "Beige",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BEIG-L",
+      "featured_media": {
+        "alt": null,
+        "id": 28036141416636,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3470,
+          "width": 2313,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44332742705340,
+      "title": "Beige / XLarge",
+      "option1": "Beige",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-BEIG-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35495628505276,
+        "product_id": 7726285750460,
+        "position": 2,
+        "created_at": "2023-08-02T15:37:00-07:00",
+        "updated_at": "2023-08-02T15:54:45-07:00",
+        "alt": null,
+        "width": 2313,
+        "height": 3470,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885",
+        "variant_ids": [
+          44332742607036,
+          44332742639804,
+          44332742672572,
+          44332742705340,
+          44332742738108
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Beige / XLarge",
+      "public_title": "Beige / XLarge",
+      "options": [
+        "Beige",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BEIG-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 28036141416636,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3470,
+          "width": 2313,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44332742738108,
+      "title": "Beige / XXLarge",
+      "option1": "Beige",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-BEIG-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35495628505276,
+        "product_id": 7726285750460,
+        "position": 2,
+        "created_at": "2023-08-02T15:37:00-07:00",
+        "updated_at": "2023-08-02T15:54:45-07:00",
+        "alt": null,
+        "width": 2313,
+        "height": 3470,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885",
+        "variant_ids": [
+          44332742607036,
+          44332742639804,
+          44332742672572,
+          44332742705340,
+          44332742738108
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Beige / XXLarge",
+      "public_title": "Beige / XXLarge",
+      "options": [
+        "Beige",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BEIG-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 28036141416636,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3470,
+          "width": 2313,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853694140,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-BLAK23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966553276,
+        "product_id": 7726285750460,
+        "position": 12,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853694140,
+          42417853726908,
+          42417853759676,
+          42417853792444,
+          42417853825212
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BLAK23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141200572,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853726908,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-BLAK23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966553276,
+        "product_id": 7726285750460,
+        "position": 12,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853694140,
+          42417853726908,
+          42417853759676,
+          42417853792444,
+          42417853825212
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BLAK23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141200572,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853759676,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-BLAK23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966553276,
+        "product_id": 7726285750460,
+        "position": 12,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853694140,
+          42417853726908,
+          42417853759676,
+          42417853792444,
+          42417853825212
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BLAK23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141200572,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853792444,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-BLAK23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966553276,
+        "product_id": 7726285750460,
+        "position": 12,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853694140,
+          42417853726908,
+          42417853759676,
+          42417853792444,
+          42417853825212
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BLAK23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141200572,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853825212,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-BLAK23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966553276,
+        "product_id": 7726285750460,
+        "position": 12,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853694140,
+          42417853726908,
+          42417853759676,
+          42417853792444,
+          42417853825212
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-BLAK23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141200572,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853857980,
+      "title": "Chocolate / Small",
+      "option1": "Chocolate",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-CHOC23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966651580,
+        "product_id": 7726285750460,
+        "position": 11,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853857980,
+          42417853890748,
+          42417853923516,
+          42417853956284,
+          42417853989052
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Chocolate / Small",
+      "public_title": "Chocolate / Small",
+      "options": [
+        "Chocolate",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-CHOC23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141233340,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853890748,
+      "title": "Chocolate / Medium",
+      "option1": "Chocolate",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-CHOC23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966651580,
+        "product_id": 7726285750460,
+        "position": 11,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853857980,
+          42417853890748,
+          42417853923516,
+          42417853956284,
+          42417853989052
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Chocolate / Medium",
+      "public_title": "Chocolate / Medium",
+      "options": [
+        "Chocolate",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-CHOC23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141233340,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853923516,
+      "title": "Chocolate / Large",
+      "option1": "Chocolate",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-CHOC23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966651580,
+        "product_id": 7726285750460,
+        "position": 11,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853857980,
+          42417853890748,
+          42417853923516,
+          42417853956284,
+          42417853989052
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Chocolate / Large",
+      "public_title": "Chocolate / Large",
+      "options": [
+        "Chocolate",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-CHOC23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141233340,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853956284,
+      "title": "Chocolate / XLarge",
+      "option1": "Chocolate",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-CHOC23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966651580,
+        "product_id": 7726285750460,
+        "position": 11,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853857980,
+          42417853890748,
+          42417853923516,
+          42417853956284,
+          42417853989052
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Chocolate / XLarge",
+      "public_title": "Chocolate / XLarge",
+      "options": [
+        "Chocolate",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-CHOC23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141233340,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417853989052,
+      "title": "Chocolate / XXLarge",
+      "option1": "Chocolate",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-CHOC23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966651580,
+        "product_id": 7726285750460,
+        "position": 11,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417853857980,
+          42417853890748,
+          42417853923516,
+          42417853956284,
+          42417853989052
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Chocolate / XXLarge",
+      "public_title": "Chocolate / XXLarge",
+      "options": [
+        "Chocolate",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-CHOC23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141233340,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854021820,
+      "title": "Dark Grey / Small",
+      "option1": "Dark Grey",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-DGRY23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966717116,
+        "product_id": 7726285750460,
+        "position": 13,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854021820,
+          42417854054588,
+          42417854087356,
+          42417854120124,
+          42417854152892
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Dark Grey / Small",
+      "public_title": "Dark Grey / Small",
+      "options": [
+        "Dark Grey",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-DGRY23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141266108,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854054588,
+      "title": "Dark Grey / Medium",
+      "option1": "Dark Grey",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-DGRY23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966717116,
+        "product_id": 7726285750460,
+        "position": 13,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854021820,
+          42417854054588,
+          42417854087356,
+          42417854120124,
+          42417854152892
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Dark Grey / Medium",
+      "public_title": "Dark Grey / Medium",
+      "options": [
+        "Dark Grey",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-DGRY23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141266108,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854087356,
+      "title": "Dark Grey / Large",
+      "option1": "Dark Grey",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-DGRY23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966717116,
+        "product_id": 7726285750460,
+        "position": 13,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854021820,
+          42417854054588,
+          42417854087356,
+          42417854120124,
+          42417854152892
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Dark Grey / Large",
+      "public_title": "Dark Grey / Large",
+      "options": [
+        "Dark Grey",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-DGRY23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141266108,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854120124,
+      "title": "Dark Grey / XLarge",
+      "option1": "Dark Grey",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-DGRY23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966717116,
+        "product_id": 7726285750460,
+        "position": 13,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854021820,
+          42417854054588,
+          42417854087356,
+          42417854120124,
+          42417854152892
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Dark Grey / XLarge",
+      "public_title": "Dark Grey / XLarge",
+      "options": [
+        "Dark Grey",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-DGRY23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141266108,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854152892,
+      "title": "Dark Grey / XXLarge",
+      "option1": "Dark Grey",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-DGRY23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966717116,
+        "product_id": 7726285750460,
+        "position": 13,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854021820,
+          42417854054588,
+          42417854087356,
+          42417854120124,
+          42417854152892
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Dark Grey / XXLarge",
+      "public_title": "Dark Grey / XXLarge",
+      "options": [
+        "Dark Grey",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-DGRY23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141266108,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44474906902716,
+      "title": "Heather Grey / Small",
+      "option1": "Heather Grey",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-HGRY-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732275040444,
+        "product_id": 7726285750460,
+        "position": 10,
+        "created_at": "2025-05-27T15:50:37-07:00",
+        "updated_at": "2025-05-27T16:29:18-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+        "variant_ids": [
+          44474906902716,
+          44474906935484,
+          44474906968252,
+          44474907001020,
+          44474907033788
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Heather Grey / Small",
+      "public_title": "Heather Grey / Small",
+      "options": [
+        "Heather Grey",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-HGRY-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34217611362492,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44474906935484,
+      "title": "Heather Grey / Medium",
+      "option1": "Heather Grey",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-HGRY-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732275040444,
+        "product_id": 7726285750460,
+        "position": 10,
+        "created_at": "2025-05-27T15:50:37-07:00",
+        "updated_at": "2025-05-27T16:29:18-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+        "variant_ids": [
+          44474906902716,
+          44474906935484,
+          44474906968252,
+          44474907001020,
+          44474907033788
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Heather Grey / Medium",
+      "public_title": "Heather Grey / Medium",
+      "options": [
+        "Heather Grey",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-HGRY-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34217611362492,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44474906968252,
+      "title": "Heather Grey / Large",
+      "option1": "Heather Grey",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-HGRY-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732275040444,
+        "product_id": 7726285750460,
+        "position": 10,
+        "created_at": "2025-05-27T15:50:37-07:00",
+        "updated_at": "2025-05-27T16:29:18-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+        "variant_ids": [
+          44474906902716,
+          44474906935484,
+          44474906968252,
+          44474907001020,
+          44474907033788
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Heather Grey / Large",
+      "public_title": "Heather Grey / Large",
+      "options": [
+        "Heather Grey",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-HGRY-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34217611362492,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44474907001020,
+      "title": "Heather Grey / XLarge",
+      "option1": "Heather Grey",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-HGRY-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732275040444,
+        "product_id": 7726285750460,
+        "position": 10,
+        "created_at": "2025-05-27T15:50:37-07:00",
+        "updated_at": "2025-05-27T16:29:18-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+        "variant_ids": [
+          44474906902716,
+          44474906935484,
+          44474906968252,
+          44474907001020,
+          44474907033788
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Heather Grey / XLarge",
+      "public_title": "Heather Grey / XLarge",
+      "options": [
+        "Heather Grey",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-HGRY-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217611362492,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44474907033788,
+      "title": "Heather Grey / XXLarge",
+      "option1": "Heather Grey",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-HGRY-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 42732275040444,
+        "product_id": 7726285750460,
+        "position": 10,
+        "created_at": "2025-05-27T15:50:37-07:00",
+        "updated_at": "2025-05-27T16:29:18-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+        "variant_ids": [
+          44474906902716,
+          44474906935484,
+          44474906968252,
+          44474907001020,
+          44474907033788
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - Heather Grey / XXLarge",
+      "public_title": "Heather Grey / XXLarge",
+      "options": [
+        "Heather Grey",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-HGRY-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34217611362492,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42876043624636,
+      "title": "Olive / Small",
+      "option1": "Olive",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-OLIV23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966684348,
+        "product_id": 7726285750460,
+        "position": 14,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42876043624636,
+          42876043657404,
+          42876043690172,
+          42876043722940,
+          42876043755708
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Olive / Small",
+      "public_title": "Olive / Small",
+      "options": [
+        "Olive",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-OLIV23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141298876,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42876043657404,
+      "title": "Olive / Medium",
+      "option1": "Olive",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-OLIV23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966684348,
+        "product_id": 7726285750460,
+        "position": 14,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42876043624636,
+          42876043657404,
+          42876043690172,
+          42876043722940,
+          42876043755708
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Olive / Medium",
+      "public_title": "Olive / Medium",
+      "options": [
+        "Olive",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-OLIV23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141298876,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42876043690172,
+      "title": "Olive / Large",
+      "option1": "Olive",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-OLIV23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966684348,
+        "product_id": 7726285750460,
+        "position": 14,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42876043624636,
+          42876043657404,
+          42876043690172,
+          42876043722940,
+          42876043755708
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Olive / Large",
+      "public_title": "Olive / Large",
+      "options": [
+        "Olive",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-OLIV23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141298876,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42876043722940,
+      "title": "Olive / XLarge",
+      "option1": "Olive",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-OLIV23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966684348,
+        "product_id": 7726285750460,
+        "position": 14,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42876043624636,
+          42876043657404,
+          42876043690172,
+          42876043722940,
+          42876043755708
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Olive / XLarge",
+      "public_title": "Olive / XLarge",
+      "options": [
+        "Olive",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-OLIV23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141298876,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42876043755708,
+      "title": "Olive / XXLarge",
+      "option1": "Olive",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-OLIV23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966684348,
+        "product_id": 7726285750460,
+        "position": 14,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42876043624636,
+          42876043657404,
+          42876043690172,
+          42876043722940,
+          42876043755708
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Olive / XXLarge",
+      "public_title": "Olive / XXLarge",
+      "options": [
+        "Olive",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-OLIV23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141298876,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854349500,
+      "title": "Sepia Rose / Small",
+      "option1": "Sepia Rose",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-ROSE23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966454972,
+        "product_id": 7726285750460,
+        "position": 15,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854349500,
+          42417854382268,
+          42417854415036,
+          42417854447804,
+          42417854480572
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Sepia Rose / Small",
+      "public_title": "Sepia Rose / Small",
+      "options": [
+        "Sepia Rose",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-ROSE23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141331644,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854382268,
+      "title": "Sepia Rose / Medium",
+      "option1": "Sepia Rose",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-ROSE23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966454972,
+        "product_id": 7726285750460,
+        "position": 15,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854349500,
+          42417854382268,
+          42417854415036,
+          42417854447804,
+          42417854480572
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Sepia Rose / Medium",
+      "public_title": "Sepia Rose / Medium",
+      "options": [
+        "Sepia Rose",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-ROSE23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141331644,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854415036,
+      "title": "Sepia Rose / Large",
+      "option1": "Sepia Rose",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-ROSE23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966454972,
+        "product_id": 7726285750460,
+        "position": 15,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854349500,
+          42417854382268,
+          42417854415036,
+          42417854447804,
+          42417854480572
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Sepia Rose / Large",
+      "public_title": "Sepia Rose / Large",
+      "options": [
+        "Sepia Rose",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-ROSE23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141331644,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854447804,
+      "title": "Sepia Rose / XLarge",
+      "option1": "Sepia Rose",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-ROSE23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966454972,
+        "product_id": 7726285750460,
+        "position": 15,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854349500,
+          42417854382268,
+          42417854415036,
+          42417854447804,
+          42417854480572
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Sepia Rose / XLarge",
+      "public_title": "Sepia Rose / XLarge",
+      "options": [
+        "Sepia Rose",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-ROSE23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141331644,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854480572,
+      "title": "Sepia Rose / XXLarge",
+      "option1": "Sepia Rose",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-ROSE23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966454972,
+        "product_id": 7726285750460,
+        "position": 15,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854349500,
+          42417854382268,
+          42417854415036,
+          42417854447804,
+          42417854480572
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Sepia Rose / XXLarge",
+      "public_title": "Sepia Rose / XXLarge",
+      "options": [
+        "Sepia Rose",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-ROSE23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141331644,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854513340,
+      "title": "White / Small",
+      "option1": "White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-WHTE23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966487740,
+        "product_id": 7726285750460,
+        "position": 16,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854513340,
+          42417854546108,
+          42417854578876,
+          42417854611644,
+          42417854644412
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - White / Small",
+      "public_title": "White / Small",
+      "options": [
+        "White",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WHTE23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141364412,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854546108,
+      "title": "White / Medium",
+      "option1": "White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-WHTE23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966487740,
+        "product_id": 7726285750460,
+        "position": 16,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854513340,
+          42417854546108,
+          42417854578876,
+          42417854611644,
+          42417854644412
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - White / Medium",
+      "public_title": "White / Medium",
+      "options": [
+        "White",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WHTE23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141364412,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854578876,
+      "title": "White / Large",
+      "option1": "White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-WHTE23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966487740,
+        "product_id": 7726285750460,
+        "position": 16,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854513340,
+          42417854546108,
+          42417854578876,
+          42417854611644,
+          42417854644412
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - White / Large",
+      "public_title": "White / Large",
+      "options": [
+        "White",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WHTE23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141364412,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854611644,
+      "title": "White / XLarge",
+      "option1": "White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-WHTE23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966487740,
+        "product_id": 7726285750460,
+        "position": 16,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854513340,
+          42417854546108,
+          42417854578876,
+          42417854611644,
+          42417854644412
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - White / XLarge",
+      "public_title": "White / XLarge",
+      "options": [
+        "White",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WHTE23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141364412,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854644412,
+      "title": "White / XXLarge",
+      "option1": "White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-WHTE23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35477966487740,
+        "product_id": 7726285750460,
+        "position": 16,
+        "created_at": "2023-07-26T17:37:24-07:00",
+        "updated_at": "2025-05-27T15:50:45-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245",
+        "variant_ids": [
+          42417854513340,
+          42417854546108,
+          42417854578876,
+          42417854611644,
+          42417854644412
+        ]
+      },
+      "available": true,
+      "name": "466 Tailored Tees - White / XXLarge",
+      "public_title": "White / XXLarge",
+      "options": [
+        "White",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WHTE23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 28018141364412,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854677180,
+      "title": "Wine / Small",
+      "option1": "Wine",
+      "option2": "Small",
+      "option3": null,
+      "sku": "466-WINE23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35480202150076,
+        "product_id": 7726285750460,
+        "position": 9,
+        "created_at": "2023-07-27T12:48:37-07:00",
+        "updated_at": "2025-05-27T15:50:49-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249",
+        "variant_ids": [
+          42417854677180,
+          42417854709948,
+          42417854742716,
+          42417854775484,
+          42417854808252
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Wine / Small",
+      "public_title": "Wine / Small",
+      "options": [
+        "Wine",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WINE23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 28020400193724,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854709948,
+      "title": "Wine / Medium",
+      "option1": "Wine",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "466-WINE23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35480202150076,
+        "product_id": 7726285750460,
+        "position": 9,
+        "created_at": "2023-07-27T12:48:37-07:00",
+        "updated_at": "2025-05-27T15:50:49-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249",
+        "variant_ids": [
+          42417854677180,
+          42417854709948,
+          42417854742716,
+          42417854775484,
+          42417854808252
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Wine / Medium",
+      "public_title": "Wine / Medium",
+      "options": [
+        "Wine",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WINE23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 28020400193724,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854742716,
+      "title": "Wine / Large",
+      "option1": "Wine",
+      "option2": "Large",
+      "option3": null,
+      "sku": "466-WINE23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35480202150076,
+        "product_id": 7726285750460,
+        "position": 9,
+        "created_at": "2023-07-27T12:48:37-07:00",
+        "updated_at": "2025-05-27T15:50:49-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249",
+        "variant_ids": [
+          42417854677180,
+          42417854709948,
+          42417854742716,
+          42417854775484,
+          42417854808252
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Wine / Large",
+      "public_title": "Wine / Large",
+      "options": [
+        "Wine",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WINE23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 28020400193724,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854775484,
+      "title": "Wine / XLarge",
+      "option1": "Wine",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "466-WINE23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35480202150076,
+        "product_id": 7726285750460,
+        "position": 9,
+        "created_at": "2023-07-27T12:48:37-07:00",
+        "updated_at": "2025-05-27T15:50:49-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249",
+        "variant_ids": [
+          42417854677180,
+          42417854709948,
+          42417854742716,
+          42417854775484,
+          42417854808252
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Wine / XLarge",
+      "public_title": "Wine / XLarge",
+      "options": [
+        "Wine",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WINE23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 28020400193724,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42417854808252,
+      "title": "Wine / XXLarge",
+      "option1": "Wine",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "466-WINE23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35480202150076,
+        "product_id": 7726285750460,
+        "position": 9,
+        "created_at": "2023-07-27T12:48:37-07:00",
+        "updated_at": "2025-05-27T15:50:49-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249",
+        "variant_ids": [
+          42417854677180,
+          42417854709948,
+          42417854742716,
+          42417854775484,
+          42417854808252
+        ]
+      },
+      "available": false,
+      "name": "466 Tailored Tees - Wine / XXLarge",
+      "public_title": "Wine / XXLarge",
+      "options": [
+        "Wine",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 295,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "466-WINE23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 28020400193724,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/256.jpg?v=1691016885",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/226.jpg?v=1691462994",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/224.jpg?v=1691462994",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4406.jpg?v=1691462994",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_wine_005_08_17_johnny_ecomm.jpg?v=1748386249",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Closeup_collage_8ef0628b-d94f-414d-bf70-69982ec83d78.jpg?v=1748386249",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4367.jpg?v=1748386249",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/466-Size-Chart.png?v=1748386245"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/256.jpg?v=1691016885",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Beige",
+        "Black",
+        "Chocolate",
+        "Dark Grey",
+        "Heather Grey",
+        "Olive",
+        "Sepia Rose",
+        "White",
+        "Wine"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/466",
+  "media": [
+    {
+      "alt": null,
+      "id": 28036141514940,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3341,
+        "width": 2227,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/256.jpg?v=1691016885"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3341,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/256.jpg?v=1691016885",
+      "width": 2227
+    },
+    {
+      "alt": null,
+      "id": 28036141416636,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3470,
+        "width": 2313,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3470,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/177.jpg?v=1691016885",
+      "width": 2313
+    },
+    {
+      "alt": null,
+      "id": 32449045168316,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/0d835c1f3916428b8b61c6b204fc3823.thumbnail.0000000000.jpg?v=1732313157"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 22590,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/0d835c1f3916428b8b61c6b204fc3823/0d835c1f3916428b8b61c6b204fc3823.SD-480p-0.9Mbps-38592923.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/0d835c1f3916428b8b61c6b204fc3823/0d835c1f3916428b8b61c6b204fc3823.HD-1080p-2.5Mbps-38592923.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/0d835c1f3916428b8b61c6b204fc3823/0d835c1f3916428b8b61c6b204fc3823.HD-720p-1.6Mbps-38592923.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/0d835c1f3916428b8b61c6b204fc3823/0d835c1f3916428b8b61c6b204fc3823.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 28036141482172,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3666,
+        "width": 2444,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/226.jpg?v=1691462994"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3666,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/226.jpg?v=1691462994",
+      "width": 2444
+    },
+    {
+      "alt": null,
+      "id": 28036141449404,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 4259,
+        "width": 2839,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/224.jpg?v=1691462994"
+      },
+      "aspect_ratio": 0.667,
+      "height": 4259,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/224.jpg?v=1691462994",
+      "width": 2839
+    },
+    {
+      "alt": null,
+      "id": 28036119298236,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 1715,
+        "width": 1143,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4406.jpg?v=1691462994"
+      },
+      "aspect_ratio": 0.666,
+      "height": 1715,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4406.jpg?v=1691462994",
+      "width": 1143
+    },
+    {
+      "alt": null,
+      "id": 28036146561212,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_005_08_17_johnny_ecomm.jpg?v=1748386249"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_005_08_17_johnny_ecomm.jpg?v=1748386249",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 28018141167804,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Closeup_collage_8ef0628b-d94f-414d-bf70-69982ec83d78.jpg?v=1748386249"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Closeup_collage_8ef0628b-d94f-414d-bf70-69982ec83d78.jpg?v=1748386249",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 28036141547708,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4367.jpg?v=1748386249"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4367.jpg?v=1748386249",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 28020400193724,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_wine_001_08_17_johnny_ecomm.jpg?v=1748386249",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34217611362492,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_heather-grey_001_ghost-drop_rudy_ecomm.jpg?v=1748388558",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 28018141233340,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_chocolate_001_08_03_floor.jpg?v=1748386245",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 28018141200572,
+      "position": 13,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_black_001_08_03_floor.jpg?v=1748386245",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 28018141266108,
+      "position": 14,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_dark-grey_001_08_03_floor.jpg?v=1748386245",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 28018141298876,
+      "position": 15,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_olive_001_08_03_floor.jpg?v=1748386245",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 28018141331644,
+      "position": 16,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_sepia-rose_001_08_03_floor.jpg?v=1748386245",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 28018141364412,
+      "position": 17,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466_white_001_08_03_floor.jpg?v=1748386245",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 27553631011004,
+      "position": 18,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466-Size-Chart.png?v=1748386245"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/466-Size-Chart.png?v=1748386245",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,879 @@
+{
+  "id": 8603950973116,
+  "title": "4142 - Scorpion Tee + Jersey Set",
+  "handle": "4142",
+  "description": "<p><strong>This style includes both a tee and a jersey as a set.</strong></p>\n<p><strong>JERSEY MATERIAL:\u00a0</strong>100% Polyester, 220 GSM\u00a0</p>\n<p><strong>TEE MATERIAL: </strong>100% Cotton, 210 GSM</p>\n<p><strong>FIT: </strong>Oversized.</p>\n<p><strong>DESIGN: </strong>The Scorpion Tee Jersey Set is where streetwear meets statement. This set includes a mesh jersey layered over a bold graphic tee. When worn together, the YoungLA logo on the jersey and the scorpion graphic on the tee align to create a complete, eye-catching design. Rock them as a pair or wear each piece solo\u2014this set gives you two standout looks in one.</p>\n<p><strong>MODEL:</strong> The model in the first photo is wearing a size XL. Weight: 200lb Height: 6'3.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4142-Size-Chart_updated_2db865f2-4bbf-4def-bab7-26f5a2dcc388_600x600.png?v=1749661104\"></div>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4089-Size-Chart_updated_7b123af3-ef1f-4731-aa69-c2309b59b14f_600x600.png?v=1749661119\"></div>",
+  "published_at": "2025-06-05T15:33:20-07:00",
+  "created_at": "2024-10-21T09:06:46-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "Danny",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 5500,
+  "price_min": 5500,
+  "price_max": 5500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44209152655548,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4142-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174157975740,
+        "product_id": 8603950973116,
+        "position": 6,
+        "created_at": "2025-06-10T15:17:20-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152655548,
+          44209152688316,
+          44209152721084,
+          44209152753852,
+          44209152786620
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 522,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34498501640380,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152688316,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4142-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174157975740,
+        "product_id": 8603950973116,
+        "position": 6,
+        "created_at": "2025-06-10T15:17:20-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152655548,
+          44209152688316,
+          44209152721084,
+          44209152753852,
+          44209152786620
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34498501640380,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152721084,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4142-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174157975740,
+        "product_id": 8603950973116,
+        "position": 6,
+        "created_at": "2025-06-10T15:17:20-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152655548,
+          44209152688316,
+          44209152721084,
+          44209152753852,
+          44209152786620
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 612,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34498501640380,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152753852,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4142-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174157975740,
+        "product_id": 8603950973116,
+        "position": 6,
+        "created_at": "2025-06-10T15:17:20-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152655548,
+          44209152688316,
+          44209152721084,
+          44209152753852,
+          44209152786620
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 612,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34498501640380,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152786620,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4142-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174157975740,
+        "product_id": 8603950973116,
+        "position": 6,
+        "created_at": "2025-06-10T15:17:20-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152655548,
+          44209152688316,
+          44209152721084,
+          44209152753852,
+          44209152786620
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 658,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34498501640380,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152819388,
+      "title": "Off-White / Small",
+      "option1": "Off-White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4142-OWHT-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174166626492,
+        "product_id": 8603950973116,
+        "position": 7,
+        "created_at": "2025-06-10T15:17:33-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152819388,
+          44209152852156,
+          44209152884924,
+          44209152917692,
+          44209152950460
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Off-White / Small",
+      "public_title": "Off-White / Small",
+      "options": [
+        "Off-White",
+        "Small"
+      ],
+      "price": 5500,
+      "weight": 499,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-OWHT-S",
+      "featured_media": {
+        "alt": null,
+        "id": 34498506162364,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152852156,
+      "title": "Off-White / Medium",
+      "option1": "Off-White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4142-OWHT-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174166626492,
+        "product_id": 8603950973116,
+        "position": 7,
+        "created_at": "2025-06-10T15:17:33-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152819388,
+          44209152852156,
+          44209152884924,
+          44209152917692,
+          44209152950460
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Off-White / Medium",
+      "public_title": "Off-White / Medium",
+      "options": [
+        "Off-White",
+        "Medium"
+      ],
+      "price": 5500,
+      "weight": 522,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-OWHT-M",
+      "featured_media": {
+        "alt": null,
+        "id": 34498506162364,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152884924,
+      "title": "Off-White / Large",
+      "option1": "Off-White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4142-OWHT-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174166626492,
+        "product_id": 8603950973116,
+        "position": 7,
+        "created_at": "2025-06-10T15:17:33-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152819388,
+          44209152852156,
+          44209152884924,
+          44209152917692,
+          44209152950460
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Off-White / Large",
+      "public_title": "Off-White / Large",
+      "options": [
+        "Off-White",
+        "Large"
+      ],
+      "price": 5500,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-OWHT-L",
+      "featured_media": {
+        "alt": null,
+        "id": 34498506162364,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152917692,
+      "title": "Off-White / XLarge",
+      "option1": "Off-White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4142-OWHT-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174166626492,
+        "product_id": 8603950973116,
+        "position": 7,
+        "created_at": "2025-06-10T15:17:33-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152819388,
+          44209152852156,
+          44209152884924,
+          44209152917692,
+          44209152950460
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Off-White / XLarge",
+      "public_title": "Off-White / XLarge",
+      "options": [
+        "Off-White",
+        "XLarge"
+      ],
+      "price": 5500,
+      "weight": 590,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-OWHT-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 34498506162364,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44209152950460,
+      "title": "Off-White / XXLarge",
+      "option1": "Off-White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4142-OWHT-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43174166626492,
+        "product_id": 8603950973116,
+        "position": 7,
+        "created_at": "2025-06-10T15:17:33-07:00",
+        "updated_at": "2025-06-19T10:44:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080",
+        "variant_ids": [
+          44209152819388,
+          44209152852156,
+          44209152884924,
+          44209152917692,
+          44209152950460
+        ]
+      },
+      "available": true,
+      "name": "4142 - Scorpion Tee + Jersey Set - Off-White / XXLarge",
+      "public_title": "Off-White / XXLarge",
+      "options": [
+        "Off-White",
+        "XXLarge"
+      ],
+      "price": 5500,
+      "weight": 612,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4142-OWHT-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 34498506162364,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA6.534.jpg?v=1749842945",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA6.567.jpg?v=1749842947",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA633.5.jpg?v=1750355080",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YoungLAJuneEdits22.jpg?v=1750355080",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4089_black_0014_06_18_deek_ecomm.jpg?v=1750355080",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4089_black_0010_06_18_deek_ecomm.jpg?v=1750355080",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4089_off-white_005_06_18_deek_ecomm.jpg?v=1750355080",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4142-Size-Chart_updated.png?v=1750355080",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4089-Size-Chart_updated.png?v=1750355080"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/YLA6.534.jpg?v=1749842945",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Off-White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4142",
+  "media": [
+    {
+      "alt": null,
+      "id": 34537668575420,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2234,
+        "width": 1489,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.534.jpg?v=1749842945"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2234,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.534.jpg?v=1749842945",
+      "width": 1489
+    },
+    {
+      "alt": null,
+      "id": 34537668608188,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2330,
+        "width": 1553,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.567.jpg?v=1749842947"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2330,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.567.jpg?v=1749842947",
+      "width": 1553
+    },
+    {
+      "alt": null,
+      "id": 34601755574460,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/095e70375db747308ad696ed2d01a157.thumbnail.0000000000.jpg?v=1750355098"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 25600,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/095e70375db747308ad696ed2d01a157/095e70375db747308ad696ed2d01a157.SD-480p-1.5Mbps-49698777.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/095e70375db747308ad696ed2d01a157/095e70375db747308ad696ed2d01a157.HD-1080p-7.2Mbps-49698777.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/095e70375db747308ad696ed2d01a157/095e70375db747308ad696ed2d01a157.HD-720p-4.5Mbps-49698777.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/095e70375db747308ad696ed2d01a157/095e70375db747308ad696ed2d01a157.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 34537668837564,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2175,
+        "width": 1450,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA633.5.jpg?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2175,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA633.5.jpg?v=1750355080",
+      "width": 1450
+    },
+    {
+      "alt": null,
+      "id": 34537668935868,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3397,
+        "width": 2265,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YoungLAJuneEdits22.jpg?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3397,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YoungLAJuneEdits22.jpg?v=1750355080",
+      "width": 2265
+    },
+    {
+      "alt": null,
+      "id": 34357171421372,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4089_black_0014_06_18_deek_ecomm.jpg?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4089_black_0014_06_18_deek_ecomm.jpg?v=1750355080",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34498501640380,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_black_001_06_19_deek_ecomm.jpg?v=1750355080",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34498506162364,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142_off-white_001_06_19_deek_ecomm.jpg?v=1750355080",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34357171355836,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4089_black_0010_06_18_deek_ecomm.jpg?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4089_black_0010_06_18_deek_ecomm.jpg?v=1750355080",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34357171323068,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4089_off-white_005_06_18_deek_ecomm.jpg?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4089_off-white_005_06_18_deek_ecomm.jpg?v=1750355080",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34510824800444,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142-Size-Chart_updated.png?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4142-Size-Chart_updated.png?v=1750355080",
+      "width": 1200
+    },
+    {
+      "alt": null,
+      "id": 34510825390268,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4089-Size-Chart_updated.png?v=1750355080"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4089-Size-Chart_updated.png?v=1750355080",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

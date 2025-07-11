@@ -1,0 +1,1158 @@
+{
+  "id": 8664984092860,
+  "title": "8011 - Western Denim Shirts",
+  "handle": "8011",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL:</strong> 100% Cotton</p>\n<p class=\"MsoNormal\"><strong>FABRIC WEIGHT: </strong>240 GSM</p>\n<p class=\"MsoNormal\"><strong>FIT:</strong> True to Size.</p>\n<p class=\"MsoNormal\"><strong>DESIGN: </strong>Inspired by classic rodeo style, the Western Denim Shirt brings a modern edge to a timeless Western silhouette. Featuring a structured yoke, pointed chest pockets, and a distinctive Western cut, this shirt embodies rugged sophistication. The washed denim delivers a sleek, worn-in look, while the turquoise blue stone buttons add a bold pop of color.</p>\n<p class=\"MsoNormal\"><strong>MODEL: </strong>The model in the first photo is wearing a size Large. Weight: 185lb Height: 5'11.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/8011-Size-Chart_0d57c24c-1f63-4eec-bd03-e925b47e2e52_600x600.png?v=1739812149\" style=\"margin-bottom: 16px; float: none;\"></div>",
+  "published_at": "2025-01-31T12:23:40-08:00",
+  "created_at": "2024-12-10T10:26:06-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "Annie",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3800,
+  "price_min": 3800,
+  "price_max": 3800,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44388508401852,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8011-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165869756,
+        "product_id": 8664984092860,
+        "position": 8,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743",
+        "variant_ids": [
+          44388508401852,
+          44388508434620,
+          44388508467388,
+          44388508500156,
+          44388508532924
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212610748,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508434620,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8011-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165869756,
+        "product_id": 8664984092860,
+        "position": 8,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743",
+        "variant_ids": [
+          44388508401852,
+          44388508434620,
+          44388508467388,
+          44388508500156,
+          44388508532924
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 590,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212610748,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508467388,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8011-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165869756,
+        "product_id": 8664984092860,
+        "position": 8,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743",
+        "variant_ids": [
+          44388508401852,
+          44388508434620,
+          44388508467388,
+          44388508500156,
+          44388508532924
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 612,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212610748,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508500156,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8011-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165869756,
+        "product_id": 8664984092860,
+        "position": 8,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743",
+        "variant_ids": [
+          44388508401852,
+          44388508434620,
+          44388508467388,
+          44388508500156,
+          44388508532924
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 658,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212610748,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508532924,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8011-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165869756,
+        "product_id": 8664984092860,
+        "position": 8,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743",
+        "variant_ids": [
+          44388508401852,
+          44388508434620,
+          44388508467388,
+          44388508500156,
+          44388508532924
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 680,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212610748,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508565692,
+      "title": "Blue Wash / Small",
+      "option1": "Blue Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8011-BLUW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165902524,
+        "product_id": 8664984092860,
+        "position": 9,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742",
+        "variant_ids": [
+          44388508565692,
+          44388508598460,
+          44388508631228,
+          44388508663996,
+          44388508696764
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Blue Wash / Small",
+      "public_title": "Blue Wash / Small",
+      "options": [
+        "Blue Wash",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 499,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLUW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212512444,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508598460,
+      "title": "Blue Wash / Medium",
+      "option1": "Blue Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8011-BLUW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165902524,
+        "product_id": 8664984092860,
+        "position": 9,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742",
+        "variant_ids": [
+          44388508565692,
+          44388508598460,
+          44388508631228,
+          44388508663996,
+          44388508696764
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Blue Wash / Medium",
+      "public_title": "Blue Wash / Medium",
+      "options": [
+        "Blue Wash",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 522,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLUW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212512444,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508631228,
+      "title": "Blue Wash / Large",
+      "option1": "Blue Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8011-BLUW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165902524,
+        "product_id": 8664984092860,
+        "position": 9,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742",
+        "variant_ids": [
+          44388508565692,
+          44388508598460,
+          44388508631228,
+          44388508663996,
+          44388508696764
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Blue Wash / Large",
+      "public_title": "Blue Wash / Large",
+      "options": [
+        "Blue Wash",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 544,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLUW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212512444,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508663996,
+      "title": "Blue Wash / XLarge",
+      "option1": "Blue Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8011-BLUW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165902524,
+        "product_id": 8664984092860,
+        "position": 9,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742",
+        "variant_ids": [
+          44388508565692,
+          44388508598460,
+          44388508631228,
+          44388508663996,
+          44388508696764
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Blue Wash / XLarge",
+      "public_title": "Blue Wash / XLarge",
+      "options": [
+        "Blue Wash",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLUW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212512444,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508696764,
+      "title": "Blue Wash / XXLarge",
+      "option1": "Blue Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8011-BLUW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012165902524,
+        "product_id": 8664984092860,
+        "position": 9,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:02-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742",
+        "variant_ids": [
+          44388508565692,
+          44388508598460,
+          44388508631228,
+          44388508663996,
+          44388508696764
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Blue Wash / XXLarge",
+      "public_title": "Blue Wash / XXLarge",
+      "options": [
+        "Blue Wash",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 590,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-BLUW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212512444,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508729532,
+      "title": "Grey Wash / Small",
+      "option1": "Grey Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8011-GRYW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012166066364,
+        "product_id": 8664984092860,
+        "position": 6,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743",
+        "variant_ids": [
+          44388508729532,
+          44388508762300,
+          44388508795068,
+          44388508827836,
+          44388508860604
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Grey Wash / Small",
+      "public_title": "Grey Wash / Small",
+      "options": [
+        "Grey Wash",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 544,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-GRYW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212577980,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508762300,
+      "title": "Grey Wash / Medium",
+      "option1": "Grey Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8011-GRYW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012166066364,
+        "product_id": 8664984092860,
+        "position": 6,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743",
+        "variant_ids": [
+          44388508729532,
+          44388508762300,
+          44388508795068,
+          44388508827836,
+          44388508860604
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Grey Wash / Medium",
+      "public_title": "Grey Wash / Medium",
+      "options": [
+        "Grey Wash",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 567,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-GRYW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212577980,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508795068,
+      "title": "Grey Wash / Large",
+      "option1": "Grey Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8011-GRYW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012166066364,
+        "product_id": 8664984092860,
+        "position": 6,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743",
+        "variant_ids": [
+          44388508729532,
+          44388508762300,
+          44388508795068,
+          44388508827836,
+          44388508860604
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Grey Wash / Large",
+      "public_title": "Grey Wash / Large",
+      "options": [
+        "Grey Wash",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 590,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-GRYW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212577980,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508827836,
+      "title": "Grey Wash / XLarge",
+      "option1": "Grey Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8011-GRYW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012166066364,
+        "product_id": 8664984092860,
+        "position": 6,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743",
+        "variant_ids": [
+          44388508729532,
+          44388508762300,
+          44388508795068,
+          44388508827836,
+          44388508860604
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Grey Wash / XLarge",
+      "public_title": "Grey Wash / XLarge",
+      "options": [
+        "Grey Wash",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 612,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-GRYW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212577980,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44388508860604,
+      "title": "Grey Wash / XXLarge",
+      "option1": "Grey Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8011-GRYW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 41012166066364,
+        "product_id": 8664984092860,
+        "position": 6,
+        "created_at": "2025-02-04T11:20:37-08:00",
+        "updated_at": "2025-03-17T06:39:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743",
+        "variant_ids": [
+          44388508729532,
+          44388508762300,
+          44388508795068,
+          44388508827836,
+          44388508860604
+        ]
+      },
+      "available": true,
+      "name": "8011 - Western Denim Shirts - Grey Wash / XXLarge",
+      "public_title": "Grey Wash / XXLarge",
+      "options": [
+        "Grey Wash",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 635,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8011-GRYW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 33077212577980,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA1.15805.jpg?v=1742218399",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA1.1345.jpg?v=1742218397",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA1.215.jpg?v=1742218509",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA1.14565.jpg?v=1742218511",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WesternDenim-23.jpg?v=1742218730",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_002_02_12_floor.jpg?v=1742218741",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8011-Size-Chart.png?v=1742218742"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/YLA1.15805.jpg?v=1742218399",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Blue Wash",
+        "Grey Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/8011",
+  "media": [
+    {
+      "alt": null,
+      "id": 33089387528380,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2271,
+        "width": 1514,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1.15805.jpg?v=1742218399"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2271,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1.15805.jpg?v=1742218399",
+      "width": 1514
+    },
+    {
+      "alt": null,
+      "id": 33088539427004,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2211,
+        "width": 1474,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1.1345.jpg?v=1742218397"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2211,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1.1345.jpg?v=1742218397",
+      "width": 1474
+    },
+    {
+      "alt": null,
+      "id": 33130355327164,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/38afbeefedc1472fb812b14b6bf142c0.thumbnail.0000000000.jpg?v=1739309338"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 26300,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/38afbeefedc1472fb812b14b6bf142c0/38afbeefedc1472fb812b14b6bf142c0.SD-480p-1.5Mbps-42469772.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/38afbeefedc1472fb812b14b6bf142c0/38afbeefedc1472fb812b14b6bf142c0.HD-1080p-7.2Mbps-42469772.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/38afbeefedc1472fb812b14b6bf142c0/38afbeefedc1472fb812b14b6bf142c0.HD-720p-4.5Mbps-42469772.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/38afbeefedc1472fb812b14b6bf142c0/38afbeefedc1472fb812b14b6bf142c0.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 33088534020284,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2190,
+        "width": 1460,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1.215.jpg?v=1742218509"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2190,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1.215.jpg?v=1742218509",
+      "width": 1460
+    },
+    {
+      "alt": null,
+      "id": 33089387495612,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2400,
+        "width": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1.14565.jpg?v=1742218511"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2400,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1.14565.jpg?v=1742218511",
+      "width": 1600
+    },
+    {
+      "alt": null,
+      "id": 33154483224764,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1695,
+        "width": 1130,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WesternDenim-23.jpg?v=1742218730"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1695,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WesternDenim-23.jpg?v=1742218730",
+      "width": 1130
+    },
+    {
+      "alt": null,
+      "id": 33077212577980,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_grey-wash_005_02_12_johnny_ecomm.jpg?v=1742218743",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33154576089276,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_002_02_12_floor.jpg?v=1742218741"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_002_02_12_floor.jpg?v=1742218741",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33077212610748,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_black-wash_003_02_12_johnny_ecomm_0a5b319e-4675-4115-bbad-1e57a64513b2.jpg?v=1742218743",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33077212512444,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011_blue-wash_0010_02_12_johnny_ecomm.jpg?v=1742218742",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 33177056673980,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011-Size-Chart.png?v=1742218742"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8011-Size-Chart.png?v=1742218742",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

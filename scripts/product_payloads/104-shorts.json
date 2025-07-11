@@ -1,0 +1,4668 @@
+{
+  "id": 7720466383036,
+  "title": "104 Legacy Shorts",
+  "handle": "104-shorts",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL: </strong>100% Polyester.</p>\n<p class=\"MsoNormal\"><strong>FIT: </strong>Fitted.</p>\n<p class=\"MsoNormal\"><strong>DESIGN:</strong> The Legacy short shorts are made from polyester mesh fabric, perfect for intense workouts. Features include secured elastic waistband with metal tip drawcords, 2 sides, 1 hidden back pocket, and YoungLA flocked print logo.</p>\n<p class=\"MsoNormal\"><strong>MODEL:</strong> The model in the second photo is wearing a size Medium. Weight: 175lb Height: 5'11.</p>\n<div style=\"text-align: center;\"><img style=\"float: none;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/104-Size-Chart_4f738409-e0e4-446a-80d5-cb447fc947de_600x600.png?v=1682700691\"></div>",
+  "published_at": "2023-11-20T17:53:44-08:00",
+  "created_at": "2022-12-10T12:53:20-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "Danny",
+    "For Him",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 2800,
+  "price_min": 2800,
+  "price_max": 2800,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": 3600,
+  "compare_at_price_min": 3600,
+  "compare_at_price_max": 3600,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 42403091710140,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-BLAK23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037784252,
+        "product_id": 7720466383036,
+        "position": 13,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681",
+        "variant_ids": [
+          42403091710140,
+          42403091742908,
+          42403091775676,
+          42403091808444,
+          42403091841212
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BLAK23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030113468,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403091742908,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-BLAK23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037784252,
+        "product_id": 7720466383036,
+        "position": 13,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681",
+        "variant_ids": [
+          42403091710140,
+          42403091742908,
+          42403091775676,
+          42403091808444,
+          42403091841212
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BLAK23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030113468,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403091775676,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-BLAK23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037784252,
+        "product_id": 7720466383036,
+        "position": 13,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681",
+        "variant_ids": [
+          42403091710140,
+          42403091742908,
+          42403091775676,
+          42403091808444,
+          42403091841212
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BLAK23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030113468,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403091808444,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-BLAK23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037784252,
+        "product_id": 7720466383036,
+        "position": 13,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681",
+        "variant_ids": [
+          42403091710140,
+          42403091742908,
+          42403091775676,
+          42403091808444,
+          42403091841212
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BLAK23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030113468,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403091841212,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-BLAK23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037784252,
+        "product_id": 7720466383036,
+        "position": 13,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681",
+        "variant_ids": [
+          42403091710140,
+          42403091742908,
+          42403091775676,
+          42403091808444,
+          42403091841212
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BLAK23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030113468,
+        "position": 14,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403091873980,
+      "title": "Brown / Small",
+      "option1": "Brown",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-BRWN23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038046396,
+        "product_id": 7720466383036,
+        "position": 12,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692",
+        "variant_ids": [
+          42403091873980,
+          42403091906748,
+          42403091939516,
+          42403091972284,
+          42403092005052
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Brown / Small",
+      "public_title": "Brown / Small",
+      "options": [
+        "Brown",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BRWN23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030244540,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403091906748,
+      "title": "Brown / Medium",
+      "option1": "Brown",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-BRWN23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038046396,
+        "product_id": 7720466383036,
+        "position": 12,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692",
+        "variant_ids": [
+          42403091873980,
+          42403091906748,
+          42403091939516,
+          42403091972284,
+          42403092005052
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Brown / Medium",
+      "public_title": "Brown / Medium",
+      "options": [
+        "Brown",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BRWN23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030244540,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403091939516,
+      "title": "Brown / Large",
+      "option1": "Brown",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-BRWN23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038046396,
+        "product_id": 7720466383036,
+        "position": 12,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692",
+        "variant_ids": [
+          42403091873980,
+          42403091906748,
+          42403091939516,
+          42403091972284,
+          42403092005052
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Brown / Large",
+      "public_title": "Brown / Large",
+      "options": [
+        "Brown",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BRWN23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030244540,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403091972284,
+      "title": "Brown / XLarge",
+      "option1": "Brown",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-BRWN23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038046396,
+        "product_id": 7720466383036,
+        "position": 12,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692",
+        "variant_ids": [
+          42403091873980,
+          42403091906748,
+          42403091939516,
+          42403091972284,
+          42403092005052
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Brown / XLarge",
+      "public_title": "Brown / XLarge",
+      "options": [
+        "Brown",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BRWN23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030244540,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092005052,
+      "title": "Brown / XXLarge",
+      "option1": "Brown",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-BRWN23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038046396,
+        "product_id": 7720466383036,
+        "position": 12,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692",
+        "variant_ids": [
+          42403091873980,
+          42403091906748,
+          42403091939516,
+          42403091972284,
+          42403092005052
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Brown / XXLarge",
+      "public_title": "Brown / XXLarge",
+      "options": [
+        "Brown",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-BRWN23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030244540,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092037820,
+      "title": "Carolina Blue / Small",
+      "option1": "Carolina Blue",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-CBLU23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037882556,
+        "product_id": 7720466383036,
+        "position": 16,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681",
+        "variant_ids": [
+          42403092037820,
+          42403092070588,
+          42403092103356,
+          42403092136124,
+          42403092168892
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Carolina Blue / Small",
+      "public_title": "Carolina Blue / Small",
+      "options": [
+        "Carolina Blue",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-CBLU23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030080700,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092070588,
+      "title": "Carolina Blue / Medium",
+      "option1": "Carolina Blue",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-CBLU23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037882556,
+        "product_id": 7720466383036,
+        "position": 16,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681",
+        "variant_ids": [
+          42403092037820,
+          42403092070588,
+          42403092103356,
+          42403092136124,
+          42403092168892
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Carolina Blue / Medium",
+      "public_title": "Carolina Blue / Medium",
+      "options": [
+        "Carolina Blue",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-CBLU23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030080700,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092103356,
+      "title": "Carolina Blue / Large",
+      "option1": "Carolina Blue",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-CBLU23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037882556,
+        "product_id": 7720466383036,
+        "position": 16,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681",
+        "variant_ids": [
+          42403092037820,
+          42403092070588,
+          42403092103356,
+          42403092136124,
+          42403092168892
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Carolina Blue / Large",
+      "public_title": "Carolina Blue / Large",
+      "options": [
+        "Carolina Blue",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-CBLU23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030080700,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092136124,
+      "title": "Carolina Blue / XLarge",
+      "option1": "Carolina Blue",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-CBLU23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037882556,
+        "product_id": 7720466383036,
+        "position": 16,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681",
+        "variant_ids": [
+          42403092037820,
+          42403092070588,
+          42403092103356,
+          42403092136124,
+          42403092168892
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Carolina Blue / XLarge",
+      "public_title": "Carolina Blue / XLarge",
+      "options": [
+        "Carolina Blue",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-CBLU23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030080700,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092168892,
+      "title": "Carolina Blue / XXLarge",
+      "option1": "Carolina Blue",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-CBLU23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037882556,
+        "product_id": 7720466383036,
+        "position": 16,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681",
+        "variant_ids": [
+          42403092037820,
+          42403092070588,
+          42403092103356,
+          42403092136124,
+          42403092168892
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Carolina Blue / XXLarge",
+      "public_title": "Carolina Blue / XXLarge",
+      "options": [
+        "Carolina Blue",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-CBLU23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030080700,
+        "position": 17,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092201660,
+      "title": "Deep Purple / Small",
+      "option1": "Deep Purple",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-PURP23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037980860,
+        "product_id": 7720466383036,
+        "position": 15,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681",
+        "variant_ids": [
+          42403092201660,
+          42403092234428,
+          42403092267196,
+          42403092299964,
+          42403092332732
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Deep Purple / Small",
+      "public_title": "Deep Purple / Small",
+      "options": [
+        "Deep Purple",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PURP23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030179004,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092234428,
+      "title": "Deep Purple / Medium",
+      "option1": "Deep Purple",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-PURP23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037980860,
+        "product_id": 7720466383036,
+        "position": 15,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681",
+        "variant_ids": [
+          42403092201660,
+          42403092234428,
+          42403092267196,
+          42403092299964,
+          42403092332732
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Deep Purple / Medium",
+      "public_title": "Deep Purple / Medium",
+      "options": [
+        "Deep Purple",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PURP23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030179004,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092267196,
+      "title": "Deep Purple / Large",
+      "option1": "Deep Purple",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-PURP23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037980860,
+        "product_id": 7720466383036,
+        "position": 15,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681",
+        "variant_ids": [
+          42403092201660,
+          42403092234428,
+          42403092267196,
+          42403092299964,
+          42403092332732
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Deep Purple / Large",
+      "public_title": "Deep Purple / Large",
+      "options": [
+        "Deep Purple",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PURP23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030179004,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092299964,
+      "title": "Deep Purple / XLarge",
+      "option1": "Deep Purple",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-PURP23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037980860,
+        "product_id": 7720466383036,
+        "position": 15,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681",
+        "variant_ids": [
+          42403092201660,
+          42403092234428,
+          42403092267196,
+          42403092299964,
+          42403092332732
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Deep Purple / XLarge",
+      "public_title": "Deep Purple / XLarge",
+      "options": [
+        "Deep Purple",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PURP23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030179004,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092332732,
+      "title": "Deep Purple / XXLarge",
+      "option1": "Deep Purple",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-PURP23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037980860,
+        "product_id": 7720466383036,
+        "position": 15,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681",
+        "variant_ids": [
+          42403092201660,
+          42403092234428,
+          42403092267196,
+          42403092299964,
+          42403092332732
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Deep Purple / XXLarge",
+      "public_title": "Deep Purple / XXLarge",
+      "options": [
+        "Deep Purple",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PURP23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030179004,
+        "position": 16,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307377340,
+      "title": "Green / Small",
+      "option1": "Green",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-GREEN23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232043708,
+        "product_id": 7720466383036,
+        "position": 18,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:06-07:00",
+        "alt": null,
+        "width": 3307,
+        "height": 4961,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146",
+        "variant_ids": [
+          43566307377340,
+          43566307410108,
+          43566307442876,
+          43566307475644,
+          43566307508412
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Green / Small",
+      "public_title": "Green / Small",
+      "options": [
+        "Green",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-GREEN23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236015292,
+        "position": 19,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4961,
+          "width": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307410108,
+      "title": "Green / Medium",
+      "option1": "Green",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-GREEN23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232043708,
+        "product_id": 7720466383036,
+        "position": 18,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:06-07:00",
+        "alt": null,
+        "width": 3307,
+        "height": 4961,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146",
+        "variant_ids": [
+          43566307377340,
+          43566307410108,
+          43566307442876,
+          43566307475644,
+          43566307508412
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Green / Medium",
+      "public_title": "Green / Medium",
+      "options": [
+        "Green",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-GREEN23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236015292,
+        "position": 19,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4961,
+          "width": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307442876,
+      "title": "Green / Large",
+      "option1": "Green",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-GREEN23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232043708,
+        "product_id": 7720466383036,
+        "position": 18,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:06-07:00",
+        "alt": null,
+        "width": 3307,
+        "height": 4961,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146",
+        "variant_ids": [
+          43566307377340,
+          43566307410108,
+          43566307442876,
+          43566307475644,
+          43566307508412
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Green / Large",
+      "public_title": "Green / Large",
+      "options": [
+        "Green",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-GREEN23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236015292,
+        "position": 19,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4961,
+          "width": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307475644,
+      "title": "Green / XLarge",
+      "option1": "Green",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-GREEN23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232043708,
+        "product_id": 7720466383036,
+        "position": 18,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:06-07:00",
+        "alt": null,
+        "width": 3307,
+        "height": 4961,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146",
+        "variant_ids": [
+          43566307377340,
+          43566307410108,
+          43566307442876,
+          43566307475644,
+          43566307508412
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Green / XLarge",
+      "public_title": "Green / XLarge",
+      "options": [
+        "Green",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-GREEN23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236015292,
+        "position": 19,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4961,
+          "width": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307508412,
+      "title": "Green / XXLarge",
+      "option1": "Green",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-GREEN23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232043708,
+        "product_id": 7720466383036,
+        "position": 18,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:06-07:00",
+        "alt": null,
+        "width": 3307,
+        "height": 4961,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146",
+        "variant_ids": [
+          43566307377340,
+          43566307410108,
+          43566307442876,
+          43566307475644,
+          43566307508412
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Green / XXLarge",
+      "public_title": "Green / XXLarge",
+      "options": [
+        "Green",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-GREEN23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236015292,
+        "position": 19,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4961,
+          "width": 3307,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092365500,
+      "title": "Hot Pink / Small",
+      "option1": "Hot Pink",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-HOTP23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038013628,
+        "product_id": 7720466383036,
+        "position": 11,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692",
+        "variant_ids": [
+          42403092365500,
+          42403092398268,
+          42403092431036,
+          42403092463804,
+          42403092496572
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Hot Pink / Small",
+      "public_title": "Hot Pink / Small",
+      "options": [
+        "Hot Pink",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-HOTP23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030146236,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092398268,
+      "title": "Hot Pink / Medium",
+      "option1": "Hot Pink",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-HOTP23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038013628,
+        "product_id": 7720466383036,
+        "position": 11,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692",
+        "variant_ids": [
+          42403092365500,
+          42403092398268,
+          42403092431036,
+          42403092463804,
+          42403092496572
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Hot Pink / Medium",
+      "public_title": "Hot Pink / Medium",
+      "options": [
+        "Hot Pink",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-HOTP23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030146236,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092431036,
+      "title": "Hot Pink / Large",
+      "option1": "Hot Pink",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-HOTP23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038013628,
+        "product_id": 7720466383036,
+        "position": 11,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692",
+        "variant_ids": [
+          42403092365500,
+          42403092398268,
+          42403092431036,
+          42403092463804,
+          42403092496572
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Hot Pink / Large",
+      "public_title": "Hot Pink / Large",
+      "options": [
+        "Hot Pink",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-HOTP23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030146236,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092463804,
+      "title": "Hot Pink / XLarge",
+      "option1": "Hot Pink",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-HOTP23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038013628,
+        "product_id": 7720466383036,
+        "position": 11,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692",
+        "variant_ids": [
+          42403092365500,
+          42403092398268,
+          42403092431036,
+          42403092463804,
+          42403092496572
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Hot Pink / XLarge",
+      "public_title": "Hot Pink / XLarge",
+      "options": [
+        "Hot Pink",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-HOTP23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030146236,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092496572,
+      "title": "Hot Pink / XXLarge",
+      "option1": "Hot Pink",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-HOTP23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103038013628,
+        "product_id": 7720466383036,
+        "position": 11,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692",
+        "variant_ids": [
+          42403092365500,
+          42403092398268,
+          42403092431036,
+          42403092463804,
+          42403092496572
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Hot Pink / XXLarge",
+      "public_title": "Hot Pink / XXLarge",
+      "options": [
+        "Hot Pink",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-HOTP23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030146236,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307541180,
+      "title": "Lavender / Small",
+      "option1": "Lavender",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-LVDR23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232142012,
+        "product_id": 7720466383036,
+        "position": 19,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143",
+        "variant_ids": [
+          43566307541180,
+          43566307573948,
+          43566307606716,
+          43566307639484,
+          43566307672252
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Lavender / Small",
+      "public_title": "Lavender / Small",
+      "options": [
+        "Lavender",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-LVDR23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236048060,
+        "position": 20,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307573948,
+      "title": "Lavender / Medium",
+      "option1": "Lavender",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-LVDR23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232142012,
+        "product_id": 7720466383036,
+        "position": 19,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143",
+        "variant_ids": [
+          43566307541180,
+          43566307573948,
+          43566307606716,
+          43566307639484,
+          43566307672252
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Lavender / Medium",
+      "public_title": "Lavender / Medium",
+      "options": [
+        "Lavender",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-LVDR23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236048060,
+        "position": 20,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307606716,
+      "title": "Lavender / Large",
+      "option1": "Lavender",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-LVDR23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232142012,
+        "product_id": 7720466383036,
+        "position": 19,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143",
+        "variant_ids": [
+          43566307541180,
+          43566307573948,
+          43566307606716,
+          43566307639484,
+          43566307672252
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Lavender / Large",
+      "public_title": "Lavender / Large",
+      "options": [
+        "Lavender",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-LVDR23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236048060,
+        "position": 20,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307639484,
+      "title": "Lavender / XLarge",
+      "option1": "Lavender",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-LVDR23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232142012,
+        "product_id": 7720466383036,
+        "position": 19,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143",
+        "variant_ids": [
+          43566307541180,
+          43566307573948,
+          43566307606716,
+          43566307639484,
+          43566307672252
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Lavender / XLarge",
+      "public_title": "Lavender / XLarge",
+      "options": [
+        "Lavender",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-LVDR23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236048060,
+        "position": 20,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307672252,
+      "title": "Lavender / XXLarge",
+      "option1": "Lavender",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-LVDR23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232142012,
+        "product_id": 7720466383036,
+        "position": 19,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143",
+        "variant_ids": [
+          43566307541180,
+          43566307573948,
+          43566307606716,
+          43566307639484,
+          43566307672252
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Lavender / XXLarge",
+      "public_title": "Lavender / XXLarge",
+      "options": [
+        "Lavender",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-LVDR23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236048060,
+        "position": 20,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307705020,
+      "title": "Navy / Small",
+      "option1": "Navy",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-NAVY23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232076476,
+        "product_id": 7720466383036,
+        "position": 1,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:01-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141",
+        "variant_ids": [
+          43566307705020,
+          43566307737788,
+          43566307770556,
+          43566307803324,
+          43566307836092
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Navy / Small",
+      "public_title": "Navy / Small",
+      "options": [
+        "Navy",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-NAVY23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236080828,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307737788,
+      "title": "Navy / Medium",
+      "option1": "Navy",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-NAVY23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232076476,
+        "product_id": 7720466383036,
+        "position": 1,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:01-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141",
+        "variant_ids": [
+          43566307705020,
+          43566307737788,
+          43566307770556,
+          43566307803324,
+          43566307836092
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Navy / Medium",
+      "public_title": "Navy / Medium",
+      "options": [
+        "Navy",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-NAVY23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236080828,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307770556,
+      "title": "Navy / Large",
+      "option1": "Navy",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-NAVY23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232076476,
+        "product_id": 7720466383036,
+        "position": 1,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:01-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141",
+        "variant_ids": [
+          43566307705020,
+          43566307737788,
+          43566307770556,
+          43566307803324,
+          43566307836092
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Navy / Large",
+      "public_title": "Navy / Large",
+      "options": [
+        "Navy",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-NAVY23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236080828,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307803324,
+      "title": "Navy / XLarge",
+      "option1": "Navy",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-NAVY23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232076476,
+        "product_id": 7720466383036,
+        "position": 1,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:01-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141",
+        "variant_ids": [
+          43566307705020,
+          43566307737788,
+          43566307770556,
+          43566307803324,
+          43566307836092
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Navy / XLarge",
+      "public_title": "Navy / XLarge",
+      "options": [
+        "Navy",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-NAVY23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236080828,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307836092,
+      "title": "Navy / XXLarge",
+      "option1": "Navy",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-NAVY23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232076476,
+        "product_id": 7720466383036,
+        "position": 1,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:01-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141",
+        "variant_ids": [
+          43566307705020,
+          43566307737788,
+          43566307770556,
+          43566307803324,
+          43566307836092
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Navy / XXLarge",
+      "public_title": "Navy / XXLarge",
+      "options": [
+        "Navy",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-NAVY23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236080828,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092529340,
+      "title": "Off-White / Small",
+      "option1": "Off-White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-OWHT23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Off-White / Small",
+      "public_title": "Off-White / Small",
+      "options": [
+        "Off-White",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-OWHT23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092562108,
+      "title": "Off-White / Medium",
+      "option1": "Off-White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-OWHT23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Off-White / Medium",
+      "public_title": "Off-White / Medium",
+      "options": [
+        "Off-White",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-OWHT23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092594876,
+      "title": "Off-White / Large",
+      "option1": "Off-White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-OWHT23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Off-White / Large",
+      "public_title": "Off-White / Large",
+      "options": [
+        "Off-White",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-OWHT23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092627644,
+      "title": "Off-White / XLarge",
+      "option1": "Off-White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-OWHT23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Off-White / XLarge",
+      "public_title": "Off-White / XLarge",
+      "options": [
+        "Off-White",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-OWHT23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092660412,
+      "title": "Off-White / XXLarge",
+      "option1": "Off-White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-OWHT23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Off-White / XXLarge",
+      "public_title": "Off-White / XXLarge",
+      "options": [
+        "Off-White",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-OWHT23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092693180,
+      "title": "Orange / Small",
+      "option1": "Orange",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-ORNG23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037849788,
+        "product_id": 7720466383036,
+        "position": 10,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692",
+        "variant_ids": [
+          42403092693180,
+          42403092725948,
+          42403092758716,
+          42403092791484,
+          42403092824252
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Orange / Small",
+      "public_title": "Orange / Small",
+      "options": [
+        "Orange",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-ORNG23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030211772,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092725948,
+      "title": "Orange / Medium",
+      "option1": "Orange",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-ORNG23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037849788,
+        "product_id": 7720466383036,
+        "position": 10,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692",
+        "variant_ids": [
+          42403092693180,
+          42403092725948,
+          42403092758716,
+          42403092791484,
+          42403092824252
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Orange / Medium",
+      "public_title": "Orange / Medium",
+      "options": [
+        "Orange",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-ORNG23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030211772,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092758716,
+      "title": "Orange / Large",
+      "option1": "Orange",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-ORNG23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037849788,
+        "product_id": 7720466383036,
+        "position": 10,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692",
+        "variant_ids": [
+          42403092693180,
+          42403092725948,
+          42403092758716,
+          42403092791484,
+          42403092824252
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Orange / Large",
+      "public_title": "Orange / Large",
+      "options": [
+        "Orange",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-ORNG23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030211772,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092791484,
+      "title": "Orange / XLarge",
+      "option1": "Orange",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-ORNG23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037849788,
+        "product_id": 7720466383036,
+        "position": 10,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692",
+        "variant_ids": [
+          42403092693180,
+          42403092725948,
+          42403092758716,
+          42403092791484,
+          42403092824252
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Orange / XLarge",
+      "public_title": "Orange / XLarge",
+      "options": [
+        "Orange",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-ORNG23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030211772,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 42403092824252,
+      "title": "Orange / XXLarge",
+      "option1": "Orange",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-ORNG23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037849788,
+        "product_id": 7720466383036,
+        "position": 10,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:52-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692",
+        "variant_ids": [
+          42403092693180,
+          42403092725948,
+          42403092758716,
+          42403092791484,
+          42403092824252
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Orange / XXLarge",
+      "public_title": "Orange / XXLarge",
+      "options": [
+        "Orange",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-ORNG23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030211772,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307868860,
+      "title": "Pink / Small",
+      "option1": "Pink",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-PINK23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232305852,
+        "product_id": 7720466383036,
+        "position": 20,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137",
+        "variant_ids": [
+          43566307868860,
+          43566307901628,
+          43566307934396,
+          43566320484540,
+          43566320517308
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Pink / Small",
+      "public_title": "Pink / Small",
+      "options": [
+        "Pink",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PINK23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236113596,
+        "position": 21,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307901628,
+      "title": "Pink / Medium",
+      "option1": "Pink",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-PINK23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232305852,
+        "product_id": 7720466383036,
+        "position": 20,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137",
+        "variant_ids": [
+          43566307868860,
+          43566307901628,
+          43566307934396,
+          43566320484540,
+          43566320517308
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Pink / Medium",
+      "public_title": "Pink / Medium",
+      "options": [
+        "Pink",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PINK23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236113596,
+        "position": 21,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566307934396,
+      "title": "Pink / Large",
+      "option1": "Pink",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-PINK23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232305852,
+        "product_id": 7720466383036,
+        "position": 20,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137",
+        "variant_ids": [
+          43566307868860,
+          43566307901628,
+          43566307934396,
+          43566320484540,
+          43566320517308
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Pink / Large",
+      "public_title": "Pink / Large",
+      "options": [
+        "Pink",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PINK23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236113596,
+        "position": 21,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320484540,
+      "title": "Pink / XLarge",
+      "option1": "Pink",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-PINK23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232305852,
+        "product_id": 7720466383036,
+        "position": 20,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137",
+        "variant_ids": [
+          43566307868860,
+          43566307901628,
+          43566307934396,
+          43566320484540,
+          43566320517308
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Pink / XLarge",
+      "public_title": "Pink / XLarge",
+      "options": [
+        "Pink",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PINK23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236113596,
+        "position": 21,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320517308,
+      "title": "Pink / XXLarge",
+      "option1": "Pink",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-PINK23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232305852,
+        "product_id": 7720466383036,
+        "position": 20,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137",
+        "variant_ids": [
+          43566307868860,
+          43566307901628,
+          43566307934396,
+          43566320484540,
+          43566320517308
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Pink / XXLarge",
+      "public_title": "Pink / XXLarge",
+      "options": [
+        "Pink",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-PINK23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236113596,
+        "position": 21,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320550076,
+      "title": "Red / Small",
+      "option1": "Red",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-RED23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232404156,
+        "product_id": 7720466383036,
+        "position": 21,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139",
+        "variant_ids": [
+          43566320550076,
+          43566320582844,
+          43566320615612,
+          43566320648380,
+          43566320681148
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Red / Small",
+      "public_title": "Red / Small",
+      "options": [
+        "Red",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-RED23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236146364,
+        "position": 22,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320582844,
+      "title": "Red / Medium",
+      "option1": "Red",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-RED23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232404156,
+        "product_id": 7720466383036,
+        "position": 21,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139",
+        "variant_ids": [
+          43566320550076,
+          43566320582844,
+          43566320615612,
+          43566320648380,
+          43566320681148
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Red / Medium",
+      "public_title": "Red / Medium",
+      "options": [
+        "Red",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-RED23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236146364,
+        "position": 22,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320615612,
+      "title": "Red / Large",
+      "option1": "Red",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-RED23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232404156,
+        "product_id": 7720466383036,
+        "position": 21,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139",
+        "variant_ids": [
+          43566320550076,
+          43566320582844,
+          43566320615612,
+          43566320648380,
+          43566320681148
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Red / Large",
+      "public_title": "Red / Large",
+      "options": [
+        "Red",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-RED23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236146364,
+        "position": 22,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320648380,
+      "title": "Red / XLarge",
+      "option1": "Red",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-RED23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232404156,
+        "product_id": 7720466383036,
+        "position": 21,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139",
+        "variant_ids": [
+          43566320550076,
+          43566320582844,
+          43566320615612,
+          43566320648380,
+          43566320681148
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Red / XLarge",
+      "public_title": "Red / XLarge",
+      "options": [
+        "Red",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-RED23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236146364,
+        "position": 22,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320681148,
+      "title": "Red / XXLarge",
+      "option1": "Red",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-RED23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232404156,
+        "product_id": 7720466383036,
+        "position": 21,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:58:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139",
+        "variant_ids": [
+          43566320550076,
+          43566320582844,
+          43566320615612,
+          43566320648380,
+          43566320681148
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Red / XXLarge",
+      "public_title": "Red / XXLarge",
+      "options": [
+        "Red",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 318,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-RED23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925236146364,
+        "position": 22,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320713916,
+      "title": "Tan / Small",
+      "option1": "Tan",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-TAN23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232273084,
+        "product_id": 7720466383036,
+        "position": 17,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144",
+        "variant_ids": [
+          43566320713916,
+          43566320746684,
+          43566320779452,
+          43566320812220,
+          43566320844988
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Tan / Small",
+      "public_title": "Tan / Small",
+      "options": [
+        "Tan",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-TAN23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 29925235949756,
+        "position": 18,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320746684,
+      "title": "Tan / Medium",
+      "option1": "Tan",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-TAN23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232273084,
+        "product_id": 7720466383036,
+        "position": 17,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144",
+        "variant_ids": [
+          43566320713916,
+          43566320746684,
+          43566320779452,
+          43566320812220,
+          43566320844988
+        ]
+      },
+      "available": true,
+      "name": "104 Legacy Shorts - Tan / Medium",
+      "public_title": "Tan / Medium",
+      "options": [
+        "Tan",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-TAN23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 29925235949756,
+        "position": 18,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320779452,
+      "title": "Tan / Large",
+      "option1": "Tan",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-TAN23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232273084,
+        "product_id": 7720466383036,
+        "position": 17,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144",
+        "variant_ids": [
+          43566320713916,
+          43566320746684,
+          43566320779452,
+          43566320812220,
+          43566320844988
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Tan / Large",
+      "public_title": "Tan / Large",
+      "options": [
+        "Tan",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-TAN23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 29925235949756,
+        "position": 18,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320812220,
+      "title": "Tan / XLarge",
+      "option1": "Tan",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-TAN23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232273084,
+        "product_id": 7720466383036,
+        "position": 17,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144",
+        "variant_ids": [
+          43566320713916,
+          43566320746684,
+          43566320779452,
+          43566320812220,
+          43566320844988
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Tan / XLarge",
+      "public_title": "Tan / XLarge",
+      "options": [
+        "Tan",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-TAN23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925235949756,
+        "position": 18,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320844988,
+      "title": "Tan / XXLarge",
+      "option1": "Tan",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-TAN23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37358232273084,
+        "product_id": 7720466383036,
+        "position": 17,
+        "created_at": "2024-04-09T16:57:37-07:00",
+        "updated_at": "2024-04-09T16:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144",
+        "variant_ids": [
+          43566320713916,
+          43566320746684,
+          43566320779452,
+          43566320812220,
+          43566320844988
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - Tan / XXLarge",
+      "public_title": "Tan / XXLarge",
+      "options": [
+        "Tan",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-TAN23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 29925235949756,
+        "position": 18,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320877756,
+      "title": "White / Small",
+      "option1": "White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "104-WHTE23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - White / Small",
+      "public_title": "White / Small",
+      "options": [
+        "White",
+        "Small"
+      ],
+      "price": 2800,
+      "weight": 249,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-WHTE23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320910524,
+      "title": "White / Medium",
+      "option1": "White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "104-WHTE23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - White / Medium",
+      "public_title": "White / Medium",
+      "options": [
+        "White",
+        "Medium"
+      ],
+      "price": 2800,
+      "weight": 227,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-WHTE23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320943292,
+      "title": "White / Large",
+      "option1": "White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "104-WHTE23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - White / Large",
+      "public_title": "White / Large",
+      "options": [
+        "White",
+        "Large"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-WHTE23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566320976060,
+      "title": "White / XLarge",
+      "option1": "White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "104-WHTE23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - White / XLarge",
+      "public_title": "White / XLarge",
+      "options": [
+        "White",
+        "XLarge"
+      ],
+      "price": 2800,
+      "weight": 272,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-WHTE23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43566321008828,
+      "title": "White / XXLarge",
+      "option1": "White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "104-WHTE23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 35103037817020,
+        "product_id": 7720466383036,
+        "position": 14,
+        "created_at": "2023-05-17T14:46:42-07:00",
+        "updated_at": "2023-05-30T10:44:41-07:00",
+        "alt": null,
+        "width": 1920,
+        "height": 2880,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+        "variant_ids": [
+          42403092529340,
+          42403092562108,
+          42403092594876,
+          42403092627644,
+          42403092660412,
+          43566320877756,
+          43566320910524,
+          43566320943292,
+          43566320976060,
+          43566321008828
+        ]
+      },
+      "available": false,
+      "name": "104 Legacy Shorts - White / XXLarge",
+      "public_title": "White / XXLarge",
+      "options": [
+        "White",
+        "XXLarge"
+      ],
+      "price": 2800,
+      "weight": 295,
+      "compare_at_price": 3600,
+      "inventory_management": "shopify",
+      "barcode": "104-WHTE23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 27629030047932,
+        "position": 15,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2880,
+          "width": 1920,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Untitled-1_56ffbc73-0aca-4933-bb7b-ea54fe9fc23e.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.834.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Closeup_collage_84cb0b15-a2a5-4790-a27a-00f4cf0e03d3.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/DSC03955-2.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8_2f4a3444-17da-4349-ba30-19980ef87fcf.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.08.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA_5.8_65e7bfd6-8700-4a51-bb2e-876650682d33.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9210.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/104-Size-Chart.png?v=1712707081"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Brown",
+        "Carolina Blue",
+        "Deep Purple",
+        "Green",
+        "Hot Pink",
+        "Lavender",
+        "Navy",
+        "Off-White",
+        "Orange",
+        "Pink",
+        "Red",
+        "Tan",
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/104-shorts",
+  "media": [
+    {
+      "alt": null,
+      "id": 29925236080828,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_navy_001_08_08_rudy_ecomm.jpg?v=1712707141",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 27672639668412,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Untitled-1_56ffbc73-0aca-4933-bb7b-ea54fe9fc23e.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Untitled-1_56ffbc73-0aca-4933-bb7b-ea54fe9fc23e.jpg?v=1685468692",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32445749297340,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/dd59cf759c7f4b10ad44dd96e8ab5bd8.thumbnail.0000000000.jpg?v=1732296147"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 27180,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/dd59cf759c7f4b10ad44dd96e8ab5bd8/dd59cf759c7f4b10ad44dd96e8ab5bd8.SD-480p-0.9Mbps-38575923.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/dd59cf759c7f4b10ad44dd96e8ab5bd8/dd59cf759c7f4b10ad44dd96e8ab5bd8.HD-1080p-2.5Mbps-38575923.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/dd59cf759c7f4b10ad44dd96e8ab5bd8/dd59cf759c7f4b10ad44dd96e8ab5bd8.HD-720p-1.6Mbps-38575923.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/dd59cf759c7f4b10ad44dd96e8ab5bd8/dd59cf759c7f4b10ad44dd96e8ab5bd8.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 27658482614460,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2112,
+        "width": 1408,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.834.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2112,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.834.jpg?v=1685468692",
+      "width": 1408
+    },
+    {
+      "alt": null,
+      "id": 27672528519356,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Closeup_collage_84cb0b15-a2a5-4790-a27a-00f4cf0e03d3.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Closeup_collage_84cb0b15-a2a5-4790-a27a-00f4cf0e03d3.jpg?v=1685468692",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 27672570855612,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2634,
+        "width": 1756,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/DSC03955-2.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2634,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/DSC03955-2.jpg?v=1685468692",
+      "width": 1756
+    },
+    {
+      "alt": null,
+      "id": 27672569839804,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2212,
+        "width": 1475,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8_2f4a3444-17da-4349-ba30-19980ef87fcf.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2212,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.8_2f4a3444-17da-4349-ba30-19980ef87fcf.jpg?v=1685468692",
+      "width": 1475
+    },
+    {
+      "alt": null,
+      "id": 27658482679996,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2746,
+        "width": 1831,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.08.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2746,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.08.jpg?v=1685468692",
+      "width": 1831
+    },
+    {
+      "alt": null,
+      "id": 27672569872572,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2649,
+        "width": 1766,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_5.8_65e7bfd6-8700-4a51-bb2e-876650682d33.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2649,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_5.8_65e7bfd6-8700-4a51-bb2e-876650682d33.jpg?v=1685468692",
+      "width": 1766
+    },
+    {
+      "alt": null,
+      "id": 27629030015164,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9210.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9210.jpg?v=1685468692",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 27629030211772,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9194.jpg?v=1685468692",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 27629030146236,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9173.jpg?v=1685468692",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 27629030244540,
+      "position": 13,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9201.jpg?v=1685468692",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 27629030113468,
+      "position": 14,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9164.jpg?v=1685468681",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 27629030047932,
+      "position": 15,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9213.jpg?v=1685468681",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 27629030179004,
+      "position": 16,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9183.jpg?v=1685468681",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 27629030080700,
+      "position": 17,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2880,
+        "width": 1920,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2880,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Rudy_May_23_2023_Launch9225.jpg?v=1685468681",
+      "width": 1920
+    },
+    {
+      "alt": null,
+      "id": 29925235949756,
+      "position": 18,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_tan_001_08_08_rudy_ecomm.jpg?v=1712707144",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 29925236015292,
+      "position": 19,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 4961,
+        "width": 3307,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146"
+      },
+      "aspect_ratio": 0.667,
+      "height": 4961,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_green_001_08_08_rudy_ecomm.jpg?v=1712707146",
+      "width": 3307
+    },
+    {
+      "alt": null,
+      "id": 29925236048060,
+      "position": 20,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_lavender_001_08_08_rudy_ecomm.jpg?v=1712707143",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 29925236113596,
+      "position": 21,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_pink_001_08_08_rudy_ecomm.jpg?v=1712707137",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 29925236146364,
+      "position": 22,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104_red_001_08_08_rudy_ecomm.jpg?v=1712707139",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 27535950086332,
+      "position": 23,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104-Size-Chart.png?v=1712707081"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/104-Size-Chart.png?v=1712707081",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,1175 @@
+{
+  "id": 8456057585852,
+  "title": "4197 - Nevermore Tees",
+  "handle": "4197",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL:</strong> 97% Cotton, 3% Spandex.</p>\n<p class=\"MsoNormal\"><strong>FABRIC WEIGHT:</strong> 250 GSM.</p>\n<p class=\"MsoNormal\"><strong>FIT:</strong> Boxy Fit. Short Length.\u00a0</p>\n<p class=\"MsoNormal\"><strong>DESIGN: </strong>Elevate your style with these statement tees, crafted from 97% cotton and 3% spandex for a comfortable fit with a touch of stretch. Featuring a unique design with a blend of vintage and contemporary aesthetics, these tees are perfect for making an impression.</p>\n<p class=\"MsoNormal\"><strong>MODEL:</strong> The model in the first photo is wearing a size Large. Weight: 185lb Height: 5'11.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4197-Size-Chart_e87f74aa-9555-44db-973d-28804d60dcc1_600x600.png?v=1726245884\" style=\"margin-bottom: 16px; float: none;\"></div>\n<!---->",
+  "published_at": "2024-10-28T15:54:13-07:00",
+  "created_at": "2024-06-24T12:45:47-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "Jane",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3600,
+  "price_min": 3600,
+  "price_max": 3600,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": 0,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 43947258478780,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4197-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919158460,
+        "product_id": 8456057585852,
+        "position": 9,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744",
+        "variant_ids": [
+          43947258478780,
+          43947258511548,
+          43947258544316,
+          43947258577084,
+          43947258609852
+        ]
+      },
+      "available": false,
+      "name": "4197 - Nevermore Tees - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922371772,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258511548,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4197-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919158460,
+        "product_id": 8456057585852,
+        "position": 9,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744",
+        "variant_ids": [
+          43947258478780,
+          43947258511548,
+          43947258544316,
+          43947258577084,
+          43947258609852
+        ]
+      },
+      "available": true,
+      "name": "4197 - Nevermore Tees - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922371772,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258544316,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4197-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919158460,
+        "product_id": 8456057585852,
+        "position": 9,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744",
+        "variant_ids": [
+          43947258478780,
+          43947258511548,
+          43947258544316,
+          43947258577084,
+          43947258609852
+        ]
+      },
+      "available": true,
+      "name": "4197 - Nevermore Tees - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 295,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922371772,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258577084,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4197-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919158460,
+        "product_id": 8456057585852,
+        "position": 9,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744",
+        "variant_ids": [
+          43947258478780,
+          43947258511548,
+          43947258544316,
+          43947258577084,
+          43947258609852
+        ]
+      },
+      "available": true,
+      "name": "4197 - Nevermore Tees - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 318,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922371772,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258609852,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4197-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919158460,
+        "product_id": 8456057585852,
+        "position": 9,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744",
+        "variant_ids": [
+          43947258478780,
+          43947258511548,
+          43947258544316,
+          43947258577084,
+          43947258609852
+        ]
+      },
+      "available": true,
+      "name": "4197 - Nevermore Tees - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 340,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922371772,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258675388,
+      "title": "Light Grey Wash / Small",
+      "option1": "Light Grey Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4197-LGREYW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919191228,
+        "product_id": 8456057585852,
+        "position": 10,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:05-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745",
+        "variant_ids": [
+          43947258675388,
+          43947258708156,
+          43947258740924,
+          43947258773692,
+          43947258806460
+        ]
+      },
+      "available": false,
+      "name": "4197 - Nevermore Tees - Light Grey Wash / Small",
+      "public_title": "Light Grey Wash / Small",
+      "options": [
+        "Light Grey Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-LGREYW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922404540,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258708156,
+      "title": "Light Grey Wash / Medium",
+      "option1": "Light Grey Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4197-LGREYW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919191228,
+        "product_id": 8456057585852,
+        "position": 10,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:05-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745",
+        "variant_ids": [
+          43947258675388,
+          43947258708156,
+          43947258740924,
+          43947258773692,
+          43947258806460
+        ]
+      },
+      "available": false,
+      "name": "4197 - Nevermore Tees - Light Grey Wash / Medium",
+      "public_title": "Light Grey Wash / Medium",
+      "options": [
+        "Light Grey Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-LGREYW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922404540,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258740924,
+      "title": "Light Grey Wash / Large",
+      "option1": "Light Grey Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4197-LGREYW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919191228,
+        "product_id": 8456057585852,
+        "position": 10,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:05-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745",
+        "variant_ids": [
+          43947258675388,
+          43947258708156,
+          43947258740924,
+          43947258773692,
+          43947258806460
+        ]
+      },
+      "available": true,
+      "name": "4197 - Nevermore Tees - Light Grey Wash / Large",
+      "public_title": "Light Grey Wash / Large",
+      "options": [
+        "Light Grey Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-LGREYW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922404540,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258773692,
+      "title": "Light Grey Wash / XLarge",
+      "option1": "Light Grey Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4197-LGREYW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919191228,
+        "product_id": 8456057585852,
+        "position": 10,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:05-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745",
+        "variant_ids": [
+          43947258675388,
+          43947258708156,
+          43947258740924,
+          43947258773692,
+          43947258806460
+        ]
+      },
+      "available": true,
+      "name": "4197 - Nevermore Tees - Light Grey Wash / XLarge",
+      "public_title": "Light Grey Wash / XLarge",
+      "options": [
+        "Light Grey Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-LGREYW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922404540,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258806460,
+      "title": "Light Grey Wash / XXLarge",
+      "option1": "Light Grey Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4197-LGREYW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919191228,
+        "product_id": 8456057585852,
+        "position": 10,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:59:05-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745",
+        "variant_ids": [
+          43947258675388,
+          43947258708156,
+          43947258740924,
+          43947258773692,
+          43947258806460
+        ]
+      },
+      "available": true,
+      "name": "4197 - Nevermore Tees - Light Grey Wash / XXLarge",
+      "public_title": "Light Grey Wash / XXLarge",
+      "options": [
+        "Light Grey Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-LGREYW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922404540,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258871996,
+      "title": "Off-White / Small",
+      "option1": "Off-White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4197-OWHT-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919223996,
+        "product_id": 8456057585852,
+        "position": 8,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:58:56-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736",
+        "variant_ids": [
+          43947258871996,
+          43947258904764,
+          43947258937532,
+          43947258970300,
+          43947259003068
+        ]
+      },
+      "available": false,
+      "name": "4197 - Nevermore Tees - Off-White / Small",
+      "public_title": "Off-White / Small",
+      "options": [
+        "Off-White",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-OWHT-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922339004,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258904764,
+      "title": "Off-White / Medium",
+      "option1": "Off-White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4197-OWHT-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919223996,
+        "product_id": 8456057585852,
+        "position": 8,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:58:56-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736",
+        "variant_ids": [
+          43947258871996,
+          43947258904764,
+          43947258937532,
+          43947258970300,
+          43947259003068
+        ]
+      },
+      "available": false,
+      "name": "4197 - Nevermore Tees - Off-White / Medium",
+      "public_title": "Off-White / Medium",
+      "options": [
+        "Off-White",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-OWHT-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922339004,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258937532,
+      "title": "Off-White / Large",
+      "option1": "Off-White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4197-OWHT-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919223996,
+        "product_id": 8456057585852,
+        "position": 8,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:58:56-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736",
+        "variant_ids": [
+          43947258871996,
+          43947258904764,
+          43947258937532,
+          43947258970300,
+          43947259003068
+        ]
+      },
+      "available": false,
+      "name": "4197 - Nevermore Tees - Off-White / Large",
+      "public_title": "Off-White / Large",
+      "options": [
+        "Off-White",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-OWHT-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922339004,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947258970300,
+      "title": "Off-White / XLarge",
+      "option1": "Off-White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4197-OWHT-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919223996,
+        "product_id": 8456057585852,
+        "position": 8,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:58:56-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736",
+        "variant_ids": [
+          43947258871996,
+          43947258904764,
+          43947258937532,
+          43947258970300,
+          43947259003068
+        ]
+      },
+      "available": false,
+      "name": "4197 - Nevermore Tees - Off-White / XLarge",
+      "public_title": "Off-White / XLarge",
+      "options": [
+        "Off-White",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-OWHT-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922339004,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43947259003068,
+      "title": "Off-White / XXLarge",
+      "option1": "Off-White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4197-OWHT-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39821919223996,
+        "product_id": 8456057585852,
+        "position": 8,
+        "created_at": "2024-10-24T13:19:29-07:00",
+        "updated_at": "2024-10-24T15:58:56-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736",
+        "variant_ids": [
+          43947258871996,
+          43947258904764,
+          43947258937532,
+          43947258970300,
+          43947259003068
+        ]
+      },
+      "available": false,
+      "name": "4197 - Nevermore Tees - Off-White / XXLarge",
+      "public_title": "Off-White / XXLarge",
+      "options": [
+        "Off-White",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4197-OWHT-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217922339004,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Test0829.jpg?v=1731624179",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_004_11_26_johnny_ecomm_c6b519ce-398a-4b63-8129-597b217a907f.jpg?v=1731624189",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_002_11_26_floor.jpg?v=1729810742",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Test0947.jpg?v=1731624177",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_003_11_26_johnny_ecomm_b464baf9-0aa5-4260-8c7f-6df599233d16.jpg?v=1731538614",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_005_11_26_johnny_ecomm_98f67b2f-5f48-4986-b774-37fc14b171dc.jpg?v=1731538620",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_002_11_26_johnny_ecomm_f95bfc3a-a04f-4555-b598-f16c1848eeca.jpg?v=1731538617",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4197-Size-Chart.png?v=1726270105"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/Test0829.jpg?v=1731624179",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Light Grey Wash",
+        "Off-White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4197",
+  "media": [
+    {
+      "alt": null,
+      "id": 32367347957948,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 1769,
+        "width": 1179,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Test0829.jpg?v=1731624179"
+      },
+      "aspect_ratio": 0.666,
+      "height": 1769,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Test0829.jpg?v=1731624179",
+      "width": 1179
+    },
+    {
+      "alt": null,
+      "id": 32366712225980,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_004_11_26_johnny_ecomm_c6b519ce-398a-4b63-8129-597b217a907f.jpg?v=1731624189"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_004_11_26_johnny_ecomm_c6b519ce-398a-4b63-8129-597b217a907f.jpg?v=1731624189",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32447132238012,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/ea6bd509f7454f4786425c85cf7f4a88.thumbnail.0000000000.jpg?v=1732305276"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 26330,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/ea6bd509f7454f4786425c85cf7f4a88/ea6bd509f7454f4786425c85cf7f4a88.SD-480p-0.9Mbps-38582282.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/ea6bd509f7454f4786425c85cf7f4a88/ea6bd509f7454f4786425c85cf7f4a88.HD-1080p-2.5Mbps-38582282.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/ea6bd509f7454f4786425c85cf7f4a88/ea6bd509f7454f4786425c85cf7f4a88.HD-720p-1.6Mbps-38582282.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/ea6bd509f7454f4786425c85cf7f4a88/ea6bd509f7454f4786425c85cf7f4a88.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32217922306236,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_002_11_26_floor.jpg?v=1729810742"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_002_11_26_floor.jpg?v=1729810742",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32367362048188,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1659,
+        "width": 1106,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Test0947.jpg?v=1731624177"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1659,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Test0947.jpg?v=1731624177",
+      "width": 1106
+    },
+    {
+      "alt": null,
+      "id": 32363025694908,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_003_11_26_johnny_ecomm_b464baf9-0aa5-4260-8c7f-6df599233d16.jpg?v=1731538614"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_003_11_26_johnny_ecomm_b464baf9-0aa5-4260-8c7f-6df599233d16.jpg?v=1731538614",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32363025629372,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_005_11_26_johnny_ecomm_98f67b2f-5f48-4986-b774-37fc14b171dc.jpg?v=1731538620"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_005_11_26_johnny_ecomm_98f67b2f-5f48-4986-b774-37fc14b171dc.jpg?v=1731538620",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32363025662140,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_002_11_26_johnny_ecomm_f95bfc3a-a04f-4555-b598-f16c1848eeca.jpg?v=1731538617"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_002_11_26_johnny_ecomm_f95bfc3a-a04f-4555-b598-f16c1848eeca.jpg?v=1731538617",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32217922339004,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_off-white_001_11_26_floor.jpg?v=1729810736",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32217922371772,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_black-wash_001_11_26_floor.jpg?v=1729810744",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32217922404540,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197_grey-wash_001_11_26_floor.jpg?v=1729810745",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31927198646460,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197-Size-Chart.png?v=1726270105"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4197-Size-Chart.png?v=1726270105",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

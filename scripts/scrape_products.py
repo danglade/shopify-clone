@@ -106,6 +106,12 @@ async def main():
                 
                 print(f"Processing product: {product.get('title')}")
 
+                # Save the product payload to a file
+                payload_dir = "scripts/product_payloads"
+                os.makedirs(payload_dir, exist_ok=True)
+                with open(os.path.join(payload_dir, f"{handle}.json"), "w") as f:
+                    json.dump(product, f, indent=2)
+
                 # Create or get categories
                 category_ids = []
                 if product.get("type"):

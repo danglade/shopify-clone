@@ -1,0 +1,1141 @@
+{
+  "id": 8369904353468,
+  "title": "2119 - Inferno Sweats",
+  "handle": "2119",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL:</strong> 100% Cotton. 460 GSM</p>\n<p class=\"MsoNormal\"><strong>FIT:</strong> Baggy.</p>\n<p class=\"MsoNormal\"><strong>DESIGN:</strong> Step up your streetwear game with Inferno Sweats, crafted from 100% cotton for unmatched comfort. These baggy sweats feature a bold fire logo print on the left leg, adding a unique touch to your casual look. Perfect for lounging or hitting the streets in style.</p>\n<p class=\"MsoNormal\"><strong>MODEL: </strong>The model in the first photo is wearing a size Medium. Weight: 175lb Height: 5'9.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/2119-Size-Chart_049f12fa-bad7-4e06-b165-440e44768969_600x600.png?v=1721836826\" style=\"margin-bottom: 16px; float: none;\"></div>",
+  "published_at": "2025-06-11T10:38:09-07:00",
+  "created_at": "2024-05-08T15:08:45-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 5200,
+  "price_min": 5200,
+  "price_max": 5200,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 43739606417596,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2119-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795238588,
+        "product_id": 8369904353468,
+        "position": 1,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:23:39-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419",
+        "variant_ids": [
+          43739606417596,
+          43739606450364,
+          43739606483132,
+          43739606515900,
+          43739606548668
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 5200,
+      "weight": 794,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297758908,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606450364,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2119-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795238588,
+        "product_id": 8369904353468,
+        "position": 1,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:23:39-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419",
+        "variant_ids": [
+          43739606417596,
+          43739606450364,
+          43739606483132,
+          43739606515900,
+          43739606548668
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 5200,
+      "weight": 816,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297758908,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606483132,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2119-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795238588,
+        "product_id": 8369904353468,
+        "position": 1,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:23:39-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419",
+        "variant_ids": [
+          43739606417596,
+          43739606450364,
+          43739606483132,
+          43739606515900,
+          43739606548668
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 5200,
+      "weight": 862,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297758908,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606515900,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2119-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795238588,
+        "product_id": 8369904353468,
+        "position": 1,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:23:39-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419",
+        "variant_ids": [
+          43739606417596,
+          43739606450364,
+          43739606483132,
+          43739606515900,
+          43739606548668
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 5200,
+      "weight": 907,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297758908,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606548668,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2119-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795238588,
+        "product_id": 8369904353468,
+        "position": 1,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:23:39-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419",
+        "variant_ids": [
+          43739606417596,
+          43739606450364,
+          43739606483132,
+          43739606515900,
+          43739606548668
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 5200,
+      "weight": 953,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297758908,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606581436,
+      "title": "Charcoal Wash / Small",
+      "option1": "Charcoal Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2119-CHARW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795664572,
+        "product_id": 8369904353468,
+        "position": 7,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:22:44-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364",
+        "variant_ids": [
+          43739606581436,
+          43739606614204,
+          43739606646972,
+          43739606679740,
+          43739606712508
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Charcoal Wash / Small",
+      "public_title": "Charcoal Wash / Small",
+      "options": [
+        "Charcoal Wash",
+        "Small"
+      ],
+      "price": 5200,
+      "weight": 794,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-CHARW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297627836,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606614204,
+      "title": "Charcoal Wash / Medium",
+      "option1": "Charcoal Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2119-CHARW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795664572,
+        "product_id": 8369904353468,
+        "position": 7,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:22:44-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364",
+        "variant_ids": [
+          43739606581436,
+          43739606614204,
+          43739606646972,
+          43739606679740,
+          43739606712508
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Charcoal Wash / Medium",
+      "public_title": "Charcoal Wash / Medium",
+      "options": [
+        "Charcoal Wash",
+        "Medium"
+      ],
+      "price": 5200,
+      "weight": 816,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-CHARW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297627836,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606646972,
+      "title": "Charcoal Wash / Large",
+      "option1": "Charcoal Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2119-CHARW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795664572,
+        "product_id": 8369904353468,
+        "position": 7,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:22:44-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364",
+        "variant_ids": [
+          43739606581436,
+          43739606614204,
+          43739606646972,
+          43739606679740,
+          43739606712508
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Charcoal Wash / Large",
+      "public_title": "Charcoal Wash / Large",
+      "options": [
+        "Charcoal Wash",
+        "Large"
+      ],
+      "price": 5200,
+      "weight": 862,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-CHARW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297627836,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606679740,
+      "title": "Charcoal Wash / XLarge",
+      "option1": "Charcoal Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2119-CHARW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795664572,
+        "product_id": 8369904353468,
+        "position": 7,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:22:44-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364",
+        "variant_ids": [
+          43739606581436,
+          43739606614204,
+          43739606646972,
+          43739606679740,
+          43739606712508
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Charcoal Wash / XLarge",
+      "public_title": "Charcoal Wash / XLarge",
+      "options": [
+        "Charcoal Wash",
+        "XLarge"
+      ],
+      "price": 5200,
+      "weight": 907,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-CHARW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297627836,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606712508,
+      "title": "Charcoal Wash / XXLarge",
+      "option1": "Charcoal Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2119-CHARW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795664572,
+        "product_id": 8369904353468,
+        "position": 7,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T12:22:44-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364",
+        "variant_ids": [
+          43739606581436,
+          43739606614204,
+          43739606646972,
+          43739606679740,
+          43739606712508
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Charcoal Wash / XXLarge",
+      "public_title": "Charcoal Wash / XXLarge",
+      "options": [
+        "Charcoal Wash",
+        "XXLarge"
+      ],
+      "price": 5200,
+      "weight": 953,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-CHARW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297627836,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606745276,
+      "title": "Purple Wash / Small",
+      "option1": "Purple Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2119-PURPW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795500732,
+        "product_id": 8369904353468,
+        "position": 8,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T11:40:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804",
+        "variant_ids": [
+          43739606745276,
+          43739606778044,
+          43739606810812,
+          43739606843580,
+          43739606876348
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Purple Wash / Small",
+      "public_title": "Purple Wash / Small",
+      "options": [
+        "Purple Wash",
+        "Small"
+      ],
+      "price": 5200,
+      "weight": 794,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-PURPW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297726140,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606778044,
+      "title": "Purple Wash / Medium",
+      "option1": "Purple Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2119-PURPW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795500732,
+        "product_id": 8369904353468,
+        "position": 8,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T11:40:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804",
+        "variant_ids": [
+          43739606745276,
+          43739606778044,
+          43739606810812,
+          43739606843580,
+          43739606876348
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Purple Wash / Medium",
+      "public_title": "Purple Wash / Medium",
+      "options": [
+        "Purple Wash",
+        "Medium"
+      ],
+      "price": 5200,
+      "weight": 816,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-PURPW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297726140,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606810812,
+      "title": "Purple Wash / Large",
+      "option1": "Purple Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2119-PURPW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795500732,
+        "product_id": 8369904353468,
+        "position": 8,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T11:40:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804",
+        "variant_ids": [
+          43739606745276,
+          43739606778044,
+          43739606810812,
+          43739606843580,
+          43739606876348
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Purple Wash / Large",
+      "public_title": "Purple Wash / Large",
+      "options": [
+        "Purple Wash",
+        "Large"
+      ],
+      "price": 5200,
+      "weight": 862,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-PURPW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297726140,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606843580,
+      "title": "Purple Wash / XLarge",
+      "option1": "Purple Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2119-PURPW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795500732,
+        "product_id": 8369904353468,
+        "position": 8,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T11:40:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804",
+        "variant_ids": [
+          43739606745276,
+          43739606778044,
+          43739606810812,
+          43739606843580,
+          43739606876348
+        ]
+      },
+      "available": true,
+      "name": "2119 - Inferno Sweats - Purple Wash / XLarge",
+      "public_title": "Purple Wash / XLarge",
+      "options": [
+        "Purple Wash",
+        "XLarge"
+      ],
+      "price": 5200,
+      "weight": 907,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-PURPW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297726140,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43739606876348,
+      "title": "Purple Wash / XXLarge",
+      "option1": "Purple Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2119-PURPW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 38928795500732,
+        "product_id": 8369904353468,
+        "position": 8,
+        "created_at": "2024-07-31T12:21:02-07:00",
+        "updated_at": "2024-09-13T11:40:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804",
+        "variant_ids": [
+          43739606745276,
+          43739606778044,
+          43739606810812,
+          43739606843580,
+          43739606876348
+        ]
+      },
+      "available": false,
+      "name": "2119 - Inferno Sweats - Purple Wash / XXLarge",
+      "public_title": "Purple Wash / XXLarge",
+      "options": [
+        "Purple Wash",
+        "XXLarge"
+      ],
+      "price": 5200,
+      "weight": 953,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "2119-PURPW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31464297726140,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.135.jpg?v=1726255312",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.145_e9436681-1cb8-4556-a79f-f563db7b9470.jpg?v=1726255388",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/DSC08513.jpg?v=1726255334",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A4524.jpg?v=1726255336",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_003_08_06_rudy_ecomm_e746dc44-ffca-4174-98c5-0a070c4e7367.jpg?v=1726255301",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2119-Size-Chart.png?v=1726252784"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Charcoal Wash",
+        "Purple Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/2119",
+  "media": [
+    {
+      "alt": null,
+      "id": 31464297758908,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_002_08_06_rudy_ecomm_98491c50-8e46-4d02-8d1c-908ff9a6288c.jpg?v=1726255419",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31589365907644,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 4988,
+        "width": 3325,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.135.jpg?v=1726255312"
+      },
+      "aspect_ratio": 0.667,
+      "height": 4988,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.135.jpg?v=1726255312",
+      "width": 3325
+    },
+    {
+      "alt": null,
+      "id": 32447879119036,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/4c86182b94024d63b69dd2e54c7fb94a.thumbnail.0000000000.jpg?v=1732308778"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 24920,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4c86182b94024d63b69dd2e54c7fb94a/4c86182b94024d63b69dd2e54c7fb94a.SD-480p-0.9Mbps-38588963.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4c86182b94024d63b69dd2e54c7fb94a/4c86182b94024d63b69dd2e54c7fb94a.HD-1080p-2.5Mbps-38588963.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/4c86182b94024d63b69dd2e54c7fb94a/4c86182b94024d63b69dd2e54c7fb94a.HD-720p-1.6Mbps-38588963.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/4c86182b94024d63b69dd2e54c7fb94a/4c86182b94024d63b69dd2e54c7fb94a.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 31464223408316,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 5266,
+        "width": 3511,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.145_e9436681-1cb8-4556-a79f-f563db7b9470.jpg?v=1726255388"
+      },
+      "aspect_ratio": 0.667,
+      "height": 5266,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA_7.145_e9436681-1cb8-4556-a79f-f563db7b9470.jpg?v=1726255388",
+      "width": 3511
+    },
+    {
+      "alt": null,
+      "id": 31464223670460,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1536,
+        "width": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/DSC08513.jpg?v=1726255334"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1536,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/DSC08513.jpg?v=1726255334",
+      "width": 1024
+    },
+    {
+      "alt": null,
+      "id": 31464223506620,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1783,
+        "width": 1189,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4524.jpg?v=1726255336"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1783,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A4524.jpg?v=1726255336",
+      "width": 1189
+    },
+    {
+      "alt": null,
+      "id": 31464297791676,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_003_08_06_rudy_ecomm_e746dc44-ffca-4174-98c5-0a070c4e7367.jpg?v=1726255301"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_black-wash_003_08_06_rudy_ecomm_e746dc44-ffca-4174-98c5-0a070c4e7367.jpg?v=1726255301",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31464297627836,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_charcoal-wash_002_08_06_rudy_ecomm_cc349897-a7c1-474a-86d5-1362a542ff03.jpg?v=1726255364",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31464297726140,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119_purple-wash_002_08_06_rudy_ecomm_7daec15a-ae88-4824-b662-d49fbf63bfe2.jpg?v=1726252804",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31321363677372,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119-Size-Chart.png?v=1726252784"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2119-Size-Chart.png?v=1726252784",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

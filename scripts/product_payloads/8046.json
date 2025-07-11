@@ -1,0 +1,1767 @@
+{
+  "id": 8497320526012,
+  "title": "8046 - BMF Long Sleeves",
+  "handle": "8046",
+  "description": "<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MATERIAL: </strong>100% Cotton.</p>\n<p data-mce-fragment=\"1\"><strong>FABRIC WEIGHT: </strong>270 GSM.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">FIT: </strong>Loose.</p>\n<p data-mce-fragment=\"1\"><strong>DESIGN: </strong>Own the look with these rugged, loose-fitting long sleeves. Crafted from durable 270 GSM, 100% cotton fabric, these tees bring serious attitude. The front and sleeves are decked out with aggressive, in-your-face graphics, making this shirt an unapologetic statement piece.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MODEL: </strong>The model in the first photo is wearing a size XL. Weight: 195lb Height: 5'10.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/8046-Size-Chart_ea0337fb-b087-436e-afc6-4e1175b1ad71_600x600.png?v=1728922017\" style=\"margin-bottom: 16px; float: none;\"></div>\n<!----><!---->",
+  "published_at": "2025-02-04T10:43:13-08:00",
+  "created_at": "2024-07-22T09:33:13-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "Jane",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3600,
+  "price_min": 3600,
+  "price_max": 3600,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": 0,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44016879567036,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8046-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707314364,
+        "product_id": 8497320526012,
+        "position": 8,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337",
+        "variant_ids": [
+          44016879567036,
+          44016879599804,
+          44016879632572,
+          44016879665340,
+          44016879698108
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32243315998908,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879599804,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8046-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707314364,
+        "product_id": 8497320526012,
+        "position": 8,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337",
+        "variant_ids": [
+          44016879567036,
+          44016879599804,
+          44016879632572,
+          44016879665340,
+          44016879698108
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32243315998908,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879632572,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8046-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707314364,
+        "product_id": 8497320526012,
+        "position": 8,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337",
+        "variant_ids": [
+          44016879567036,
+          44016879599804,
+          44016879632572,
+          44016879665340,
+          44016879698108
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 408,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32243315998908,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879665340,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8046-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707314364,
+        "product_id": 8497320526012,
+        "position": 8,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337",
+        "variant_ids": [
+          44016879567036,
+          44016879599804,
+          44016879632572,
+          44016879665340,
+          44016879698108
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 431,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32243315998908,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879698108,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8046-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707314364,
+        "product_id": 8497320526012,
+        "position": 8,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:58:57-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337",
+        "variant_ids": [
+          44016879567036,
+          44016879599804,
+          44016879632572,
+          44016879665340,
+          44016879698108
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 454,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32243315998908,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879763644,
+      "title": "Cream Wash / Small",
+      "option1": "Cream Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8046-CREAMW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707379900,
+        "product_id": 8497320526012,
+        "position": 9,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343",
+        "variant_ids": [
+          44016879763644,
+          44016879796412,
+          44016879829180,
+          44016879861948,
+          44016879894716
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - Cream Wash / Small",
+      "public_title": "Cream Wash / Small",
+      "options": [
+        "Cream Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-CREAMW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316031676,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879796412,
+      "title": "Cream Wash / Medium",
+      "option1": "Cream Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8046-CREAMW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707379900,
+        "product_id": 8497320526012,
+        "position": 9,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343",
+        "variant_ids": [
+          44016879763644,
+          44016879796412,
+          44016879829180,
+          44016879861948,
+          44016879894716
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - Cream Wash / Medium",
+      "public_title": "Cream Wash / Medium",
+      "options": [
+        "Cream Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-CREAMW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316031676,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879829180,
+      "title": "Cream Wash / Large",
+      "option1": "Cream Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8046-CREAMW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707379900,
+        "product_id": 8497320526012,
+        "position": 9,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343",
+        "variant_ids": [
+          44016879763644,
+          44016879796412,
+          44016879829180,
+          44016879861948,
+          44016879894716
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - Cream Wash / Large",
+      "public_title": "Cream Wash / Large",
+      "options": [
+        "Cream Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 408,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-CREAMW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316031676,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879861948,
+      "title": "Cream Wash / XLarge",
+      "option1": "Cream Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8046-CREAMW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707379900,
+        "product_id": 8497320526012,
+        "position": 9,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343",
+        "variant_ids": [
+          44016879763644,
+          44016879796412,
+          44016879829180,
+          44016879861948,
+          44016879894716
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - Cream Wash / XLarge",
+      "public_title": "Cream Wash / XLarge",
+      "options": [
+        "Cream Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 431,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-CREAMW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316031676,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879894716,
+      "title": "Cream Wash / XXLarge",
+      "option1": "Cream Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8046-CREAMW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707379900,
+        "product_id": 8497320526012,
+        "position": 9,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343",
+        "variant_ids": [
+          44016879763644,
+          44016879796412,
+          44016879829180,
+          44016879861948,
+          44016879894716
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - Cream Wash / XXLarge",
+      "public_title": "Cream Wash / XXLarge",
+      "options": [
+        "Cream Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 454,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-CREAMW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316031676,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879960252,
+      "title": "Deep Purple Wash / Small",
+      "option1": "Deep Purple Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8046-DPURPW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707412668,
+        "product_id": 8497320526012,
+        "position": 10,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340",
+        "variant_ids": [
+          44016879960252,
+          44016879993020,
+          44016880025788,
+          44016880058556,
+          44016880091324
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Deep Purple Wash / Small",
+      "public_title": "Deep Purple Wash / Small",
+      "options": [
+        "Deep Purple Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-DPURPW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316064444,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016879993020,
+      "title": "Deep Purple Wash / Medium",
+      "option1": "Deep Purple Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8046-DPURPW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707412668,
+        "product_id": 8497320526012,
+        "position": 10,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340",
+        "variant_ids": [
+          44016879960252,
+          44016879993020,
+          44016880025788,
+          44016880058556,
+          44016880091324
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Deep Purple Wash / Medium",
+      "public_title": "Deep Purple Wash / Medium",
+      "options": [
+        "Deep Purple Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-DPURPW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316064444,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880025788,
+      "title": "Deep Purple Wash / Large",
+      "option1": "Deep Purple Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8046-DPURPW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707412668,
+        "product_id": 8497320526012,
+        "position": 10,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340",
+        "variant_ids": [
+          44016879960252,
+          44016879993020,
+          44016880025788,
+          44016880058556,
+          44016880091324
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Deep Purple Wash / Large",
+      "public_title": "Deep Purple Wash / Large",
+      "options": [
+        "Deep Purple Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-DPURPW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316064444,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880058556,
+      "title": "Deep Purple Wash / XLarge",
+      "option1": "Deep Purple Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8046-DPURPW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707412668,
+        "product_id": 8497320526012,
+        "position": 10,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340",
+        "variant_ids": [
+          44016879960252,
+          44016879993020,
+          44016880025788,
+          44016880058556,
+          44016880091324
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Deep Purple Wash / XLarge",
+      "public_title": "Deep Purple Wash / XLarge",
+      "options": [
+        "Deep Purple Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 431,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-DPURPW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316064444,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880091324,
+      "title": "Deep Purple Wash / XXLarge",
+      "option1": "Deep Purple Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8046-DPURPW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39859707412668,
+        "product_id": 8497320526012,
+        "position": 10,
+        "created_at": "2024-10-28T11:57:07-07:00",
+        "updated_at": "2024-10-28T15:59:00-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340",
+        "variant_ids": [
+          44016879960252,
+          44016879993020,
+          44016880025788,
+          44016880058556,
+          44016880091324
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Deep Purple Wash / XXLarge",
+      "public_title": "Deep Purple Wash / XXLarge",
+      "options": [
+        "Deep Purple Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 431,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-DPURPW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32243316064444,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880156860,
+      "title": "Red Wash / Small",
+      "option1": "Red Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8046-REDW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002419228860,
+        "product_id": 8497320526012,
+        "position": 7,
+        "created_at": "2024-11-11T18:46:39-08:00",
+        "updated_at": "2024-11-12T14:45:04-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504",
+        "variant_ids": [
+          44016880156860,
+          44016880189628,
+          44016880222396,
+          44016880255164,
+          44016880287932
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Red Wash / Small",
+      "public_title": "Red Wash / Small",
+      "options": [
+        "Red Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-REDW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349289775292,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880189628,
+      "title": "Red Wash / Medium",
+      "option1": "Red Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8046-REDW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002419228860,
+        "product_id": 8497320526012,
+        "position": 7,
+        "created_at": "2024-11-11T18:46:39-08:00",
+        "updated_at": "2024-11-12T14:45:04-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504",
+        "variant_ids": [
+          44016880156860,
+          44016880189628,
+          44016880222396,
+          44016880255164,
+          44016880287932
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Red Wash / Medium",
+      "public_title": "Red Wash / Medium",
+      "options": [
+        "Red Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-REDW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349289775292,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880222396,
+      "title": "Red Wash / Large",
+      "option1": "Red Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8046-REDW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002419228860,
+        "product_id": 8497320526012,
+        "position": 7,
+        "created_at": "2024-11-11T18:46:39-08:00",
+        "updated_at": "2024-11-12T14:45:04-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504",
+        "variant_ids": [
+          44016880156860,
+          44016880189628,
+          44016880222396,
+          44016880255164,
+          44016880287932
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Red Wash / Large",
+      "public_title": "Red Wash / Large",
+      "options": [
+        "Red Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 408,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-REDW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349289775292,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880255164,
+      "title": "Red Wash / XLarge",
+      "option1": "Red Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8046-REDW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002419228860,
+        "product_id": 8497320526012,
+        "position": 7,
+        "created_at": "2024-11-11T18:46:39-08:00",
+        "updated_at": "2024-11-12T14:45:04-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504",
+        "variant_ids": [
+          44016880156860,
+          44016880189628,
+          44016880222396,
+          44016880255164,
+          44016880287932
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Red Wash / XLarge",
+      "public_title": "Red Wash / XLarge",
+      "options": [
+        "Red Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 408,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-REDW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349289775292,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880287932,
+      "title": "Red Wash / XXLarge",
+      "option1": "Red Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8046-REDW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002419228860,
+        "product_id": 8497320526012,
+        "position": 7,
+        "created_at": "2024-11-11T18:46:39-08:00",
+        "updated_at": "2024-11-12T14:45:04-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504",
+        "variant_ids": [
+          44016880156860,
+          44016880189628,
+          44016880222396,
+          44016880255164,
+          44016880287932
+        ]
+      },
+      "available": true,
+      "name": "8046 - BMF Long Sleeves - Red Wash / XXLarge",
+      "public_title": "Red Wash / XXLarge",
+      "options": [
+        "Red Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 431,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-REDW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349289775292,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880353468,
+      "title": "White / Small",
+      "option1": "White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8046-WHTE-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025421447356,
+        "product_id": 8497320526012,
+        "position": 1,
+        "created_at": "2024-11-13T17:44:22-08:00",
+        "updated_at": "2024-11-14T14:45:24-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324",
+        "variant_ids": [
+          44016880353468,
+          44016880386236,
+          44016880419004,
+          44016880451772,
+          44016880484540
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - White / Small",
+      "public_title": "White / Small",
+      "options": [
+        "White",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 363,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-WHTE-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32366840578236,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880386236,
+      "title": "White / Medium",
+      "option1": "White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8046-WHTE-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025421447356,
+        "product_id": 8497320526012,
+        "position": 1,
+        "created_at": "2024-11-13T17:44:22-08:00",
+        "updated_at": "2024-11-14T14:45:24-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324",
+        "variant_ids": [
+          44016880353468,
+          44016880386236,
+          44016880419004,
+          44016880451772,
+          44016880484540
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - White / Medium",
+      "public_title": "White / Medium",
+      "options": [
+        "White",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 386,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-WHTE-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32366840578236,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880419004,
+      "title": "White / Large",
+      "option1": "White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8046-WHTE-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025421447356,
+        "product_id": 8497320526012,
+        "position": 1,
+        "created_at": "2024-11-13T17:44:22-08:00",
+        "updated_at": "2024-11-14T14:45:24-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324",
+        "variant_ids": [
+          44016880353468,
+          44016880386236,
+          44016880419004,
+          44016880451772,
+          44016880484540
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - White / Large",
+      "public_title": "White / Large",
+      "options": [
+        "White",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 408,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-WHTE-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32366840578236,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880451772,
+      "title": "White / XLarge",
+      "option1": "White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8046-WHTE-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025421447356,
+        "product_id": 8497320526012,
+        "position": 1,
+        "created_at": "2024-11-13T17:44:22-08:00",
+        "updated_at": "2024-11-14T14:45:24-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324",
+        "variant_ids": [
+          44016880353468,
+          44016880386236,
+          44016880419004,
+          44016880451772,
+          44016880484540
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - White / XLarge",
+      "public_title": "White / XLarge",
+      "options": [
+        "White",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 431,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-WHTE-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32366840578236,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44016880484540,
+      "title": "White / XXLarge",
+      "option1": "White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8046-WHTE-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40025421447356,
+        "product_id": 8497320526012,
+        "position": 1,
+        "created_at": "2024-11-13T17:44:22-08:00",
+        "updated_at": "2024-11-14T14:45:24-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324",
+        "variant_ids": [
+          44016880353468,
+          44016880386236,
+          44016880419004,
+          44016880451772,
+          44016880484540
+        ]
+      },
+      "available": false,
+      "name": "8046 - BMF Long Sleeves - White / XXLarge",
+      "public_title": "White / XXLarge",
+      "options": [
+        "White",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 454,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "8046-WHTE-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32366840578236,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_eComm_Brayan9261-1.jpg?v=1731710928",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_009_11_26_brayan_ecomm.jpg?v=1731540060",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_white_0010_11_26_jerdani_ecomm.jpg?v=1731540061",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_0011_11_26_johnny_ecomm_a5c24d03-1af5-4e1c-9099-14b1c4c82bff.jpg?v=1731451512",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_0013_11_26_johnny_ecomm.jpg?v=1731451502",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8046-Size-Chart.png?v=1728946965"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Cream Wash",
+        "Deep Purple Wash",
+        "Red Wash",
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/8046",
+  "media": [
+    {
+      "alt": null,
+      "id": 32366840578236,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_002_11_26_jerdani_ecomm_260b2449-3045-4ab5-abd2-6569b56f3587.jpg?v=1731624324",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32378153697468,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_eComm_Brayan9261-1.jpg?v=1731710928"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_eComm_Brayan9261-1.jpg?v=1731710928",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32447264686268,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/b400e05b43ad49bf9bcafa33e5af4505.thumbnail.0000000000.jpg?v=1732305873"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 23380,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/b400e05b43ad49bf9bcafa33e5af4505/b400e05b43ad49bf9bcafa33e5af4505.SD-480p-0.9Mbps-38582800.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/b400e05b43ad49bf9bcafa33e5af4505/b400e05b43ad49bf9bcafa33e5af4505.HD-1080p-2.5Mbps-38582800.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/b400e05b43ad49bf9bcafa33e5af4505/b400e05b43ad49bf9bcafa33e5af4505.HD-720p-1.6Mbps-38582800.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/b400e05b43ad49bf9bcafa33e5af4505/b400e05b43ad49bf9bcafa33e5af4505.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32357250859196,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_009_11_26_brayan_ecomm.jpg?v=1731540060"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_009_11_26_brayan_ecomm.jpg?v=1731540060",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32357264949436,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_0010_11_26_jerdani_ecomm.jpg?v=1731540061"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_white_0010_11_26_jerdani_ecomm.jpg?v=1731540061",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349289873596,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_0011_11_26_johnny_ecomm_a5c24d03-1af5-4e1c-9099-14b1c4c82bff.jpg?v=1731451512"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_0011_11_26_johnny_ecomm_a5c24d03-1af5-4e1c-9099-14b1c4c82bff.jpg?v=1731451512",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349289742524,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_0013_11_26_johnny_ecomm.jpg?v=1731451502"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_0013_11_26_johnny_ecomm.jpg?v=1731451502",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349289775292,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_red-wash_005_11_26_johnny_ecomm_f55b9890-8741-43dc-a99a-40534dd59a97.jpg?v=1731451504",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32243315998908,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_black-wash_001_11_26_floor.jpg?v=1730156337",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32243316031676,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_cream-wash_001_11_26_floor.jpg?v=1730156343",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32243316064444,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046_deep-purple-wash_001_11_26_floor.jpg?v=1730156340",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32121450823868,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046-Size-Chart.png?v=1728946965"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8046-Size-Chart.png?v=1728946965",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

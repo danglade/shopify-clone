@@ -1,0 +1,1471 @@
+{
+  "id": 8487539409084,
+  "title": "8035 - Sinister Long Sleeve Jersey",
+  "handle": "8035",
+  "description": "<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MATERIAL: </strong>100% Polyester.</p>\n<p data-mce-fragment=\"1\"><strong>FABRIC WEIGHT: </strong>205 GSM.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">FIT: </strong>Relaxed Boxy Fit.</p>\n<p data-mce-fragment=\"1\"><strong>DESIGN: </strong>This two-layer jersey combines breathable fabric with a sleek design, featuring jersey mesh on both the top and bottom layers. Accented by the YoungLA logo on each sleeve, it\u2019s the perfect statement piece for a bold, stylish look.\u00a0</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MODEL: </strong>The model in the first photo is wearing a size Large. Weight: 190lb Height: 6'0.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/8035-Size-Chart_4057ffa0-3599-4b7f-9374-98b318bdb978_600x600.png?v=1729883987\" style=\"margin-bottom: 16px; float: none;\"></div>\n<!---->",
+  "published_at": "2024-10-28T15:54:19-07:00",
+  "created_at": "2024-07-15T09:46:45-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "Danny",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 3500,
+  "price_min": 3500,
+  "price_max": 3500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44003075031228,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8035-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812017852,
+        "product_id": 8487539409084,
+        "position": 9,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:01-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181",
+        "variant_ids": [
+          44003075031228,
+          44003075063996,
+          44003075096764,
+          44003075129532,
+          44003075162300
+        ]
+      },
+      "available": false,
+      "name": "8035 - Sinister Long Sleeve Jersey - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484268220,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075063996,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8035-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812017852,
+        "product_id": 8487539409084,
+        "position": 9,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:01-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181",
+        "variant_ids": [
+          44003075031228,
+          44003075063996,
+          44003075096764,
+          44003075129532,
+          44003075162300
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484268220,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075096764,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8035-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812017852,
+        "product_id": 8487539409084,
+        "position": 9,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:01-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181",
+        "variant_ids": [
+          44003075031228,
+          44003075063996,
+          44003075096764,
+          44003075129532,
+          44003075162300
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484268220,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075129532,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8035-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812017852,
+        "product_id": 8487539409084,
+        "position": 9,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:01-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181",
+        "variant_ids": [
+          44003075031228,
+          44003075063996,
+          44003075096764,
+          44003075129532,
+          44003075162300
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484268220,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075162300,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8035-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812017852,
+        "product_id": 8487539409084,
+        "position": 9,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:01-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181",
+        "variant_ids": [
+          44003075031228,
+          44003075063996,
+          44003075096764,
+          44003075129532,
+          44003075162300
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484268220,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075227836,
+      "title": "Burgundy / Small",
+      "option1": "Burgundy",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8035-BURG-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964811985084,
+        "product_id": 8487539409084,
+        "position": 10,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:58-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178",
+        "variant_ids": [
+          44003075227836,
+          44003075260604,
+          44003075293372,
+          44003075326140,
+          44003075358908
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Burgundy / Small",
+      "public_title": "Burgundy / Small",
+      "options": [
+        "Burgundy",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BURG-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484333756,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075260604,
+      "title": "Burgundy / Medium",
+      "option1": "Burgundy",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8035-BURG-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964811985084,
+        "product_id": 8487539409084,
+        "position": 10,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:58-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178",
+        "variant_ids": [
+          44003075227836,
+          44003075260604,
+          44003075293372,
+          44003075326140,
+          44003075358908
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Burgundy / Medium",
+      "public_title": "Burgundy / Medium",
+      "options": [
+        "Burgundy",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BURG-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484333756,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075293372,
+      "title": "Burgundy / Large",
+      "option1": "Burgundy",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8035-BURG-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964811985084,
+        "product_id": 8487539409084,
+        "position": 10,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:58-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178",
+        "variant_ids": [
+          44003075227836,
+          44003075260604,
+          44003075293372,
+          44003075326140,
+          44003075358908
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Burgundy / Large",
+      "public_title": "Burgundy / Large",
+      "options": [
+        "Burgundy",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BURG-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484333756,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075326140,
+      "title": "Burgundy / XLarge",
+      "option1": "Burgundy",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8035-BURG-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964811985084,
+        "product_id": 8487539409084,
+        "position": 10,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:58-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178",
+        "variant_ids": [
+          44003075227836,
+          44003075260604,
+          44003075293372,
+          44003075326140,
+          44003075358908
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Burgundy / XLarge",
+      "public_title": "Burgundy / XLarge",
+      "options": [
+        "Burgundy",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BURG-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484333756,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075358908,
+      "title": "Burgundy / XXLarge",
+      "option1": "Burgundy",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8035-BURG-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964811985084,
+        "product_id": 8487539409084,
+        "position": 10,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:58-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178",
+        "variant_ids": [
+          44003075227836,
+          44003075260604,
+          44003075293372,
+          44003075326140,
+          44003075358908
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Burgundy / XXLarge",
+      "public_title": "Burgundy / XXLarge",
+      "options": [
+        "Burgundy",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-BURG-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484333756,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075424444,
+      "title": "Dark Tree Camo / Small",
+      "option1": "Dark Tree Camo",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8035-DTREEC-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812083388,
+        "product_id": 8487539409084,
+        "position": 7,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:59-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179",
+        "variant_ids": [
+          44003075424444,
+          44003075457212,
+          44003075489980,
+          44003075522748,
+          44003075555516
+        ]
+      },
+      "available": false,
+      "name": "8035 - Sinister Long Sleeve Jersey - Dark Tree Camo / Small",
+      "public_title": "Dark Tree Camo / Small",
+      "options": [
+        "Dark Tree Camo",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-DTREEC-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484366524,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075457212,
+      "title": "Dark Tree Camo / Medium",
+      "option1": "Dark Tree Camo",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8035-DTREEC-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812083388,
+        "product_id": 8487539409084,
+        "position": 7,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:59-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179",
+        "variant_ids": [
+          44003075424444,
+          44003075457212,
+          44003075489980,
+          44003075522748,
+          44003075555516
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Dark Tree Camo / Medium",
+      "public_title": "Dark Tree Camo / Medium",
+      "options": [
+        "Dark Tree Camo",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-DTREEC-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484366524,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075489980,
+      "title": "Dark Tree Camo / Large",
+      "option1": "Dark Tree Camo",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8035-DTREEC-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812083388,
+        "product_id": 8487539409084,
+        "position": 7,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:59-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179",
+        "variant_ids": [
+          44003075424444,
+          44003075457212,
+          44003075489980,
+          44003075522748,
+          44003075555516
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Dark Tree Camo / Large",
+      "public_title": "Dark Tree Camo / Large",
+      "options": [
+        "Dark Tree Camo",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-DTREEC-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484366524,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075522748,
+      "title": "Dark Tree Camo / XLarge",
+      "option1": "Dark Tree Camo",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8035-DTREEC-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812083388,
+        "product_id": 8487539409084,
+        "position": 7,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:59-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179",
+        "variant_ids": [
+          44003075424444,
+          44003075457212,
+          44003075489980,
+          44003075522748,
+          44003075555516
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Dark Tree Camo / XLarge",
+      "public_title": "Dark Tree Camo / XLarge",
+      "options": [
+        "Dark Tree Camo",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-DTREEC-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484366524,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075555516,
+      "title": "Dark Tree Camo / XXLarge",
+      "option1": "Dark Tree Camo",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8035-DTREEC-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812083388,
+        "product_id": 8487539409084,
+        "position": 7,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:42:59-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179",
+        "variant_ids": [
+          44003075424444,
+          44003075457212,
+          44003075489980,
+          44003075522748,
+          44003075555516
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Dark Tree Camo / XXLarge",
+      "public_title": "Dark Tree Camo / XXLarge",
+      "options": [
+        "Dark Tree Camo",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-DTREEC-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484366524,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075621052,
+      "title": "Off-White / Small",
+      "option1": "Off-White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8035-OWHT-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812050620,
+        "product_id": 8487539409084,
+        "position": 8,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:02-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182",
+        "variant_ids": [
+          44003075621052,
+          44003075653820,
+          44003075686588,
+          44003075719356,
+          44003075752124
+        ]
+      },
+      "available": false,
+      "name": "8035 - Sinister Long Sleeve Jersey - Off-White / Small",
+      "public_title": "Off-White / Small",
+      "options": [
+        "Off-White",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-OWHT-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484235452,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075653820,
+      "title": "Off-White / Medium",
+      "option1": "Off-White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8035-OWHT-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812050620,
+        "product_id": 8487539409084,
+        "position": 8,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:02-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182",
+        "variant_ids": [
+          44003075621052,
+          44003075653820,
+          44003075686588,
+          44003075719356,
+          44003075752124
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Off-White / Medium",
+      "public_title": "Off-White / Medium",
+      "options": [
+        "Off-White",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-OWHT-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484235452,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075686588,
+      "title": "Off-White / Large",
+      "option1": "Off-White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8035-OWHT-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812050620,
+        "product_id": 8487539409084,
+        "position": 8,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:02-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182",
+        "variant_ids": [
+          44003075621052,
+          44003075653820,
+          44003075686588,
+          44003075719356,
+          44003075752124
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Off-White / Large",
+      "public_title": "Off-White / Large",
+      "options": [
+        "Off-White",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-OWHT-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484235452,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075719356,
+      "title": "Off-White / XLarge",
+      "option1": "Off-White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8035-OWHT-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812050620,
+        "product_id": 8487539409084,
+        "position": 8,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:02-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182",
+        "variant_ids": [
+          44003075621052,
+          44003075653820,
+          44003075686588,
+          44003075719356,
+          44003075752124
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Off-White / XLarge",
+      "public_title": "Off-White / XLarge",
+      "options": [
+        "Off-White",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-OWHT-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484235452,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44003075752124,
+      "title": "Off-White / XXLarge",
+      "option1": "Off-White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8035-OWHT-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39964812050620,
+        "product_id": 8487539409084,
+        "position": 8,
+        "created_at": "2024-11-08T16:23:14-08:00",
+        "updated_at": "2024-11-09T14:43:02-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182",
+        "variant_ids": [
+          44003075621052,
+          44003075653820,
+          44003075686588,
+          44003075719356,
+          44003075752124
+        ]
+      },
+      "available": true,
+      "name": "8035 - Sinister Long Sleeve Jersey - Off-White / XXLarge",
+      "public_title": "Off-White / XXLarge",
+      "options": [
+        "Off-White",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 425,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8035-OWHT-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32324484235452,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_brayan_lookbook.jpg?v=1731476211",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_005_11_26_johnny_ecomm_2925ad59-9928-4023-94c1-6257f5516c41.jpg?v=1731451509",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA10.934.jpg?v=1731540055",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_brayan_lookbook.jpg?v=1731451522",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_black_003_11_26_johnny_ecomm_04090b46-17f7-490c-97de-df372a8975f4.jpg?v=1731451521",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_black_0014_11_26_johnny_ecomm_df5a34b6-cfa7-4420-afad-e61d9b1f8a25.jpg?v=1731451514",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8035-Size-Chart.png?v=1729897010"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_brayan_lookbook.jpg?v=1731476211",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Burgundy",
+        "Dark Tree Camo",
+        "Off-White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/8035",
+  "media": [
+    {
+      "alt": null,
+      "id": 32348912025788,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1986,
+        "width": 1324,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_brayan_lookbook.jpg?v=1731476211"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1986,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_brayan_lookbook.jpg?v=1731476211",
+      "width": 1324
+    },
+    {
+      "alt": null,
+      "id": 32349283090620,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_005_11_26_johnny_ecomm_2925ad59-9928-4023-94c1-6257f5516c41.jpg?v=1731451509"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_005_11_26_johnny_ecomm_2925ad59-9928-4023-94c1-6257f5516c41.jpg?v=1731451509",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32447318261948,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/16ca6bfb580f42a9a7ba99c60a47cab0.thumbnail.0000000000.jpg?v=1732306074"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 27080,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/16ca6bfb580f42a9a7ba99c60a47cab0/16ca6bfb580f42a9a7ba99c60a47cab0.SD-480p-1.0Mbps-38582993.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/16ca6bfb580f42a9a7ba99c60a47cab0/16ca6bfb580f42a9a7ba99c60a47cab0.HD-1080p-3.3Mbps-38582993.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/16ca6bfb580f42a9a7ba99c60a47cab0/16ca6bfb580f42a9a7ba99c60a47cab0.HD-720p-2.1Mbps-38582993.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/16ca6bfb580f42a9a7ba99c60a47cab0/16ca6bfb580f42a9a7ba99c60a47cab0.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32357949636796,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2080,
+        "width": 1387,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.934.jpg?v=1731540055"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2080,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.934.jpg?v=1731540055",
+      "width": 1387
+    },
+    {
+      "alt": null,
+      "id": 32348912058556,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_brayan_lookbook.jpg?v=1731451522"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_brayan_lookbook.jpg?v=1731451522",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349283156156,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_003_11_26_johnny_ecomm_04090b46-17f7-490c-97de-df372a8975f4.jpg?v=1731451521"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_003_11_26_johnny_ecomm_04090b46-17f7-490c-97de-df372a8975f4.jpg?v=1731451521",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349283025084,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_0014_11_26_johnny_ecomm_df5a34b6-cfa7-4420-afad-e61d9b1f8a25.jpg?v=1731451514"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_0014_11_26_johnny_ecomm_df5a34b6-cfa7-4420-afad-e61d9b1f8a25.jpg?v=1731451514",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32324484366524,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_dark-tree-camo_001_11_26_floor.jpg?v=1731192179",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32324484235452,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_off-white_001_11_26_floor.jpg?v=1731192182",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32324484268220,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_black_001_11_26_floor.jpg?v=1731192181",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32324484333756,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035_burgundy_001_11_26_floor.jpg?v=1731192178",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32224728547516,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035-Size-Chart.png?v=1729897010"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8035-Size-Chart.png?v=1729897010",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,1489 @@
+{
+  "id": 8749267091644,
+  "title": "4117 - Superman Compression Tees",
+  "handle": "4117",
+  "description": "<p><strong>MATERIAL: </strong>72% Polyamide, 21% Polyester, 7% Elastane.</p>\n<p><strong>FABRIC WEIGHT: </strong>310 GSM.</p>\n<p><strong>FIT: </strong>Super Fitted.</p>\n<p><strong>DESIGN: </strong>The Superman x YoungLA Compression Tee is one of the standout pieces in the collection. Designed for a sculpted, athletic fit, this tee is built to highlight your physique. Made with premium jacquard patterns and detailed paneling, it delivers both performance and superhero-level style.</p>\n<p><strong>MODEL:</strong> The model in the first photo is wearing a size XL. Weight: 200lb Height: 6'3.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4117-Size-Chart_3e9fba75-5d02-41ce-88f1-38520e737ea7_600x600.png?v=1747950829\"></div>",
+  "published_at": "2025-06-18T17:03:32-07:00",
+  "created_at": "2025-04-03T14:23:39-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "app:soldout",
+    "bis-paused",
+    "Danny",
+    "OFG:CHA",
+    "OFG:LOU"
+  ],
+  "price": 4500,
+  "price_min": 4500,
+  "price_max": 4500,
+  "available": false,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44648895250620,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4117-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43126137651388,
+        "product_id": 8749267091644,
+        "position": 11,
+        "created_at": "2025-06-09T15:55:43-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679",
+        "variant_ids": [
+          44648895250620,
+          44648895283388,
+          44648895316156,
+          44648895348924,
+          44648895381692
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 4500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003835",
+      "featured_media": {
+        "alt": null,
+        "id": 34467132768444,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895283388,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4117-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43126137651388,
+        "product_id": 8749267091644,
+        "position": 11,
+        "created_at": "2025-06-09T15:55:43-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679",
+        "variant_ids": [
+          44648895250620,
+          44648895283388,
+          44648895316156,
+          44648895348924,
+          44648895381692
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 4500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003842",
+      "featured_media": {
+        "alt": null,
+        "id": 34467132768444,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895316156,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4117-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43126137651388,
+        "product_id": 8749267091644,
+        "position": 11,
+        "created_at": "2025-06-09T15:55:43-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679",
+        "variant_ids": [
+          44648895250620,
+          44648895283388,
+          44648895316156,
+          44648895348924,
+          44648895381692
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 4500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003859",
+      "featured_media": {
+        "alt": null,
+        "id": 34467132768444,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895348924,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4117-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43126137651388,
+        "product_id": 8749267091644,
+        "position": 11,
+        "created_at": "2025-06-09T15:55:43-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679",
+        "variant_ids": [
+          44648895250620,
+          44648895283388,
+          44648895316156,
+          44648895348924,
+          44648895381692
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 4500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003866",
+      "featured_media": {
+        "alt": null,
+        "id": 34467132768444,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895381692,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4117-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43126137651388,
+        "product_id": 8749267091644,
+        "position": 11,
+        "created_at": "2025-06-09T15:55:43-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679",
+        "variant_ids": [
+          44648895250620,
+          44648895283388,
+          44648895316156,
+          44648895348924,
+          44648895381692
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 4500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003873",
+      "featured_media": {
+        "alt": null,
+        "id": 34467132768444,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895414460,
+      "title": "Blue / Small",
+      "option1": "Blue",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4117-BLUE-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43394949415100,
+        "product_id": 8749267091644,
+        "position": 1,
+        "created_at": "2025-06-25T10:51:48-07:00",
+        "updated_at": "2025-06-25T12:28:53-07:00",
+        "alt": null,
+        "width": 1600,
+        "height": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733",
+        "variant_ids": [
+          44648895414460,
+          44648895447228,
+          44648895479996,
+          44648895512764,
+          44648895545532
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Blue / Small",
+      "public_title": "Blue / Small",
+      "options": [
+        "Blue",
+        "Small"
+      ],
+      "price": 4500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003880",
+      "featured_media": {
+        "alt": null,
+        "id": 34651062730940,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "width": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895447228,
+      "title": "Blue / Medium",
+      "option1": "Blue",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4117-BLUE-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43394949415100,
+        "product_id": 8749267091644,
+        "position": 1,
+        "created_at": "2025-06-25T10:51:48-07:00",
+        "updated_at": "2025-06-25T12:28:53-07:00",
+        "alt": null,
+        "width": 1600,
+        "height": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733",
+        "variant_ids": [
+          44648895414460,
+          44648895447228,
+          44648895479996,
+          44648895512764,
+          44648895545532
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Blue / Medium",
+      "public_title": "Blue / Medium",
+      "options": [
+        "Blue",
+        "Medium"
+      ],
+      "price": 4500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003897",
+      "featured_media": {
+        "alt": null,
+        "id": 34651062730940,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "width": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895479996,
+      "title": "Blue / Large",
+      "option1": "Blue",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4117-BLUE-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43394949415100,
+        "product_id": 8749267091644,
+        "position": 1,
+        "created_at": "2025-06-25T10:51:48-07:00",
+        "updated_at": "2025-06-25T12:28:53-07:00",
+        "alt": null,
+        "width": 1600,
+        "height": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733",
+        "variant_ids": [
+          44648895414460,
+          44648895447228,
+          44648895479996,
+          44648895512764,
+          44648895545532
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Blue / Large",
+      "public_title": "Blue / Large",
+      "options": [
+        "Blue",
+        "Large"
+      ],
+      "price": 4500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003903",
+      "featured_media": {
+        "alt": null,
+        "id": 34651062730940,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "width": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895512764,
+      "title": "Blue / XLarge",
+      "option1": "Blue",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4117-BLUE-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43394949415100,
+        "product_id": 8749267091644,
+        "position": 1,
+        "created_at": "2025-06-25T10:51:48-07:00",
+        "updated_at": "2025-06-25T12:28:53-07:00",
+        "alt": null,
+        "width": 1600,
+        "height": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733",
+        "variant_ids": [
+          44648895414460,
+          44648895447228,
+          44648895479996,
+          44648895512764,
+          44648895545532
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Blue / XLarge",
+      "public_title": "Blue / XLarge",
+      "options": [
+        "Blue",
+        "XLarge"
+      ],
+      "price": 4500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003910",
+      "featured_media": {
+        "alt": null,
+        "id": 34651062730940,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "width": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895545532,
+      "title": "Blue / XXLarge",
+      "option1": "Blue",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4117-BLUE-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43394949415100,
+        "product_id": 8749267091644,
+        "position": 1,
+        "created_at": "2025-06-25T10:51:48-07:00",
+        "updated_at": "2025-06-25T12:28:53-07:00",
+        "alt": null,
+        "width": 1600,
+        "height": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733",
+        "variant_ids": [
+          44648895414460,
+          44648895447228,
+          44648895479996,
+          44648895512764,
+          44648895545532
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Blue / XXLarge",
+      "public_title": "Blue / XXLarge",
+      "options": [
+        "Blue",
+        "XXLarge"
+      ],
+      "price": 4500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003927",
+      "featured_media": {
+        "alt": null,
+        "id": 34651062730940,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2400,
+          "width": 1600,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895578300,
+      "title": "Charcoal / Small",
+      "option1": "Charcoal",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4117-CHAR-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416703172796,
+        "product_id": 8749267091644,
+        "position": 5,
+        "created_at": "2025-06-26T11:56:30-07:00",
+        "updated_at": "2025-07-02T11:08:01-07:00",
+        "alt": null,
+        "width": 1309,
+        "height": 1963,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681",
+        "variant_ids": [
+          44648895578300,
+          44648895611068,
+          44648895643836,
+          44648895676604,
+          44648895709372
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Charcoal / Small",
+      "public_title": "Charcoal / Small",
+      "options": [
+        "Charcoal",
+        "Small"
+      ],
+      "price": 4500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003934",
+      "featured_media": {
+        "alt": null,
+        "id": 34665474752700,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1963,
+          "width": 1309,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895611068,
+      "title": "Charcoal / Medium",
+      "option1": "Charcoal",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4117-CHAR-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416703172796,
+        "product_id": 8749267091644,
+        "position": 5,
+        "created_at": "2025-06-26T11:56:30-07:00",
+        "updated_at": "2025-07-02T11:08:01-07:00",
+        "alt": null,
+        "width": 1309,
+        "height": 1963,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681",
+        "variant_ids": [
+          44648895578300,
+          44648895611068,
+          44648895643836,
+          44648895676604,
+          44648895709372
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Charcoal / Medium",
+      "public_title": "Charcoal / Medium",
+      "options": [
+        "Charcoal",
+        "Medium"
+      ],
+      "price": 4500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003941",
+      "featured_media": {
+        "alt": null,
+        "id": 34665474752700,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1963,
+          "width": 1309,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895643836,
+      "title": "Charcoal / Large",
+      "option1": "Charcoal",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4117-CHAR-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416703172796,
+        "product_id": 8749267091644,
+        "position": 5,
+        "created_at": "2025-06-26T11:56:30-07:00",
+        "updated_at": "2025-07-02T11:08:01-07:00",
+        "alt": null,
+        "width": 1309,
+        "height": 1963,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681",
+        "variant_ids": [
+          44648895578300,
+          44648895611068,
+          44648895643836,
+          44648895676604,
+          44648895709372
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Charcoal / Large",
+      "public_title": "Charcoal / Large",
+      "options": [
+        "Charcoal",
+        "Large"
+      ],
+      "price": 4500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003958",
+      "featured_media": {
+        "alt": null,
+        "id": 34665474752700,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1963,
+          "width": 1309,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895676604,
+      "title": "Charcoal / XLarge",
+      "option1": "Charcoal",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4117-CHAR-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416703172796,
+        "product_id": 8749267091644,
+        "position": 5,
+        "created_at": "2025-06-26T11:56:30-07:00",
+        "updated_at": "2025-07-02T11:08:01-07:00",
+        "alt": null,
+        "width": 1309,
+        "height": 1963,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681",
+        "variant_ids": [
+          44648895578300,
+          44648895611068,
+          44648895643836,
+          44648895676604,
+          44648895709372
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Charcoal / XLarge",
+      "public_title": "Charcoal / XLarge",
+      "options": [
+        "Charcoal",
+        "XLarge"
+      ],
+      "price": 4500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003965",
+      "featured_media": {
+        "alt": null,
+        "id": 34665474752700,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1963,
+          "width": 1309,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895709372,
+      "title": "Charcoal / XXLarge",
+      "option1": "Charcoal",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4117-CHAR-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416703172796,
+        "product_id": 8749267091644,
+        "position": 5,
+        "created_at": "2025-06-26T11:56:30-07:00",
+        "updated_at": "2025-07-02T11:08:01-07:00",
+        "alt": null,
+        "width": 1309,
+        "height": 1963,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681",
+        "variant_ids": [
+          44648895578300,
+          44648895611068,
+          44648895643836,
+          44648895676604,
+          44648895709372
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Charcoal / XXLarge",
+      "public_title": "Charcoal / XXLarge",
+      "options": [
+        "Charcoal",
+        "XXLarge"
+      ],
+      "price": 4500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003972",
+      "featured_media": {
+        "alt": null,
+        "id": 34665474752700,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 1963,
+          "width": 1309,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895742140,
+      "title": "Red / Small",
+      "option1": "Red",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4117-RED-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416649040060,
+        "product_id": 8749267091644,
+        "position": 9,
+        "created_at": "2025-06-26T11:53:29-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 1363,
+        "height": 2045,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679",
+        "variant_ids": [
+          44648895742140,
+          44648895774908,
+          44648895807676,
+          44648895840444,
+          44648895873212
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Red / Small",
+      "public_title": "Red / Small",
+      "options": [
+        "Red",
+        "Small"
+      ],
+      "price": 4500,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003989",
+      "featured_media": {
+        "alt": null,
+        "id": 34665441591484,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2045,
+          "width": 1363,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895774908,
+      "title": "Red / Medium",
+      "option1": "Red",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4117-RED-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416649040060,
+        "product_id": 8749267091644,
+        "position": 9,
+        "created_at": "2025-06-26T11:53:29-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 1363,
+        "height": 2045,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679",
+        "variant_ids": [
+          44648895742140,
+          44648895774908,
+          44648895807676,
+          44648895840444,
+          44648895873212
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Red / Medium",
+      "public_title": "Red / Medium",
+      "options": [
+        "Red",
+        "Medium"
+      ],
+      "price": 4500,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383003996",
+      "featured_media": {
+        "alt": null,
+        "id": 34665441591484,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2045,
+          "width": 1363,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895807676,
+      "title": "Red / Large",
+      "option1": "Red",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4117-RED-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416649040060,
+        "product_id": 8749267091644,
+        "position": 9,
+        "created_at": "2025-06-26T11:53:29-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 1363,
+        "height": 2045,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679",
+        "variant_ids": [
+          44648895742140,
+          44648895774908,
+          44648895807676,
+          44648895840444,
+          44648895873212
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Red / Large",
+      "public_title": "Red / Large",
+      "options": [
+        "Red",
+        "Large"
+      ],
+      "price": 4500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383004009",
+      "featured_media": {
+        "alt": null,
+        "id": 34665441591484,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2045,
+          "width": 1363,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895840444,
+      "title": "Red / XLarge",
+      "option1": "Red",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4117-RED-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416649040060,
+        "product_id": 8749267091644,
+        "position": 9,
+        "created_at": "2025-06-26T11:53:29-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 1363,
+        "height": 2045,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679",
+        "variant_ids": [
+          44648895742140,
+          44648895774908,
+          44648895807676,
+          44648895840444,
+          44648895873212
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Red / XLarge",
+      "public_title": "Red / XLarge",
+      "options": [
+        "Red",
+        "XLarge"
+      ],
+      "price": 4500,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383004016",
+      "featured_media": {
+        "alt": null,
+        "id": 34665441591484,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2045,
+          "width": 1363,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44648895873212,
+      "title": "Red / XXLarge",
+      "option1": "Red",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4117-RED-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 43416649040060,
+        "product_id": 8749267091644,
+        "position": 9,
+        "created_at": "2025-06-26T11:53:29-07:00",
+        "updated_at": "2025-07-02T11:07:59-07:00",
+        "alt": null,
+        "width": 1363,
+        "height": 2045,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679",
+        "variant_ids": [
+          44648895742140,
+          44648895774908,
+          44648895807676,
+          44648895840444,
+          44648895873212
+        ]
+      },
+      "available": false,
+      "name": "4117 - Superman Compression Tees - Red / XXLarge",
+      "public_title": "Red / XXLarge",
+      "options": [
+        "Red",
+        "XXLarge"
+      ],
+      "price": 4500,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "199383004023",
+      "featured_media": {
+        "alt": null,
+        "id": 34665441591484,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2045,
+          "width": 1363,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_baeb29b0-ea4a-4d22-838e-428a7f9c6fa3.jpg?v=1751418341",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/supermancompressions-31.jpg?v=1751484534",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3e0.jpg?v=1751479681",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3220_4ea5853a-4db3-4b7b-b0d6-ae7e50da6a8c.jpg?v=1751479679",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3011_0420609c-b752-4655-93ae-dd6701dc7cf6.jpg?v=1751479679",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Alex_Superman-60.jpg?v=1751479679",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.301_9acbd4dd-9755-4183-a982-3812afb1ecc9.jpg?v=1751479679",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4117-Size-Chart.png?v=1751479679"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Blue",
+        "Charcoal",
+        "Red"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4117",
+  "media": [
+    {
+      "alt": null,
+      "id": 34651062730940,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2400,
+        "width": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2400,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_b9594129-6b3f-49fb-80cf-06c676bfab14.jpg?v=1750879733",
+      "width": 1600
+    },
+    {
+      "alt": null,
+      "id": 34665382871228,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2184,
+        "width": 1456,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_baeb29b0-ea4a-4d22-838e-428a7f9c6fa3.jpg?v=1751418341"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2184,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.30_baeb29b0-ea4a-4d22-838e-428a7f9c6fa3.jpg?v=1751418341",
+      "width": 1456
+    },
+    {
+      "alt": null,
+      "id": 34707712442556,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/ebc28f91e1d2487f9f5def3a93d8bfbc.thumbnail.0000000000.jpg?v=1751418351"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 28910,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/ebc28f91e1d2487f9f5def3a93d8bfbc/ebc28f91e1d2487f9f5def3a93d8bfbc.SD-480p-1.5Mbps-50401331.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/ebc28f91e1d2487f9f5def3a93d8bfbc/ebc28f91e1d2487f9f5def3a93d8bfbc.HD-1080p-7.2Mbps-50401331.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/ebc28f91e1d2487f9f5def3a93d8bfbc/ebc28f91e1d2487f9f5def3a93d8bfbc.HD-720p-4.5Mbps-50401331.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/ebc28f91e1d2487f9f5def3a93d8bfbc/ebc28f91e1d2487f9f5def3a93d8bfbc.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 34717312680124,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3774,
+        "width": 2516,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/supermancompressions-31.jpg?v=1751484534"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3774,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/supermancompressions-31.jpg?v=1751484534",
+      "width": 2516
+    },
+    {
+      "alt": null,
+      "id": 34665502408892,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2124,
+        "width": 1416,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3e0.jpg?v=1751479681"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2124,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3e0.jpg?v=1751479681",
+      "width": 1416
+    },
+    {
+      "alt": null,
+      "id": 34665474752700,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1963,
+        "width": 1309,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1963,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_charcoal_003_07_02_lexx_lifestyle_cf7d1ffb-01da-4866-9bcd-af5b7dac6ebd.jpg?v=1751479681",
+      "width": 1309
+    },
+    {
+      "alt": null,
+      "id": 34651062796476,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2400,
+        "width": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3220_4ea5853a-4db3-4b7b-b0d6-ae7e50da6a8c.jpg?v=1751479679"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2400,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3220_4ea5853a-4db3-4b7b-b0d6-ae7e50da6a8c.jpg?v=1751479679",
+      "width": 1600
+    },
+    {
+      "alt": null,
+      "id": 34651068727484,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2328,
+        "width": 1552,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3011_0420609c-b752-4655-93ae-dd6701dc7cf6.jpg?v=1751479679"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2328,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.3011_0420609c-b752-4655-93ae-dd6701dc7cf6.jpg?v=1751479679",
+      "width": 1552
+    },
+    {
+      "alt": null,
+      "id": 34665358655676,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1621,
+        "width": 1081,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Alex_Superman-60.jpg?v=1751479679"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1621,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Alex_Superman-60.jpg?v=1751479679",
+      "width": 1081
+    },
+    {
+      "alt": null,
+      "id": 34665441591484,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2045,
+        "width": 1363,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2045,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_red_003_07_02_lexx_lifestyle_742070f4-d3c2-49c8-8bad-d662d1663c3a.jpg?v=1751479679",
+      "width": 1363
+    },
+    {
+      "alt": null,
+      "id": 34651079508156,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2400,
+        "width": 1600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.301_9acbd4dd-9755-4183-a982-3812afb1ecc9.jpg?v=1751479679"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2400,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA5.301_9acbd4dd-9755-4183-a982-3812afb1ecc9.jpg?v=1751479679",
+      "width": 1600
+    },
+    {
+      "alt": null,
+      "id": 34467132768444,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117_black_006_07_01_johnny_ecomm.jpg?v=1751479679",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 34165755707580,
+      "position": 13,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117-Size-Chart.png?v=1751479679"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4117-Size-Chart.png?v=1751479679",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

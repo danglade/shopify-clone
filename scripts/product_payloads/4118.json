@@ -1,0 +1,1504 @@
+{
+  "id": 8140611649724,
+  "title": "4118 -  Warrior Tees",
+  "handle": "4118",
+  "description": "<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MATERIAL: </strong>70% Cotton, 30% Polyester. Ultra-Soft Garment.\u00a0</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">FIT:</strong> True to Size.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">DESIGN: </strong>Made with incredibly soft fabric for unmatched comfort. Sporting a striking Spartan warrior graphic on the back, this tee oozes confidence and flair. Thanks to a delicate garment wash, it's not only soft but also boasts a bold aesthetic.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MODEL: </strong>The model in the second photo is wearing a size XL. Weight: 195lb Height: 5'10.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" alt=\"\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4118-Size-Chart_d9423427-934a-4502-af73-0ed16105a54c_600x600.png?v=1706554370\"></div>",
+  "published_at": "2025-07-02T10:16:48-07:00",
+  "created_at": "2023-11-30T15:01:48-08:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 3400,
+  "price_min": 3400,
+  "price_max": 3400,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 43181025362108,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4118-BLKW23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37487173992636,
+        "product_id": 8140611649724,
+        "position": 1,
+        "created_at": "2024-04-23T15:10:25-07:00",
+        "updated_at": "2024-04-23T15:10:56-07:00",
+        "alt": null,
+        "width": 2742,
+        "height": 4113,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256",
+        "variant_ids": [
+          43181025362108,
+          43181025394876,
+          43181025427644,
+          43181025460412,
+          43181025493180
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-BLKW23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 30064924360892,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4113,
+          "width": 2742,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43181025394876,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4118-BLKW23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37487173992636,
+        "product_id": 8140611649724,
+        "position": 1,
+        "created_at": "2024-04-23T15:10:25-07:00",
+        "updated_at": "2024-04-23T15:10:56-07:00",
+        "alt": null,
+        "width": 2742,
+        "height": 4113,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256",
+        "variant_ids": [
+          43181025362108,
+          43181025394876,
+          43181025427644,
+          43181025460412,
+          43181025493180
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-BLKW23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 30064924360892,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4113,
+          "width": 2742,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43181025427644,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4118-BLKW23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37487173992636,
+        "product_id": 8140611649724,
+        "position": 1,
+        "created_at": "2024-04-23T15:10:25-07:00",
+        "updated_at": "2024-04-23T15:10:56-07:00",
+        "alt": null,
+        "width": 2742,
+        "height": 4113,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256",
+        "variant_ids": [
+          43181025362108,
+          43181025394876,
+          43181025427644,
+          43181025460412,
+          43181025493180
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-BLKW23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 30064924360892,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4113,
+          "width": 2742,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43181025460412,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4118-BLKW23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37487173992636,
+        "product_id": 8140611649724,
+        "position": 1,
+        "created_at": "2024-04-23T15:10:25-07:00",
+        "updated_at": "2024-04-23T15:10:56-07:00",
+        "alt": null,
+        "width": 2742,
+        "height": 4113,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256",
+        "variant_ids": [
+          43181025362108,
+          43181025394876,
+          43181025427644,
+          43181025460412,
+          43181025493180
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-BLKW23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 30064924360892,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4113,
+          "width": 2742,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43181025493180,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4118-BLKW23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37487173992636,
+        "product_id": 8140611649724,
+        "position": 1,
+        "created_at": "2024-04-23T15:10:25-07:00",
+        "updated_at": "2024-04-23T15:10:56-07:00",
+        "alt": null,
+        "width": 2742,
+        "height": 4113,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256",
+        "variant_ids": [
+          43181025362108,
+          43181025394876,
+          43181025427644,
+          43181025460412,
+          43181025493180
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-BLKW23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 30064924360892,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 4113,
+          "width": 2742,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368412860,
+      "title": "Grey Wash / Small",
+      "option1": "Grey Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4118-GREY23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612732416188,
+        "product_id": 8140611649724,
+        "position": 10,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494",
+        "variant_ids": [
+          43148368412860,
+          43148368445628,
+          43148368478396,
+          43148368511164,
+          43148368543932
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Grey Wash / Small",
+      "public_title": "Grey Wash / Small",
+      "options": [
+        "Grey Wash",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-GREY23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168370364,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368445628,
+      "title": "Grey Wash / Medium",
+      "option1": "Grey Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4118-GREY23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612732416188,
+        "product_id": 8140611649724,
+        "position": 10,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494",
+        "variant_ids": [
+          43148368412860,
+          43148368445628,
+          43148368478396,
+          43148368511164,
+          43148368543932
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Grey Wash / Medium",
+      "public_title": "Grey Wash / Medium",
+      "options": [
+        "Grey Wash",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-GREY23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168370364,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368478396,
+      "title": "Grey Wash / Large",
+      "option1": "Grey Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4118-GREY23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612732416188,
+        "product_id": 8140611649724,
+        "position": 10,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494",
+        "variant_ids": [
+          43148368412860,
+          43148368445628,
+          43148368478396,
+          43148368511164,
+          43148368543932
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Grey Wash / Large",
+      "public_title": "Grey Wash / Large",
+      "options": [
+        "Grey Wash",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-GREY23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168370364,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368511164,
+      "title": "Grey Wash / XLarge",
+      "option1": "Grey Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4118-GREY23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612732416188,
+        "product_id": 8140611649724,
+        "position": 10,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494",
+        "variant_ids": [
+          43148368412860,
+          43148368445628,
+          43148368478396,
+          43148368511164,
+          43148368543932
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Grey Wash / XLarge",
+      "public_title": "Grey Wash / XLarge",
+      "options": [
+        "Grey Wash",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-GREY23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168370364,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368543932,
+      "title": "Grey Wash / XXLarge",
+      "option1": "Grey Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4118-GREY23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612732416188,
+        "product_id": 8140611649724,
+        "position": 10,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494",
+        "variant_ids": [
+          43148368412860,
+          43148368445628,
+          43148368478396,
+          43148368511164,
+          43148368543932
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Grey Wash / XXLarge",
+      "public_title": "Grey Wash / XXLarge",
+      "options": [
+        "Grey Wash",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-GREY23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168370364,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368576700,
+      "title": "Light Blue Wash / Small",
+      "option1": "Light Blue Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4118-LBLU23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612733104316,
+        "product_id": 8140611649724,
+        "position": 12,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494",
+        "variant_ids": [
+          43148368576700,
+          43148368609468,
+          43148368642236,
+          43148368675004,
+          43148368707772
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Light Blue Wash / Small",
+      "public_title": "Light Blue Wash / Small",
+      "options": [
+        "Light Blue Wash",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-LBLU23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168403132,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368609468,
+      "title": "Light Blue Wash / Medium",
+      "option1": "Light Blue Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4118-LBLU23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612733104316,
+        "product_id": 8140611649724,
+        "position": 12,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494",
+        "variant_ids": [
+          43148368576700,
+          43148368609468,
+          43148368642236,
+          43148368675004,
+          43148368707772
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Light Blue Wash / Medium",
+      "public_title": "Light Blue Wash / Medium",
+      "options": [
+        "Light Blue Wash",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-LBLU23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168403132,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368642236,
+      "title": "Light Blue Wash / Large",
+      "option1": "Light Blue Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4118-LBLU23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612733104316,
+        "product_id": 8140611649724,
+        "position": 12,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494",
+        "variant_ids": [
+          43148368576700,
+          43148368609468,
+          43148368642236,
+          43148368675004,
+          43148368707772
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Light Blue Wash / Large",
+      "public_title": "Light Blue Wash / Large",
+      "options": [
+        "Light Blue Wash",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-LBLU23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168403132,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368675004,
+      "title": "Light Blue Wash / XLarge",
+      "option1": "Light Blue Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4118-LBLU23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612733104316,
+        "product_id": 8140611649724,
+        "position": 12,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494",
+        "variant_ids": [
+          43148368576700,
+          43148368609468,
+          43148368642236,
+          43148368675004,
+          43148368707772
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Light Blue Wash / XLarge",
+      "public_title": "Light Blue Wash / XLarge",
+      "options": [
+        "Light Blue Wash",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-LBLU23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168403132,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368707772,
+      "title": "Light Blue Wash / XXLarge",
+      "option1": "Light Blue Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4118-LBLU23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612733104316,
+        "product_id": 8140611649724,
+        "position": 12,
+        "created_at": "2024-05-07T11:23:53-07:00",
+        "updated_at": "2024-05-07T11:28:14-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494",
+        "variant_ids": [
+          43148368576700,
+          43148368609468,
+          43148368642236,
+          43148368675004,
+          43148368707772
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Light Blue Wash / XXLarge",
+      "public_title": "Light Blue Wash / XXLarge",
+      "options": [
+        "Light Blue Wash",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 318,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-LBLU23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 30192168403132,
+        "position": 13,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368740540,
+      "title": "Pink Wash / Small",
+      "option1": "Pink Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4118-PINK23-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612754075836,
+        "product_id": 8140611649724,
+        "position": 11,
+        "created_at": "2024-05-07T11:28:01-07:00",
+        "updated_at": "2024-05-07T11:30:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659",
+        "variant_ids": [
+          43148368740540,
+          43148368773308,
+          43148368806076,
+          43148368838844,
+          43148368871612
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Pink Wash / Small",
+      "public_title": "Pink Wash / Small",
+      "options": [
+        "Pink Wash",
+        "Small"
+      ],
+      "price": 3400,
+      "weight": 204,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-PINK23-S",
+      "featured_media": {
+        "alt": null,
+        "id": 30192190881980,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368773308,
+      "title": "Pink Wash / Medium",
+      "option1": "Pink Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4118-PINK23-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612754075836,
+        "product_id": 8140611649724,
+        "position": 11,
+        "created_at": "2024-05-07T11:28:01-07:00",
+        "updated_at": "2024-05-07T11:30:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659",
+        "variant_ids": [
+          43148368740540,
+          43148368773308,
+          43148368806076,
+          43148368838844,
+          43148368871612
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Pink Wash / Medium",
+      "public_title": "Pink Wash / Medium",
+      "options": [
+        "Pink Wash",
+        "Medium"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-PINK23-M",
+      "featured_media": {
+        "alt": null,
+        "id": 30192190881980,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368806076,
+      "title": "Pink Wash / Large",
+      "option1": "Pink Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4118-PINK23-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612754075836,
+        "product_id": 8140611649724,
+        "position": 11,
+        "created_at": "2024-05-07T11:28:01-07:00",
+        "updated_at": "2024-05-07T11:30:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659",
+        "variant_ids": [
+          43148368740540,
+          43148368773308,
+          43148368806076,
+          43148368838844,
+          43148368871612
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Pink Wash / Large",
+      "public_title": "Pink Wash / Large",
+      "options": [
+        "Pink Wash",
+        "Large"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-PINK23-L",
+      "featured_media": {
+        "alt": null,
+        "id": 30192190881980,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368838844,
+      "title": "Pink Wash / XLarge",
+      "option1": "Pink Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4118-PINK23-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612754075836,
+        "product_id": 8140611649724,
+        "position": 11,
+        "created_at": "2024-05-07T11:28:01-07:00",
+        "updated_at": "2024-05-07T11:30:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659",
+        "variant_ids": [
+          43148368740540,
+          43148368773308,
+          43148368806076,
+          43148368838844,
+          43148368871612
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Pink Wash / XLarge",
+      "public_title": "Pink Wash / XLarge",
+      "options": [
+        "Pink Wash",
+        "XLarge"
+      ],
+      "price": 3400,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-PINK23-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 30192190881980,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43148368871612,
+      "title": "Pink Wash / XXLarge",
+      "option1": "Pink Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4118-PINK23-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37612754075836,
+        "product_id": 8140611649724,
+        "position": 11,
+        "created_at": "2024-05-07T11:28:01-07:00",
+        "updated_at": "2024-05-07T11:30:59-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659",
+        "variant_ids": [
+          43148368740540,
+          43148368773308,
+          43148368806076,
+          43148368838844,
+          43148368871612
+        ]
+      },
+      "available": true,
+      "name": "4118 -  Warrior Tees - Pink Wash / XXLarge",
+      "public_title": "Pink Wash / XXLarge",
+      "options": [
+        "Pink Wash",
+        "XXLarge"
+      ],
+      "price": 3400,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4118-PINK23-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 30192190881980,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WarriorTee-28.jpg?v=1714602066",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WarriorTee-23.jpg?v=1715101869",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/999.jpg?v=1715101869",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA4.33.jpg?v=1715101869",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A6159.jpg?v=1715101869",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A6181.jpg?v=1715101869",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_006_05_07_floor.jpg?v=1715106494",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_005_05_07_floor.jpg?v=1715106494",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4118-Size-Chart.png?v=1715106487"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Grey Wash",
+        "Light Blue Wash",
+        "Pink Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4118",
+  "media": [
+    {
+      "alt": null,
+      "id": 30064924360892,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 4113,
+        "width": 2742,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256"
+      },
+      "aspect_ratio": 0.667,
+      "height": 4113,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_black-wash_001_05_07_floor.jpg?v=1713910256",
+      "width": 2742
+    },
+    {
+      "alt": null,
+      "id": 30139019854012,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 5320,
+        "width": 3547,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WarriorTee-28.jpg?v=1714602066"
+      },
+      "aspect_ratio": 0.667,
+      "height": 5320,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WarriorTee-28.jpg?v=1714602066",
+      "width": 3547
+    },
+    {
+      "alt": null,
+      "id": 32448075301052,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/7b784e3485f64432a9072a1bd57da42e.thumbnail.0000000000.jpg?v=1732309473"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 28710,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/7b784e3485f64432a9072a1bd57da42e/7b784e3485f64432a9072a1bd57da42e.SD-480p-1.0Mbps-38590189.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/7b784e3485f64432a9072a1bd57da42e/7b784e3485f64432a9072a1bd57da42e.HD-1080p-3.3Mbps-38590189.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/7b784e3485f64432a9072a1bd57da42e/7b784e3485f64432a9072a1bd57da42e.HD-720p-2.1Mbps-38590189.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/7b784e3485f64432a9072a1bd57da42e/7b784e3485f64432a9072a1bd57da42e.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 30139019821244,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 4319,
+        "width": 2879,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WarriorTee-23.jpg?v=1715101869"
+      },
+      "aspect_ratio": 0.667,
+      "height": 4319,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Jerdani_WarriorTee-23.jpg?v=1715101869",
+      "width": 2879
+    },
+    {
+      "alt": null,
+      "id": 30139019788476,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 5829,
+        "width": 3886,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/999.jpg?v=1715101869"
+      },
+      "aspect_ratio": 0.667,
+      "height": 5829,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/999.jpg?v=1715101869",
+      "width": 3886
+    },
+    {
+      "alt": null,
+      "id": 30139019886780,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 6116,
+        "width": 4077,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA4.33.jpg?v=1715101869"
+      },
+      "aspect_ratio": 0.667,
+      "height": 6116,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA4.33.jpg?v=1715101869",
+      "width": 4077
+    },
+    {
+      "alt": null,
+      "id": 30139019624636,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1698,
+        "width": 1132,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A6159.jpg?v=1715101869"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1698,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A6159.jpg?v=1715101869",
+      "width": 1132
+    },
+    {
+      "alt": null,
+      "id": 30139019690172,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1776,
+        "width": 1184,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A6181.jpg?v=1715101869"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1776,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A6181.jpg?v=1715101869",
+      "width": 1184
+    },
+    {
+      "alt": null,
+      "id": 30064917283004,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_006_05_07_floor.jpg?v=1715106494"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_006_05_07_floor.jpg?v=1715106494",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30064917250236,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_005_05_07_floor.jpg?v=1715106494"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_005_05_07_floor.jpg?v=1715106494",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30192168370364,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_grey-wash_001_05_07_floor_b9ba5375-040b-4c5d-aa93-035ac23f127a.jpg?v=1715106494",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30192190881980,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_pink-wash_001_05_07_floor.jpg?v=1715106659",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30192168403132,
+      "position": 13,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118_light-blue-wash_001_05_07_floor.jpg?v=1715106494",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 29245377970364,
+      "position": 14,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118-Size-Chart.png?v=1715106487"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4118-Size-Chart.png?v=1715106487",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

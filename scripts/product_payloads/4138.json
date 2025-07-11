@@ -1,0 +1,1487 @@
+{
+  "id": 8316458434748,
+  "title": "4138 - Foundation Cropped Tees",
+  "handle": "4138",
+  "description": "<p class=\"MsoNormal\"><strong>MATERIAL:</strong> 100% Cotton. 225 GSM.</p>\n<p class=\"MsoNormal\"><strong>FIT: </strong>Loose Cropped Fitting.</p>\n<p class=\"MsoNormal\"><strong>DESIGN:</strong> Step up your streetwear game with our Cropped Tees. Featuring a short and boxy fit, these tees provide the perfect blend of comfort and edgy style. The standout tonal puff back print logo ensures you make a statement wherever you go. Perfect for any casual outing, these tees bring a fresh, contemporary look to your wardrobe.</p>\n<p class=\"MsoNormal\"><strong>MODEL:</strong> The model in the first photo is wearing a size Large. Weight: 185lb Height: 5'11.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4138-Size-Chart_5f2a6f98-9cbd-43a4-9ebf-5affb76fecc5_600x600.png?v=1717631799\"></div>",
+  "published_at": "2025-07-02T10:17:03-07:00",
+  "created_at": "2024-04-19T14:27:20-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 3600,
+  "price_min": 3600,
+  "price_max": 3600,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 43648777584828,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4138-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573321404,
+        "product_id": 8316458434748,
+        "position": 8,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777584828,
+          43648777617596,
+          43648777650364,
+          43648777683132,
+          43648777715900
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309396156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777617596,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4138-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573321404,
+        "product_id": 8316458434748,
+        "position": 8,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777584828,
+          43648777617596,
+          43648777650364,
+          43648777683132,
+          43648777715900
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309396156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777650364,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4138-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573321404,
+        "product_id": 8316458434748,
+        "position": 8,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777584828,
+          43648777617596,
+          43648777650364,
+          43648777683132,
+          43648777715900
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309396156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777683132,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4138-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573321404,
+        "product_id": 8316458434748,
+        "position": 8,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777584828,
+          43648777617596,
+          43648777650364,
+          43648777683132,
+          43648777715900
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309396156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777715900,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4138-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573321404,
+        "product_id": 8316458434748,
+        "position": 8,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777584828,
+          43648777617596,
+          43648777650364,
+          43648777683132,
+          43648777715900
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309396156,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777748668,
+      "title": "Brown Wash / Small",
+      "option1": "Brown Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4138-BRNW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573288636,
+        "product_id": 8316458434748,
+        "position": 9,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777748668,
+          43648777781436,
+          43648777814204,
+          43648777846972,
+          43648777879740
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Brown Wash / Small",
+      "public_title": "Brown Wash / Small",
+      "options": [
+        "Brown Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BRNW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309428924,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777781436,
+      "title": "Brown Wash / Medium",
+      "option1": "Brown Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4138-BRNW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573288636,
+        "product_id": 8316458434748,
+        "position": 9,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777748668,
+          43648777781436,
+          43648777814204,
+          43648777846972,
+          43648777879740
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Brown Wash / Medium",
+      "public_title": "Brown Wash / Medium",
+      "options": [
+        "Brown Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BRNW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309428924,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777814204,
+      "title": "Brown Wash / Large",
+      "option1": "Brown Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4138-BRNW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573288636,
+        "product_id": 8316458434748,
+        "position": 9,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777748668,
+          43648777781436,
+          43648777814204,
+          43648777846972,
+          43648777879740
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Brown Wash / Large",
+      "public_title": "Brown Wash / Large",
+      "options": [
+        "Brown Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BRNW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309428924,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777846972,
+      "title": "Brown Wash / XLarge",
+      "option1": "Brown Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4138-BRNW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573288636,
+        "product_id": 8316458434748,
+        "position": 9,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777748668,
+          43648777781436,
+          43648777814204,
+          43648777846972,
+          43648777879740
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Brown Wash / XLarge",
+      "public_title": "Brown Wash / XLarge",
+      "options": [
+        "Brown Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BRNW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309428924,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777879740,
+      "title": "Brown Wash / XXLarge",
+      "option1": "Brown Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4138-BRNW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573288636,
+        "product_id": 8316458434748,
+        "position": 9,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777748668,
+          43648777781436,
+          43648777814204,
+          43648777846972,
+          43648777879740
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Brown Wash / XXLarge",
+      "public_title": "Brown Wash / XXLarge",
+      "options": [
+        "Brown Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-BRNW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309428924,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777912508,
+      "title": "Forest Green Wash / Small",
+      "option1": "Forest Green Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4138-FGRNW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573354172,
+        "product_id": 8316458434748,
+        "position": 11,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777912508,
+          43648777945276,
+          43648777978044,
+          43648778010812,
+          43648778043580
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Forest Green Wash / Small",
+      "public_title": "Forest Green Wash / Small",
+      "options": [
+        "Forest Green Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-FGRNW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309461692,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777945276,
+      "title": "Forest Green Wash / Medium",
+      "option1": "Forest Green Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4138-FGRNW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573354172,
+        "product_id": 8316458434748,
+        "position": 11,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777912508,
+          43648777945276,
+          43648777978044,
+          43648778010812,
+          43648778043580
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Forest Green Wash / Medium",
+      "public_title": "Forest Green Wash / Medium",
+      "options": [
+        "Forest Green Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-FGRNW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309461692,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648777978044,
+      "title": "Forest Green Wash / Large",
+      "option1": "Forest Green Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4138-FGRNW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573354172,
+        "product_id": 8316458434748,
+        "position": 11,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777912508,
+          43648777945276,
+          43648777978044,
+          43648778010812,
+          43648778043580
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Forest Green Wash / Large",
+      "public_title": "Forest Green Wash / Large",
+      "options": [
+        "Forest Green Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-FGRNW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309461692,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648778010812,
+      "title": "Forest Green Wash / XLarge",
+      "option1": "Forest Green Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4138-FGRNW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573354172,
+        "product_id": 8316458434748,
+        "position": 11,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777912508,
+          43648777945276,
+          43648777978044,
+          43648778010812,
+          43648778043580
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Forest Green Wash / XLarge",
+      "public_title": "Forest Green Wash / XLarge",
+      "options": [
+        "Forest Green Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-FGRNW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309461692,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648778043580,
+      "title": "Forest Green Wash / XXLarge",
+      "option1": "Forest Green Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4138-FGRNW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896573354172,
+        "product_id": 8316458434748,
+        "position": 11,
+        "created_at": "2024-06-10T16:22:55-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648777912508,
+          43648777945276,
+          43648777978044,
+          43648778010812,
+          43648778043580
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Forest Green Wash / XXLarge",
+      "public_title": "Forest Green Wash / XXLarge",
+      "options": [
+        "Forest Green Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-FGRNW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 30483309461692,
+        "position": 12,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648778076348,
+      "title": "Grey Wash / Small",
+      "option1": "Grey Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4138-GRYW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896576794812,
+        "product_id": 8316458434748,
+        "position": 10,
+        "created_at": "2024-06-10T16:23:15-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648778076348,
+          43648778109116,
+          43648778141884,
+          43648778174652,
+          43648778207420
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Grey Wash / Small",
+      "public_title": "Grey Wash / Small",
+      "options": [
+        "Grey Wash",
+        "Small"
+      ],
+      "price": 3600,
+      "weight": 227,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-GRYW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 30483313295548,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648778109116,
+      "title": "Grey Wash / Medium",
+      "option1": "Grey Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4138-GRYW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896576794812,
+        "product_id": 8316458434748,
+        "position": 10,
+        "created_at": "2024-06-10T16:23:15-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648778076348,
+          43648778109116,
+          43648778141884,
+          43648778174652,
+          43648778207420
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Grey Wash / Medium",
+      "public_title": "Grey Wash / Medium",
+      "options": [
+        "Grey Wash",
+        "Medium"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-GRYW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 30483313295548,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648778141884,
+      "title": "Grey Wash / Large",
+      "option1": "Grey Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4138-GRYW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896576794812,
+        "product_id": 8316458434748,
+        "position": 10,
+        "created_at": "2024-06-10T16:23:15-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648778076348,
+          43648778109116,
+          43648778141884,
+          43648778174652,
+          43648778207420
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Grey Wash / Large",
+      "public_title": "Grey Wash / Large",
+      "options": [
+        "Grey Wash",
+        "Large"
+      ],
+      "price": 3600,
+      "weight": 249,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-GRYW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 30483313295548,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648778174652,
+      "title": "Grey Wash / XLarge",
+      "option1": "Grey Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4138-GRYW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896576794812,
+        "product_id": 8316458434748,
+        "position": 10,
+        "created_at": "2024-06-10T16:23:15-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648778076348,
+          43648778109116,
+          43648778141884,
+          43648778174652,
+          43648778207420
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Grey Wash / XLarge",
+      "public_title": "Grey Wash / XLarge",
+      "options": [
+        "Grey Wash",
+        "XLarge"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-GRYW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 30483313295548,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43648778207420,
+      "title": "Grey Wash / XXLarge",
+      "option1": "Grey Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4138-GRYW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 37896576794812,
+        "product_id": 8316458434748,
+        "position": 10,
+        "created_at": "2024-06-10T16:23:15-07:00",
+        "updated_at": "2024-06-25T10:25:40-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340",
+        "variant_ids": [
+          43648778076348,
+          43648778109116,
+          43648778141884,
+          43648778174652,
+          43648778207420
+        ]
+      },
+      "available": true,
+      "name": "4138 - Foundation Cropped Tees - Grey Wash / XXLarge",
+      "public_title": "Grey Wash / XXLarge",
+      "options": [
+        "Grey Wash",
+        "XXLarge"
+      ],
+      "price": 3600,
+      "weight": 272,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "4138-GRYW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 30483313295548,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA6.jpg?v=1719336288",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_0016_06_25_johnny_ecomm_5f8af11d-c9b3-4f68-9d6c-48b4bb83a6cf.jpg?v=1719336250",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA6.1e2.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA63.12.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA6.12.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA6.112.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_0019_06_25_johnny_ecomm.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4138-Size-Chart.png?v=1719336340"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/YLA6.jpg?v=1719336288",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Brown Wash",
+        "Forest Green Wash",
+        "Grey Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4138",
+  "media": [
+    {
+      "alt": null,
+      "id": 30674821021884,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2251,
+        "width": 1501,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.jpg?v=1719336288"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2251,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.jpg?v=1719336288",
+      "width": 1501
+    },
+    {
+      "alt": null,
+      "id": 30538335486140,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3320,
+        "width": 2213,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_0016_06_25_johnny_ecomm_5f8af11d-c9b3-4f68-9d6c-48b4bb83a6cf.jpg?v=1719336250"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3320,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_0016_06_25_johnny_ecomm_5f8af11d-c9b3-4f68-9d6c-48b4bb83a6cf.jpg?v=1719336250",
+      "width": 2213
+    },
+    {
+      "alt": null,
+      "id": 32448037519548,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/9077b7bb0b8f48839d0e629dcf5329a4.thumbnail.0000000000.jpg?v=1732309348"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 27720,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/9077b7bb0b8f48839d0e629dcf5329a4/9077b7bb0b8f48839d0e629dcf5329a4.SD-480p-0.9Mbps-38590059.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/9077b7bb0b8f48839d0e629dcf5329a4/9077b7bb0b8f48839d0e629dcf5329a4.HD-1080p-2.5Mbps-38590059.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/9077b7bb0b8f48839d0e629dcf5329a4/9077b7bb0b8f48839d0e629dcf5329a4.HD-720p-1.6Mbps-38590059.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/9077b7bb0b8f48839d0e629dcf5329a4/9077b7bb0b8f48839d0e629dcf5329a4.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 30530845507772,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2277,
+        "width": 1518,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.1e2.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2277,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.1e2.jpg?v=1719336340",
+      "width": 1518
+    },
+    {
+      "alt": null,
+      "id": 30530845475004,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2134,
+        "width": 1423,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA63.12.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2134,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA63.12.jpg?v=1719336340",
+      "width": 1423
+    },
+    {
+      "alt": null,
+      "id": 30530845540540,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2251,
+        "width": 1501,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.12.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2251,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.12.jpg?v=1719336340",
+      "width": 1501
+    },
+    {
+      "alt": null,
+      "id": 30530845606076,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2084,
+        "width": 1389,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.112.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2084,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA6.112.jpg?v=1719336340",
+      "width": 1389
+    },
+    {
+      "alt": null,
+      "id": 30530725445820,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_0019_06_25_johnny_ecomm.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_0019_06_25_johnny_ecomm.jpg?v=1719336340",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30483309396156,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_black-wash_002_06_25_floor.jpg?v=1719336340",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30483309428924,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_brown-wash_002_06_25_floor.jpg?v=1719336340",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30483313295548,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_grey-wash_002_06_25_floor.jpg?v=1719336340",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30483309461692,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138_forest-green-wash_002_06_25_floor.jpg?v=1719336340",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 30444795920572,
+      "position": 13,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138-Size-Chart.png?v=1719336340"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4138-Size-Chart.png?v=1719336340",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,1141 @@
+{
+  "id": 8503035232444,
+  "title": "4201 - Nocturnal Tees",
+  "handle": "4201",
+  "description": "<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MATERIAL: </strong>100% Cotton.</p>\n<p data-mce-fragment=\"1\"><strong>FABRIC WEIGHT:</strong> 220 GSM.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">FIT:</strong> Boxy Fit. Short Length.\u00a0</p>\n<p data-mce-fragment=\"1\"><strong>DESIGN: </strong>Step up your wardrobe with these art-inspired tees featuring three distinct, intricately designed graphic prints. Crafted with a boxy fit and a shorter length, each tee is made from high-quality 220 GSM fabric for a structured yet comfortable feel. These pieces are true works of art, bringing captivating detail to your everyday style.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MODEL: </strong>The model in the first photo is wearing a size XL. Weight: 195lb Height: 5'10.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/4201-Size-Chart_9061eef0-1647-4785-a39e-8eaff56c610c_600x600.png?v=1729880879\"></div>\n<!---->",
+  "published_at": "2025-04-18T13:08:12-07:00",
+  "created_at": "2024-07-25T11:57:04-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 3500,
+  "price_min": 3500,
+  "price_max": 3500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": 0,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44028621750460,
+      "title": "Angel of Dawn / Small",
+      "option1": "Angel of Dawn",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4201-ANGEL-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014087356,
+        "product_id": 8503035232444,
+        "position": 7,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:11-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871",
+        "variant_ids": [
+          44028621750460,
+          44028621783228,
+          44028621815996,
+          44028621848764,
+          44028621881532
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Angel of Dawn / Small",
+      "public_title": "Angel of Dawn / Small",
+      "options": [
+        "Angel of Dawn",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ANGEL-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991610556,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028621783228,
+      "title": "Angel of Dawn / Medium",
+      "option1": "Angel of Dawn",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4201-ANGEL-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014087356,
+        "product_id": 8503035232444,
+        "position": 7,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:11-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871",
+        "variant_ids": [
+          44028621750460,
+          44028621783228,
+          44028621815996,
+          44028621848764,
+          44028621881532
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Angel of Dawn / Medium",
+      "public_title": "Angel of Dawn / Medium",
+      "options": [
+        "Angel of Dawn",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ANGEL-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991610556,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028621815996,
+      "title": "Angel of Dawn / Large",
+      "option1": "Angel of Dawn",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4201-ANGEL-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014087356,
+        "product_id": 8503035232444,
+        "position": 7,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:11-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871",
+        "variant_ids": [
+          44028621750460,
+          44028621783228,
+          44028621815996,
+          44028621848764,
+          44028621881532
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Angel of Dawn / Large",
+      "public_title": "Angel of Dawn / Large",
+      "options": [
+        "Angel of Dawn",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ANGEL-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991610556,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028621848764,
+      "title": "Angel of Dawn / XLarge",
+      "option1": "Angel of Dawn",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4201-ANGEL-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014087356,
+        "product_id": 8503035232444,
+        "position": 7,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:11-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871",
+        "variant_ids": [
+          44028621750460,
+          44028621783228,
+          44028621815996,
+          44028621848764,
+          44028621881532
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Angel of Dawn / XLarge",
+      "public_title": "Angel of Dawn / XLarge",
+      "options": [
+        "Angel of Dawn",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ANGEL-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991610556,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028621881532,
+      "title": "Angel of Dawn / XXLarge",
+      "option1": "Angel of Dawn",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4201-ANGEL-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014087356,
+        "product_id": 8503035232444,
+        "position": 7,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:11-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871",
+        "variant_ids": [
+          44028621750460,
+          44028621783228,
+          44028621815996,
+          44028621848764,
+          44028621881532
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Angel of Dawn / XXLarge",
+      "public_title": "Angel of Dawn / XXLarge",
+      "options": [
+        "Angel of Dawn",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ANGEL-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991610556,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028621947068,
+      "title": "Eternal Guardian / Small",
+      "option1": "Eternal Guardian",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4201-ETRNG-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014021820,
+        "product_id": 8503035232444,
+        "position": 8,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873",
+        "variant_ids": [
+          44028621947068,
+          44028621979836,
+          44028622012604,
+          44028622045372,
+          44028622078140
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Eternal Guardian / Small",
+      "public_title": "Eternal Guardian / Small",
+      "options": [
+        "Eternal Guardian",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ETRNG-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991643324,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028621979836,
+      "title": "Eternal Guardian / Medium",
+      "option1": "Eternal Guardian",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4201-ETRNG-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014021820,
+        "product_id": 8503035232444,
+        "position": 8,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873",
+        "variant_ids": [
+          44028621947068,
+          44028621979836,
+          44028622012604,
+          44028622045372,
+          44028622078140
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Eternal Guardian / Medium",
+      "public_title": "Eternal Guardian / Medium",
+      "options": [
+        "Eternal Guardian",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ETRNG-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991643324,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028622012604,
+      "title": "Eternal Guardian / Large",
+      "option1": "Eternal Guardian",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4201-ETRNG-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014021820,
+        "product_id": 8503035232444,
+        "position": 8,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873",
+        "variant_ids": [
+          44028621947068,
+          44028621979836,
+          44028622012604,
+          44028622045372,
+          44028622078140
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Eternal Guardian / Large",
+      "public_title": "Eternal Guardian / Large",
+      "options": [
+        "Eternal Guardian",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ETRNG-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991643324,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028622045372,
+      "title": "Eternal Guardian / XLarge",
+      "option1": "Eternal Guardian",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4201-ETRNG-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014021820,
+        "product_id": 8503035232444,
+        "position": 8,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873",
+        "variant_ids": [
+          44028621947068,
+          44028621979836,
+          44028622012604,
+          44028622045372,
+          44028622078140
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Eternal Guardian / XLarge",
+      "public_title": "Eternal Guardian / XLarge",
+      "options": [
+        "Eternal Guardian",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ETRNG-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991643324,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028622078140,
+      "title": "Eternal Guardian / XXLarge",
+      "option1": "Eternal Guardian",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4201-ETRNG-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014021820,
+        "product_id": 8503035232444,
+        "position": 8,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:13-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873",
+        "variant_ids": [
+          44028621947068,
+          44028621979836,
+          44028622012604,
+          44028622045372,
+          44028622078140
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Eternal Guardian / XXLarge",
+      "public_title": "Eternal Guardian / XXLarge",
+      "options": [
+        "Eternal Guardian",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-ETRNG-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991643324,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028622143676,
+      "title": "Skull Conquest / Small",
+      "option1": "Skull Conquest",
+      "option2": "Small",
+      "option3": null,
+      "sku": "4201-SKULC-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014054588,
+        "product_id": 8503035232444,
+        "position": 6,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864",
+        "variant_ids": [
+          44028622143676,
+          44028622176444,
+          44028622209212,
+          44028622241980,
+          44028622307516
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Skull Conquest / Small",
+      "public_title": "Skull Conquest / Small",
+      "options": [
+        "Skull Conquest",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-SKULC-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991577788,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028622176444,
+      "title": "Skull Conquest / Medium",
+      "option1": "Skull Conquest",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "4201-SKULC-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014054588,
+        "product_id": 8503035232444,
+        "position": 6,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864",
+        "variant_ids": [
+          44028622143676,
+          44028622176444,
+          44028622209212,
+          44028622241980,
+          44028622307516
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Skull Conquest / Medium",
+      "public_title": "Skull Conquest / Medium",
+      "options": [
+        "Skull Conquest",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-SKULC-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991577788,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028622209212,
+      "title": "Skull Conquest / Large",
+      "option1": "Skull Conquest",
+      "option2": "Large",
+      "option3": null,
+      "sku": "4201-SKULC-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014054588,
+        "product_id": 8503035232444,
+        "position": 6,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864",
+        "variant_ids": [
+          44028622143676,
+          44028622176444,
+          44028622209212,
+          44028622241980,
+          44028622307516
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Skull Conquest / Large",
+      "public_title": "Skull Conquest / Large",
+      "options": [
+        "Skull Conquest",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-SKULC-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991577788,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028622241980,
+      "title": "Skull Conquest / XLarge",
+      "option1": "Skull Conquest",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "4201-SKULC-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014054588,
+        "product_id": 8503035232444,
+        "position": 6,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864",
+        "variant_ids": [
+          44028622143676,
+          44028622176444,
+          44028622209212,
+          44028622241980,
+          44028622307516
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Skull Conquest / XLarge",
+      "public_title": "Skull Conquest / XLarge",
+      "options": [
+        "Skull Conquest",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-SKULC-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991577788,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44028622307516,
+      "title": "Skull Conquest / XXLarge",
+      "option1": "Skull Conquest",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "4201-SKULC-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39822014054588,
+        "product_id": 8503035232444,
+        "position": 6,
+        "created_at": "2024-10-24T13:37:03-07:00",
+        "updated_at": "2024-10-24T16:01:04-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864",
+        "variant_ids": [
+          44028622143676,
+          44028622176444,
+          44028622209212,
+          44028622241980,
+          44028622307516
+        ]
+      },
+      "available": true,
+      "name": "4201 - Nocturnal Tees - Skull Conquest / XXLarge",
+      "public_title": "Skull Conquest / XXLarge",
+      "options": [
+        "Skull Conquest",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 283,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "4201-SKULC-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32217991577788,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Warehouse7678copyedited.jpg?v=1731624177",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_008_11_26_johnny_ecomm_449560d1-f317-425b-9ca9-a789f60a9cc1.jpg?v=1731550811",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_005_11_26_johnny_ecomm_2aca5379-a1ff-463a-b576-4b967d75bd4c.jpg?v=1731451395",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_003_11_26_johnny_ecomm_e21188a4-5745-4613-958a-8c73db0428df.jpg?v=1731538610",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_jerdani_ecomm_f9d0df76-9171-444c-8e77-a1446585db3c.jpg?v=1731624188",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/4201-Size-Chart.png?v=1729896769"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/Warehouse7678copyedited.jpg?v=1731624177",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Angel of Dawn",
+        "Eternal Guardian",
+        "Skull Conquest"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/4201",
+  "media": [
+    {
+      "alt": null,
+      "id": 32367317713084,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 1921,
+        "width": 1280,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Warehouse7678copyedited.jpg?v=1731624177"
+      },
+      "aspect_ratio": 0.666,
+      "height": 1921,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Warehouse7678copyedited.jpg?v=1731624177",
+      "width": 1280
+    },
+    {
+      "alt": null,
+      "id": 32349201170620,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3053,
+        "width": 2035,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_008_11_26_johnny_ecomm_449560d1-f317-425b-9ca9-a789f60a9cc1.jpg?v=1731550811"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3053,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_008_11_26_johnny_ecomm_449560d1-f317-425b-9ca9-a789f60a9cc1.jpg?v=1731550811",
+      "width": 2035
+    },
+    {
+      "alt": null,
+      "id": 32447146000572,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/d7e01376400c4206af0d57934ad2c353.thumbnail.0000000000.jpg?v=1732305332"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 23790,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/d7e01376400c4206af0d57934ad2c353/d7e01376400c4206af0d57934ad2c353.SD-480p-1.0Mbps-38582329.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/d7e01376400c4206af0d57934ad2c353/d7e01376400c4206af0d57934ad2c353.HD-1080p-3.3Mbps-38582329.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/d7e01376400c4206af0d57934ad2c353/d7e01376400c4206af0d57934ad2c353.HD-720p-2.1Mbps-38582329.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/d7e01376400c4206af0d57934ad2c353/d7e01376400c4206af0d57934ad2c353.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32349201137852,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_005_11_26_johnny_ecomm_2aca5379-a1ff-463a-b576-4b967d75bd4c.jpg?v=1731451395"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_005_11_26_johnny_ecomm_2aca5379-a1ff-463a-b576-4b967d75bd4c.jpg?v=1731451395",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32363040374972,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_003_11_26_johnny_ecomm_e21188a4-5745-4613-958a-8c73db0428df.jpg?v=1731538610"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_003_11_26_johnny_ecomm_e21188a4-5745-4613-958a-8c73db0428df.jpg?v=1731538610",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32366885470396,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_jerdani_ecomm_f9d0df76-9171-444c-8e77-a1446585db3c.jpg?v=1731624188"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_jerdani_ecomm_f9d0df76-9171-444c-8e77-a1446585db3c.jpg?v=1731624188",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32217991577788,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_skull-conquest_001_11_26_floor.jpg?v=1729810864",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32217991610556,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_angel-of-dawn_001_11_26_floor.jpg?v=1729810871",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32217991643324,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201_eternal-guardian_001_11_26_floor.jpg?v=1729810873",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32224114671804,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201-Size-Chart.png?v=1729896769"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/4201-Size-Chart.png?v=1729896769",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,1454 @@
+{
+  "id": 8501966504124,
+  "title": "2142 - Golds Gym Evolution Sweats",
+  "handle": "2142",
+  "description": "<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MATERIAL: </strong>85% Cotton, 15% Polyester. <meta charset=\"utf-8\">Terry Fleece.\u00a0</p>\n<p data-mce-fragment=\"1\"><strong>FABRIC WEIGHT: </strong>460 GSM.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">FIT: </strong>Baggy.</p>\n<p data-mce-fragment=\"1\"><strong>DESIGN: </strong>Experience the perfect fusion of iconic style and modern comfort with the Gold's Gym x YoungLA collaboration joggers. Designed with a relaxed, baggy fit and a no-cuff bottom, these pants offer a fresh, contemporary look. The acid-washed fabric gives a vintage vibe, while the bold prints of the classic YoungLA and Gold's Gym logos on one leg make a statement.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MODEL: </strong>The model in the first photo is wearing a size Medium. Weight: 175lb Height: 5'9.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/2142-Size-Chart_ca6478eb-96c7-4389-8b37-e37c55f5a7a9_600x600.png?v=1729878026\"></div>\n<!---->",
+  "published_at": "2025-02-28T11:20:17-08:00",
+  "created_at": "2024-07-24T16:14:24-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 5800,
+  "price_min": 5800,
+  "price_max": 5800,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": 0,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44026133971132,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2142-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972437180,
+        "product_id": 8501966504124,
+        "position": 1,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:23-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403",
+        "variant_ids": [
+          44026133971132,
+          44026134003900,
+          44026134036668,
+          44026134069436,
+          44026134102204
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 5800,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979200188,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134003900,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2142-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972437180,
+        "product_id": 8501966504124,
+        "position": 1,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:23-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403",
+        "variant_ids": [
+          44026133971132,
+          44026134003900,
+          44026134036668,
+          44026134069436,
+          44026134102204
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 5800,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979200188,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134036668,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2142-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972437180,
+        "product_id": 8501966504124,
+        "position": 1,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:23-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403",
+        "variant_ids": [
+          44026133971132,
+          44026134003900,
+          44026134036668,
+          44026134069436,
+          44026134102204
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 5800,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979200188,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134069436,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2142-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972437180,
+        "product_id": 8501966504124,
+        "position": 1,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:23-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403",
+        "variant_ids": [
+          44026133971132,
+          44026134003900,
+          44026134036668,
+          44026134069436,
+          44026134102204
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 5800,
+      "weight": 839,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979200188,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134102204,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2142-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972437180,
+        "product_id": 8501966504124,
+        "position": 1,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:23-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403",
+        "variant_ids": [
+          44026133971132,
+          44026134003900,
+          44026134036668,
+          44026134069436,
+          44026134102204
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 5800,
+      "weight": 885,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979200188,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134167740,
+      "title": "Blue Wash / Small",
+      "option1": "Blue Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2142-BLUW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972469948,
+        "product_id": 8501966504124,
+        "position": 3,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:22-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402",
+        "variant_ids": [
+          44026134167740,
+          44026134200508,
+          44026134233276,
+          44026134266044,
+          44026134298812
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Blue Wash / Small",
+      "public_title": "Blue Wash / Small",
+      "options": [
+        "Blue Wash",
+        "Small"
+      ],
+      "price": 5800,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLUW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979232956,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134200508,
+      "title": "Blue Wash / Medium",
+      "option1": "Blue Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2142-BLUW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972469948,
+        "product_id": 8501966504124,
+        "position": 3,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:22-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402",
+        "variant_ids": [
+          44026134167740,
+          44026134200508,
+          44026134233276,
+          44026134266044,
+          44026134298812
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Blue Wash / Medium",
+      "public_title": "Blue Wash / Medium",
+      "options": [
+        "Blue Wash",
+        "Medium"
+      ],
+      "price": 5800,
+      "weight": 794,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLUW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979232956,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134233276,
+      "title": "Blue Wash / Large",
+      "option1": "Blue Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2142-BLUW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972469948,
+        "product_id": 8501966504124,
+        "position": 3,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:22-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402",
+        "variant_ids": [
+          44026134167740,
+          44026134200508,
+          44026134233276,
+          44026134266044,
+          44026134298812
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Blue Wash / Large",
+      "public_title": "Blue Wash / Large",
+      "options": [
+        "Blue Wash",
+        "Large"
+      ],
+      "price": 5800,
+      "weight": 839,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLUW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979232956,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134266044,
+      "title": "Blue Wash / XLarge",
+      "option1": "Blue Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2142-BLUW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972469948,
+        "product_id": 8501966504124,
+        "position": 3,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:22-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402",
+        "variant_ids": [
+          44026134167740,
+          44026134200508,
+          44026134233276,
+          44026134266044,
+          44026134298812
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Blue Wash / XLarge",
+      "public_title": "Blue Wash / XLarge",
+      "options": [
+        "Blue Wash",
+        "XLarge"
+      ],
+      "price": 5800,
+      "weight": 907,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLUW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979232956,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134298812,
+      "title": "Blue Wash / XXLarge",
+      "option1": "Blue Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2142-BLUW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972469948,
+        "product_id": 8501966504124,
+        "position": 3,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:22-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402",
+        "variant_ids": [
+          44026134167740,
+          44026134200508,
+          44026134233276,
+          44026134266044,
+          44026134298812
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Blue Wash / XXLarge",
+      "public_title": "Blue Wash / XXLarge",
+      "options": [
+        "Blue Wash",
+        "XXLarge"
+      ],
+      "price": 5800,
+      "weight": 930,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-BLUW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979232956,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134364348,
+      "title": "Heather Grey / Small",
+      "option1": "Heather Grey",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2142-HGRY-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972371644,
+        "product_id": 8501966504124,
+        "position": 6,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:21-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401",
+        "variant_ids": [
+          44026134364348,
+          44026134397116,
+          44026134429884,
+          44026134462652,
+          44026134495420
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Heather Grey / Small",
+      "public_title": "Heather Grey / Small",
+      "options": [
+        "Heather Grey",
+        "Small"
+      ],
+      "price": 5800,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-HGRY-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979265724,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134397116,
+      "title": "Heather Grey / Medium",
+      "option1": "Heather Grey",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2142-HGRY-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972371644,
+        "product_id": 8501966504124,
+        "position": 6,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:21-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401",
+        "variant_ids": [
+          44026134364348,
+          44026134397116,
+          44026134429884,
+          44026134462652,
+          44026134495420
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Heather Grey / Medium",
+      "public_title": "Heather Grey / Medium",
+      "options": [
+        "Heather Grey",
+        "Medium"
+      ],
+      "price": 5800,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-HGRY-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979265724,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134429884,
+      "title": "Heather Grey / Large",
+      "option1": "Heather Grey",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2142-HGRY-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972371644,
+        "product_id": 8501966504124,
+        "position": 6,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:21-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401",
+        "variant_ids": [
+          44026134364348,
+          44026134397116,
+          44026134429884,
+          44026134462652,
+          44026134495420
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Heather Grey / Large",
+      "public_title": "Heather Grey / Large",
+      "options": [
+        "Heather Grey",
+        "Large"
+      ],
+      "price": 5800,
+      "weight": 862,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-HGRY-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979265724,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134462652,
+      "title": "Heather Grey / XLarge",
+      "option1": "Heather Grey",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2142-HGRY-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972371644,
+        "product_id": 8501966504124,
+        "position": 6,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:21-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401",
+        "variant_ids": [
+          44026134364348,
+          44026134397116,
+          44026134429884,
+          44026134462652,
+          44026134495420
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Heather Grey / XLarge",
+      "public_title": "Heather Grey / XLarge",
+      "options": [
+        "Heather Grey",
+        "XLarge"
+      ],
+      "price": 5800,
+      "weight": 907,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-HGRY-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979265724,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134495420,
+      "title": "Heather Grey / XXLarge",
+      "option1": "Heather Grey",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2142-HGRY-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972371644,
+        "product_id": 8501966504124,
+        "position": 6,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:21-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401",
+        "variant_ids": [
+          44026134364348,
+          44026134397116,
+          44026134429884,
+          44026134462652,
+          44026134495420
+        ]
+      },
+      "available": false,
+      "name": "2142 - Golds Gym Evolution Sweats - Heather Grey / XXLarge",
+      "public_title": "Heather Grey / XXLarge",
+      "options": [
+        "Heather Grey",
+        "XXLarge"
+      ],
+      "price": 5800,
+      "weight": 953,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-HGRY-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979265724,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134560956,
+      "title": "Yellow Wash / Small",
+      "option1": "Yellow Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2142-YELOW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972338876,
+        "product_id": 8501966504124,
+        "position": 9,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:18-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398",
+        "variant_ids": [
+          44026134560956,
+          44026134593724,
+          44026134626492,
+          44026134659260,
+          44026134692028
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Yellow Wash / Small",
+      "public_title": "Yellow Wash / Small",
+      "options": [
+        "Yellow Wash",
+        "Small"
+      ],
+      "price": 5800,
+      "weight": 748,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-YELOW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979331260,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134593724,
+      "title": "Yellow Wash / Medium",
+      "option1": "Yellow Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2142-YELOW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972338876,
+        "product_id": 8501966504124,
+        "position": 9,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:18-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398",
+        "variant_ids": [
+          44026134560956,
+          44026134593724,
+          44026134626492,
+          44026134659260,
+          44026134692028
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Yellow Wash / Medium",
+      "public_title": "Yellow Wash / Medium",
+      "options": [
+        "Yellow Wash",
+        "Medium"
+      ],
+      "price": 5800,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-YELOW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979331260,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134626492,
+      "title": "Yellow Wash / Large",
+      "option1": "Yellow Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2142-YELOW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972338876,
+        "product_id": 8501966504124,
+        "position": 9,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:18-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398",
+        "variant_ids": [
+          44026134560956,
+          44026134593724,
+          44026134626492,
+          44026134659260,
+          44026134692028
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Yellow Wash / Large",
+      "public_title": "Yellow Wash / Large",
+      "options": [
+        "Yellow Wash",
+        "Large"
+      ],
+      "price": 5800,
+      "weight": 816,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-YELOW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979331260,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134659260,
+      "title": "Yellow Wash / XLarge",
+      "option1": "Yellow Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2142-YELOW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972338876,
+        "product_id": 8501966504124,
+        "position": 9,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:18-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398",
+        "variant_ids": [
+          44026134560956,
+          44026134593724,
+          44026134626492,
+          44026134659260,
+          44026134692028
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Yellow Wash / XLarge",
+      "public_title": "Yellow Wash / XLarge",
+      "options": [
+        "Yellow Wash",
+        "XLarge"
+      ],
+      "price": 5800,
+      "weight": 885,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-YELOW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979331260,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026134692028,
+      "title": "Yellow Wash / XXLarge",
+      "option1": "Yellow Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2142-YELOW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001972338876,
+        "product_id": 8501966504124,
+        "position": 9,
+        "created_at": "2024-11-11T16:37:33-08:00",
+        "updated_at": "2024-11-12T14:43:18-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398",
+        "variant_ids": [
+          44026134560956,
+          44026134593724,
+          44026134626492,
+          44026134659260,
+          44026134692028
+        ]
+      },
+      "available": true,
+      "name": "2142 - Golds Gym Evolution Sweats - Yellow Wash / XXLarge",
+      "public_title": "Yellow Wash / XXLarge",
+      "options": [
+        "Yellow Wash",
+        "XXLarge"
+      ],
+      "price": 5800,
+      "weight": 930,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2142-YELOW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348979331260,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1757.jpg?v=1731538495",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA10.30.24BFxGOLDS_VENICE_SOCIAL_181.jpg?v=1731538494",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_091.jpg?v=1731538492",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1738.jpg?v=1731451404",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA1099.30_414e0be0-b267-4135-a5e5-12c00d2e43fe.jpg?v=1731451400",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2142-Size-Chart.png?v=1729896529"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Blue Wash",
+        "Heather Grey",
+        "Yellow Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/2142",
+  "media": [
+    {
+      "alt": null,
+      "id": 32348979200188,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1754.jpg?v=1731451403",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32359199080636,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1757.jpg?v=1731538495"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1757.jpg?v=1731538495",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32447591514300,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/f725c32e5b0149abb80a803fa587c008.thumbnail.0000000000.jpg?v=1732307395"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 25090,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/f725c32e5b0149abb80a803fa587c008/f725c32e5b0149abb80a803fa587c008.SD-480p-0.9Mbps-38584053.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/f725c32e5b0149abb80a803fa587c008/f725c32e5b0149abb80a803fa587c008.HD-1080p-2.5Mbps-38584053.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/f725c32e5b0149abb80a803fa587c008/f725c32e5b0149abb80a803fa587c008.HD-720p-1.6Mbps-38584053.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/f725c32e5b0149abb80a803fa587c008/f725c32e5b0149abb80a803fa587c008.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32348979232956,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1726.jpg?v=1731451402",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32359157498044,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2049,
+        "width": 1366,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.30.24BFxGOLDS_VENICE_SOCIAL_181.jpg?v=1731538494"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2049,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.30.24BFxGOLDS_VENICE_SOCIAL_181.jpg?v=1731538494",
+      "width": 1366
+    },
+    {
+      "alt": null,
+      "id": 32359188562108,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 2071,
+        "width": 1380,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_091.jpg?v=1731538492"
+      },
+      "aspect_ratio": 0.666,
+      "height": 2071,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_091.jpg?v=1731538492",
+      "width": 1380
+    },
+    {
+      "alt": null,
+      "id": 32348979265724,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1735.jpg?v=1731451401",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32348979298492,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1738.jpg?v=1731451404"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1738.jpg?v=1731451404",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32354279784636,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1974,
+        "width": 1316,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1099.30_414e0be0-b267-4135-a5e5-12c00d2e43fe.jpg?v=1731451400"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1974,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1099.30_414e0be0-b267-4135-a5e5-12c00d2e43fe.jpg?v=1731451400",
+      "width": 1316
+    },
+    {
+      "alt": null,
+      "id": 32348979331260,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1744.jpg?v=1731451398",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32223532351676,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2142-Size-Chart.png?v=1729896529"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2142-Size-Chart.png?v=1729896529",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

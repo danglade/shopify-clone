@@ -1,0 +1,1454 @@
+{
+  "id": 8501959852220,
+  "title": "2143 - Golds Gym Immortal Joggers",
+  "handle": "2143",
+  "description": "<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MATERIAL: </strong>80% Cotton, 20% Polyester. <meta charset=\"utf-8\">Terry Fleece.\u00a0</p>\n<p data-mce-fragment=\"1\"><strong>FABRIC WEIGHT: </strong>460 GSM.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">FIT: </strong>True to Size.</p>\n<p data-mce-fragment=\"1\"><strong>DESIGN: </strong>Introducing the Gold\u2019s Gym x YoungLA cuffed joggers \u2013 inspired by YoungLA\u2019s best-selling Immortal Joggers. These joggers feature bold printed logos along one leg, blending classic gym heritage with modern streetwear style. Perfect for comfort and style, they bring the iconic look of Gold\u2019s Gym to a versatile everyday piece.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MODEL: </strong>The model in the first photo is wearing a size Medium. Weight: 175lb Height: 5'9.</p>\n<div style=\"text-align: center;\"><img src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/2143-Size-Chart_6b733a77-b0d8-4367-b208-bcba76e02ad3_600x600.png?v=1729878246\" style=\"margin-bottom: 16px; float: none;\"></div>\n<!---->",
+  "published_at": "2025-02-28T11:20:40-08:00",
+  "created_at": "2024-07-24T16:08:20-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 5800,
+  "price_min": 5800,
+  "price_max": 5800,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": 0,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44026123714748,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2143-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824872124,
+        "product_id": 8501959852220,
+        "position": 9,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:47:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623",
+        "variant_ids": [
+          44026123714748,
+          44026123747516,
+          44026123780284,
+          44026123813052,
+          44026123845820
+        ]
+      },
+      "available": false,
+      "name": "2143 - Golds Gym Immortal Joggers - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 5800,
+      "weight": 612,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655822012,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026123747516,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2143-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824872124,
+        "product_id": 8501959852220,
+        "position": 9,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:47:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623",
+        "variant_ids": [
+          44026123714748,
+          44026123747516,
+          44026123780284,
+          44026123813052,
+          44026123845820
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 5800,
+      "weight": 658,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655822012,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026123780284,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2143-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824872124,
+        "product_id": 8501959852220,
+        "position": 9,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:47:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623",
+        "variant_ids": [
+          44026123714748,
+          44026123747516,
+          44026123780284,
+          44026123813052,
+          44026123845820
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 5800,
+      "weight": 703,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655822012,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026123813052,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2143-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824872124,
+        "product_id": 8501959852220,
+        "position": 9,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:47:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623",
+        "variant_ids": [
+          44026123714748,
+          44026123747516,
+          44026123780284,
+          44026123813052,
+          44026123845820
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 5800,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655822012,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026123845820,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2143-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824872124,
+        "product_id": 8501959852220,
+        "position": 9,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:47:03-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623",
+        "variant_ids": [
+          44026123714748,
+          44026123747516,
+          44026123780284,
+          44026123813052,
+          44026123845820
+        ]
+      },
+      "available": false,
+      "name": "2143 - Golds Gym Immortal Joggers - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 5800,
+      "weight": 794,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655822012,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026123911356,
+      "title": "Heather Grey / Small",
+      "option1": "Heather Grey",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2143-HGRY-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979318460,
+        "product_id": 8501959852220,
+        "position": 5,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:16-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396",
+        "variant_ids": [
+          44026123911356,
+          44026123944124,
+          44026123976892,
+          44026124009660,
+          44026124042428
+        ]
+      },
+      "available": false,
+      "name": "2143 - Golds Gym Immortal Joggers - Heather Grey / Small",
+      "public_title": "Heather Grey / Small",
+      "options": [
+        "Heather Grey",
+        "Small"
+      ],
+      "price": 5800,
+      "weight": 612,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-HGRY-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984934588,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026123944124,
+      "title": "Heather Grey / Medium",
+      "option1": "Heather Grey",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2143-HGRY-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979318460,
+        "product_id": 8501959852220,
+        "position": 5,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:16-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396",
+        "variant_ids": [
+          44026123911356,
+          44026123944124,
+          44026123976892,
+          44026124009660,
+          44026124042428
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Heather Grey / Medium",
+      "public_title": "Heather Grey / Medium",
+      "options": [
+        "Heather Grey",
+        "Medium"
+      ],
+      "price": 5800,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-HGRY-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984934588,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026123976892,
+      "title": "Heather Grey / Large",
+      "option1": "Heather Grey",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2143-HGRY-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979318460,
+        "product_id": 8501959852220,
+        "position": 5,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:16-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396",
+        "variant_ids": [
+          44026123911356,
+          44026123944124,
+          44026123976892,
+          44026124009660,
+          44026124042428
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Heather Grey / Large",
+      "public_title": "Heather Grey / Large",
+      "options": [
+        "Heather Grey",
+        "Large"
+      ],
+      "price": 5800,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-HGRY-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984934588,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124009660,
+      "title": "Heather Grey / XLarge",
+      "option1": "Heather Grey",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2143-HGRY-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979318460,
+        "product_id": 8501959852220,
+        "position": 5,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:16-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396",
+        "variant_ids": [
+          44026123911356,
+          44026123944124,
+          44026123976892,
+          44026124009660,
+          44026124042428
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Heather Grey / XLarge",
+      "public_title": "Heather Grey / XLarge",
+      "options": [
+        "Heather Grey",
+        "XLarge"
+      ],
+      "price": 5800,
+      "weight": 748,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-HGRY-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984934588,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124042428,
+      "title": "Heather Grey / XXLarge",
+      "option1": "Heather Grey",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2143-HGRY-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979318460,
+        "product_id": 8501959852220,
+        "position": 5,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:16-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396",
+        "variant_ids": [
+          44026123911356,
+          44026123944124,
+          44026123976892,
+          44026124009660,
+          44026124042428
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Heather Grey / XXLarge",
+      "public_title": "Heather Grey / XXLarge",
+      "options": [
+        "Heather Grey",
+        "XXLarge"
+      ],
+      "price": 5800,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-HGRY-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984934588,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124107964,
+      "title": "Red Wash / Small",
+      "option1": "Red Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2143-REDW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979351228,
+        "product_id": 8501959852220,
+        "position": 1,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:19-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399",
+        "variant_ids": [
+          44026124107964,
+          44026124140732,
+          44026124173500,
+          44026124206268,
+          44026124239036
+        ]
+      },
+      "available": false,
+      "name": "2143 - Golds Gym Immortal Joggers - Red Wash / Small",
+      "public_title": "Red Wash / Small",
+      "options": [
+        "Red Wash",
+        "Small"
+      ],
+      "price": 5800,
+      "weight": 612,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-REDW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984901820,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124140732,
+      "title": "Red Wash / Medium",
+      "option1": "Red Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2143-REDW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979351228,
+        "product_id": 8501959852220,
+        "position": 1,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:19-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399",
+        "variant_ids": [
+          44026124107964,
+          44026124140732,
+          44026124173500,
+          44026124206268,
+          44026124239036
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Red Wash / Medium",
+      "public_title": "Red Wash / Medium",
+      "options": [
+        "Red Wash",
+        "Medium"
+      ],
+      "price": 5800,
+      "weight": 635,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-REDW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984901820,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124173500,
+      "title": "Red Wash / Large",
+      "option1": "Red Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2143-REDW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979351228,
+        "product_id": 8501959852220,
+        "position": 1,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:19-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399",
+        "variant_ids": [
+          44026124107964,
+          44026124140732,
+          44026124173500,
+          44026124206268,
+          44026124239036
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Red Wash / Large",
+      "public_title": "Red Wash / Large",
+      "options": [
+        "Red Wash",
+        "Large"
+      ],
+      "price": 5800,
+      "weight": 703,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-REDW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984901820,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124206268,
+      "title": "Red Wash / XLarge",
+      "option1": "Red Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2143-REDW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979351228,
+        "product_id": 8501959852220,
+        "position": 1,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:19-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399",
+        "variant_ids": [
+          44026124107964,
+          44026124140732,
+          44026124173500,
+          44026124206268,
+          44026124239036
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Red Wash / XLarge",
+      "public_title": "Red Wash / XLarge",
+      "options": [
+        "Red Wash",
+        "XLarge"
+      ],
+      "price": 5800,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-REDW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984901820,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124239036,
+      "title": "Red Wash / XXLarge",
+      "option1": "Red Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2143-REDW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40001979351228,
+        "product_id": 8501959852220,
+        "position": 1,
+        "created_at": "2024-11-11T16:39:10-08:00",
+        "updated_at": "2024-11-12T14:43:19-08:00",
+        "alt": null,
+        "width": 1365,
+        "height": 2048,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399",
+        "variant_ids": [
+          44026124107964,
+          44026124140732,
+          44026124173500,
+          44026124206268,
+          44026124239036
+        ]
+      },
+      "available": false,
+      "name": "2143 - Golds Gym Immortal Joggers - Red Wash / XXLarge",
+      "public_title": "Red Wash / XXLarge",
+      "options": [
+        "Red Wash",
+        "XXLarge"
+      ],
+      "price": 5800,
+      "weight": 771,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-REDW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32348984901820,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 2048,
+          "width": 1365,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124304572,
+      "title": "Yellow Wash / Small",
+      "option1": "Yellow Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "2143-YELOW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824773820,
+        "product_id": 8501959852220,
+        "position": 8,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:46:58-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618",
+        "variant_ids": [
+          44026124304572,
+          44026124337340,
+          44026124370108,
+          44026124402876,
+          44026124435644
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Yellow Wash / Small",
+      "public_title": "Yellow Wash / Small",
+      "options": [
+        "Yellow Wash",
+        "Small"
+      ],
+      "price": 5800,
+      "weight": 612,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-YELOW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655789244,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124337340,
+      "title": "Yellow Wash / Medium",
+      "option1": "Yellow Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "2143-YELOW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824773820,
+        "product_id": 8501959852220,
+        "position": 8,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:46:58-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618",
+        "variant_ids": [
+          44026124304572,
+          44026124337340,
+          44026124370108,
+          44026124402876,
+          44026124435644
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Yellow Wash / Medium",
+      "public_title": "Yellow Wash / Medium",
+      "options": [
+        "Yellow Wash",
+        "Medium"
+      ],
+      "price": 5800,
+      "weight": 658,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-YELOW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655789244,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124370108,
+      "title": "Yellow Wash / Large",
+      "option1": "Yellow Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "2143-YELOW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824773820,
+        "product_id": 8501959852220,
+        "position": 8,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:46:58-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618",
+        "variant_ids": [
+          44026124304572,
+          44026124337340,
+          44026124370108,
+          44026124402876,
+          44026124435644
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Yellow Wash / Large",
+      "public_title": "Yellow Wash / Large",
+      "options": [
+        "Yellow Wash",
+        "Large"
+      ],
+      "price": 5800,
+      "weight": 680,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-YELOW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655789244,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124402876,
+      "title": "Yellow Wash / XLarge",
+      "option1": "Yellow Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "2143-YELOW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824773820,
+        "product_id": 8501959852220,
+        "position": 8,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:46:58-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618",
+        "variant_ids": [
+          44026124304572,
+          44026124337340,
+          44026124370108,
+          44026124402876,
+          44026124435644
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Yellow Wash / XLarge",
+      "public_title": "Yellow Wash / XLarge",
+      "options": [
+        "Yellow Wash",
+        "XLarge"
+      ],
+      "price": 5800,
+      "weight": 726,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-YELOW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655789244,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44026124435644,
+      "title": "Yellow Wash / XXLarge",
+      "option1": "Yellow Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "2143-YELOW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39858824773820,
+        "product_id": 8501959852220,
+        "position": 8,
+        "created_at": "2024-10-28T10:49:54-07:00",
+        "updated_at": "2024-10-28T15:46:58-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618",
+        "variant_ids": [
+          44026124304572,
+          44026124337340,
+          44026124370108,
+          44026124402876,
+          44026124435644
+        ]
+      },
+      "available": true,
+      "name": "2143 - Golds Gym Immortal Joggers - Yellow Wash / XXLarge",
+      "public_title": "Yellow Wash / XXLarge",
+      "options": [
+        "Yellow Wash",
+        "XXLarge"
+      ],
+      "price": 5800,
+      "weight": 748,
+      "compare_at_price": 0,
+      "inventory_management": "shopify",
+      "barcode": "2143-YELOW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32242655789244,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_052.jpg?v=1731538494",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_033.jpg?v=1731538492",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1720.jpg?v=1731451400",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2143_heather-grey_001_11_26_floor.jpg?v=1730155620",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2143_red-wash_001_11_26_floor.jpg?v=1730155622",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/2143-Size-Chart.png?v=1729896528"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Heather Grey",
+        "Red Wash",
+        "Yellow Wash"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/2143",
+  "media": [
+    {
+      "alt": null,
+      "id": 32348984901820,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1709.jpg?v=1731451399",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32359122763964,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2256,
+        "width": 1504,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_052.jpg?v=1731538494"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2256,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_052.jpg?v=1731538494",
+      "width": 1504
+    },
+    {
+      "alt": null,
+      "id": 32447602524348,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/7813e1df5d054549897bb09e0a0e51e1.thumbnail.0000000000.jpg?v=1732307445"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 24250,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/7813e1df5d054549897bb09e0a0e51e1/7813e1df5d054549897bb09e0a0e51e1.SD-480p-0.9Mbps-38584093.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/7813e1df5d054549897bb09e0a0e51e1/7813e1df5d054549897bb09e0a0e51e1.HD-1080p-2.5Mbps-38584093.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/7813e1df5d054549897bb09e0a0e51e1/7813e1df5d054549897bb09e0a0e51e1.HD-720p-1.6Mbps-38584093.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/7813e1df5d054549897bb09e0a0e51e1/7813e1df5d054549897bb09e0a0e51e1.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32359125942460,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2167,
+        "width": 1445,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_033.jpg?v=1731538492"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2167,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.16.24BFxGOLDS_SOCIAL_033.jpg?v=1731538492",
+      "width": 1445
+    },
+    {
+      "alt": null,
+      "id": 32348984967356,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1720.jpg?v=1731451400"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1720.jpg?v=1731451400",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32348984934588,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2048,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2048,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_Golds_eComm1717.jpg?v=1731451396",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 32242655723708,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_heather-grey_001_11_26_floor.jpg?v=1730155620"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_heather-grey_001_11_26_floor.jpg?v=1730155620",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32242655756476,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_red-wash_001_11_26_floor.jpg?v=1730155622"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_red-wash_001_11_26_floor.jpg?v=1730155622",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32242655789244,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_yellow-wash_001_11_26_floor.jpg?v=1730155618",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32242655822012,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143_black-wash_001_11_26_floor.jpg?v=1730155623",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32223556010172,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143-Size-Chart.png?v=1729896528"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/2143-Size-Chart.png?v=1729896528",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

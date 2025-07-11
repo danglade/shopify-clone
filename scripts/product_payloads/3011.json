@@ -1,0 +1,1515 @@
+{
+  "id": 8490235297980,
+  "title": "3011 - The Perfect Stringer",
+  "handle": "3011",
+  "description": "<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MATERIAL: </strong>46% Cotton, 46% Lyocell, 8% Elastane. 165 GSM.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">FIT: </strong>True to Size.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">DESIGN:</strong> The Perfect Stringer is designed for ultimate fit and style, providing ideal chest coverage while perfectly contouring to your body. Its open back and slim straps showcase your back and delt muscles, making it perfect for workouts. Crafted from a premium blend of 46% Cotton, 46% Lyocell, and 8% Elastane, this stringer offers superior comfort, stretch, and durability.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MODEL: </strong>The model in the first photo is wearing a size Large. Weight: 185lb Height: 5'9.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/3011-Size-Chart_84dff33c-d2c0-4b69-86f2-570ccc54a100_600x600.png?v=1726248091\"></div>\n<!---->",
+  "published_at": "2024-09-17T16:21:01-07:00",
+  "created_at": "2024-07-17T16:16:51-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "app-early",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 3500,
+  "price_min": 3500,
+  "price_max": 3500,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44008264007868,
+      "title": "Black / Small",
+      "option1": "Black",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3011-BLAK-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772074172,
+        "product_id": 8490235297980,
+        "position": 8,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195",
+        "variant_ids": [
+          44008264007868,
+          44008264040636,
+          44008264073404,
+          44008264106172,
+          44008264138940
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Black / Small",
+      "public_title": "Black / Small",
+      "options": [
+        "Black",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 113,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-BLAK-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194485436,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264040636,
+      "title": "Black / Medium",
+      "option1": "Black",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3011-BLAK-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772074172,
+        "product_id": 8490235297980,
+        "position": 8,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195",
+        "variant_ids": [
+          44008264007868,
+          44008264040636,
+          44008264073404,
+          44008264106172,
+          44008264138940
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Black / Medium",
+      "public_title": "Black / Medium",
+      "options": [
+        "Black",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 113,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-BLAK-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194485436,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264073404,
+      "title": "Black / Large",
+      "option1": "Black",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3011-BLAK-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772074172,
+        "product_id": 8490235297980,
+        "position": 8,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195",
+        "variant_ids": [
+          44008264007868,
+          44008264040636,
+          44008264073404,
+          44008264106172,
+          44008264138940
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Black / Large",
+      "public_title": "Black / Large",
+      "options": [
+        "Black",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-BLAK-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194485436,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264106172,
+      "title": "Black / XLarge",
+      "option1": "Black",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3011-BLAK-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772074172,
+        "product_id": 8490235297980,
+        "position": 8,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195",
+        "variant_ids": [
+          44008264007868,
+          44008264040636,
+          44008264073404,
+          44008264106172,
+          44008264138940
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Black / XLarge",
+      "public_title": "Black / XLarge",
+      "options": [
+        "Black",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-BLAK-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194485436,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264138940,
+      "title": "Black / XXLarge",
+      "option1": "Black",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3011-BLAK-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772074172,
+        "product_id": 8490235297980,
+        "position": 8,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:15-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195",
+        "variant_ids": [
+          44008264007868,
+          44008264040636,
+          44008264073404,
+          44008264106172,
+          44008264138940
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Black / XXLarge",
+      "public_title": "Black / XXLarge",
+      "options": [
+        "Black",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-BLAK-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194485436,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264204476,
+      "title": "Charcoal / Small",
+      "option1": "Charcoal",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3011-CHAR-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772041404,
+        "product_id": 8490235297980,
+        "position": 9,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187",
+        "variant_ids": [
+          44008264204476,
+          44008264237244,
+          44008264270012,
+          44008264302780,
+          44008264335548
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Charcoal / Small",
+      "public_title": "Charcoal / Small",
+      "options": [
+        "Charcoal",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 113,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-CHAR-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194518204,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264237244,
+      "title": "Charcoal / Medium",
+      "option1": "Charcoal",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3011-CHAR-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772041404,
+        "product_id": 8490235297980,
+        "position": 9,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187",
+        "variant_ids": [
+          44008264204476,
+          44008264237244,
+          44008264270012,
+          44008264302780,
+          44008264335548
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Charcoal / Medium",
+      "public_title": "Charcoal / Medium",
+      "options": [
+        "Charcoal",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 113,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-CHAR-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194518204,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264270012,
+      "title": "Charcoal / Large",
+      "option1": "Charcoal",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3011-CHAR-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772041404,
+        "product_id": 8490235297980,
+        "position": 9,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187",
+        "variant_ids": [
+          44008264204476,
+          44008264237244,
+          44008264270012,
+          44008264302780,
+          44008264335548
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Charcoal / Large",
+      "public_title": "Charcoal / Large",
+      "options": [
+        "Charcoal",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-CHAR-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194518204,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264302780,
+      "title": "Charcoal / XLarge",
+      "option1": "Charcoal",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3011-CHAR-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772041404,
+        "product_id": 8490235297980,
+        "position": 9,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187",
+        "variant_ids": [
+          44008264204476,
+          44008264237244,
+          44008264270012,
+          44008264302780,
+          44008264335548
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Charcoal / XLarge",
+      "public_title": "Charcoal / XLarge",
+      "options": [
+        "Charcoal",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-CHAR-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194518204,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264335548,
+      "title": "Charcoal / XXLarge",
+      "option1": "Charcoal",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3011-CHAR-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772041404,
+        "product_id": 8490235297980,
+        "position": 9,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:07-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187",
+        "variant_ids": [
+          44008264204476,
+          44008264237244,
+          44008264270012,
+          44008264302780,
+          44008264335548
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Charcoal / XXLarge",
+      "public_title": "Charcoal / XXLarge",
+      "options": [
+        "Charcoal",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 159,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-CHAR-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194518204,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264401084,
+      "title": "Purple / Small",
+      "option1": "Purple",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3011-PURP-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471771975868,
+        "product_id": 8490235297980,
+        "position": 10,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:16-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196",
+        "variant_ids": [
+          44008264401084,
+          44008264433852,
+          44008264466620,
+          44008264499388,
+          44008264532156
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Purple / Small",
+      "public_title": "Purple / Small",
+      "options": [
+        "Purple",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 113,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-PURP-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194550972,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264433852,
+      "title": "Purple / Medium",
+      "option1": "Purple",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3011-PURP-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471771975868,
+        "product_id": 8490235297980,
+        "position": 10,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:16-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196",
+        "variant_ids": [
+          44008264401084,
+          44008264433852,
+          44008264466620,
+          44008264499388,
+          44008264532156
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Purple / Medium",
+      "public_title": "Purple / Medium",
+      "options": [
+        "Purple",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-PURP-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194550972,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264466620,
+      "title": "Purple / Large",
+      "option1": "Purple",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3011-PURP-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471771975868,
+        "product_id": 8490235297980,
+        "position": 10,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:16-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196",
+        "variant_ids": [
+          44008264401084,
+          44008264433852,
+          44008264466620,
+          44008264499388,
+          44008264532156
+        ]
+      },
+      "available": false,
+      "name": "3011 - The Perfect Stringer - Purple / Large",
+      "public_title": "Purple / Large",
+      "options": [
+        "Purple",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-PURP-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194550972,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264499388,
+      "title": "Purple / XLarge",
+      "option1": "Purple",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3011-PURP-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471771975868,
+        "product_id": 8490235297980,
+        "position": 10,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:16-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196",
+        "variant_ids": [
+          44008264401084,
+          44008264433852,
+          44008264466620,
+          44008264499388,
+          44008264532156
+        ]
+      },
+      "available": false,
+      "name": "3011 - The Perfect Stringer - Purple / XLarge",
+      "public_title": "Purple / XLarge",
+      "options": [
+        "Purple",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-PURP-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194550972,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264532156,
+      "title": "Purple / XXLarge",
+      "option1": "Purple",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3011-PURP-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471771975868,
+        "product_id": 8490235297980,
+        "position": 10,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:16-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196",
+        "variant_ids": [
+          44008264401084,
+          44008264433852,
+          44008264466620,
+          44008264499388,
+          44008264532156
+        ]
+      },
+      "available": false,
+      "name": "3011 - The Perfect Stringer - Purple / XXLarge",
+      "public_title": "Purple / XXLarge",
+      "options": [
+        "Purple",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-PURP-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194550972,
+        "position": 11,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264597692,
+      "title": "Red / Small",
+      "option1": "Red",
+      "option2": "Small",
+      "option3": null,
+      "sku": "3011-RED-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772008636,
+        "product_id": 8490235297980,
+        "position": 7,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203",
+        "variant_ids": [
+          44008264597692,
+          44008264630460,
+          44008264663228,
+          44008264695996,
+          44008264728764
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Red / Small",
+      "public_title": "Red / Small",
+      "options": [
+        "Red",
+        "Small"
+      ],
+      "price": 3500,
+      "weight": 113,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-RED-S",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194583740,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264630460,
+      "title": "Red / Medium",
+      "option1": "Red",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "3011-RED-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772008636,
+        "product_id": 8490235297980,
+        "position": 7,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203",
+        "variant_ids": [
+          44008264597692,
+          44008264630460,
+          44008264663228,
+          44008264695996,
+          44008264728764
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Red / Medium",
+      "public_title": "Red / Medium",
+      "options": [
+        "Red",
+        "Medium"
+      ],
+      "price": 3500,
+      "weight": 113,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-RED-M",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194583740,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264663228,
+      "title": "Red / Large",
+      "option1": "Red",
+      "option2": "Large",
+      "option3": null,
+      "sku": "3011-RED-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772008636,
+        "product_id": 8490235297980,
+        "position": 7,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203",
+        "variant_ids": [
+          44008264597692,
+          44008264630460,
+          44008264663228,
+          44008264695996,
+          44008264728764
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Red / Large",
+      "public_title": "Red / Large",
+      "options": [
+        "Red",
+        "Large"
+      ],
+      "price": 3500,
+      "weight": 113,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-RED-L",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194583740,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264695996,
+      "title": "Red / XLarge",
+      "option1": "Red",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "3011-RED-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772008636,
+        "product_id": 8490235297980,
+        "position": 7,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203",
+        "variant_ids": [
+          44008264597692,
+          44008264630460,
+          44008264663228,
+          44008264695996,
+          44008264728764
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Red / XLarge",
+      "public_title": "Red / XLarge",
+      "options": [
+        "Red",
+        "XLarge"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-RED-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194583740,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44008264728764,
+      "title": "Red / XXLarge",
+      "option1": "Red",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "3011-RED-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 39471772008636,
+        "product_id": 8490235297980,
+        "position": 7,
+        "created_at": "2024-09-17T10:54:17-07:00",
+        "updated_at": "2024-09-17T16:03:23-07:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203",
+        "variant_ids": [
+          44008264597692,
+          44008264630460,
+          44008264663228,
+          44008264695996,
+          44008264728764
+        ]
+      },
+      "available": true,
+      "name": "3011 - The Perfect Stringer - Red / XXLarge",
+      "public_title": "Red / XXLarge",
+      "options": [
+        "Red",
+        "XXLarge"
+      ],
+      "price": 3500,
+      "weight": 136,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "3011-RED-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 31946194583740,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A8478.jpg?v=1727218374",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Gym9275778.jpg?v=1727736775",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Gym9276088.jpg?v=1727736772",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/323A8492.jpg?v=1727218373",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3011_black_003_10_01_johnny_ecomm_97e27931-216e-425d-b0fa-6de545e98581.jpg?v=1727304900",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_011_10_01_johnny_ecomm_bf1bd5a4-e0cb-48e2-ad80-0c2d4dab318a.jpg?v=1727304903",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/3011-Size-Chart.png?v=1726270103"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/323A8478.jpg?v=1727218374",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black",
+        "Charcoal",
+        "Purple",
+        "Red"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/3011",
+  "media": [
+    {
+      "alt": null,
+      "id": 31986945884348,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 1610,
+        "width": 1073,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A8478.jpg?v=1727218374"
+      },
+      "aspect_ratio": 0.666,
+      "height": 1610,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A8478.jpg?v=1727218374",
+      "width": 1073
+    },
+    {
+      "alt": null,
+      "id": 32030607966396,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1798,
+        "width": 1199,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Gym9275778.jpg?v=1727736775"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1798,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Gym9275778.jpg?v=1727736775",
+      "width": 1199
+    },
+    {
+      "alt": null,
+      "id": 32447959531708,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/edb3c5fac49243f49fb3c14d91ecc2eb.thumbnail.0000000000.jpg?v=1732309062"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 27090,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/edb3c5fac49243f49fb3c14d91ecc2eb/edb3c5fac49243f49fb3c14d91ecc2eb.SD-480p-0.9Mbps-38589822.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/edb3c5fac49243f49fb3c14d91ecc2eb/edb3c5fac49243f49fb3c14d91ecc2eb.HD-1080p-2.5Mbps-38589822.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/edb3c5fac49243f49fb3c14d91ecc2eb/edb3c5fac49243f49fb3c14d91ecc2eb.HD-720p-1.6Mbps-38589822.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/edb3c5fac49243f49fb3c14d91ecc2eb/edb3c5fac49243f49fb3c14d91ecc2eb.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32030607999164,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2047,
+        "width": 1365,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Gym9276088.jpg?v=1727736772"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2047,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Gym9276088.jpg?v=1727736772",
+      "width": 1365
+    },
+    {
+      "alt": null,
+      "id": 31986945917116,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1632,
+        "width": 1088,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A8492.jpg?v=1727218373"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1632,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/323A8492.jpg?v=1727218373",
+      "width": 1088
+    },
+    {
+      "alt": null,
+      "id": 31992781439164,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_003_10_01_johnny_ecomm_97e27931-216e-425d-b0fa-6de545e98581.jpg?v=1727304900"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_003_10_01_johnny_ecomm_97e27931-216e-425d-b0fa-6de545e98581.jpg?v=1727304900",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31992781537468,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_011_10_01_johnny_ecomm_bf1bd5a4-e0cb-48e2-ad80-0c2d4dab318a.jpg?v=1727304903"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_011_10_01_johnny_ecomm_bf1bd5a4-e0cb-48e2-ad80-0c2d4dab318a.jpg?v=1727304903",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31946194583740,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_red_001_10_01_floor.jpg?v=1726614203",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31946194485436,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_black_001_10_01_floor.jpg?v=1726614195",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31946194518204,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_charcoal_001_10_01_floor.jpg?v=1726614187",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 31946194550972,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011_purple_001_10_01_floor.jpg?v=1726614196",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32040939258044,
+      "position": 12,
+      "preview_image": {
+        "aspect_ratio": 0.563,
+        "height": 3840,
+        "width": 2160,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/767384c4fc8843ab91294f1b231c4d81.thumbnail.0000000000.jpg?v=1727806109"
+      },
+      "aspect_ratio": 0.563,
+      "duration": 37000,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/767384c4fc8843ab91294f1b231c4d81/767384c4fc8843ab91294f1b231c4d81.SD-480p-1.5Mbps-35672249.mp4",
+          "width": 270
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/767384c4fc8843ab91294f1b231c4d81/767384c4fc8843ab91294f1b231c4d81.HD-1080p-7.2Mbps-35672249.mp4",
+          "width": 606
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/767384c4fc8843ab91294f1b231c4d81/767384c4fc8843ab91294f1b231c4d81.HD-720p-4.5Mbps-35672249.mp4",
+          "width": 404
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/767384c4fc8843ab91294f1b231c4d81/767384c4fc8843ab91294f1b231c4d81.m3u8",
+          "width": 606
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 31927836475580,
+      "position": 13,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011-Size-Chart.png?v=1726270103"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/3011-Size-Chart.png?v=1726270103",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

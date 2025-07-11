@@ -1,0 +1,1454 @@
+{
+  "id": 8483268264124,
+  "title": "8003 - Inked Long Sleeves",
+  "handle": "8003",
+  "description": "<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MATERIAL: </strong>100% Cotton.</p>\n<p data-mce-fragment=\"1\"><strong>FABRIC WEIGHT: </strong>290 GSM.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">FIT: </strong>Relaxed.</p>\n<p data-mce-fragment=\"1\"><strong>DESIGN: </strong>The Inked Long Sleeve is a fusion of art and style, with tattoo-inspired graphics that tell a story. Made from comfortable cotton with raw-cut edges, this tee is as bold as it is unique, covered in sketch-like details on both body and sleeves.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">MODEL: </strong>The model in the first photo is wearing a size XL. Weight: 195lb Height: 5'10.</p>\n<div style=\"text-align: center;\"><img style=\"margin-bottom: 16px; float: none;\" src=\"https://cdn.shopify.com/s/files/1/1775/6429/files/8003-Size-Chart_dad836fa-6012-4378-ab85-8741e174d93b_600x600.png?v=1729883358\"></div>\n<!---->",
+  "published_at": "2024-10-28T15:54:18-07:00",
+  "created_at": "2024-07-12T16:43:15-07:00",
+  "vendor": "YoungLA",
+  "type": "For Him",
+  "tags": [
+    "@ CHA",
+    "@ LOU",
+    "bis-paused",
+    "OFG:CHA",
+    "OFG:LOU",
+    "Tony"
+  ],
+  "price": 3800,
+  "price_min": 3800,
+  "price_max": 3800,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 44012501631164,
+      "title": "Black Wash / Small",
+      "option1": "Black Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8003-BLKW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473918652,
+        "product_id": 8483268264124,
+        "position": 8,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:40-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540",
+        "variant_ids": [
+          44012501631164,
+          44012501663932,
+          44012501696700,
+          44012501729468,
+          44012501762236
+        ]
+      },
+      "available": false,
+      "name": "8003 - Inked Long Sleeves - Black Wash / Small",
+      "public_title": "Black Wash / Small",
+      "options": [
+        "Black Wash",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 386,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-BLKW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326835900,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501663932,
+      "title": "Black Wash / Medium",
+      "option1": "Black Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8003-BLKW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473918652,
+        "product_id": 8483268264124,
+        "position": 8,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:40-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540",
+        "variant_ids": [
+          44012501631164,
+          44012501663932,
+          44012501696700,
+          44012501729468,
+          44012501762236
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Black Wash / Medium",
+      "public_title": "Black Wash / Medium",
+      "options": [
+        "Black Wash",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 408,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-BLKW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326835900,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501696700,
+      "title": "Black Wash / Large",
+      "option1": "Black Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8003-BLKW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473918652,
+        "product_id": 8483268264124,
+        "position": 8,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:40-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540",
+        "variant_ids": [
+          44012501631164,
+          44012501663932,
+          44012501696700,
+          44012501729468,
+          44012501762236
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Black Wash / Large",
+      "public_title": "Black Wash / Large",
+      "options": [
+        "Black Wash",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 431,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-BLKW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326835900,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501729468,
+      "title": "Black Wash / XLarge",
+      "option1": "Black Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8003-BLKW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473918652,
+        "product_id": 8483268264124,
+        "position": 8,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:40-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540",
+        "variant_ids": [
+          44012501631164,
+          44012501663932,
+          44012501696700,
+          44012501729468,
+          44012501762236
+        ]
+      },
+      "available": false,
+      "name": "8003 - Inked Long Sleeves - Black Wash / XLarge",
+      "public_title": "Black Wash / XLarge",
+      "options": [
+        "Black Wash",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 476,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-BLKW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326835900,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501762236,
+      "title": "Black Wash / XXLarge",
+      "option1": "Black Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8003-BLKW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473918652,
+        "product_id": 8483268264124,
+        "position": 8,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:40-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540",
+        "variant_ids": [
+          44012501631164,
+          44012501663932,
+          44012501696700,
+          44012501729468,
+          44012501762236
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Black Wash / XXLarge",
+      "public_title": "Black Wash / XXLarge",
+      "options": [
+        "Black Wash",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 476,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-BLKW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326835900,
+        "position": 9,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501827772,
+      "title": "Grey Wash / Small",
+      "option1": "Grey Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8003-GRYW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473820348,
+        "product_id": 8483268264124,
+        "position": 7,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:46:15-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575",
+        "variant_ids": [
+          44012501827772,
+          44012501860540,
+          44012501893308,
+          44012501926076,
+          44012501958844
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Grey Wash / Small",
+      "public_title": "Grey Wash / Small",
+      "options": [
+        "Grey Wash",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 408,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-GRYW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326901436,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501860540,
+      "title": "Grey Wash / Medium",
+      "option1": "Grey Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8003-GRYW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473820348,
+        "product_id": 8483268264124,
+        "position": 7,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:46:15-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575",
+        "variant_ids": [
+          44012501827772,
+          44012501860540,
+          44012501893308,
+          44012501926076,
+          44012501958844
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Grey Wash / Medium",
+      "public_title": "Grey Wash / Medium",
+      "options": [
+        "Grey Wash",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 431,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-GRYW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326901436,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501893308,
+      "title": "Grey Wash / Large",
+      "option1": "Grey Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8003-GRYW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473820348,
+        "product_id": 8483268264124,
+        "position": 7,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:46:15-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575",
+        "variant_ids": [
+          44012501827772,
+          44012501860540,
+          44012501893308,
+          44012501926076,
+          44012501958844
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Grey Wash / Large",
+      "public_title": "Grey Wash / Large",
+      "options": [
+        "Grey Wash",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 454,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-GRYW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326901436,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501926076,
+      "title": "Grey Wash / XLarge",
+      "option1": "Grey Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8003-GRYW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473820348,
+        "product_id": 8483268264124,
+        "position": 7,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:46:15-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575",
+        "variant_ids": [
+          44012501827772,
+          44012501860540,
+          44012501893308,
+          44012501926076,
+          44012501958844
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Grey Wash / XLarge",
+      "public_title": "Grey Wash / XLarge",
+      "options": [
+        "Grey Wash",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 476,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-GRYW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326901436,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012501958844,
+      "title": "Grey Wash / XXLarge",
+      "option1": "Grey Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8003-GRYW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473820348,
+        "product_id": 8483268264124,
+        "position": 7,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:46:15-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575",
+        "variant_ids": [
+          44012501827772,
+          44012501860540,
+          44012501893308,
+          44012501926076,
+          44012501958844
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Grey Wash / XXLarge",
+      "public_title": "Grey Wash / XXLarge",
+      "options": [
+        "Grey Wash",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 499,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-GRYW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326901436,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012509855932,
+      "title": "Red Wash / Small",
+      "option1": "Red Wash",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8003-REDW-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473951420,
+        "product_id": 8483268264124,
+        "position": 6,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:36-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536",
+        "variant_ids": [
+          44012509855932,
+          44012509888700,
+          44012509921468,
+          44012509954236,
+          44012509987004
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Red Wash / Small",
+      "public_title": "Red Wash / Small",
+      "options": [
+        "Red Wash",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 386,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-REDW-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326934204,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012509888700,
+      "title": "Red Wash / Medium",
+      "option1": "Red Wash",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8003-REDW-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473951420,
+        "product_id": 8483268264124,
+        "position": 6,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:36-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536",
+        "variant_ids": [
+          44012509855932,
+          44012509888700,
+          44012509921468,
+          44012509954236,
+          44012509987004
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Red Wash / Medium",
+      "public_title": "Red Wash / Medium",
+      "options": [
+        "Red Wash",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 408,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-REDW-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326934204,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012509921468,
+      "title": "Red Wash / Large",
+      "option1": "Red Wash",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8003-REDW-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473951420,
+        "product_id": 8483268264124,
+        "position": 6,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:36-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536",
+        "variant_ids": [
+          44012509855932,
+          44012509888700,
+          44012509921468,
+          44012509954236,
+          44012509987004
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Red Wash / Large",
+      "public_title": "Red Wash / Large",
+      "options": [
+        "Red Wash",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 454,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-REDW-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326934204,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012509954236,
+      "title": "Red Wash / XLarge",
+      "option1": "Red Wash",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8003-REDW-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473951420,
+        "product_id": 8483268264124,
+        "position": 6,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:36-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536",
+        "variant_ids": [
+          44012509855932,
+          44012509888700,
+          44012509921468,
+          44012509954236,
+          44012509987004
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Red Wash / XLarge",
+      "public_title": "Red Wash / XLarge",
+      "options": [
+        "Red Wash",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 476,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-REDW-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326934204,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 44012509987004,
+      "title": "Red Wash / XXLarge",
+      "option1": "Red Wash",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8003-REDW-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473951420,
+        "product_id": 8483268264124,
+        "position": 6,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:36-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536",
+        "variant_ids": [
+          44012509855932,
+          44012509888700,
+          44012509921468,
+          44012509954236,
+          44012509987004
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - Red Wash / XXLarge",
+      "public_title": "Red Wash / XXLarge",
+      "options": [
+        "Red Wash",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 499,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-REDW-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326934204,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43997665525948,
+      "title": "White / Small",
+      "option1": "White",
+      "option2": "Small",
+      "option3": null,
+      "sku": "8003-WHTE-S",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473853116,
+        "product_id": 8483268264124,
+        "position": 9,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535",
+        "variant_ids": [
+          43997665525948,
+          43997665558716,
+          43997665591484,
+          43997665624252,
+          43997665657020
+        ]
+      },
+      "available": false,
+      "name": "8003 - Inked Long Sleeves - White / Small",
+      "public_title": "White / Small",
+      "options": [
+        "White",
+        "Small"
+      ],
+      "price": 3800,
+      "weight": 386,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-WHTE-S",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326999740,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43997665558716,
+      "title": "White / Medium",
+      "option1": "White",
+      "option2": "Medium",
+      "option3": null,
+      "sku": "8003-WHTE-M",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473853116,
+        "product_id": 8483268264124,
+        "position": 9,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535",
+        "variant_ids": [
+          43997665525948,
+          43997665558716,
+          43997665591484,
+          43997665624252,
+          43997665657020
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - White / Medium",
+      "public_title": "White / Medium",
+      "options": [
+        "White",
+        "Medium"
+      ],
+      "price": 3800,
+      "weight": 408,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-WHTE-M",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326999740,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43997665591484,
+      "title": "White / Large",
+      "option1": "White",
+      "option2": "Large",
+      "option3": null,
+      "sku": "8003-WHTE-L",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473853116,
+        "product_id": 8483268264124,
+        "position": 9,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535",
+        "variant_ids": [
+          43997665525948,
+          43997665558716,
+          43997665591484,
+          43997665624252,
+          43997665657020
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - White / Large",
+      "public_title": "White / Large",
+      "options": [
+        "White",
+        "Large"
+      ],
+      "price": 3800,
+      "weight": 454,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-WHTE-L",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326999740,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43997665624252,
+      "title": "White / XLarge",
+      "option1": "White",
+      "option2": "XLarge",
+      "option3": null,
+      "sku": "8003-WHTE-XL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473853116,
+        "product_id": 8483268264124,
+        "position": 9,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535",
+        "variant_ids": [
+          43997665525948,
+          43997665558716,
+          43997665591484,
+          43997665624252,
+          43997665657020
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - White / XLarge",
+      "public_title": "White / XLarge",
+      "options": [
+        "White",
+        "XLarge"
+      ],
+      "price": 3800,
+      "weight": 476,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-WHTE-XL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326999740,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 43997665657020,
+      "title": "White / XXLarge",
+      "option1": "White",
+      "option2": "XXLarge",
+      "option3": null,
+      "sku": "8003-WHTE-XXL",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 40002473853116,
+        "product_id": 8483268264124,
+        "position": 9,
+        "created_at": "2024-11-11T19:04:29-08:00",
+        "updated_at": "2024-11-12T14:45:35-08:00",
+        "alt": null,
+        "width": 2400,
+        "height": 3600,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535",
+        "variant_ids": [
+          43997665525948,
+          43997665558716,
+          43997665591484,
+          43997665624252,
+          43997665657020
+        ]
+      },
+      "available": true,
+      "name": "8003 - Inked Long Sleeves - White / XXLarge",
+      "public_title": "White / XXLarge",
+      "options": [
+        "White",
+        "XXLarge"
+      ],
+      "price": 3800,
+      "weight": 499,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": "8003-WHTE-XXL",
+      "featured_media": {
+        "alt": null,
+        "id": 32349326999740,
+        "position": 10,
+        "preview_image": {
+          "aspect_ratio": 0.667,
+          "height": 3600,
+          "width": 2400,
+          "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535"
+        }
+      },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_003_11_26_johnny_ecomm_f19bb22b-b0f9-4314-a20c-5ea404260426.jpg?v=1731451537",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA1330.12.jpg?v=1731540057",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/YLA10.1212.jpg?v=1731451518",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/Warehouse7792.jpg?v=1731540055",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_eComm_Brayan9232_3cea5ee5-d0d7-4742-b6d8-ffdab8a5682e.jpg?v=1731540052",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535",
+    "//cdn.shopify.com/s/files/1/1775/6429/files/8003-Size-Chart.png?v=1729896884"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_003_11_26_johnny_ecomm_f19bb22b-b0f9-4314-a20c-5ea404260426.jpg?v=1731451537",
+  "options": [
+    {
+      "name": "Color",
+      "position": 1,
+      "values": [
+        "Black Wash",
+        "Grey Wash",
+        "Red Wash",
+        "White"
+      ]
+    },
+    {
+      "name": "Size",
+      "position": 2,
+      "values": [
+        "Small",
+        "Medium",
+        "Large",
+        "XLarge",
+        "XXLarge"
+      ]
+    }
+  ],
+  "url": "/products/8003",
+  "media": [
+    {
+      "alt": null,
+      "id": 32349326868668,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_003_11_26_johnny_ecomm_f19bb22b-b0f9-4314-a20c-5ea404260426.jpg?v=1731451537"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_003_11_26_johnny_ecomm_f19bb22b-b0f9-4314-a20c-5ea404260426.jpg?v=1731451537",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32357963038908,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2368,
+        "width": 1579,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1330.12.jpg?v=1731540057"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2368,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA1330.12.jpg?v=1731540057",
+      "width": 1579
+    },
+    {
+      "alt": null,
+      "id": 32447283429564,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1080,
+        "width": 720,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/preview_images/3ca38fcf598f47b58a71e7e047a8dc5b.thumbnail.0000000000.jpg?v=1732305934"
+      },
+      "aspect_ratio": 0.667,
+      "duration": 24830,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/3ca38fcf598f47b58a71e7e047a8dc5b/3ca38fcf598f47b58a71e7e047a8dc5b.SD-480p-0.9Mbps-38582852.mp4",
+          "width": 320
+        },
+        {
+          "format": "mp4",
+          "height": 1080,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/3ca38fcf598f47b58a71e7e047a8dc5b/3ca38fcf598f47b58a71e7e047a8dc5b.HD-1080p-2.5Mbps-38582852.mp4",
+          "width": 720
+        },
+        {
+          "format": "mp4",
+          "height": 720,
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/3ca38fcf598f47b58a71e7e047a8dc5b/3ca38fcf598f47b58a71e7e047a8dc5b.HD-720p-1.6Mbps-38582852.mp4",
+          "width": 480
+        },
+        {
+          "format": "m3u8",
+          "height": 1080,
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/3ca38fcf598f47b58a71e7e047a8dc5b/3ca38fcf598f47b58a71e7e047a8dc5b.m3u8",
+          "width": 720
+        }
+      ]
+    },
+    {
+      "alt": null,
+      "id": 32348923953340,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 2104,
+        "width": 1403,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.1212.jpg?v=1731451518"
+      },
+      "aspect_ratio": 0.667,
+      "height": 2104,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/YLA10.1212.jpg?v=1731451518",
+      "width": 1403
+    },
+    {
+      "alt": null,
+      "id": 32358376800444,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 1850,
+        "width": 1233,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Warehouse7792.jpg?v=1731540055"
+      },
+      "aspect_ratio": 0.666,
+      "height": 1850,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/Warehouse7792.jpg?v=1731540055",
+      "width": 1233
+    },
+    {
+      "alt": null,
+      "id": 32357970772156,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 0.666,
+        "height": 1204,
+        "width": 802,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_eComm_Brayan9232_3cea5ee5-d0d7-4742-b6d8-ffdab8a5682e.jpg?v=1731540052"
+      },
+      "aspect_ratio": 0.666,
+      "height": 1204,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/11_26_24_eComm_Brayan9232_3cea5ee5-d0d7-4742-b6d8-ffdab8a5682e.jpg?v=1731540052",
+      "width": 802
+    },
+    {
+      "alt": null,
+      "id": 32349326934204,
+      "position": 7,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_red-wash_0010_11_26_johnny_ecomm_1ff31cf8-b627-4a29-806c-4e53887f4561.jpg?v=1731451536",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349326901436,
+      "position": 8,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_grey-wash_005_11_26_johnny_ecomm_ce3d9753-ff35-48ab-a0b8-2762837a324f.jpg?v=1731451575",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349326835900,
+      "position": 9,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_black-wash_002_11_26_johnny_ecomm_3ba0d3ee-103d-4bf7-9a3e-52ff9906c9a8.jpg?v=1731451540",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32349326999740,
+      "position": 10,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 3600,
+        "width": 2400,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535"
+      },
+      "aspect_ratio": 0.667,
+      "height": 3600,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003_white_009_11_26_johnny_ecomm_88feba81-9a25-4c6a-90c2-0c8b5b8e455d.jpg?v=1731451535",
+      "width": 2400
+    },
+    {
+      "alt": null,
+      "id": 32224561332412,
+      "position": 11,
+      "preview_image": {
+        "aspect_ratio": 0.667,
+        "height": 1800,
+        "width": 1200,
+        "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003-Size-Chart.png?v=1729896884"
+      },
+      "aspect_ratio": 0.667,
+      "height": 1800,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/1775/6429/files/8003-Size-Chart.png?v=1729896884",
+      "width": 1200
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}
