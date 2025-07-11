@@ -10,11 +10,7 @@ import {
 import { CartItem } from "@/store/cart";
 import { eq, sql, count, sum, desc, gte, lte, and } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
-
-type DateRange = {
-  from: Date | undefined;
-  to?: Date | undefined;
-};
+import { DateRange } from "react-day-picker";
 
 export async function getDashboardStats(dateRange?: DateRange) {
   const rangeCondition =
@@ -74,6 +70,69 @@ export async function getDashboardStats(dateRange?: DateRange) {
     averageOrderValue,
     topSellingProduct,
   };
+}
+
+export async function getChartData(dateRange?: DateRange) {
+  const { from, to } = dateRange || {};
+
+  const salesData = await db
+    .select({
+      date: sql<string>`DATE_TRUNC('day', ${ordersTable.createdAt})`,
+      sales: sql<number>`sum(${ordersTable.total})`.mapWith(Number),
+    })
+    .from(ordersTable)
+    .where(
+      and(
+        from ? gte(ordersTable.createdAt, from) : undefined,
+        to ? lte(ordersTable.createdAt, to) : undefined
+      )
+    )
+    .groupBy(sql`DATE_TRUNC('day', ${ordersTable.createdAt})`)
+    .orderBy(sql`DATE_TRUNC('day', ${ordersTable.createdAt})`);
+
+  const ordersData = await db
+    .select({
+      date: sql<string>`DATE_TRUNC('day', ${ordersTable.createdAt})`,
+      orders: sql<number>`count(${ordersTable.id})`.mapWith(Number),
+    })
+    .from(ordersTable)
+    .where(
+      and(
+        from ? gte(ordersTable.createdAt, from) : undefined,
+        to ? lte(ordersTable.createdAt, to) : undefined
+      )
+    )
+    .groupBy(sql`DATE_TRUNC('day', ${ordersTable.createdAt})`)
+    .orderBy(sql`DATE_TRUNC('day', ${ordersTable.createdAt})`);
+
+  return { salesData, ordersData };
+}
+
+export async function getTopSellingProducts(dateRange?: DateRange) {
+  const { from, to } = dateRange || {};
+
+  const topProducts = await db
+    .select({
+      id: productsTable.id,
+      name: productsTable.name,
+      unitsSold: sql<number>`sum(${orderItemsTable.quantity})`.mapWith(Number),
+      revenue: sql<number>`sum(${orderItemsTable.price} * ${orderItemsTable.quantity})`.mapWith(Number),
+    })
+    .from(orderItemsTable)
+    .leftJoin(variantsTable, eq(orderItemsTable.variantId, variantsTable.id))
+    .leftJoin(productsTable, eq(variantsTable.productId, productsTable.id))
+    .leftJoin(ordersTable, eq(orderItemsTable.orderId, ordersTable.id))
+    .where(
+      and(
+        from ? gte(ordersTable.createdAt, from) : undefined,
+        to ? lte(ordersTable.createdAt, to) : undefined
+      )
+    )
+    .groupBy(productsTable.id, productsTable.name)
+    .orderBy(desc(sql<number>`sum(${orderItemsTable.quantity})`))
+    .limit(5);
+
+  return topProducts;
 }
 
 type OrderPayload = {

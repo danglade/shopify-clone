@@ -13,6 +13,17 @@ import { relations } from "drizzle-orm";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
 
+export const categoriesTable = pgTable("categories", {
+  id: serial("id").primaryKey(),
+  name: varchar("name", { length: 256 }).notNull().unique(),
+  slug: varchar("slug", { length: 256 }).notNull().unique(),
+  description: text("description"),
+});
+
+export const categoriesRelations = relations(categoriesTable, ({ many }) => ({
+  productToCategories: many(productToCategoriesTable),
+}));
+
 export const statusEnum = pgEnum("status", ["draft", "published", "archived"]);
 
 export const productsTable = pgTable("products", {
@@ -29,6 +40,55 @@ export const productsTable = pgTable("products", {
 
 export const productsRelations = relations(productsTable, ({ many }) => ({
   variants: many(variantsTable),
+  productToCategories: many(productToCategoriesTable),
+  reviews: many(reviewsTable),
+}));
+
+export const productToCategoriesTable = pgTable("product_to_categories", {
+  productId: integer("product_id")
+    .references(() => productsTable.id)
+    .notNull(),
+  categoryId: integer("category_id")
+    .references(() => categoriesTable.id)
+    .notNull(),
+});
+
+export const productToCategoriesRelations = relations(
+  productToCategoriesTable,
+  ({ one }) => ({
+    product: one(productsTable, {
+      fields: [productToCategoriesTable.productId],
+      references: [productsTable.id],
+    }),
+    category: one(categoriesTable, {
+      fields: [productToCategoriesTable.categoryId],
+      references: [categoriesTable.id],
+    }),
+  })
+);
+
+export const reviewsTable = pgTable("reviews", {
+  id: serial("id").primaryKey(),
+  productId: integer("product_id")
+    .references(() => productsTable.id)
+    .notNull(),
+  rating: integer("rating").notNull(),
+  comment: text("comment"),
+  author: varchar("author", { length: 256 }).notNull(),
+  status: varchar("status", {
+    length: 20,
+    enum: ["pending", "approved", "rejected"],
+  })
+    .default("pending")
+    .notNull(),
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+});
+
+export const reviewsRelations = relations(reviewsTable, ({ one }) => ({
+  product: one(productsTable, {
+    fields: [reviewsTable.productId],
+    references: [productsTable.id],
+  }),
 }));
 
 export const variantsTable = pgTable("variants", {

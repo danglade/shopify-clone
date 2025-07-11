@@ -4,12 +4,22 @@ import { eq } from "drizzle-orm";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import VariantSelector from "@/components/VariantSelector";
+import Reviews from "@/components/Reviews";
+import YouMayAlsoLike from "@/components/YouMayAlsoLike";
 
 async function getProductBySlug(slug: string) {
   const product = await db.query.productsTable.findFirst({
     where: eq(productsTable.slug, slug),
     with: {
       variants: true,
+      reviews: {
+        where: (reviews, { eq }) => eq(reviews.status, "approved"),
+      },
+      productToCategories: {
+        with: {
+          category: true,
+        },
+      },
     },
   });
 
@@ -25,6 +35,9 @@ export default async function ProductPage({
   params: { slug: string };
 }) {
   const product = await getProductBySlug(params.slug);
+  const categoryIds = product.productToCategories.map(
+    (ptc) => ptc.category.id
+  );
 
   return (
     <div className="container mx-auto px-4 py-12">
@@ -56,10 +69,7 @@ export default async function ProductPage({
           </h1>
           <p className="mt-2 text-3xl text-gray-900">${product.price}</p>
 
-          {/* Reviews placeholder */}
-          <div className="mt-4">
-            <p className="text-sm text-gray-500">No reviews yet</p>
-          </div>
+          {/* Reviews are now part of the Reviews component */}
 
           <div className="mt-6">
             <h3 className="sr-only">Description</h3>
@@ -76,6 +86,8 @@ export default async function ProductPage({
           </form>
         </div>
       </div>
+      <Reviews product={product} />
+      <YouMayAlsoLike productId={product.id} categoryIds={categoryIds} />
     </div>
   );
 } 

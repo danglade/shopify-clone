@@ -1,5 +1,13 @@
 import Link from "next/link";
 
+const navItems = [
+  { href: "/admin", label: "Dashboard" },
+  { href: "/admin/products", label: "Products" },
+  { href: "/admin/categories", label: "Categories" },
+  { href: "/admin/orders", label: "Orders" },
+  { href: "/admin/reviews", label: "Reviews" },
+];
+
 export default function AdminLayout({
   children,
 }: {
@@ -9,24 +17,15 @@ export default function AdminLayout({
     <div className="flex min-h-screen">
       <aside className="w-64 bg-gray-100 p-6">
         <nav className="space-y-4">
-          <Link
-            href="/admin"
-            className="block font-semibold text-gray-800 hover:text-indigo-600"
-          >
-            Dashboard
-          </Link>
-          <Link
-            href="/admin/products"
-            className="block font-semibold text-gray-800 hover:text-indigo-600"
-          >
-            Products
-          </Link>
-          <Link
-            href="/admin/orders"
-            className="block font-semibold text-gray-800 hover:text-indigo-600"
-          >
-            Orders
-          </Link>
+          {navItems.map((item) => (
+            <Link
+              key={item.href}
+              href={item.href}
+              className="block font-semibold text-gray-800 hover:text-indigo-600"
+            >
+              {item.label}
+            </Link>
+          ))}
         </nav>
       </aside>
       <main className="flex-1 p-8 bg-white">{children}</main>

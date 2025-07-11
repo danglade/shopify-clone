@@ -4,24 +4,46 @@ import Link from "next/link";
 import { ShoppingCart } from "lucide-react";
 import Cart from "./Cart";
 import { useCartStore } from "@/store/cart";
+import { ReactNode, useEffect, useState } from "react";
+import { cn } from "@/lib/utils";
 
-export default function Header() {
+type HeaderProps = {
+  children: ReactNode;
+};
+
+export default function Header({ children }: HeaderProps) {
   const { items } = useCartStore();
   const itemCount = items.reduce((acc, item) => acc + item.quantity, 0);
+  const [isSticky, setIsSticky] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 0) {
+        setIsSticky(true);
+      } else {
+        setIsSticky(false);
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
 
   return (
-    <header className="bg-white shadow-sm">
+    <header
+      className={cn(
+        "bg-white shadow-sm transition-all duration-300",
+        isSticky ? "fixed top-0 left-0 right-0 z-50" : ""
+      )}
+    >
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link href="/" className="text-2xl font-bold text-gray-900">
           YOUNGLA
         </Link>
-        <nav className="hidden md:flex gap-6 items-center">
-          <Link href="/collections/for-him" className="text-sm font-medium hover:text-indigo-600">For Him</Link>
-          <Link href="/collections/for-her" className="text-sm font-medium hover:text-indigo-600">For Her</Link>
-          <Link href="/collections/new-drop" className="text-sm font-medium hover:text-indigo-600">New Drop</Link>
-          <Link href="/collections/collabs" className="text-sm font-medium hover:text-indigo-600">Collabs</Link>
-          <Link href="/collections/lookbook" className="text-sm font-medium hover:text-indigo-600">Lookbook</Link>
-        </nav>
+        {children}
         <div className="flex items-center gap-4">
           <Cart>
             <button className="relative">
