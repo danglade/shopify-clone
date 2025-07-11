@@ -5,39 +5,27 @@ import { settingsTable } from "@/db/schema";
 import { eq } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 
-export async function getSetting(key: string) {
+export async function getSetting(key: string): Promise<string | null> {
   const setting = await db
-    .select()
+    .select({ value: settingsTable.value })
     .from(settingsTable)
-    .where(eq(settingsTable.key, key));
+    .where(eq(settingsTable.key, key))
+    .limit(1);
+
   return setting[0]?.value ?? null;
 }
 
-export async function updateSettings(formData: FormData) {
-  const announcementHtml = formData.get("announcement_bar_html") as string;
-  const announcementDismissible =
-    formData.get("announcement_dismissible") === "on";
-  const isHeaderSticky = formData.get("sticky_header") === "on";
+export async function updateSetting(key: string, value: string) {
+  await db
+    .insert(settingsTable)
+    .values({ key, value })
+    .onConflictDoUpdate({
+      target: settingsTable.key,
+      set: { value },
+    });
 
-  const settingsToUpdate = [
-    { key: "announcement_bar_html", value: announcementHtml },
-    {
-      key: "announcement_dismissible",
-      value: announcementDismissible.toString(),
-    },
-    { key: "sticky_header", value: isHeaderSticky.toString() },
-  ];
-
-  for (const setting of settingsToUpdate) {
-    await db
-      .insert(settingsTable)
-      .values(setting)
-      .onConflictDoUpdate({
-        target: settingsTable.key,
-        set: { value: setting.value },
-      });
+  // Revalidate paths that might be affected
+  if (key.startsWith("hero_")) {
+    revalidatePath("/");
   }
-
-  revalidatePath("/"); // Revalidate home page and others that might use this
-  revalidatePath("/admin/settings");
 } 

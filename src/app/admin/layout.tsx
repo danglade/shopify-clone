@@ -8,6 +8,7 @@ const navItems = [
   { href: "/admin/orders", label: "Orders" },
   { href: "/admin/reviews", label: "Reviews" },
   { href: "/admin/settings", label: "Settings" },
+  { href: "/admin/hero", label: "Hero Settings" },
 ];
 
 export default function AdminLayout({

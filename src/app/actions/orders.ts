@@ -9,26 +9,15 @@ import {
   Product,
   Variant,
 } from "@/db/schema";
-import { eq, sql, count, sum, desc, gte, lte, and } from "drizzle-orm";
-import { revalidatePath } from "next/cache";
-import { DateRange } from "react-day-picker";
+import { eq, sql, count, sum, desc } from "drizzle-orm";
 
-export async function getDashboardStats(dateRange?: DateRange) {
-  const rangeCondition =
-    dateRange?.from && dateRange?.to
-      ? and(
-          gte(ordersTable.createdAt, dateRange.from),
-          lte(ordersTable.createdAt, dateRange.to)
-        )
-      : undefined;
-
+export async function getDashboardStats() {
   const totalSalesData = await db
     .select({
       totalSales: sum(sql`CAST(orders.total AS numeric)`),
       totalOrders: count(ordersTable.id),
     })
-    .from(ordersTable)
-    .where(rangeCondition);
+    .from(ordersTable);
 
   const stats = totalSalesData[0];
   const totalSales = Number(stats.totalSales || 0);
@@ -43,8 +32,6 @@ export async function getDashboardStats(dateRange?: DateRange) {
       totalQuantity: sum(orderItemsTable.quantity),
     })
     .from(orderItemsTable)
-    .leftJoin(ordersTable, eq(orderItemsTable.orderId, ordersTable.id))
-    .where(rangeCondition)
     .groupBy(orderItemsTable.variantId)
     .orderBy(desc(sql`sum(quantity)`))
     .limit(1);
@@ -53,15 +40,17 @@ export async function getDashboardStats(dateRange?: DateRange) {
 
   if (topSoldVariantData.length > 0) {
     const topVariantId = topSoldVariantData[0].variantId;
-    const variant = await db.query.variantsTable.findFirst({
-      where: eq(variantsTable.id, topVariantId),
-      with: {
-        product: true,
-      },
-    });
+    if (topVariantId) {
+      const variant = await db.query.variantsTable.findFirst({
+        where: eq(variantsTable.id, topVariantId),
+        with: {
+          product: true,
+        },
+      });
 
-    if (variant) {
-      topSellingProduct = variant.product.name;
+      if (variant) {
+        topSellingProduct = variant.product.name;
+      }
     }
   }
 
@@ -73,132 +62,38 @@ export async function getDashboardStats(dateRange?: DateRange) {
   };
 }
 
-export async function getChartData(dateRange?: DateRange) {
-  const { from, to } = dateRange || {};
+export async function createOrder(
+  cart: {
+    product: Product;
+    variant: Variant;
+    quantity: number;
+  }[]
+) {
+  const total = cart.reduce(
+    (acc, item) => acc + parseFloat(item.variant.cost) * item.quantity,
+    0
+  );
 
-  const salesData = await db
-    .select({
-      date: sql<string>`DATE_TRUNC('day', ${ordersTable.createdAt})`,
-      sales: sql<number>`sum(${ordersTable.total})`.mapWith(Number),
+  const [newOrder] = await db
+    .insert(ordersTable)
+    .values({
+      customerName: "Guest", // Placeholder
+      customerEmail: "guest@example.com", // Placeholder
+      total: total.toFixed(2),
+      status: "pending",
     })
-    .from(ordersTable)
-    .where(
-      and(
-        from ? gte(ordersTable.createdAt, from) : undefined,
-        to ? lte(ordersTable.createdAt, to) : undefined
-      )
-    )
-    .groupBy(sql`DATE_TRUNC('day', ${ordersTable.createdAt})`)
-    .orderBy(sql`DATE_TRUNC('day', ${ordersTable.createdAt})`);
+    .returning();
 
-  const ordersData = await db
-    .select({
-      date: sql<string>`DATE_TRUNC('day', ${ordersTable.createdAt})`,
-      orders: sql<number>`count(${ordersTable.id})`.mapWith(Number),
-    })
-    .from(ordersTable)
-    .where(
-      and(
-        from ? gte(ordersTable.createdAt, from) : undefined,
-        to ? lte(ordersTable.createdAt, to) : undefined
-      )
-    )
-    .groupBy(sql`DATE_TRUNC('day', ${ordersTable.createdAt})`)
-    .orderBy(sql`DATE_TRUNC('day', ${ordersTable.createdAt})`);
-
-  return { salesData, ordersData };
-}
-
-export async function getTopSellingProducts(dateRange?: DateRange) {
-  const { from, to } = dateRange || {};
-
-  const topProducts = await db
-    .select({
-      id: productsTable.id,
-      name: productsTable.name,
-      unitsSold: sql<number>`sum(${orderItemsTable.quantity})`.mapWith(Number),
-      revenue: sql<number>`sum(${orderItemsTable.price} * ${orderItemsTable.quantity})`.mapWith(Number),
-    })
-    .from(orderItemsTable)
-    .leftJoin(variantsTable, eq(orderItemsTable.variantId, variantsTable.id))
-    .leftJoin(productsTable, eq(variantsTable.productId, productsTable.id))
-    .leftJoin(ordersTable, eq(orderItemsTable.orderId, ordersTable.id))
-    .where(
-      and(
-        from ? gte(ordersTable.createdAt, from) : undefined,
-        to ? lte(ordersTable.createdAt, to) : undefined
-      )
-    )
-    .groupBy(productsTable.id, productsTable.name)
-    .orderBy(desc(sql<number>`sum(${orderItemsTable.quantity})`))
-    .limit(5);
-
-  return topProducts;
-}
-
-type OrderItemForCreation = {
-  product: Product;
-  variant: Variant;
-  quantity: number;
-};
-
-type OrderPayload = {
-  customerName: string;
-  customerEmail:string;
-  items: OrderItemForCreation[];
-  total: string;
-};
-
-export async function createOrder({
-  customerName,
-  customerEmail,
-  items,
-  total,
-}: OrderPayload) {
-  try {
-    const [newOrder] = await db
-      .insert(ordersTable)
-      .values({
-        customerName,
-        customerEmail,
-        total,
-        status: "pending",
-      })
-      .returning();
-
-    const orderItems = items
-      .filter((item) => item.variant.id)
-      .map((item) => ({
-        orderId: newOrder.id,
-        variantId: item.variant.id!,
-        quantity: item.quantity,
-        price: item.product.price,
-      }));
-
-    if (orderItems.length > 0) {
-      await db.insert(orderItemsTable).values(orderItems);
-    }
-
-    revalidatePath("/admin/orders");
-  } catch (error) {
-    console.error("Database transaction failed", error);
-    throw new Error("Failed to create order.");
-  }
-}
-
-export async function updateOrderStatus(formData: FormData) {
-  const orderId = parseInt(formData.get("orderId") as string);
-  const status = formData.get("status") as string;
-
-  if (!orderId || !status) {
-    throw new Error("Invalid arguments for updating order status.");
-  }
+  const orderItems = cart
+    .map((item) => ({
+      orderId: newOrder.id,
+      variantId: item.variant.id,
+      quantity: item.quantity,
+      price: item.variant.cost,
+    }))
+    .filter((item) => item.variantId !== undefined);
 
   await db
-    .update(ordersTable)
-    .set({ status })
-    .where(eq(ordersTable.id, orderId));
-
-  revalidatePath(`/admin/orders/${orderId}`);
-  revalidatePath("/admin/orders");
+    .insert(orderItemsTable)
+    .values(orderItems as typeof orderItemsTable.$inferInsert[]);
 } 

@@ -34,6 +34,18 @@ export const typesRelations = relations(typesTable, ({ many }) => ({
   products: many(productsTable),
 }));
 
+export const buttonPositionEnum = pgEnum("button_position", [
+  "top",
+  "middle",
+  "bottom",
+]);
+
+export const buttonHorizontalPositionEnum = pgEnum("button_horizontal_position", [
+  "left",
+  "center",
+  "right",
+]);
+
 export const statusEnum = pgEnum("status", ["draft", "published", "archived"]);
 
 export const productsTable = pgTable("products", {
@@ -165,6 +177,18 @@ export const orderItemsRelations = relations(orderItemsTable, ({ one }) => ({
 export const settingsTable = pgTable("settings", {
   key: varchar("key", { length: 256 }).primaryKey(),
   value: text("value"),
+});
+
+export const heroSlidesTable = pgTable("hero_slides", {
+  id: serial("id").primaryKey(),
+  imageUrl: varchar("image_url", { length: 1024 }).notNull(),
+  title: varchar("title", { length: 256 }),
+  subtitle: varchar("subtitle", { length: 256 }),
+  buttonText: varchar("button_text", { length: 256 }),
+  buttonLink: varchar("button_link", { length: 1024 }),
+  buttonPosition: buttonPositionEnum("button_position").default("middle"),
+  buttonHorizontalPosition: buttonHorizontalPositionEnum("button_horizontal_position").default("left"),
+  order: integer("order").notNull().default(0),
 });
 
 // Zod schema for validation
