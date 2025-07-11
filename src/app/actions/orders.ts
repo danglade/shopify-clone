@@ -8,16 +8,30 @@ import {
   productsTable,
 } from "@/db/schema";
 import { CartItem } from "@/store/cart";
-import { eq, sql, count, sum, desc } from "drizzle-orm";
+import { eq, sql, count, sum, desc, gte, lte, and } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 
-export async function getDashboardStats() {
+type DateRange = {
+  from: Date | undefined;
+  to?: Date | undefined;
+};
+
+export async function getDashboardStats(dateRange?: DateRange) {
+  const rangeCondition =
+    dateRange?.from && dateRange?.to
+      ? and(
+          gte(ordersTable.createdAt, dateRange.from),
+          lte(ordersTable.createdAt, dateRange.to)
+        )
+      : undefined;
+
   const totalSalesData = await db
     .select({
       totalSales: sum(sql`CAST(orders.total AS numeric)`),
       totalOrders: count(ordersTable.id),
     })
-    .from(ordersTable);
+    .from(ordersTable)
+    .where(rangeCondition);
 
   const stats = totalSalesData[0];
   const totalSales = Number(stats.totalSales || 0);
@@ -32,6 +46,8 @@ export async function getDashboardStats() {
       totalQuantity: sum(orderItemsTable.quantity),
     })
     .from(orderItemsTable)
+    .leftJoin(ordersTable, eq(orderItemsTable.orderId, ordersTable.id))
+    .where(rangeCondition)
     .groupBy(orderItemsTable.variantId)
     .orderBy(desc(sql`sum(quantity)`))
     .limit(1);
