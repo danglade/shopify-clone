@@ -6,6 +6,7 @@ import Navigation from "@/components/Navigation";
 import { getNavigationData } from "./actions/categories";
 import { getSetting } from "./actions/settings";
 import AnnouncementHeader from "@/components/AnnouncementHeader";
+import Footer from "@/components/Footer";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -32,8 +33,8 @@ export default async function RootLayout({
   ]);
 
   return (
-    <html lang="en">
-      <body className={inter.className}>
+    <html lang="en" className="h-full">
+      <body className={`${inter.className} flex flex-col h-full`}>
         {announcementHtml && (
           <AnnouncementHeader
             htmlContent={announcementHtml}
@@ -41,14 +42,9 @@ export default async function RootLayout({
           />
         )}
         <Header isSticky={isHeaderSticky} />
-        <div>
-          <div className="border-t bg-white sticky top-0 z-40 shadow-md">
-            <div className="container mx-auto flex justify-center">
-              <Navigation navigationData={navigationData} />
-            </div>
-          </div>
-        </div>
-        <main>{children}</main>
+        <Navigation navigationData={navigationData} />
+        <main className="flex-grow pb-12">{children}</main>
+        <Footer />
       </body>
     </html>
   );

@@ -34,37 +34,39 @@ export default function Navigation({ navigationData }: NavigationProps) {
   ];
 
   return (
-    <NavigationMenu>
-      <NavigationMenuList>
-        {navigationData.map((type) => (
-          <NavigationMenuItem key={type.id}>
-            <NavigationMenuTrigger>{type.name.toUpperCase()}</NavigationMenuTrigger>
-            <NavigationMenuContent>
-              <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-2 lg:w-[600px]">
-                {type.categories.map((category) => (
-                  <ListItem
-                    key={category.id}
-                    title={category.name}
-                    href={`/category/${category.slug}`}
-                  >
-                    {category.description}
-                  </ListItem>
-                ))}
-              </ul>
-            </NavigationMenuContent>
-          </NavigationMenuItem>
-        ))}
-        {otherLinks.map((link) => (
-          <NavigationMenuItem key={link.href}>
-            <NavigationMenuLink asChild>
-              <Link href={link.href} className={navigationMenuTriggerStyle()}>
-                {link.label}
-              </Link>
-            </NavigationMenuLink>
-          </NavigationMenuItem>
-        ))}
-      </NavigationMenuList>
-    </NavigationMenu>
+    <div className="flex justify-center">
+      <NavigationMenu>
+        <NavigationMenuList>
+          {navigationData.map((type) => (
+            <NavigationMenuItem key={type.id}>
+              <NavigationMenuTrigger>{type.name.toUpperCase()}</NavigationMenuTrigger>
+              <NavigationMenuContent>
+                <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-2 lg:w-[600px]">
+                  {type.categories.map((category) => (
+                    <ListItem
+                      key={category.id}
+                      title={category.name}
+                      href={`/category/${category.slug}`}
+                    >
+                      {category.description}
+                    </ListItem>
+                  ))}
+                </ul>
+              </NavigationMenuContent>
+            </NavigationMenuItem>
+          ))}
+          {otherLinks.map((link) => (
+            <NavigationMenuItem key={link.href}>
+              <NavigationMenuLink asChild>
+                <Link href={link.href} className={navigationMenuTriggerStyle()}>
+                  {link.label}
+                </Link>
+              </NavigationMenuLink>
+            </NavigationMenuItem>
+          ))}
+        </NavigationMenuList>
+      </NavigationMenu>
+    </div>
   );
 }
 

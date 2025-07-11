@@ -1,12 +1,12 @@
 "use client";
 
 import { useState } from "react";
-import { XIcon } from "lucide-react";
+import { X } from "lucide-react";
 
-type AnnouncementHeaderProps = {
+interface AnnouncementHeaderProps {
   htmlContent: string;
   isDismissible: boolean;
-};
+}
 
 export default function AnnouncementHeader({
   htmlContent,
@@ -31,7 +31,7 @@ export default function AnnouncementHeader({
           className="absolute top-1/2 right-4 -translate-y-1/2"
           aria-label="Dismiss announcement"
         >
-          <XIcon className="h-5 w-5" />
+          <X className="h-5 w-5" />
         </button>
       )}
     </div>
