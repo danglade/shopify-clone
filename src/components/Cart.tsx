@@ -24,7 +24,11 @@ function CartItem({ item }: { item: CartItem }) {
       <div className="relative h-16 w-16 overflow-hidden rounded">
         {item.product.images?.[0] ? (
           <Image
-            src={item.product.images[0].url}
+            src={
+              item.product.images[0].url.startsWith("//")
+                ? `https:${item.product.images[0].url}`
+                : item.product.images[0].url
+            }
             alt={item.product.name}
             fill
             className="object-cover"

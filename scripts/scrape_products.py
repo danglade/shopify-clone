@@ -118,8 +118,8 @@ async def main():
 
                 cursor.execute(
                     """
-                    INSERT INTO products (name, slug, description, price, images, status)
-                    VALUES (%s, %s, %s, %s, %s, %s)
+                    INSERT INTO products (name, slug, description, type, price, images, status)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s)
                     ON CONFLICT (slug) DO NOTHING
                     RETURNING id
                     """,
@@ -127,6 +127,7 @@ async def main():
                         product.get("title"),
                         product.get("handle"),
                         product.get("description"),
+                        product.get("type"),
                         Decimal(product.get("price", 0)) / 100,
                         json.dumps(image_urls),
                         "published",
@@ -157,15 +158,18 @@ async def main():
                     db_size = (variant.get(size_option_key) if size_option_key else None) or "One Size"
                     db_color = (variant.get(color_option_key) if color_option_key else None) or "Default"
                     
+                    variant_image = variant.get("featured_image", {}).get("src") if variant.get("featured_image") else None
+
                     cursor.execute(
                         """
-                        INSERT INTO variants (product_id, size, color, sku, inventory, cost)
-                        VALUES (%s, %s, %s, %s, %s, %s)
+                        INSERT INTO variants (product_id, size, color, image, sku, inventory, cost)
+                        VALUES (%s, %s, %s, %s, %s, %s, %s)
                         """,
                         (
                             product_id,
                             db_size,
                             db_color,
+                            variant_image,
                             variant.get("sku"),
                             100,  # Default inventory
                             Decimal(variant.get("price", 0)) / 100, # Using price as cost

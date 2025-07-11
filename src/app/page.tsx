@@ -62,14 +62,31 @@ async function getProducts({
 }
 
 export default async function Home({ searchParams }: HomeProps) {
-  const { sort, size, color, minPrice, maxPrice } = searchParams;
-  const sizes = Array.isArray(size) ? size : size ? [size] : [];
-  const colors = Array.isArray(color) ? color : color ? [color] : [];
-  const min = minPrice ? parseInt(minPrice) : undefined;
-  const max = maxPrice ? parseInt(maxPrice) : undefined;
+  const sizes = Array.isArray(searchParams.size)
+    ? searchParams.size
+    : searchParams.size
+    ? [searchParams.size]
+    : [];
+  const colors = Array.isArray(searchParams.color)
+    ? searchParams.color
+    : searchParams.color
+    ? [searchParams.color]
+    : [];
+  const min = searchParams.minPrice
+    ? parseInt(searchParams.minPrice)
+    : undefined;
+  const max = searchParams.maxPrice
+    ? parseInt(searchParams.maxPrice)
+    : undefined;
 
   const [products, filterValues] = await Promise.all([
-    getProducts({ sort, sizes, colors, minPrice: min, maxPrice: max }),
+    getProducts({
+      sort: searchParams.sort,
+      sizes,
+      colors,
+      minPrice: min,
+      maxPrice: max,
+    }),
     getAvailableFilterValues(),
   ]);
 
@@ -95,7 +112,7 @@ export default async function Home({ searchParams }: HomeProps) {
             ))}
           </div>
         </div>
-      </div>
-    </main>
+        </div>
+      </main>
   );
 }

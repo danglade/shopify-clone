@@ -1,74 +1,58 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { type Product, type Variant } from "@/db/schema";
 import { Button } from "./ui/button";
 import { cn } from "@/lib/utils";
-import { useCartStore } from "@/store/cart";
 
 type ProductWithVariants = Product & {
   variants: Variant[];
 };
 
+type VariantSelectorProps = {
+  product: ProductWithVariants;
+  onVariantChange: (variant: Variant) => void;
+};
+
 export default function VariantSelector({
   product,
-}: {
-  product: ProductWithVariants;
-}) {
-  const [selectedColor, setSelectedColor] = useState<string | null>(null);
-  const [selectedSize, setSelectedSize] = useState<string | null>(null);
-  const { addItem } = useCartStore();
+  onVariantChange,
+}: VariantSelectorProps) {
+  const [selectedColor, setSelectedColor] = useState<string | null>(
+    product.variants[0]?.color ?? null
+  );
+  const [selectedSize, setSelectedSize] = useState<string | null>(
+    product.variants[0]?.size ?? null
+  );
 
   const colors = useMemo(() => {
     return [...new Set(product.variants.map((v) => v.color))];
   }, [product.variants]);
 
   const sizes = useMemo(() => {
-    return [...new Set(product.variants.map((v) => v.size))];
-  }, [product.variants]);
+    if (!selectedColor) {
+      return [...new Set(product.variants.map((v) => v.size))];
+    }
+    return [
+      ...new Set(
+        product.variants
+          .filter((v) => v.color === selectedColor)
+          .map((v) => v.size)
+      ),
+    ];
+  }, [product.variants, selectedColor]);
 
-  const selectedVariant = useMemo(() => {
-    if (!selectedColor || !selectedSize) return null;
-    return product.variants.find(
+  useEffect(() => {
+    const variant = product.variants.find(
       (v) => v.color === selectedColor && v.size === selectedSize
     );
-  }, [selectedColor, selectedSize, product.variants]);
-
-  function handleAddToCart(event: React.FormEvent<HTMLFormElement>) {
-    event.preventDefault();
-    if (selectedVariant && selectedVariant.inventory > 0) {
-      addItem({ product, variant: selectedVariant, quantity: 1 });
-      // You can add a toast notification here to confirm
-      console.log("Added to cart:", selectedVariant);
+    if (variant) {
+      onVariantChange(variant);
     }
-  }
-
-  const AddToCartButton = () => {
-    if (!selectedVariant) {
-      return (
-        <Button type="submit" disabled className="w-full">
-          Select Options
-        </Button>
-      );
-    }
-
-    if (selectedVariant.inventory <= 0) {
-      return (
-        <Button type="submit" disabled className="w-full">
-          Out of Stock
-        </Button>
-      );
-    }
-
-    return (
-      <Button type="submit" className="w-full">
-        Add to Cart
-      </Button>
-    );
-  };
+  }, [selectedColor, selectedSize, product.variants, onVariantChange]);
 
   return (
-    <form onSubmit={handleAddToCart} className="space-y-6">
+    <div className="space-y-6">
       <div>
         <h3 className="text-sm font-medium text-gray-900">Color</h3>
         <div className="flex items-center space-x-3 mt-2">
@@ -119,8 +103,6 @@ export default function VariantSelector({
           ))}
         </div>
       </div>
-
-      <AddToCartButton />
-    </form>
+    </div>
   );
 } 

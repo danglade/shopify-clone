@@ -3,7 +3,10 @@ import { Product } from "@/db/schema";
 import Image from "next/image";
 
 export default function ProductCard({ product }: { product: Product }) {
-  const firstImage = product.images?.[0]?.url;
+  let firstImage = product.images?.[0]?.url;
+  if (firstImage && firstImage.startsWith("//")) {
+    firstImage = `https:${firstImage}`;
+  }
 
   return (
     <Link href={`/product/${product.slug}`} className="group">

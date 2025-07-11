@@ -31,6 +31,7 @@ export const productsTable = pgTable("products", {
   name: varchar("name", { length: 256 }).notNull(),
   slug: varchar("slug", { length: 256 }).unique().notNull(),
   description: text("description"),
+  type: varchar("type", { length: 256 }),
   price: decimal("price", { precision: 10, scale: 2 }).notNull(),
   images: jsonb("images").$type<{ url: string }[]>(), // Storing images as an array of objects
   status: statusEnum("status").default("draft"),
@@ -98,6 +99,7 @@ export const variantsTable = pgTable("variants", {
     .notNull(),
   size: varchar("size", { length: 50 }).notNull(), // e.g., 'S', 'M', 'L', 'XL'
   color: varchar("color", { length: 50 }).notNull(), // e.g., 'Red', 'Blue', 'Black'
+  image: varchar("image", { length: 256 }),
   cost: decimal("cost", { precision: 10, scale: 2 }).notNull(),
   sku: varchar("sku", { length: 100 }).unique(),
   inventory: integer("inventory").notNull().default(0),
