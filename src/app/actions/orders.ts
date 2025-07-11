@@ -9,6 +9,7 @@ import {
   Variant,
 } from "@/db/schema";
 import { eq, sql, count, sum, desc } from "drizzle-orm";
+import { revalidatePath } from "next/cache";
 
 export async function getDashboardStats() {
   const totalSalesData = await db
@@ -113,4 +114,17 @@ export async function createOrder(payload: CreateOrderPayload) {
   if (orderItems.length > 0) {
     await db.insert(orderItemsTable).values(orderItems);
   }
+}
+
+export async function updateOrderStatus(formData: FormData) {
+  const orderId = Number(formData.get("orderId"));
+  const newStatus = formData.get("status") as "pending" | "shipped" | "delivered" | "cancelled";
+
+  await db
+    .update(ordersTable)
+    .set({ status: newStatus, updatedAt: new Date() })
+    .where(eq(ordersTable.id, orderId));
+
+  revalidatePath(`/admin/orders/${orderId}`);
+  revalidatePath(`/admin/orders`);
 } 

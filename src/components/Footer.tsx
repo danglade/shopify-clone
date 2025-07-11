@@ -30,17 +30,6 @@ const footerLinks = {
   ],
 };
 
-const paymentIcons = [
-  "/payment-icons/apple-pay.svg",
-  "/payment-icons/amex.svg",
-  "/payment-icons/discover.svg",
-  "/payment-icons/google-pay.svg",
-  "/payment-icons/mastercard.svg",
-  "/payment-icons/paypal.svg",
-  "/payment-icons/shop-pay.svg",
-];
-
-
 export default function Footer() {
   return (
     <footer className="bg-slate-50 border-t border-gray-200">

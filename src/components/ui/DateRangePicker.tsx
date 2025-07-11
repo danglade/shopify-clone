@@ -31,7 +31,6 @@ import {
   SelectValue,
 } from '@/components/ui/select'
 import { Switch } from '@/components/ui/switch'
-import { cn } from '@/lib/utils'
 import { DateInput } from '@/components/ui/DateInput'
 
 export interface DateRangePickerProps {
@@ -63,10 +62,6 @@ export interface DateRangePickerProps {
    * The alignment of the popover content.
    */
   align?: 'start' | 'center' | 'end'
-  /**
-   * The locale to be used for date formatting.
-   */
-  locale?: string
   /**
    * A boolean indicating whether the compare feature should be shown.
    */
@@ -275,40 +270,12 @@ export const DateRangePicker: React.FC<DateRangePickerProps> = ({
     </Button>
   )
 
-  const CompareTriggerButton = () => (
-    <Button
-      size={'sm'}
-      variant="outline"
-      className="w-full justify-start text-left font-normal"
-      onClick={() => {
-        setIsOpen(!isOpen)
-      }}
-    >
-      <div className="flex w-full items-center justify-between">
-        <div className="flex items-center">
-          <CalendarIcon className="mr-2 h-4 w-4" />
-          <div className="py-1">
-            <div>
-              <>
-                {rangeCompare?.from
-                  ? formatDate(rangeCompare.from)
-                  : 'Start Date'}
-                {' - '}
-                {rangeCompare?.to ? formatDate(rangeCompare.to) : 'End Date'}
-              </>
-            </div>
-          </div>
-        </div>
-        <div className="pr-1">
-          {isOpen ? (
-            <ChevronUpIcon className="h-4 w-4" />
-          ) : (
-            <ChevronDownIcon className="h-4 w-4" />
-          )}
-        </div>
-      </div>
-    </Button>
-  )
+  const onUpdateFinally = (): void => {
+    setIsOpen(false)
+    if (onUpdate) {
+      onUpdate({ range: rangeState!, rangeCompare })
+    }
+  }
 
   return (
     <Popover
@@ -518,12 +485,7 @@ export const DateRangePicker: React.FC<DateRangePickerProps> = ({
             Cancel
           </Button>
           <Button
-            onClick={() => {
-              setIsOpen(false)
-              if (onUpdate && rangeState?.from) {
-                onUpdate({ range: rangeState, rangeCompare })
-              }
-            }}
+            onClick={onUpdateFinally}
           >
             Update
           </Button>
