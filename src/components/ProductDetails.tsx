@@ -7,8 +7,13 @@ import VariantSelector from "./VariantSelector";
 import { useCartStore } from "@/store/cart";
 import { Button } from "@/components/ui/button";
 
+type EnrichedProduct = Product & { 
+  variants: Variant[];
+  type: { name: string | null } | null;
+};
+
 type ProductDetailsProps = {
-  product: Product & { variants: Variant[] };
+  product: EnrichedProduct;
 };
 
 export default function ProductDetails({ product }: ProductDetailsProps) {
@@ -36,7 +41,7 @@ export default function ProductDetails({ product }: ProductDetailsProps) {
       <ProductImageGallery product={product} selectedVariant={selectedVariant} />
       
       <div>
-        <p className="text-sm uppercase text-gray-500">{product.type}</p>
+        <p className="text-sm uppercase text-gray-500">{product.type?.name}</p>
         <h1 className="text-3xl font-bold tracking-tight text-gray-900 mt-1">
           {product.name}
         </h1>

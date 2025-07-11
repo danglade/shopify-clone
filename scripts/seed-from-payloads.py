@@ -31,6 +31,19 @@ def get_or_create_category(cursor, name):
         )
         return cursor.fetchone()[0]
 
+def get_or_create_type(cursor, name):
+    slug = slugify(name)
+    cursor.execute("SELECT id FROM types WHERE slug = %s", (slug,))
+    result = cursor.fetchone()
+    if result:
+        return result[0]
+    else:
+        cursor.execute(
+            "INSERT INTO types (name, slug) VALUES (%s, %s) RETURNING id",
+            (name, slug),
+        )
+        return cursor.fetchone()[0]
+
 def main():
     print("Starting database seeding from payloads...")
     conn = None
@@ -47,10 +60,14 @@ def main():
 
             print(f"Processing product: {product.get('title')}")
 
+            # Get or create the type for the product
+            product_type = product.get("type")
+            type_id = get_or_create_type(cursor, product_type) if product_type else None
+
             # Create or get categories
             category_ids = []
-            if product.get("type"):
-                category_ids.append(get_or_create_category(cursor, product.get("type")))
+            if product_type:
+                category_ids.append(get_or_create_category(cursor, product_type))
             for tag in product.get("tags", []):
                 category_ids.append(get_or_create_category(cursor, tag))
 
@@ -59,7 +76,7 @@ def main():
 
             cursor.execute(
                 """
-                INSERT INTO products (name, slug, description, type, price, images, status)
+                INSERT INTO products (name, slug, description, type_id, price, images, status)
                 VALUES (%s, %s, %s, %s, %s, %s, %s)
                 ON CONFLICT (slug) DO NOTHING
                 RETURNING id
@@ -68,7 +85,7 @@ def main():
                     product.get("title"),
                     product.get("handle"),
                     product.get("description"),
-                    product.get("type"),
+                    type_id,
                     Decimal(product.get("price", 0)) / 100,
                     json.dumps(image_urls),
                     "published",

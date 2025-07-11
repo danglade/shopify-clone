@@ -19,6 +19,7 @@ async function getProductBySlug(slug: string) {
           category: true,
         },
       },
+      type: true,
     },
   });
 
@@ -31,9 +32,10 @@ async function getProductBySlug(slug: string) {
 export default async function ProductPage({
   params,
 }: {
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }) {
-  const product = await getProductBySlug(params.slug);
+  const { slug } = await params;
+  const product = await getProductBySlug(slug);
   const categoryIds = product.productToCategories.map(
     (ptc) => ptc.category.id
   );

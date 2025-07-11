@@ -61,27 +61,38 @@ async function getProducts({
     .orderBy(orderBy);
 }
 
-export default async function Home({ searchParams }: HomeProps) {
-  const sizes = Array.isArray(searchParams.size)
-    ? searchParams.size
-    : searchParams.size
-    ? [searchParams.size]
+export default async function Home({
+  searchParams,
+}: {
+  searchParams: Promise<{
+    sort?: string;
+    size?: string | string[];
+    color?: string | string[];
+    minPrice?: string;
+    maxPrice?: string;
+  }>;
+}) {
+  const awaitedSearchParams = await searchParams;
+  const sizes = Array.isArray(awaitedSearchParams.size)
+    ? awaitedSearchParams.size
+    : awaitedSearchParams.size
+    ? [awaitedSearchParams.size]
     : [];
-  const colors = Array.isArray(searchParams.color)
-    ? searchParams.color
-    : searchParams.color
-    ? [searchParams.color]
+  const colors = Array.isArray(awaitedSearchParams.color)
+    ? awaitedSearchParams.color
+    : awaitedSearchParams.color
+    ? [awaitedSearchParams.color]
     : [];
-  const min = searchParams.minPrice
-    ? parseInt(searchParams.minPrice)
+  const min = awaitedSearchParams.minPrice
+    ? parseInt(awaitedSearchParams.minPrice)
     : undefined;
-  const max = searchParams.maxPrice
-    ? parseInt(searchParams.maxPrice)
+  const max = awaitedSearchParams.maxPrice
+    ? parseInt(awaitedSearchParams.maxPrice)
     : undefined;
 
   const [products, filterValues] = await Promise.all([
     getProducts({
-      sort: searchParams.sort,
+      sort: awaitedSearchParams.sort,
       sizes,
       colors,
       minPrice: min,

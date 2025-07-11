@@ -24,6 +24,16 @@ export const categoriesRelations = relations(categoriesTable, ({ many }) => ({
   productToCategories: many(productToCategoriesTable),
 }));
 
+export const typesTable = pgTable("types", {
+  id: serial("id").primaryKey(),
+  name: varchar("name", { length: 256 }).notNull().unique(),
+  slug: varchar("slug", { length: 256 }).notNull().unique(),
+});
+
+export const typesRelations = relations(typesTable, ({ many }) => ({
+  products: many(productsTable),
+}));
+
 export const statusEnum = pgEnum("status", ["draft", "published", "archived"]);
 
 export const productsTable = pgTable("products", {
@@ -31,7 +41,7 @@ export const productsTable = pgTable("products", {
   name: varchar("name", { length: 256 }).notNull(),
   slug: varchar("slug", { length: 256 }).unique().notNull(),
   description: text("description"),
-  type: varchar("type", { length: 256 }),
+  typeId: integer("type_id").references(() => typesTable.id),
   price: decimal("price", { precision: 10, scale: 2 }).notNull(),
   images: jsonb("images").$type<{ url: string }[]>(), // Storing images as an array of objects
   status: statusEnum("status").default("draft"),
@@ -39,10 +49,14 @@ export const productsTable = pgTable("products", {
   updatedAt: timestamp("updated_at").defaultNow().notNull(),
 });
 
-export const productsRelations = relations(productsTable, ({ many }) => ({
+export const productsRelations = relations(productsTable, ({ many, one }) => ({
   variants: many(variantsTable),
   productToCategories: many(productToCategoriesTable),
   reviews: many(reviewsTable),
+  type: one(typesTable, {
+    fields: [productsTable.typeId],
+    references: [typesTable.id],
+  }),
 }));
 
 export const productToCategoriesTable = pgTable("product_to_categories", {
