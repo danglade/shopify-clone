@@ -75,16 +75,17 @@ export default function ProductImageGallery({
           </div>
         )}
       </div>
-      <div className="grid grid-cols-10 gap-1">
+      <div className="flex flex-wrap justify-center gap-2 mt-4">
         {thumbnails.map((imageUrl, index) => {
           if (!imageUrl) return null;
           const finalUrl = imageUrl.startsWith("//")
             ? `https:${imageUrl}`
             : imageUrl;
           return (
-            <div
+            <button
               key={index}
-              className={`aspect-square rounded-lg bg-gray-200 overflow-hidden cursor-pointer border-2 ${
+              type="button"
+              className={`w-16 h-16 rounded-lg bg-gray-200 overflow-hidden cursor-pointer border-2 ${
                 currentImage === imageUrl
                   ? "border-indigo-500"
                   : "border-transparent"
@@ -94,11 +95,11 @@ export default function ProductImageGallery({
               <Image
                 src={finalUrl}
                 alt={`${product.name} thumbnail ${index + 1}`}
-                width={80}
-                height={80}
-                className="w-full h-full object-cover"
+                width={64}
+                height={64}
+                className="w-full h-full object-cover object-center"
               />
-            </div>
+            </button>
           );
         })}
       </div>
