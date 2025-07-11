@@ -1,4 +1,4 @@
-import { getCategoryById } from "@/app/actions/categories";
+import { getCategoryById } from "@/app/actions/categoryActions";
 import CategoryForm from "../../_components/CategoryForm";
 
 type Props = {

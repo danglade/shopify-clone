@@ -1,4 +1,4 @@
-import { getCategories } from "@/app/actions/categories";
+import { getCategories } from "@/app/actions/categoryActions";
 import { Button } from "@/components/ui/button";
 import {
   Table,

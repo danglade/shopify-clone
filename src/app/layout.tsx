@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Navigation from "@/components/Navigation";
-import { getNavigationData } from "./actions/categories";
+import { getNavigationData } from "@/app/actions/categoryActions";
 import { getSetting } from "./actions/settings";
 import AnnouncementHeader from "@/components/AnnouncementHeader";
 import Footer from "@/components/Footer";

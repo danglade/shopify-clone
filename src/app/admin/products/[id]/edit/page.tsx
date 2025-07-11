@@ -1,4 +1,4 @@
-import { getCategories } from "@/app/actions/categories";
+import { getCategories } from "@/app/actions/categoryActions";
 import { getProductById } from "@/app/actions/products";
 import { getTypes } from "@/app/actions/types";
 import ProductForm from "@/app/admin/products/_components/ProductForm";

@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Textarea } from "@/components/ui/textarea";
 import { slugify } from "@/lib/utils";
-import { createOrUpdateCategory } from "@/app/actions/categories";
+import { createOrUpdateCategory } from "@/app/actions/categoryActions";
 import { categoriesTable } from "@/db/schema";
 import { InferSelectModel } from "drizzle-orm";
 
