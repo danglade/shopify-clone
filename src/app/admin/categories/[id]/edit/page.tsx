@@ -1,11 +1,11 @@
 import { getCategoryById } from "@/app/actions/categories";
 import CategoryForm from "../../_components/CategoryForm";
 
-export default async function EditCategoryPage({
-  params,
-}: {
+type Props = {
   params: { id: string };
-}) {
+};
+
+export default async function EditCategoryPage({ params }: Props) {
   const category = await getCategoryById(parseInt(params.id));
 
   return (
