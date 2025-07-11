@@ -62,38 +62,53 @@ export async function getDashboardStats() {
   };
 }
 
-export async function createOrder(
-  cart: {
+interface CreateOrderPayload {
+  customerName: string;
+  customerEmail: string;
+  items: {
     product: Product;
     variant: Variant;
     quantity: number;
-  }[]
-) {
-  const total = cart.reduce(
-    (acc, item) => acc + parseFloat(item.variant.cost) * item.quantity,
-    0
-  );
+  }[];
+  total: string;
+  shippingAddress: {
+    line1: string;
+    line2?: string;
+    city: string;
+    state: string;
+    postalCode: string;
+    country: string;
+  };
+}
 
+
+export async function createOrder(payload: CreateOrderPayload) {
   const [newOrder] = await db
     .insert(ordersTable)
     .values({
-      customerName: "Guest", // Placeholder
-      customerEmail: "guest@example.com", // Placeholder
-      total: total.toFixed(2),
+      customerName: payload.customerName,
+      customerEmail: payload.customerEmail,
+      total: payload.total,
+      shippingAddressLine1: payload.shippingAddress.line1,
+      shippingAddressLine2: payload.shippingAddress.line2,
+      shippingCity: payload.shippingAddress.city,
+      shippingState: payload.shippingAddress.state,
+      shippingPostalCode: payload.shippingAddress.postalCode,
+      shippingCountry: payload.shippingAddress.country,
       status: "pending",
     })
     .returning();
 
-  const orderItems = cart
+  const orderItems = payload.items
     .map((item) => ({
       orderId: newOrder.id,
       variantId: item.variant.id,
       quantity: item.quantity,
-      price: item.variant.cost,
+      price: item.product.price, // Use the price from the product at time of purchase
     }))
-    .filter((item) => item.variantId !== undefined);
+    .filter((item) => item.variantId);
 
-  await db
-    .insert(orderItemsTable)
-    .values(orderItems as typeof orderItemsTable.$inferInsert[]);
+  if (orderItems.length > 0) {
+    await db.insert(orderItemsTable).values(orderItems as any); // Using 'as any' to bypass strict type issue with variantId potentially being null, though we filter them out.
+  }
 } 
