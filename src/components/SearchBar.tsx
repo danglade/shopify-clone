@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
+import { createPortal } from "react-dom";
 import { X, Loader2 } from "lucide-react";
 import { searchProducts } from "@/app/actions/products";
 import { Product } from "@/db/schema";
@@ -16,8 +17,10 @@ export default function SearchBar({ onClose }: SearchBarProps) {
   const [results, setResults] = useState<Product[]>([]);
   const [loading, setLoading] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
+  const [isMounted, setIsMounted] = useState(false);
 
   useEffect(() => {
+    setIsMounted(true);
     inputRef.current?.focus();
   }, []);
 
@@ -44,11 +47,15 @@ export default function SearchBar({ onClose }: SearchBarProps) {
 
   return (
     <>
-      <div
-        className="fixed inset-0 bg-black/60 z-40"
-        onClick={handleClose}
-        aria-hidden="true"
-      ></div>
+      {isMounted &&
+        createPortal(
+          <div
+            className="fixed inset-0 bg-black/60 z-40"
+            onClick={handleClose}
+            aria-hidden="true"
+          ></div>,
+          document.body
+        )}
 
       <div className="absolute top-full left-0 w-full bg-white shadow-lg z-50">
         <div className="container mx-auto p-4">

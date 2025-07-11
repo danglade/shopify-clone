@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { XIcon } from "lucide-react";
 
 type AnnouncementHeaderProps = {
@@ -12,17 +12,9 @@ export default function AnnouncementHeader({
   htmlContent,
   isDismissible,
 }: AnnouncementHeaderProps) {
-  const [isVisible, setIsVisible] = useState(false);
-
-  useEffect(() => {
-    const dismissed = localStorage.getItem("announcement_dismissed");
-    if (!dismissed) {
-      setIsVisible(true);
-    }
-  }, []);
+  const [isVisible, setIsVisible] = useState(true);
 
   const handleDismiss = () => {
-    localStorage.setItem("announcement_dismissed", "true");
     setIsVisible(false);
   };
 

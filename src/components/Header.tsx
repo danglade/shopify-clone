@@ -4,20 +4,31 @@ import Link from "next/link";
 import { ShoppingCart, User, Search } from "lucide-react";
 import Cart from "./Cart";
 import { useCartStore } from "@/store/cart";
-import { ReactNode, useState } from "react";
+import { useState, useEffect } from "react";
 import SearchBar from "./SearchBar";
+import clsx from "clsx";
 
 type HeaderProps = {
-  children: ReactNode;
+  isSticky: boolean;
 };
 
-export default function Header({ children }: HeaderProps) {
+// This component is only responsible for the top bar.
+export default function Header({ isSticky }: HeaderProps) {
   const { items } = useCartStore();
   const itemCount = items.reduce((acc, item) => acc + item.quantity, 0);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
+  const [isMounted, setIsMounted] = useState(false);
+
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
+
+  const headerClasses = clsx("bg-white shadow-sm relative z-50", {
+    "sticky top-0": isMounted && isSticky,
+  });
 
   return (
-    <header className="bg-white shadow-sm relative z-50">
+    <header className={headerClasses}>
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
           {/* Left Section */}
@@ -27,7 +38,10 @@ export default function Header({ children }: HeaderProps) {
 
           {/* Center Section */}
           <div className="text-center">
-            <Link href="/" className="text-4xl font-bold text-gray-900 tracking-wider">
+            <Link
+              href="/"
+              className="text-4xl font-bold text-gray-900 tracking-wider"
+            >
               YOUNGLA
             </Link>
           </div>
@@ -53,11 +67,6 @@ export default function Header({ children }: HeaderProps) {
             {/* Country/Currency selector placeholder */}
             <div className="text-sm">US ▾</div>
           </div>
-        </div>
-      </div>
-      <div className="border-t">
-        <div className="container mx-auto flex justify-center">
-          {children}
         </div>
       </div>
       {isSearchOpen && <SearchBar onClose={() => setIsSearchOpen(false)} />}

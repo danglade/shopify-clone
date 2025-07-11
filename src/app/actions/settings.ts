@@ -17,6 +17,7 @@ export async function updateSettings(formData: FormData) {
   const announcementHtml = formData.get("announcement_bar_html") as string;
   const announcementDismissible =
     formData.get("announcement_dismissible") === "on";
+  const isHeaderSticky = formData.get("sticky_header") === "on";
 
   const settingsToUpdate = [
     { key: "announcement_bar_html", value: announcementHtml },
@@ -24,6 +25,7 @@ export async function updateSettings(formData: FormData) {
       key: "announcement_dismissible",
       value: announcementDismissible.toString(),
     },
+    { key: "sticky_header", value: isHeaderSticky.toString() },
   ];
 
   for (const setting of settingsToUpdate) {

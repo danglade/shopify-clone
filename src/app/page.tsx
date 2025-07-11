@@ -4,7 +4,7 @@ import SortSelector from "@/components/SortSelector";
 import HeroBanner from "@/components/HeroBanner";
 import { getAvailableFilterValues } from "@/app/actions/products";
 import { db } from "@/db";
-import { productsTable, variantsTable } from "@/db/schema";
+import { productsTable, variantsTable, Product, Variant } from "@/db/schema";
 import { eq, asc, desc, and, inArray, gte, lte } from "drizzle-orm";
 
 type HomeProps = {
@@ -53,12 +53,36 @@ async function getProducts({
     maxPrice ? lte(productsTable.price, maxPrice.toString()) : undefined
   );
 
-  return await db
+  const productsQuery = db
     .selectDistinct({ product: productsTable })
     .from(productsTable)
     .leftJoin(variantsTable, eq(productsTable.id, variantsTable.productId))
     .where(filterConditions)
     .orderBy(orderBy);
+
+  const productsResult = await productsQuery;
+  const productIds = productsResult.map(({ product }) => product.id);
+
+  if (productIds.length === 0) {
+    return [];
+  }
+
+  const productsWithVariants = await db.query.productsTable.findMany({
+    where: inArray(productsTable.id, productIds),
+    with: {
+      variants: true,
+    },
+  });
+
+  // Since we are not fetching the products in the right order
+  // we need to re-order them based on the original query.
+  const productsMap = new Map(
+    productsWithVariants.map((p) => [p.id, p])
+  );
+
+  return productIds
+    .map((id) => ({ product: productsMap.get(id) }))
+    .filter((p) => p.product);
 }
 
 export default async function Home({
@@ -111,15 +135,18 @@ export default async function Home({
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          <aside className="md:col-span-1">
+          {/* <aside className="md:col-span-1">
             <ProductFilters
               sizes={filterValues.sizes}
               colors={filterValues.colors}
             />
-          </aside>
-          <div className="md:col-span-3 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:gap-x-8">
+          </aside> */}
+          <div className="md:col-span-4 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
             {products.map(({ product }) => (
-              <ProductCard key={product.id} product={product} />
+              <ProductCard
+                key={product!.id}
+                product={product as Product & { variants: Variant[] }}
+              />
             ))}
           </div>
         </div>

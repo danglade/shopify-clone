@@ -19,12 +19,18 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const [navigationData, announcementHtml, announcementDismissible] =
-    await Promise.all([
-      getNavigationData(),
-      getSetting("announcement_bar_html"),
-      getSetting("announcement_dismissible"),
-    ]);
+  const [
+    navigationData,
+    announcementHtml,
+    announcementDismissible,
+    isHeaderSticky,
+  ] = await Promise.all([
+    getNavigationData(),
+    getSetting("announcement_bar_html"),
+    getSetting("announcement_dismissible"),
+    getSetting("sticky_header").then((val) => val === "true"),
+  ]);
+
   return (
     <html lang="en">
       <body className={inter.className}>
@@ -34,9 +40,14 @@ export default async function RootLayout({
             isDismissible={announcementDismissible === "true"}
           />
         )}
-        <Header>
-          <Navigation navigationData={navigationData} />
-        </Header>
+        <Header isSticky={isHeaderSticky} />
+        <div>
+          <div className="border-t bg-white sticky top-0 z-40 shadow-md">
+            <div className="container mx-auto flex justify-center">
+              <Navigation navigationData={navigationData} />
+            </div>
+          </div>
+        </div>
         <main className="pt-8">{children}</main>
       </body>
     </html>

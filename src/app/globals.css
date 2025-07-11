@@ -113,6 +113,10 @@
 }
 
 @layer base {
+  html,
+  body {
+    @apply min-h-full;
+  }
   * {
     @apply border-border outline-ring/50;
   }

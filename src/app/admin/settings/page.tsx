@@ -7,6 +7,7 @@ import { Switch } from "@/components/ui/switch";
 export default async function SettingsPage() {
   const announcementHtml = await getSetting("announcement_bar_html");
   const isDismissible = (await getSetting("announcement_dismissible")) === "true";
+  const isHeaderSticky = (await getSetting("sticky_header")) === "true";
 
   return (
     <div>
@@ -40,6 +41,21 @@ export default async function SettingsPage() {
             id="announcement_dismissible"
             name="announcement_dismissible"
             defaultChecked={isDismissible}
+          />
+        </div>
+
+        <div className="flex items-center justify-between rounded-lg border p-3 shadow-sm">
+          <div className="space-y-0.5">
+            <Label htmlFor="sticky_header">Sticky Header</Label>
+            <p className="text-[0.8rem] text-muted-foreground">
+              If enabled, the entire header will stick to the top on scroll.
+              The navbar will remain sticky regardless.
+            </p>
+          </div>
+          <Switch
+            id="sticky_header"
+            name="sticky_header"
+            defaultChecked={isHeaderSticky}
           />
         </div>
 
