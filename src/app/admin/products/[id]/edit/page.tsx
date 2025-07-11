@@ -6,9 +6,9 @@ import ProductForm from "@/app/admin/products/_components/ProductForm";
 export default async function EditProductPage({
   params,
 }: {
-  params: Promise<{ id: string }>;
+  params: { id: string };
 }) {
-  const { id } = await params;
+  const { id } = params;
   const [product, categories, types] = await Promise.all([
     getProductById(parseInt(id)),
     getCategories(),
