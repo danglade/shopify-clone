@@ -4,7 +4,6 @@ import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { Checkbox } from "@/components/ui/checkbox";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
-import { Button } from "./ui/button";
 
 type ProductFiltersProps = {
   sizes: string[];
@@ -40,11 +39,6 @@ export default function ProductFilters({ sizes, colors }: ProductFiltersProps) {
     router.replace(`${pathname}?${params.toString()}`);
   };
 
-  const handlePriceUpdate = () => {
-    const params = new URLSearchParams(searchParams);
-    router.replace(`${pathname}?${params.toString()}`);
-  };
-
   const selectedSizes = searchParams.getAll("size");
   const selectedColors = searchParams.getAll("color");
 
@@ -57,18 +51,14 @@ export default function ProductFilters({ sizes, colors }: ProductFiltersProps) {
             type="number"
             placeholder="Min"
             defaultValue={searchParams.get("minPrice") ?? ""}
-            onChange={(e) =>
-              handleFilterChange("minPrice", e.target.value)
-            }
+            onChange={(e) => handleFilterChange("minPrice", e.target.value)}
           />
           <span>-</span>
           <Input
             type="number"
             placeholder="Max"
             defaultValue={searchParams.get("maxPrice") ?? ""}
-            onChange={(e) =>
-              handleFilterChange("maxPrice", e.target.value)
-            }
+            onChange={(e) => handleFilterChange("maxPrice", e.target.value)}
           />
         </div>
       </div>

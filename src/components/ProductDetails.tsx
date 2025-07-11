@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState } from "react";
 import { Product, Variant } from "@/db/schema";
 import ProductImageGallery from "./ProductImageGallery";
 import VariantSelector from "./VariantSelector";

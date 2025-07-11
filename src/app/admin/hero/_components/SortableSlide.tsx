@@ -16,7 +16,22 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 
-export function SortableSlide({ slide, onRemove, onChange }: any) {
+interface SortableSlideProps {
+  slide: {
+    id: number | string;
+    imageUrl: string;
+    title?: string;
+    subtitle?: string;
+    buttonText?: string;
+    buttonLink?: string;
+    buttonPosition?: string;
+    buttonHorizontalPosition?: string;
+  };
+  onRemove: (id: number | string) => void;
+  onChange: (id: number | string, field: string, value: string) => void;
+}
+
+export function SortableSlide({ slide, onRemove, onChange }: SortableSlideProps) {
   const {
     attributes,
     listeners,

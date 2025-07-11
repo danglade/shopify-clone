@@ -99,16 +99,19 @@ export async function createOrder(payload: CreateOrderPayload) {
     })
     .returning();
 
-  const orderItems = payload.items
-    .map((item) => ({
-      orderId: newOrder.id,
-      variantId: item.variant.id,
-      quantity: item.quantity,
-      price: item.product.price, // Use the price from the product at time of purchase
-    }))
-    .filter((item) => item.variantId);
+  const orderItems = payload.items.reduce((acc, item) => {
+    if (item.variant.id) {
+      acc.push({
+        orderId: newOrder.id,
+        variantId: item.variant.id,
+        quantity: item.quantity,
+        price: item.product.price,
+      });
+    }
+    return acc;
+  }, [] as (typeof orderItemsTable.$inferInsert)[]);
 
   if (orderItems.length > 0) {
-    await db.insert(orderItemsTable).values(orderItems as any); // Using 'as any' to bypass strict type issue with variantId potentially being null, though we filter them out.
+    await db.insert(orderItemsTable).values(orderItems);
   }
 } 

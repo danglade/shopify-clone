@@ -68,7 +68,7 @@ export default function ProductForm({
     value: string | number
   ) => {
     const newVariants = [...variants];
-    (newVariants[index] as any)[field] = value;
+    newVariants[index] = { ...newVariants[index], [field]: value };
     setVariants(newVariants);
   };
 

@@ -96,7 +96,6 @@ export const DateRangePicker: React.FC<DateRangePickerProps> = ({
   initialCompareFrom,
   initialCompareTo,
   align = 'end',
-  locale = 'en-US',
   showCompare = true,
 }) => {
   const [isOpen, setIsOpen] = React.useState(false)
@@ -257,9 +256,9 @@ export const DateRangePicker: React.FC<DateRangePickerProps> = ({
       <div className="text-right">
         <div className="py-1">
           <div>
-            {rangeState?.from ? formatDate(rangeState.from, locale) : 'Start Date'}
+            {rangeState?.from ? formatDate(rangeState.from) : 'Start Date'}
             {' - '}
-            {rangeState?.to ? formatDate(rangeState.to, locale) : 'End Date'}
+            {rangeState?.to ? formatDate(rangeState.to) : 'End Date'}
           </div>
         </div>
         {isCompare && (
@@ -271,10 +270,10 @@ export const DateRangePicker: React.FC<DateRangePickerProps> = ({
           >
             <>
               {rangeCompare?.from
-                ? formatDate(rangeCompare.from, locale)
+                ? formatDate(rangeCompare.from)
                 : 'Start Date'}
               {' - '}
-              {rangeCompare?.to ? formatDate(rangeCompare.to, locale) : 'End Date'}
+              {rangeCompare?.to ? formatDate(rangeCompare.to) : 'End Date'}
             </>
           </div>
         )}

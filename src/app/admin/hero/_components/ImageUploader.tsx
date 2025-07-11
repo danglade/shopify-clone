@@ -33,11 +33,15 @@ export default function ImageUploader({
             setImageUrl(result.url);
             onUploadSuccess(result.url);
           } else {
-            // @ts-ignore
+            // @ts-expect-error - result may have an error property
             setError(result.error || "An unknown error occurred.");
           }
-        } catch (e: any) {
-          setError(e.message || "Failed to upload image.");
+        } catch (e) {
+          if (e instanceof Error) {
+            setError(e.message || "Failed to upload image.");
+          } else {
+            setError("An unknown error occurred during upload.");
+          }
         }
       });
     }

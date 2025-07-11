@@ -32,6 +32,17 @@ This phase focuses on building the foundational backend capabilities for managin
   - **Product Editor**: A form to edit all details of an existing product, including the cost per variant.
   - **Image Management**: An interface to upload, reorder, and delete product images.
   - **Product Deletion**: A button to soft-delete a product. This will set its status to "Archived" and remove it from public-facing storefronts without permanently deleting the data.
+- **Admin Dashboard - Site-wide Settings**:
+  - **Hero Slider Management**: A dedicated page (`/admin/hero`) to manage the homepage hero carousel.
+    - Drag-and-drop reordering of slides.
+    - Ability to add, edit, and remove slides.
+    - Each slide has fields for an image, title, subtitle, button text, and button link.
+    - Positioning controls for the text/button block (top/middle/bottom and left/center/right).
+    - Global setting for the carousel's autoplay duration.
+  - **Header Settings**: A page (`/admin/settings`) to manage site-wide header behavior.
+    - Configurable announcement bar content (accepts HTML).
+    - Toggle for making the announcement bar dismissible by users.
+    - Toggle to make the entire main header sticky.
 
 ---
 
@@ -42,26 +53,27 @@ This phase covers the public-facing website that customers will visit to browse 
 ### Features:
 - **Responsive Design**: The entire storefront will be optimized for a seamless experience on both desktop and mobile devices.
 - **Header Bar**:
-  - A top bar displayed across the entire site.
-  - It will contain a promotional message or a countdown timer.
-  - The content of this bar will be editable from the admin dashboard.
+  - An announcement bar displayed at the top of the site.
+  - The content and dismissibility of this bar are editable from the admin dashboard.
 - **Navigation Bar**:
   - A centered layout containing:
     - **Left**: Contact information (e.g., "QUESTIONS? (818) 206-8764").
     - **Center**: The store's logo.
-    - **Right**: Icons for search, user account, and the shopping cart.
+    - **Right**: Icons for user account, shopping cart, and search.
+  - The search icon opens a full-screen overlay with a debounced, live search input for finding products.
+  - The entire navbar is "sticky" and remains at the top of the viewport on scroll.
   - **Menu**: A list of primary navigation links, such as "For Him," "For Her," "New Drop," "Collabs," and "Lookbook," which may be dropdowns.
 - **Home Page**:
-  - **Hero Banner**: A full-width (100% viewport width) hero image or carousel to capture visitor attention.
+  - **Hero Banner**: A full-width, dynamic hero carousel managed from the admin dashboard. Features autoplay, configurable slides (image, title, subtitle, button), and text/button positioning.
   - **Featured Products Section**: A curated collection of products to highlight new arrivals or best-sellers.
   - **Shop by Category**: Visual links that navigate users to category-specific product pages.
 - **Category/Product Listing Page**:
   - A grid view of all products within a specific category.
   - Each product card in the grid will display:
-    - **Primary Image**
+    - **Interactive Image Carousel**: An image carousel showing all product images, with hover-activated navigation arrows.
     - **Product Title**
     - **Price**
-    - **Color Swatches**: Small clickable swatches representing available colors.
+    - **Interactive Color Swatches**: Small clickable swatches representing available colors, which control the image carousel.
     - **Average Rating**: A visual star rating (e.g., 4.5 out of 5 stars).
   - **Sorting**: Allow customers to sort products by `Newest`, `Price: Low to High`, and `Price: High to Low`.
   - **Filtering**: Allow customers to filter products by `Size`, `Color`, and `Price Range`.
@@ -87,15 +99,17 @@ This phase focuses on the crucial functionality that allows customers to make a 
 
 ### Features:
 - **Shopping Cart**:
-  - A slide-out panel or dedicated page that summarizes the cart's contents.
+  - A slide-out panel that summarizes the cart's contents.
   - **Cart Items**: Displays each item with its image, name, selected variants (size/color), quantity, and price.
   - **Modify Cart**: Ability for users to change the quantity of an item or remove it completely.
-  - **Order Summary**: A clear breakdown of the subtotal, estimated shipping, and total cost.
+  - **Order Summary**: A clear breakdown of the subtotal.
   - **Persistent State**: The cart's contents will be saved in the browser's local storage, so it persists even if the user closes the tab.
 - **Checkout Process**:
-  - **Stripe Checkout Integration**: To ensure security and simplify development, we will use Stripe's hosted checkout page. This means we do not handle sensitive credit card information directly.
-  - **Customer Information**: The checkout process will collect the customer's email and shipping address.
-  - **Order Creation**: Upon successful payment via Stripe, an order is automatically created in our database.
+  - A custom, two-column checkout page (`/checkout`) that visually separates the order summary from the customer information form.
+  - **Express Checkout**: Visual buttons for express payment options like ShopPay, PayPal, etc.
+  - **Customer Information Form**: Collects detailed contact and shipping address information (name, email, address, city, state, postal code, country, phone).
+  - **Stripe Checkout Integration**: For the final payment step, we will use Stripe's hosted checkout page to ensure security and simplify development.
+  - **Order Creation**: Upon successful payment via Stripe, an order is automatically created in our database with the collected customer and shipping details.
 - **Order Confirmation**:
   - **"Thank You" Page**: A confirmation page shown to the customer after a successful purchase, displaying a summary of their order.
   - **Email Confirmation**: An automated email will be sent to the customer confirming their order details.
@@ -120,20 +134,12 @@ This phase involves building the tools for the store owner to manage and fulfill
 
 ## Phase 5: Analytics Dashboard
 
-This phase focuses on creating a comprehensive overview dashboard inspired by the Shopify analytics page, providing key insights into the store's performance. This phase depends heavily on the completion of the Order Management phase.
+This phase focuses on creating a dashboard to provide key insights into the store's performance.
 
-### Key Metrics & Features:
-- **Dashboard UI**: A grid-based layout to display various analytics cards.
+### Features:
+- **Dashboard UI**: A simple dashboard at `/admin` to display key all-time metrics.
 - **Key Metric Cards**:
-  - **Total Sales**: Sum of all completed order totals over a selected period.
+  - **Total Sales**: Sum of all order totals.
   - **Total Orders**: Count of all completed orders.
   - **Average Order Value (AOV)**: `Total Sales` / `Total Orders`.
-  - **Total Online Store Visitors**: Unique visitor count (requires analytics integration).
-  - **Conversion Rate**: Percentage of visitors who complete a purchase.
-- **Data Tables**:
-  - **Top Selling Products**: List of products ranked by units sold or revenue.
-  - **Sales by Traffic Source**: Breakdown of sales attributed to different channels (e.g., Direct, Social, Search).
-- **Charts**:
-  - **Sales Over Time**: A line chart visualizing revenue over a selected period.
-  - **Orders Over Time**: A line chart visualizing the number of orders per day.
-- **Date Range Selector**: Allow the user to filter the dashboard view by date ranges (e.g., Today, Last 7 Days, Last 30 Days). 
+  - **Top Selling Product**: The name of the product with the most units sold. 
