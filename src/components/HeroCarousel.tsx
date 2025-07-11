@@ -37,8 +37,6 @@ export default function HeroCarousel({
     Autoplay({ delay: slideDuration * 1000, stopOnInteraction: true })
   );
 
-  console.log("Initializing HeroCarousel with slide duration (seconds):", slideDuration);
-
   if (slides.length === 0) {
     return null; // Don't render anything if there are no slides
   }

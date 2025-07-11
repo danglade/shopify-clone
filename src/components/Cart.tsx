@@ -111,6 +111,7 @@ export default function Cart({ children }: { children: React.ReactNode }) {
   }, [items]);
 
   function handleCheckout() {
+    toggleCart(); // Close the cart
     router.push("/checkout");
   }
 
