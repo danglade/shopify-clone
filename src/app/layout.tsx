@@ -4,6 +4,8 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Navigation from "@/components/Navigation";
 import { getCategories } from "./actions/categories";
+import { getSetting } from "./actions/settings";
+import AnnouncementHeader from "@/components/AnnouncementHeader";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -17,10 +19,14 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const categories = await getCategories();
+  const [categories, announcementHtml] = await Promise.all([
+    getCategories(),
+    getSetting("announcement_bar_html"),
+  ]);
   return (
     <html lang="en">
       <body className={inter.className}>
+        {announcementHtml && <AnnouncementHeader htmlContent={announcementHtml} />}
         <Header>
           <Navigation categories={categories} />
         </Header>

@@ -162,6 +162,11 @@ export const orderItemsRelations = relations(orderItemsTable, ({ one }) => ({
   }),
 }));
 
+export const settingsTable = pgTable("settings", {
+  key: varchar("key", { length: 256 }).primaryKey(),
+  value: text("value"),
+});
+
 // Zod schema for validation
 export const insertProductSchema = createInsertSchema(productsTable);
 export const insertVariantSchema = createInsertSchema(variantsTable);
