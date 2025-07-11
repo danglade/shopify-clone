@@ -21,6 +21,12 @@ export default function AdminLayout({
           >
             Products
           </Link>
+          <Link
+            href="/admin/orders"
+            className="block font-semibold text-gray-800 hover:text-indigo-600"
+          >
+            Orders
+          </Link>
         </nav>
       </aside>
       <main className="flex-1 p-8 bg-white">{children}</main>

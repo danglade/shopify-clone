@@ -50,6 +50,42 @@ export const variantsRelations = relations(variantsTable, ({ one }) => ({
   }),
 }));
 
+export const ordersTable = pgTable("orders", {
+  id: serial("id").primaryKey(),
+  customerName: varchar("customer_name", { length: 256 }).notNull(),
+  customerEmail: varchar("customer_email", { length: 256 }).notNull(),
+  total: decimal("total", { precision: 10, scale: 2 }).notNull(),
+  status: varchar("status", { length: 50 }).default("pending").notNull(),
+  createdAt: timestamp("created_at").defaultNow().notNull(),
+});
+
+export const ordersRelations = relations(ordersTable, ({ many }) => ({
+  orderItems: many(orderItemsTable),
+}));
+
+export const orderItemsTable = pgTable("order_items", {
+  id: serial("id").primaryKey(),
+  orderId: integer("order_id")
+    .references(() => ordersTable.id)
+    .notNull(),
+  variantId: integer("variant_id")
+    .references(() => variantsTable.id)
+    .notNull(),
+  quantity: integer("quantity").notNull(),
+  price: decimal("price", { precision: 10, scale: 2 }).notNull(), // Price at time of purchase
+});
+
+export const orderItemsRelations = relations(orderItemsTable, ({ one }) => ({
+  order: one(ordersTable, {
+    fields: [orderItemsTable.orderId],
+    references: [ordersTable.id],
+  }),
+  variant: one(variantsTable, {
+    fields: [orderItemsTable.variantId],
+    references: [variantsTable.id],
+  }),
+}));
+
 // Zod schema for validation
 export const insertProductSchema = createInsertSchema(productsTable);
 export const insertVariantSchema = createInsertSchema(variantsTable);

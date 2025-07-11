@@ -1,8 +1,9 @@
 import { create } from "zustand";
 import { persist, createJSONStorage } from "zustand/middleware";
-import { type Variant } from "@/db/schema";
+import { type Product, type Variant } from "@/db/schema";
 
 export type CartItem = {
+  product: Product;
   variant: Variant;
   quantity: number;
 };

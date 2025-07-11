@@ -37,7 +37,7 @@ export default function VariantSelector({
   function handleAddToCart(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
     if (selectedVariant && selectedVariant.inventory > 0) {
-      addItem({ variant: selectedVariant, quantity: 1 });
+      addItem({ product, variant: selectedVariant, quantity: 1 });
       // You can add a toast notification here to confirm
       console.log("Added to cart:", selectedVariant);
     }
