@@ -16,13 +16,13 @@ export default function AdminLayout({
   return (
     <div className="flex min-h-screen">
       <aside className="w-64 bg-gray-100 p-6">
-        <nav className="space-y-4">
+        <nav className="flex flex-col space-y-4">
           {navItems.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="block font-semibold text-gray-800 hover:text-indigo-600"
-              legacyBehavior>
+              className="font-semibold text-gray-800 hover:text-indigo-600"
+            >
               {item.label}
             </Link>
           ))}

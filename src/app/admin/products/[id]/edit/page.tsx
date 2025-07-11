@@ -1,5 +1,6 @@
 import { getCategories } from "@/app/actions/categories";
 import { getProductById } from "@/app/actions/products";
+import { getTypes } from "@/app/actions/types";
 import ProductForm from "@/app/admin/products/_components/ProductForm";
 
 export default async function EditProductPage({
@@ -7,9 +8,10 @@ export default async function EditProductPage({
 }: {
   params: { id: string };
 }) {
-  const [product, categories] = await Promise.all([
+  const [product, categories, types] = await Promise.all([
     getProductById(parseInt(params.id)),
     getCategories(),
+    getTypes(),
   ]);
 
   if (!product) {
@@ -19,7 +21,7 @@ export default async function EditProductPage({
   return (
     <div>
       <h1 className="text-2xl font-bold mb-4">Edit Product</h1>
-      <ProductForm product={product} categories={categories} />
+      <ProductForm product={product} categories={categories} types={types} />
     </div>
   );
 } 
