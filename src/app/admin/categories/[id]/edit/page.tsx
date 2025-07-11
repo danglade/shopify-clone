@@ -5,6 +5,7 @@ type Props = {
   params: { id: string };
 };
 
+// Dummy comment to trigger a new build
 export default async function EditCategoryPage({ params }: Props) {
   const category = await getCategoryById(parseInt(params.id));
 
