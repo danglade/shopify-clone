@@ -112,33 +112,44 @@ export default function ProductCard({
       {uniqueColors.length > 0 && (
         <div className="mt-2 flex items-center space-x-2">
           {uniqueColors.slice(0, 5).map((variant: Variant) => {
-            const imageUrl = variant.image;
+            const variantImage = variant.image
+              ? variant.image.startsWith("//")
+                ? `https:${variant.image}`
+                : variant.image
+              : null;
+            const imageIndex = variantImage
+              ? allImages.indexOf(variantImage)
+              : -1;
+
             return (
-              <div
+              <button
                 key={variant.id}
-                className="h-6 w-6 rounded-full border border-gray-300 overflow-hidden"
+                type="button"
+                onClick={(e) => {
+                  e.preventDefault();
+                  if (imageIndex !== -1) {
+                    emblaApi?.scrollTo(imageIndex);
+                  }
+                }}
+                disabled={imageIndex === -1}
+                className="h-6 w-6 rounded-full border border-gray-300 overflow-hidden focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 disabled:opacity-50 disabled:cursor-not-allowed"
+                title={variant.color}
               >
-                {imageUrl ? (
+                {variantImage ? (
                   <Image
-                    src={
-                      imageUrl.startsWith("//")
-                        ? `https:${imageUrl}`
-                        : imageUrl
-                    }
+                    src={variantImage}
                     alt={variant.color}
                     width={24}
                     height={24}
                     className="w-full h-full object-cover object-center"
-                    title={variant.color}
                   />
                 ) : (
                   <div
                     className="w-full h-full"
                     style={{ backgroundColor: variant.color.toLowerCase() }}
-                    title={variant.color}
                   />
                 )}
-              </div>
+              </button>
             );
           })}
           {uniqueColors.length > 5 && (
