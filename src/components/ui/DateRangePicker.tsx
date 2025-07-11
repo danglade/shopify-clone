@@ -68,7 +68,7 @@ export interface DateRangePickerProps {
   showCompare?: boolean
 }
 
-const formatDate = (date: Date, locale: string = 'en-US'): string => {
+const formatDate = (date: Date): string => {
   // Hardcoding locale for now to avoid dynamic require
   return format(date, 'LLL d, yyyy', { locale: enUS })
 }
