@@ -3,15 +3,26 @@
 import { db } from "@/db";
 import {
   productsTable,
-  productToCategoriesTable,
   variantsTable,
+  productToCategoriesTable,
+  Product,
   typesTable,
   categoriesTable,
 } from "@/db/schema";
-import { slugify } from "@/lib/utils";
-import { eq, and, inArray, not, or, ilike } from "drizzle-orm";
+import { and, asc, desc, eq, ilike, or, inArray, not } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
+
+function slugify(text: string) {
+  return text
+    .toString()
+    .toLowerCase()
+    .replace(/\s+/g, "-") // Replace spaces with -
+    .replace(/[^\w-]+/g, "") // Remove all non-word chars
+    .replace(/--+/g, "-") // Replace multiple - with single -
+    .replace(/^-+/, "") // Trim - from start of text
+    .replace(/-+$/, ""); // Trim - from end of text
+}
 
 // Helper function to convert protocol-relative URLs to absolute URLs
 function withAbsoluteImageUrls<
@@ -79,152 +90,99 @@ export async function getProductById(id: number) {
   return withAbsoluteImageUrls(product);
 }
 
+type VariantData = {
+  id?: string;
+  color: string;
+  size: string;
+  sku?: string;
+  inventory: string;
+  image?: string;
+  cost: string;
+};
+
 export async function createOrUpdateProduct(formData: FormData) {
   const id = formData.get("id") as string;
+  const rawVariants = formData.getAll("variants");
+
+  // This is a bit of a hack to get the variants from the form data
+  const variants: VariantData[] = JSON.parse(
+    JSON.stringify(
+      rawVariants.reduce((acc, _, i) => {
+        const id = formData.get(`variants[${i}][id]`);
+        const color = formData.get(`variants[${i}][color]`);
+        const size = formData.get(`variants[${i}][size]`);
+        const sku = formData.get(`variants[${i}][sku]`);
+        const inventory = formData.get(`variants[${i}][inventory]`);
+        const image = formData.get(`variants[${i}][image]`);
+        const cost = formData.get(`variants[${i}][cost]`);
+
+        // @ts-expect-error - acc is an array of objects
+        acc[i] = { id, color, size, sku, inventory, image, cost };
+        return acc;
+      }, [])
+    )
+  );
+
   const name = formData.get("name") as string;
-  const description = formData.get("description") as string;
-  const price = formData.get("price") as string;
-  const typeId = formData.get("typeId") as string;
-  const categoryIds = formData.getAll("categoryIds") as string[];
-
-  const variantsData: any[] = [];
-  formData.forEach((value, key) => {
-    const match = key.match(/variants\[(\d+)\]\[(\w+)\]/);
-    if (match) {
-      const index = parseInt(match[1]);
-      const field = match[2];
-      if (!variantsData[index]) {
-        variantsData[index] = {};
-      }
-      variantsData[index][field] = value;
-    }
-  });
-
-  const slug = slugify(name);
-
-  const productValues = {
-    name,
-    slug,
-    description,
-    price,
-    typeId: typeId ? parseInt(typeId) : null,
-    updatedAt: new Date(),
+  const productData = {
+    name: name,
+    slug: slugify(name),
+    description: formData.get("description") as string,
+    price: formData.get("price") as string,
+    typeId: Number(formData.get("typeId")),
   };
 
-  try {
-    await db.transaction(async (tx) => {
-      if (id) {
-        // Update product
-        const [updatedProduct] = await tx
-          .update(productsTable)
-          .set(productValues)
-          .where(eq(productsTable.id, parseInt(id)))
-          .returning();
+  if (id) {
+    // Update
+    const productId = parseInt(id, 10);
+    await db
+      .update(productsTable)
+      .set(productData)
+      .where(eq(productsTable.id, productId));
 
-        // --- Handle Variants ---
-        const existingVariants = await tx
-          .select()
-          .from(variantsTable)
-          .where(eq(variantsTable.productId, updatedProduct.id));
-
-        const submittedVariantIds = variantsData
-          .map((v) => (v.id ? parseInt(v.id) : null))
-          .filter((id) => id !== null);
-
-        // Delete variants that were removed
-        const variantsToDelete = existingVariants.filter(
-          (v) => !submittedVariantIds.includes(v.id)
-        );
-        if (variantsToDelete.length > 0) {
-          await tx
-            .delete(variantsTable)
-            .where(
-              inArray(
-                variantsTable.id,
-                variantsToDelete.map((v) => v.id)
-              )
-            );
-        }
-
-        // Update or Create variants
-        for (const variant of variantsData) {
-          const variantValues = {
-            productId: updatedProduct.id,
-            size: variant.size,
-            color: variant.color,
-            sku: variant.sku,
-            cost: variant.cost,
-            inventory: parseInt(variant.inventory),
-            image: variant.image,
-          };
-          if (variant.id) {
-            // Update existing variant
-            await tx
-              .update(variantsTable)
-              .set(variantValues)
-              .where(eq(variantsTable.id, parseInt(variant.id)));
-          } else {
-            // Create new variant
-            await tx.insert(variantsTable).values(variantValues);
-          }
-        }
-
-        // Update categories
-        await tx
-          .delete(productToCategoriesTable)
-          .where(eq(productToCategoriesTable.productId, updatedProduct.id));
-
-        const newProductCategories = categoryIds.map((catId) => ({
-          productId: updatedProduct.id,
-          categoryId: parseInt(catId),
-        }));
-
-        if (newProductCategories.length > 0) {
-          await tx
-            .insert(productToCategoriesTable)
-            .values(newProductCategories);
-        }
+    // Handle variants
+    for (const variant of variants) {
+      const variantData = {
+        productId: productId,
+        color: variant.color,
+        size: variant.size,
+        sku: variant.sku,
+        inventory: parseInt(variant.inventory, 10),
+        cost: variant.cost,
+        image: variant.image,
+      };
+      if (variant.id) {
+        await db
+          .update(variantsTable)
+          .set(variantData)
+          .where(eq(variantsTable.id, parseInt(variant.id, 10)));
       } else {
-        // Create new product
-        const [newProduct] = await tx
-          .insert(productsTable)
-          .values(productValues)
-          .returning();
-
-        // Create variants for the new product
-        if (variantsData.length > 0) {
-          const newVariants = variantsData.map((variant) => ({
-            productId: newProduct.id,
-            size: variant.size,
-            color: variant.color,
-            sku: variant.sku,
-            cost: variant.cost,
-            inventory: parseInt(variant.inventory),
-            image: variant.image,
-          }));
-          await tx.insert(variantsTable).values(newVariants);
-        }
-
-        // Create categories for the new product
-        const newProductCategories = categoryIds.map((catId) => ({
-          productId: newProduct.id,
-          categoryId: parseInt(catId),
-        }));
-
-        if (newProductCategories.length > 0) {
-          await tx
-            .insert(productToCategoriesTable)
-            .values(newProductCategories);
-        }
+        await db.insert(variantsTable).values(variantData);
       }
-    });
-  } catch (error) {
-    console.error("Failed to create or update product", error);
-    throw new Error("Failed to create or update product.");
+    }
+  } else {
+    // Create
+    const [newProduct] = await db
+      .insert(productsTable)
+      .values(productData)
+      .returning();
+
+    if (variants.length > 0) {
+      const variantsToInsert = variants.map((variant) => ({
+        productId: newProduct.id,
+        color: variant.color,
+        size: variant.size,
+        sku: variant.sku,
+        inventory: parseInt(variant.inventory, 10),
+        cost: variant.cost,
+        image: variant.image,
+      }));
+      await db.insert(variantsTable).values(variantsToInsert);
+    }
   }
 
   revalidatePath("/admin/products");
-  revalidatePath("/admin/products/[id]/edit", "page");
+  revalidatePath("/products");
   redirect("/admin/products");
 }
 

@@ -248,38 +248,64 @@ export const DateRangePicker: React.FC<DateRangePickerProps> = ({
     <Button
       size={'sm'}
       variant="outline"
-      className="min-w-[280px] w-full"
+      className="w-full justify-start text-left font-normal"
       onClick={() => {
         setIsOpen(!isOpen)
       }}
     >
-      <div className="text-right">
-        <div className="py-1">
-          <div>
-            {rangeState?.from ? formatDate(rangeState.from) : 'Start Date'}
-            {' - '}
-            {rangeState?.to ? formatDate(rangeState.to) : 'End Date'}
+      <div className="flex w-full items-center justify-between">
+        <div className="flex items-center">
+          <CalendarIcon className="mr-2 h-4 w-4" />
+          <div className="py-1">
+            <div>
+              {rangeState?.from ? formatDate(rangeState.from) : 'Start Date'}
+              {' - '}
+              {rangeState?.to ? formatDate(rangeState.to) : 'End Date'}
+            </div>
           </div>
         </div>
-        {isCompare && (
-          <div
-            className={cn(
-              'py-1 text-muted-foreground',
-              isCompare ? 'opacity-100' : 'opacity-0',
-            )}
-          >
-            <>
-              {rangeCompare?.from
-                ? formatDate(rangeCompare.from)
-                : 'Start Date'}
-              {' - '}
-              {rangeCompare?.to ? formatDate(rangeCompare.to) : 'End Date'}
-            </>
-          </div>
-        )}
+        <div className="pr-1">
+          {isOpen ? (
+            <ChevronUpIcon className="h-4 w-4" />
+          ) : (
+            <ChevronDownIcon className="h-4 w-4" />
+          )}
+        </div>
       </div>
-      <div className="pl-1 opacity-60 -mr-2 scale-125">
-        {isOpen ? <ChevronUpIcon width={24} /> : <ChevronDownIcon width={24} />}
+    </Button>
+  )
+
+  const CompareTriggerButton = () => (
+    <Button
+      size={'sm'}
+      variant="outline"
+      className="w-full justify-start text-left font-normal"
+      onClick={() => {
+        setIsOpen(!isOpen)
+      }}
+    >
+      <div className="flex w-full items-center justify-between">
+        <div className="flex items-center">
+          <CalendarIcon className="mr-2 h-4 w-4" />
+          <div className="py-1">
+            <div>
+              <>
+                {rangeCompare?.from
+                  ? formatDate(rangeCompare.from)
+                  : 'Start Date'}
+                {' - '}
+                {rangeCompare?.to ? formatDate(rangeCompare.to) : 'End Date'}
+              </>
+            </div>
+          </div>
+        </div>
+        <div className="pr-1">
+          {isOpen ? (
+            <ChevronUpIcon className="h-4 w-4" />
+          ) : (
+            <ChevronDownIcon className="h-4 w-4" />
+          )}
+        </div>
       </div>
     </Button>
   )

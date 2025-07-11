@@ -7,11 +7,22 @@ import { writeFile, mkdir } from "fs/promises";
 import { join } from "path";
 import { revalidatePath } from "next/cache";
 
+interface Slide {
+  id?: number | string;
+  imageUrl: string;
+  title?: string;
+  subtitle?: string;
+  buttonText?: string;
+  buttonLink?: string;
+  buttonPosition?: string;
+  buttonHorizontalPosition?: string;
+}
+
 export async function getHeroSlides() {
   return await db.select().from(heroSlidesTable).orderBy(asc(heroSlidesTable.order));
 }
 
-export async function updateHeroSlides(slides: any[]) {
+export async function updateHeroSlides(slides: Slide[]) {
   // A simple way to handle reordering, additions, and deletions
   // is to wipe and re-insert.
   await db.delete(heroSlidesTable);
@@ -21,7 +32,7 @@ export async function updateHeroSlides(slides: any[]) {
       ...slide,
       order: index,
     }));
-    await db.insert(heroSlidesTable).values(slidesToInsert);
+    await db.insert(heroSlidesTable).values(slidesToInsert as (typeof heroSlidesTable.$inferInsert)[]);
   }
 
   revalidatePath("/"); // Revalidate the home page to show changes

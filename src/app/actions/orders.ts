@@ -5,7 +5,6 @@ import {
   ordersTable,
   orderItemsTable,
   variantsTable,
-  productsTable,
   Product,
   Variant,
 } from "@/db/schema";

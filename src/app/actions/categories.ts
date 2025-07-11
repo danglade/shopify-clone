@@ -5,10 +5,13 @@ import { categoriesTable, productToCategoriesTable, productsTable, typesTable } 
 import { slugify } from "@/lib/utils";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
-import { eq, sql } from "drizzle-orm";
+import { eq, asc } from "drizzle-orm";
 
 export async function getCategories() {
-  const categories = await db.select().from(categoriesTable);
+  const categories = await db
+    .select()
+    .from(categoriesTable)
+    .orderBy(asc(categoriesTable.name));
   return categories;
 }
 

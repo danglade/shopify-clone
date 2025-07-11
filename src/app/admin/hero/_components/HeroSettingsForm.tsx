@@ -7,6 +7,7 @@ import {
   PointerSensor,
   useSensor,
   useSensors,
+  DragEndEvent,
 } from "@dnd-kit/core";
 import {
   arrayMove,
@@ -27,11 +28,22 @@ import { Input } from "@/components/ui/input";
 
 const HERO_SLIDE_DURATION_KEY = "hero_slide_duration_seconds";
 
+interface Slide {
+  id: number | string;
+  imageUrl: string;
+  title?: string;
+  subtitle?: string;
+  buttonText?: string;
+  buttonLink?: string;
+  buttonPosition?: string;
+  buttonHorizontalPosition?: string;
+}
+
 export default function HeroSettingsForm({
   initialSlides,
   initialSlideDuration,
 }: {
-  initialSlides: any[];
+  initialSlides: Slide[];
   initialSlideDuration: number;
 }) {
   const [slides, setSlides] = useState(initialSlides);
@@ -67,9 +79,9 @@ export default function HeroSettingsForm({
     );
   };
 
-  const handleDragEnd = (event: any) => {
+  const handleDragEnd = (event: DragEndEvent) => {
     const { active, over } = event;
-    if (active.id !== over.id) {
+    if (over && active.id !== over.id) {
       setSlides((items) => {
         const oldIndex = items.findIndex((item) => item.id === active.id);
         const newIndex = items.findIndex((item) => item.id === over.id);
