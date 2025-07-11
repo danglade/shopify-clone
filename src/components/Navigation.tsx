@@ -12,40 +12,57 @@ import {
   navigationMenuTriggerStyle,
 } from "@/components/ui/navigation-menu";
 import { InferSelectModel } from "drizzle-orm";
-import { categoriesTable } from "@/db/schema";
+import { categoriesTable, typesTable } from "@/db/schema";
 import { cn } from "@/lib/utils";
 
 type Category = InferSelectModel<typeof categoriesTable>;
+type Type = InferSelectModel<typeof typesTable>;
+
+type NavigationData = (Type & {
+  categories: Category[];
+})[];
 
 type NavigationProps = {
-  categories: Category[];
+  navigationData: NavigationData;
 };
 
-export default function Navigation({ categories }: NavigationProps) {
+export default function Navigation({ navigationData }: NavigationProps) {
+  const otherLinks = [
+    { href: "/new-drops", label: "NEW DROP" },
+    { href: "/collabs", label: "COLLABS" },
+    { href: "/lookbook", label: "LOOKBOOK" },
+  ];
+
   return (
     <NavigationMenu>
       <NavigationMenuList>
-        <NavigationMenuItem>
-          <NavigationMenuTrigger>Shop</NavigationMenuTrigger>
-          <NavigationMenuContent>
-            <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-2 lg:w-[600px]">
-              {categories.map((category) => (
-                <ListItem
-                  key={category.id}
-                  title={category.name}
-                  href={`/category/${category.slug}`}
-                >
-                  {category.description}
-                </ListItem>
-              ))}
-            </ul>
-          </NavigationMenuContent>
-        </NavigationMenuItem>
-        <NavigationMenuItem>
-          <Link href="/about" className={navigationMenuTriggerStyle()}>
-            About
-          </Link>
-        </NavigationMenuItem>
+        {navigationData.map((type) => (
+          <NavigationMenuItem key={type.id}>
+            <NavigationMenuTrigger>{type.name.toUpperCase()}</NavigationMenuTrigger>
+            <NavigationMenuContent>
+              <ul className="grid w-[400px] gap-3 p-4 md:w-[500px] md:grid-cols-2 lg:w-[600px]">
+                {type.categories.map((category) => (
+                  <ListItem
+                    key={category.id}
+                    title={category.name}
+                    href={`/category/${category.slug}`}
+                  >
+                    {category.description}
+                  </ListItem>
+                ))}
+              </ul>
+            </NavigationMenuContent>
+          </NavigationMenuItem>
+        ))}
+        {otherLinks.map((link) => (
+          <NavigationMenuItem key={link.href}>
+            <NavigationMenuLink asChild>
+              <Link href={link.href} className={navigationMenuTriggerStyle()}>
+                {link.label}
+              </Link>
+            </NavigationMenuLink>
+          </NavigationMenuItem>
+        ))}
       </NavigationMenuList>
     </NavigationMenu>
   );

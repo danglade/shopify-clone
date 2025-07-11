@@ -3,7 +3,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Navigation from "@/components/Navigation";
-import { getCategories } from "./actions/categories";
+import { getNavigationData } from "./actions/categories";
 import { getSetting } from "./actions/settings";
 import AnnouncementHeader from "@/components/AnnouncementHeader";
 
@@ -19,8 +19,8 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const [categories, announcementHtml] = await Promise.all([
-    getCategories(),
+  const [navigationData, announcementHtml] = await Promise.all([
+    getNavigationData(),
     getSetting("announcement_bar_html"),
   ]);
   return (
@@ -28,9 +28,9 @@ export default async function RootLayout({
       <body className={inter.className}>
         {announcementHtml && <AnnouncementHeader htmlContent={announcementHtml} />}
         <Header>
-          <Navigation categories={categories} />
+          <Navigation navigationData={navigationData} />
         </Header>
-        <main className="pt-20">{children}</main>
+        <main className="pt-8">{children}</main>
       </body>
     </html>
   );

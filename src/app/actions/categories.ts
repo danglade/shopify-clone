@@ -1,15 +1,48 @@
 "use server";
 
 import { db } from "@/db";
-import { categoriesTable } from "@/db/schema";
+import { categoriesTable, productToCategoriesTable, productsTable, typesTable } from "@/db/schema";
 import { slugify } from "@/lib/utils";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
-import { eq } from "drizzle-orm";
+import { eq, sql } from "drizzle-orm";
 
 export async function getCategories() {
   const categories = await db.select().from(categoriesTable);
   return categories;
+}
+
+export async function getNavigationData() {
+  const types = await db.select().from(typesTable);
+
+  const navigationData = await Promise.all(
+    types.map(async (type) => {
+      const categories = await db
+        .selectDistinct({
+          id: categoriesTable.id,
+          name: categoriesTable.name,
+          slug: categoriesTable.slug,
+          description: categoriesTable.description,
+        })
+        .from(categoriesTable)
+        .leftJoin(
+          productToCategoriesTable,
+          eq(categoriesTable.id, productToCategoriesTable.categoryId)
+        )
+        .leftJoin(
+          productsTable,
+          eq(productToCategoriesTable.productId, productsTable.id)
+        )
+        .where(eq(productsTable.typeId, type.id));
+
+      return {
+        ...type,
+        categories,
+      };
+    })
+  );
+
+  return navigationData;
 }
 
 export async function getCategoryById(id: number) {
