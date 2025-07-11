@@ -4,7 +4,8 @@ import Link from "next/link";
 import { ShoppingCart, User, Search } from "lucide-react";
 import Cart from "./Cart";
 import { useCartStore } from "@/store/cart";
-import { ReactNode } from "react";
+import { ReactNode, useState } from "react";
+import SearchBar from "./SearchBar";
 
 type HeaderProps = {
   children: ReactNode;
@@ -13,9 +14,10 @@ type HeaderProps = {
 export default function Header({ children }: HeaderProps) {
   const { items } = useCartStore();
   const itemCount = items.reduce((acc, item) => acc + item.quantity, 0);
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
 
   return (
-    <header className="bg-white shadow-sm">
+    <header className="bg-white shadow-sm relative z-50">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-4">
           {/* Left Section */}
@@ -31,11 +33,11 @@ export default function Header({ children }: HeaderProps) {
           </div>
 
           {/* Right Section */}
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-6">
             <button>
               <User className="h-6 w-6" />
             </button>
-            <button>
+            <button onClick={() => setIsSearchOpen(!isSearchOpen)}>
               <Search className="h-6 w-6" />
             </button>
             <Cart>
@@ -58,6 +60,7 @@ export default function Header({ children }: HeaderProps) {
           {children}
         </div>
       </div>
+      {isSearchOpen && <SearchBar onClose={() => setIsSearchOpen(false)} />}
     </header>
   );
 } 

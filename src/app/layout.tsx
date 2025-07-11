@@ -19,14 +19,21 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const [navigationData, announcementHtml] = await Promise.all([
-    getNavigationData(),
-    getSetting("announcement_bar_html"),
-  ]);
+  const [navigationData, announcementHtml, announcementDismissible] =
+    await Promise.all([
+      getNavigationData(),
+      getSetting("announcement_bar_html"),
+      getSetting("announcement_dismissible"),
+    ]);
   return (
     <html lang="en">
       <body className={inter.className}>
-        {announcementHtml && <AnnouncementHeader htmlContent={announcementHtml} />}
+        {announcementHtml && (
+          <AnnouncementHeader
+            htmlContent={announcementHtml}
+            isDismissible={announcementDismissible === "true"}
+          />
+        )}
         <Header>
           <Navigation navigationData={navigationData} />
         </Header>

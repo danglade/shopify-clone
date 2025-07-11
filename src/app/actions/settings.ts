@@ -13,18 +13,28 @@ export async function getSetting(key: string) {
   return setting[0]?.value ?? null;
 }
 
-export async function updateSetting(formData: FormData) {
-  const key = formData.get("key") as string;
-  const value = formData.get("value") as string;
+export async function updateSettings(formData: FormData) {
+  const announcementHtml = formData.get("announcement_bar_html") as string;
+  const announcementDismissible =
+    formData.get("announcement_dismissible") === "on";
 
-  if (!key) {
-    throw new Error("Setting key is required.");
+  const settingsToUpdate = [
+    { key: "announcement_bar_html", value: announcementHtml },
+    {
+      key: "announcement_dismissible",
+      value: announcementDismissible.toString(),
+    },
+  ];
+
+  for (const setting of settingsToUpdate) {
+    await db
+      .insert(settingsTable)
+      .values(setting)
+      .onConflictDoUpdate({
+        target: settingsTable.key,
+        set: { value: setting.value },
+      });
   }
-
-  await db
-    .insert(settingsTable)
-    .values({ key, value })
-    .onConflictDoUpdate({ target: settingsTable.key, set: { value } });
 
   revalidatePath("/"); // Revalidate home page and others that might use this
   revalidatePath("/admin/settings");

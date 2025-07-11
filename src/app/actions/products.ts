@@ -5,11 +5,63 @@ import {
   productsTable,
   productToCategoriesTable,
   variantsTable,
+  typesTable,
+  categoriesTable,
 } from "@/db/schema";
 import { slugify } from "@/lib/utils";
-import { eq, and, inArray, not } from "drizzle-orm";
+import { eq, and, inArray, not, or, ilike } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
+
+// Helper function to convert protocol-relative URLs to absolute URLs
+function withAbsoluteImageUrls<
+  T extends { images?: { url: string }[] | null } | null | undefined
+>(product: T): T {
+  if (!product || !product.images) {
+    return product;
+  }
+
+  return {
+    ...product,
+    images: product.images.map((image) => ({
+      ...image,
+      url: image.url.startsWith("//") ? `https:${image.url}` : image.url,
+    })),
+  };
+}
+
+export async function searchProducts(query: string) {
+  if (!query) {
+    return [];
+  }
+
+  const searchResults = await db
+    .selectDistinct({ product: productsTable })
+    .from(productsTable)
+    .leftJoin(typesTable, eq(productsTable.typeId, typesTable.id))
+    .leftJoin(
+      productToCategoriesTable,
+      eq(productsTable.id, productToCategoriesTable.productId)
+    )
+    .leftJoin(
+      categoriesTable,
+      eq(productToCategoriesTable.categoryId, categoriesTable.id)
+    )
+    .where(
+      and(
+        eq(productsTable.status, "published"),
+        or(
+          ilike(productsTable.name, `%${query}%`),
+          ilike(productsTable.description, `%${query}%`),
+          ilike(typesTable.name, `%${query}%`),
+          ilike(categoriesTable.name, `%${query}%`)
+        )
+      )
+    )
+    .limit(10);
+
+  return searchResults.map((r) => withAbsoluteImageUrls(r.product)!);
+}
 
 export async function getProductById(id: number) {
   const product = await db.query.productsTable.findFirst({
@@ -24,7 +76,7 @@ export async function getProductById(id: number) {
       type: true,
     },
   });
-  return product;
+  return withAbsoluteImageUrls(product);
 }
 
 export async function createOrUpdateProduct(formData: FormData) {
@@ -213,5 +265,5 @@ export async function getRelatedProducts(productId: number, categoryIds: number[
     )
     .limit(4);
 
-  return relatedProducts.map(item => item.product);
+  return relatedProducts.map((item) => withAbsoluteImageUrls(item.product)!);
 } 
