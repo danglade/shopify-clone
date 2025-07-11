@@ -22,7 +22,7 @@ export default function AdminLayout({
               key={item.href}
               href={item.href}
               className="block font-semibold text-gray-800 hover:text-indigo-600"
-            >
+              legacyBehavior>
               {item.label}
             </Link>
           ))}

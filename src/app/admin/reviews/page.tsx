@@ -37,7 +37,7 @@ export default async function ReviewsPage() {
                 <Link
                   href={`/product/${review.product.slug}`}
                   className="hover:underline"
-                >
+                  legacyBehavior>
                   {review.product.name}
                 </Link>
               </TableCell>

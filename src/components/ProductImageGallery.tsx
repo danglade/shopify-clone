@@ -46,6 +46,8 @@ export default function ProductImageGallery({
     ? selectedImage 
     : uniqueImages[0] ?? null;
 
+  const thumbnails = uniqueImages.filter((img) => img !== currentImage);
+
   return (
     <div>
       <div className="aspect-square rounded-lg bg-gray-200 overflow-hidden mb-4">
@@ -73,8 +75,8 @@ export default function ProductImageGallery({
           </div>
         )}
       </div>
-      <div className="grid grid-cols-5 gap-4">
-        {uniqueImages.map((imageUrl, index) => {
+      <div className="grid grid-cols-10 gap-1">
+        {thumbnails.map((imageUrl, index) => {
           if (!imageUrl) return null;
           const finalUrl = imageUrl.startsWith("//")
             ? `https:${imageUrl}`
@@ -92,8 +94,8 @@ export default function ProductImageGallery({
               <Image
                 src={finalUrl}
                 alt={`${product.name} thumbnail ${index + 1}`}
-                width={200}
-                height={200}
+                width={80}
+                height={80}
                 className="w-full h-full object-cover"
               />
             </div>

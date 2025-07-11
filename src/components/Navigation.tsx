@@ -42,10 +42,8 @@ export default function Navigation({ categories }: NavigationProps) {
           </NavigationMenuContent>
         </NavigationMenuItem>
         <NavigationMenuItem>
-          <Link href="/about" legacyBehavior passHref>
-            <NavigationMenuLink className={navigationMenuTriggerStyle()}>
-              About
-            </NavigationMenuLink>
+          <Link href="/about" className={navigationMenuTriggerStyle()}>
+            About
           </Link>
         </NavigationMenuItem>
       </NavigationMenuList>

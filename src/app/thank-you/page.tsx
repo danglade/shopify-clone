@@ -7,7 +7,7 @@ export default function ThankYouPage() {
       <p className="text-lg text-muted-foreground mb-8">
         Your order has been placed successfully.
       </p>
-      <Link href="/">
+      <Link href="/" legacyBehavior>
         <span className="text-indigo-600 hover:underline">
           Continue Shopping
         </span>
