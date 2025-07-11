@@ -11,73 +11,96 @@ import {
 import { Button } from "./ui/button";
 import { useCartStore, type CartItem } from "@/store/cart";
 import { ScrollArea } from "./ui/scroll-area";
-import { Input } from "./ui/input";
 import Image from "next/image";
 import { useMemo } from "react";
 import { useRouter } from "next/navigation";
 
+function QuantityInput({ item }: { item: CartItem }) {
+  const { updateQuantity } = useCartStore();
+
+  return (
+    <div className="flex items-center border rounded-md">
+      <button
+        onClick={() => {
+          if (item.variant.id) {
+            updateQuantity(item.variant.id, item.quantity - 1);
+          }
+        }}
+        className="px-3 py-1 text-lg"
+        disabled={item.quantity <= 1}
+      >
+        -
+      </button>
+      <span className="px-3 py-1">{item.quantity}</span>
+      <button
+        onClick={() => {
+          if (item.variant.id) {
+            updateQuantity(item.variant.id, item.quantity + 1);
+          }
+        }}
+        className="px-3 py-1 text-lg"
+      >
+        +
+      </button>
+    </div>
+  );
+}
+
 function CartItem({ item }: { item: CartItem }) {
-  const { removeItem, updateQuantity } = useCartStore();
+  const { removeItem } = useCartStore();
+  const image = item.product.images?.[0]?.url;
 
   return (
     <div className="flex items-center gap-4 py-4">
-      <div className="relative h-16 w-16 overflow-hidden rounded">
-        {item.product.images?.[0] ? (
+      <div className="h-24 w-24 overflow-hidden rounded">
+        {image && image.length > 0 ? (
           <Image
             src={
-              item.product.images[0].url.startsWith("//")
-                ? `https:${item.product.images[0].url}`
-                : item.product.images[0].url
+              image.startsWith("//")
+                ? `https:${image}`
+                : image
             }
             alt={item.product.name}
-            fill
+            width={96}
+            height={96}
             className="object-cover"
           />
         ) : (
-          <div className="bg-gray-200 h-full w-full"></div>
+          <Image
+            src="https://via.placeholder.com/96"
+            alt="Default product image"
+            width={96}
+            height={96}
+            className="object-cover"
+          />
         )}
       </div>
-      <div className="flex-1">
+      <div className="flex-1 space-y-2">
         <h3 className="font-medium">{item.product.name}</h3>
         <p className="text-sm text-muted-foreground">
           {item.variant.color} / {item.variant.size}
         </p>
-        <p className="text-sm font-semibold">${item.product.price}</p>
-      </div>
-      <div className="flex items-center gap-2">
-        <Input
-          type="number"
-          min="1"
-          value={item.quantity}
-          onChange={(e) => {
-            if (item.variant.id) {
-              updateQuantity(item.variant.id, parseInt(e.target.value));
-            }
-          }}
-          className="w-16"
-        />
-        <Button
-          variant="destructive"
-          size="icon"
-          onClick={() => {
-            if (item.variant.id) {
-              removeItem(item.variant.id);
-            }
-          }}
-        >
-          &times;
-        </Button>
+        <p className="text-lg font-semibold">${item.product.price}</p>
+        <div className="flex items-center gap-4">
+          <QuantityInput item={item} />
+          <button
+            onClick={() => {
+              if (item.variant.id) {
+                removeItem(item.variant.id);
+              }
+            }}
+            className="text-sm text-muted-foreground underline hover:text-primary"
+          >
+            Remove
+          </button>
+        </div>
       </div>
     </div>
   );
 }
 
-export default function Cart({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
-  const { items, clearCart } = useCartStore();
+export default function Cart({ children }: { children: React.ReactNode }) {
+  const { items, clearCart, isOpen, toggleCart } = useCartStore();
   const router = useRouter();
 
   const subtotal = useMemo(() => {
@@ -92,14 +115,23 @@ export default function Cart({
   }
 
   return (
-    <Sheet>
+    <Sheet open={isOpen} onOpenChange={toggleCart}>
       <SheetTrigger asChild>{children}</SheetTrigger>
       <SheetContent className="flex w-full flex-col pr-0 sm:max-w-lg">
         <SheetHeader className="px-4">
-          <SheetTitle>Shopping Cart</SheetTitle>
+          <SheetTitle>Cart</SheetTitle>
         </SheetHeader>
         {items.length > 0 ? (
           <>
+            <div className="px-4 text-sm text-muted-foreground">
+              {subtotal < 75 ? (
+                `Spend $${(75 - subtotal).toFixed(
+                  2
+                )} more and get free shipping!`
+              ) : (
+                "You've got free shipping!"
+              )}
+            </div>
             <ScrollArea className="flex-1 px-4">
               <div className="divide-y">
                 {items.map((item) => (
@@ -113,12 +145,15 @@ export default function Cart({
                   <span>Subtotal</span>
                   <span>${subtotal.toFixed(2)}</span>
                 </div>
+                <p className="text-xs text-muted-foreground">
+                  Taxes and shipping calculated at checkout
+                </p>
                 <Button className="w-full" onClick={handleCheckout}>
-                  Checkout
+                  Protected Checkout | ${subtotal.toFixed(2)}
                 </Button>
                 <Button
-                  variant="outline"
-                  className="w-full"
+                  variant="link"
+                  className="w-full text-center"
                   onClick={clearCart}
                 >
                   Clear Cart

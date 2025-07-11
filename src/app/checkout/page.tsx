@@ -1,12 +1,13 @@
 "use client";
 
 import { useCartStore } from "@/store/cart";
+import { useMemo } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
-import { useMemo } from "react";
-import { createOrder } from "@/app/actions/orders";
 import { useRouter } from "next/navigation";
+import Image from "next/image";
+import { createOrder } from "@/app/actions/orders";
 
 export default function CheckoutPage() {
   const { items, clearCart } = useCartStore();
@@ -28,13 +29,14 @@ export default function CheckoutPage() {
         customerName: name,
         customerEmail: email,
         items: items,
-        total: subtotal.toString(),
+        total: subtotal.toFixed(2),
       });
       clearCart();
-      router.push("/thank-you");
+      router.push("/order-confirmation");
     } catch (error) {
       console.error("Failed to create order:", error);
-      // Handle error, e.g., show a toast notification
+      // TODO: Add user-friendly error handling (e.g., a toast notification)
+      alert("There was an error placing your order. Please try again.");
     }
   }
 
@@ -52,17 +54,44 @@ export default function CheckoutPage() {
       <div>
         <h2 className="text-2xl font-bold mb-4">Order Summary</h2>
         <div className="space-y-4">
-          {items.map((item) => (
-            <div key={item.variant.id} className="flex justify-between items-center">
-              <div>
-                <h3 className="font-medium">{item.product.name}</h3>
-                <p className="text-sm text-muted-foreground">
-                  {item.variant.color} / {item.variant.size} (x{item.quantity})
+          {items.map((item) => {
+            const imageSrc =
+              item.variant.image || item.product.images?.[0]?.url;
+            return (
+              <div
+                key={item.variant.id}
+                className="flex justify-between items-center"
+              >
+                <div className="flex items-center gap-4">
+                  <div className="w-16 h-16 bg-gray-100 rounded-md overflow-hidden">
+                    {imageSrc ? (
+                      <Image
+                        src={
+                          imageSrc.startsWith("//")
+                            ? `https:${imageSrc}`
+                            : imageSrc
+                        }
+                        alt={item.product.name}
+                        width={64}
+                        height={64}
+                        className="object-cover"
+                      />
+                    ) : null}
+                  </div>
+                  <div>
+                    <h3 className="font-medium">{item.product.name}</h3>
+                    <p className="text-sm text-muted-foreground">
+                      {item.variant.color} / {item.variant.size} (x
+                      {item.quantity})
+                    </p>
+                  </div>
+                </div>
+                <p>
+                  ${(item.quantity * parseFloat(item.product.price)).toFixed(2)}
                 </p>
               </div>
-              <p>${(item.quantity * parseFloat(item.product.price)).toFixed(2)}</p>
-            </div>
-          ))}
+            );
+          })}
         </div>
         <div className="border-t mt-4 pt-4">
           <div className="flex justify-between font-bold text-lg">

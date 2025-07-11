@@ -6,8 +6,9 @@ import {
   orderItemsTable,
   variantsTable,
   productsTable,
+  Product,
+  Variant,
 } from "@/db/schema";
-import { CartItem } from "@/store/cart";
 import { eq, sql, count, sum, desc, gte, lte, and } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 import { DateRange } from "react-day-picker";
@@ -135,10 +136,16 @@ export async function getTopSellingProducts(dateRange?: DateRange) {
   return topProducts;
 }
 
+type OrderItemForCreation = {
+  product: Product;
+  variant: Variant;
+  quantity: number;
+};
+
 type OrderPayload = {
   customerName: string;
-  customerEmail: string;
-  items: CartItem[];
+  customerEmail:string;
+  items: OrderItemForCreation[];
   total: string;
 };
 
@@ -149,30 +156,30 @@ export async function createOrder({
   total,
 }: OrderPayload) {
   try {
-    await db.transaction(async (tx) => {
-      const [newOrder] = await tx
-        .insert(ordersTable)
-        .values({
-          customerName,
-          customerEmail,
-          total,
-          status: "pending",
-        })
-        .returning();
+    const [newOrder] = await db
+      .insert(ordersTable)
+      .values({
+        customerName,
+        customerEmail,
+        total,
+        status: "pending",
+      })
+      .returning();
 
-      const orderItems = items
-        .filter((item) => item.variant.id)
-        .map((item) => ({
-          orderId: newOrder.id,
-          variantId: item.variant.id!,
-          quantity: item.quantity,
-          price: item.product.price,
-        }));
+    const orderItems = items
+      .filter((item) => item.variant.id)
+      .map((item) => ({
+        orderId: newOrder.id,
+        variantId: item.variant.id!,
+        quantity: item.quantity,
+        price: item.product.price,
+      }));
 
-      if (orderItems.length > 0) {
-        await tx.insert(orderItemsTable).values(orderItems);
-      }
-    });
+    if (orderItems.length > 0) {
+      await db.insert(orderItemsTable).values(orderItems);
+    }
+
+    revalidatePath("/admin/orders");
   } catch (error) {
     console.error("Database transaction failed", error);
     throw new Error("Failed to create order.");

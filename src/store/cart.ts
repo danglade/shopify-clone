@@ -10,6 +10,8 @@ export type CartItem = {
 
 type CartState = {
   items: CartItem[];
+  isOpen: boolean;
+  toggleCart: () => void;
   addItem: (item: CartItem) => void;
   removeItem: (variantId: number) => void;
   updateQuantity: (variantId: number, quantity: number) => void;
@@ -20,6 +22,8 @@ export const useCartStore = create<CartState>()(
   persist(
     (set) => ({
       items: [],
+      isOpen: false,
+      toggleCart: () => set((state) => ({ isOpen: !state.isOpen })),
       addItem: (newItem) =>
         set((state) => {
           const existingItemIndex = state.items.findIndex(
@@ -29,9 +33,9 @@ export const useCartStore = create<CartState>()(
           if (existingItemIndex > -1) {
             const updatedItems = [...state.items];
             updatedItems[existingItemIndex].quantity += newItem.quantity;
-            return { items: updatedItems };
+            return { items: updatedItems, isOpen: true };
           } else {
-            return { items: [...state.items, newItem] };
+            return { items: [...state.items, newItem], isOpen: true };
           }
         }),
       removeItem: (variantId) =>
@@ -51,6 +55,7 @@ export const useCartStore = create<CartState>()(
     {
       name: "cart-storage", // unique name
       storage: createJSONStorage(() => localStorage), // (optional) by default, 'localStorage' is used
+      partialize: (state) => ({ items: state.items }),
     }
   )
 ); 
