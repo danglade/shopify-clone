@@ -8,7 +8,7 @@ import {
   typesTable,
   categoriesTable,
 } from "@/db/schema";
-import { and, eq, ilike, or, inArray, not } from "drizzle-orm";
+import { and, eq, ilike, or, inArray } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 
@@ -218,7 +218,7 @@ export async function getRelatedProducts(
           inArray(productToCategories.categoryId, categoryIds),
       },
     },
-    where: (products, { and, not, eq, exists }) =>
+    where: (products, { and, eq, exists, not }) =>
       and(
         not(eq(products.id, productId)),
         exists(
