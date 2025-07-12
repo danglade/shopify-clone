@@ -6,7 +6,7 @@ type Props = {
 };
 
 // Dummy comment to trigger a new build
-// @ts-ignore
+// @ts-expect-error
 async function EditCategoryPage({ params }: Props) {
   const category = await getCategoryById(parseInt(params.categoryId));
 
