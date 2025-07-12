@@ -8,11 +8,21 @@ const DEFAULT_SLIDE_DURATION = 5; // 5 seconds
 
 export default async function HeroSettingsPage() {
   noStore(); // Ensure we always get the latest data
-  const slides = await getHeroSlides();
+  const rawSlides = await getHeroSlides();
   const durationSetting = await getSetting(HERO_SLIDE_DURATION_KEY);
   const slideDuration = durationSetting
     ? parseInt(durationSetting, 10)
     : DEFAULT_SLIDE_DURATION;
+
+  const slides = rawSlides.map((slide) => ({
+    ...slide,
+    title: slide.title ?? undefined,
+    subtitle: slide.subtitle ?? undefined,
+    buttonText: slide.buttonText ?? undefined,
+    buttonLink: slide.buttonLink ?? undefined,
+    buttonPosition: slide.buttonPosition ?? undefined,
+    buttonHorizontalPosition: slide.buttonHorizontalPosition ?? undefined,
+  }));
 
   return (
     <div>
