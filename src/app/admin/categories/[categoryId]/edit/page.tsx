@@ -6,7 +6,7 @@ type Props = {
 };
 
 // Dummy comment to trigger a new build
-export default async function EditCategoryPage({ params }: Props) {
+async function EditCategoryPage({ params }: Props) {
   const category = await getCategoryById(parseInt(params.categoryId));
 
   return (
@@ -15,4 +15,6 @@ export default async function EditCategoryPage({ params }: Props) {
       <CategoryForm category={category} />
     </div>
   );
-} 
+}
+
+export default EditCategoryPage; 
