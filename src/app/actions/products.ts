@@ -202,25 +202,39 @@ export async function getAvailableFilterValues() {
   };
 }
 
-export async function getRelatedProducts(productId: number, categoryIds: number[]) {
+export async function getRelatedProducts(
+  productId: number,
+  categoryIds: number[]
+) {
   if (categoryIds.length === 0) {
     return [];
   }
 
-  const relatedProducts = await db
-    .selectDistinct({ product: productsTable })
-    .from(productsTable)
-    .leftJoin(
-      productToCategoriesTable,
-      eq(productsTable.id, productToCategoriesTable.productId)
-    )
-    .where(
+  const relatedProducts = await db.query.productsTable.findMany({
+    with: {
+      variants: true,
+      productToCategories: {
+        where: (productToCategories, { inArray }) =>
+          inArray(productToCategories.categoryId, categoryIds),
+      },
+    },
+    where: (products, { and, not, eq, exists }) =>
       and(
-        inArray(productToCategoriesTable.categoryId, categoryIds),
-        not(eq(productsTable.id, productId))
-      )
-    )
-    .limit(4);
+        not(eq(products.id, productId)),
+        exists(
+          db
+            .select()
+            .from(productToCategoriesTable)
+            .where(
+              and(
+                eq(productToCategoriesTable.productId, products.id),
+                inArray(productToCategoriesTable.categoryId, categoryIds)
+              )
+            )
+        )
+      ),
+    limit: 4,
+  });
 
-  return relatedProducts.map((item) => withAbsoluteImageUrls(item.product)!);
+  return relatedProducts.map((p) => withAbsoluteImageUrls(p)!);
 } 
