@@ -4,9 +4,10 @@ import TypeForm from "../../_components/TypeForm";
 export default async function EditTypePage({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }) {
-  const type = await getTypeById(parseInt(params.id));
+  const { id } = await params;
+  const type = await getTypeById(parseInt(id));
 
   if (!type) {
     return <div>Type not found</div>;

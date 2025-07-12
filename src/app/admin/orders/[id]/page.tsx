@@ -50,9 +50,10 @@ async function getOrder(id: number) {
 export default async function AdminOrderDetailPage({
   params,
 }: {
-  params: { id: string };
+  params: Promise<{ id: string }>;
 }) {
-  const order = await getOrder(parseInt(params.id));
+  const { id } = await params;
+  const order = await getOrder(parseInt(id));
 
   return (
     <div className="space-y-6">

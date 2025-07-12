@@ -2,13 +2,13 @@ import { getCategoryById } from "@/app/actions/categoryActions";
 import CategoryForm from "../../_components/CategoryForm";
 
 type Props = {
-  params: { categoryId: string };
+  params: Promise<{ categoryId: string }>;
 };
 
 // Dummy comment to trigger a new build
-// @ts-expect-error
 async function EditCategoryPage({ params }: Props) {
-  const category = await getCategoryById(parseInt(params.categoryId));
+  const { categoryId } = await params;
+  const category = await getCategoryById(parseInt(categoryId));
 
   return (
     <div>
